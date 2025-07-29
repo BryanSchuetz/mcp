@@ -8,8 +8,8 @@ summary: 'This project is implementing a suite of public financial management me
   nutrition-sensitive systems, with a focus on women and strengthening the institutional
   capacity of Myanmar''s Ministry of Agriculture, Livestock, and Irrigation to tackle
   malnutrition. '
-start: 2021
-end: 2025
+contract-start-year: 2021
+contract-end-year: 2025
 client: European Union
 solutions:
 - Governance
@@ -23,12 +23,12 @@ Despite the ability of the agricultural system in Myanmar to produce enough food
 
 In July 2019, the European Commission adopted a programme called Enhancing Rural Nutrition in Myanmar: support to the National Agriculture Development Strategy and its contribution to the Multi-Sectoral National Plan of Action for Nutrition. The programme focuses on supporting the implementation of an agricultural development strategy in the policy areas that have a more direct contribution to the reduction of malnutrition, diversifying food production, and improving food safety.
 
-This project addresses these challenges through a suite of public financial management measures, including the establishment of a monitoring and evaluation architecture that supports nutrition-sensitive systems, with a focus on women and strengthening the institutional capacity of the Ministry of Agriculture, Livestock, and Irrigation to tackle malnutrition. 
+This project addresses these challenges through a suite of public financial management measures, including the establishment of a monitoring and evaluation architecture that supports nutrition-sensitive systems, with a focus on women and strengthening the institutional capacity of the Ministry of Agriculture, Livestock, and Irrigation to tackle malnutrition.
 
 ![myanmar.jpg](/uploads/myanmar.jpg)
 
 ### Sample Activities
 
 * Build Ministry capacity in nutrition-sensitive pubic financial management systems by introducing nutrition-based budgeting.
-* Facilitate gender budgeting, including disaggregation by age, and production of a comprehensive nutrition expenditure tracking system. 
+* Facilitate gender budgeting, including disaggregation by age, and production of a comprehensive nutrition expenditure tracking system.
 * Carry out analytical work to contribute to the analysis and monitoring of progress in the effectiveness of service delivery in the sector.

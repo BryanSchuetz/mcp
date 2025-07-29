@@ -5,8 +5,8 @@ date: 2022-05-20 09:08:00 Z
 summary: DARE (Data and Research in Education) aims to improve Pakistan’s education
   data infrastructure and enhance coordination in the sector between the country’s
   federal and provincial governments.
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: World Bank
 solutions:
 - Education
@@ -23,10 +23,10 @@ The overarching objective of the DARE project is to establish a framework and de
 ### Sample Activities
 
 The project has three components:
-* Completing a comprehensive study of the existing education-related databases at the federal and provincial levels. 
+* Completing a comprehensive study of the existing education-related databases at the federal and provincial levels.
 * Developing the Data Standardization Framework (DSF) in close consultation with the relevant stakeholders and using the first component's results. This DSF will be a guiding document for standardizing data collection from schools nationwide and setting up an integrated national education database that could be used as an open data portal. This includes working with stakeholders to prepare costed plans to establish an integrated national education database and implement the DSF.
 * Preparing the design and all required technical details for setting up the national open data portal.
- 
+
 ### Select Results
 
 * Standardized the Annual School Census (ASC) data collection process, the variables on which data is to be collected, and the definitions of variables.
@@ -35,5 +35,3 @@ The project has three components:
 * Drafted comprehensive data governance protocols for safety, security, and effective management of data collected from the schools.
 * Prepared four Training Manuals (one for each of the four provinces) for the conduct of ASC.
 * Prepared an ASC reporting manual to guide the provinces in preparing a comprehensive report on the data collected from the schools annually.
-
-

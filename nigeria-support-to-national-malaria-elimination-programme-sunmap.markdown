@@ -4,8 +4,8 @@ date: 2017-08-29 17:59:00 Z
 summary: 'The Support to the Nigeria Malaria Elimination Program (SUNMAP) strengthened
   Nigerian government management capacity by streamlining policy development, planning
   and coordination of malaria control activities in 10 states. '
-start: 2008
-end: 2016
+contract-start-year: 2008
+contract-end-year: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The Support to the National Malaria programme (SuNMaP) worked in close cooperation with Nigeria’s National Malaria Control Elimination Programme (NMEP) in 10 states and selected local governments within those states. Eventually covering around 40 percent of Nigeria’s population, SuNMaP rolled out activities in Anambra, Kano, Lagos, Niger, Ogun Jigawa, Enugu, Katsina and Yobe states. 
+The Support to the National Malaria programme (SuNMaP) worked in close cooperation with Nigeria’s National Malaria Control Elimination Programme (NMEP) in 10 states and selected local governments within those states. Eventually covering around 40 percent of Nigeria’s population, SuNMaP rolled out activities in Anambra, Kano, Lagos, Niger, Ogun Jigawa, Enugu, Katsina and Yobe states.
 
 SuNMaP worked to improve capacity for national, state and local government area policy development; planning and coordination; harmonisation; prevention of malaria; treatment of malaria; awareness and demand creation; and operations research, monitoring and evaluation.
 

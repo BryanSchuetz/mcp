@@ -5,8 +5,8 @@ summary: The USAID Agricultural Value Chains Activity in Uzbekistan [improved th
   quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1) and volume of agricultural
   production and post-harvest handling and production, facilitated market linkages,
   and linked educational institutions with private sector demand.
-start: 2015
-end: 2020
+contract-start-year: 2015
+contract-end-year: 2020
 client: U.S. Government
 solutions:
 - Economic Growth

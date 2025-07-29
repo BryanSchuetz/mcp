@@ -5,8 +5,8 @@ published: false
 terminated: false
 summary: The Himaya Activity works to improve—and expand access to—essential services
   and protections for women who are survivors of violence in Jordan.
-start: 2024
-end: 2029
+contract-start-year: 2024
+contract-end-year: 2029
 client: U.S. Government
 solutions:
 - Governance

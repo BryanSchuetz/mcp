@@ -3,8 +3,8 @@ title: Mozambique—Innovation for Agribusiness (InovAgro I, II, III)
 date: 2016-01-21 22:40:00 Z
 summary: Innovation for Agribusiness increased revenue for small farmers in northern
   Mozambique by promoting the development of inclusive and sustainable market systems.
-start: 2010
-end: 2021
+contract-start-year: 2010
+contract-end-year: 2021
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
@@ -36,11 +36,11 @@ promos:
 layout: project
 ---
 
-Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. More than 80 percent of the economically active population is engaged in subsistence agriculture, with very low levels of production, productivity, and income. 
+Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. More than 80 percent of the economically active population is engaged in subsistence agriculture, with very low levels of production, productivity, and income.
 
-Using a market systems development (MSD) approach, the [Innovation for Agribusiness (InovAgro)](https://beamexchange.org/practice/programme-index/278/)) project—funded by the Swiss Agency for Development and Cooperation—for more than a decade worked to increase incomes and economic security among subsistence smallholders in Northern Mozambique, with an emphasis on improving agricultural productivity and enhancing connections to market systems in select, high-potential value chains: maize, soya beans, groundnuts, sesame, and pigeon peas. 
+Using a market systems development (MSD) approach, the [Innovation for Agribusiness (InovAgro)](https://beamexchange.org/practice/programme-index/278/)) project—funded by the Swiss Agency for Development and Cooperation—for more than a decade worked to increase incomes and economic security among subsistence smallholders in Northern Mozambique, with an emphasis on improving agricultural productivity and enhancing connections to market systems in select, high-potential value chains: maize, soya beans, groundnuts, sesame, and pigeon peas.
 
-Playing a catalytic role that brings market actors together to advance mutually beneficial relationships, InovAgro strengthened crosscutting market systems and helped farmers access better information and certified seeds, steadily increasing their productivity. It worked with seed and other agricultural input companies to spur demand for their products among farmers, while seeking to enhance the regulatory framework and supporting environment in the seed and input sector. 
+Playing a catalytic role that brings market actors together to advance mutually beneficial relationships, InovAgro strengthened crosscutting market systems and helped farmers access better information and certified seeds, steadily increasing their productivity. It worked with seed and other agricultural input companies to spur demand for their products among farmers, while seeking to enhance the regulatory framework and supporting environment in the seed and input sector.
 
 InovAgro’s distinctive MSD approach delivered tangible results. In an impact assessment of the program published in 2021, the International Food Policy Research Institute concluded that its interventions “increase farmers’ use of yield-enhancing agricultural inputs” and that InovAgro’s approach “has more sustainable impact than non-MSD programs.”
 
@@ -48,7 +48,7 @@ InovAgro’s distinctive MSD approach delivered tangible results. In an impact a
 
 ### Sample Activities
 
-* [Increase farmers’ access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and quality inputs, with a special focus on including [female farmers](https://www.shareweb.ch/site/Gender/Pages/About/International%20Women%20Day.aspx). 
+* [Increase farmers’ access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and quality inputs, with a special focus on including [female farmers](https://www.shareweb.ch/site/Gender/Pages/About/International%20Women%20Day.aspx).
 * Strengthen village savings and loan groups.
 * Partner with agrodealers to develop new products and services targeted at small farmers.
 * Link financial institutions with farmers to improve access to credit.
@@ -64,9 +64,9 @@ InovAgro’s distinctive MSD approach delivered tangible results. In an impact a
 * InovAgro II supported four villages with 17,000 residents to demarcate community boundaries and worked with seed companies to respond to increased demands for inputs stimulated by the new secure land tenure.
 
 * Assisted more than 25,300 farmers (47 percent women) to increase their incomes by a cumulative $34.4 million over the past six years.
-* InovAgro III helped local traders further improve the efficiency of transactions, leading traders to establish 515 rural buying posts used to purchase 22,300 metric tons of commodities worth $10.5 million in 2021, representing a 90 percent increase in value of purchases compared to 2020. 
+* InovAgro III helped local traders further improve the efficiency of transactions, leading traders to establish 515 rural buying posts used to purchase 22,300 metric tons of commodities worth $10.5 million in 2021, representing a 90 percent increase in value of purchases compared to 2020.
 * InovAgro III launched the [Fundo Agricola ](https://www.shareweb.ch/site/EI/Pages/Content/newsdetail.aspx?ItemID=1665)(FA) to expand farmers’ capacity to save for seeds and other agricultural inputs by leveraging Mozambique’s existing network of village savings and loan associations, which has more than 600,000 members. The FA provided a system for farmers to save in advance for the inputs they need to purchase at the beginning of each planting season. Over six years, 19,194 members (55.3 percent women) saved $668,000, specifically for the purchase of agricultural inputs and services needed during the planting season.
-* Assisted seed companies and agrodealers to establish 841 demo plots in 2021 to create demand for certified seeds and improved production practices. The seed partners recorded sales of 811 metric tons in 2021, representing more than a seven-fold increase in annual sales compared to 2016.  
+* Assisted seed companies and agrodealers to establish 841 demo plots in 2021 to create demand for certified seeds and improved production practices. The seed partners recorded sales of 811 metric tons in 2021, representing more than a seven-fold increase in annual sales compared to 2016.
 * From no active private firms, there are now 10 international and national seed companies, multiple distributors, and more than 84 retail outlets selling certified seeds to smallholder farmers in InovAgro project districts.
 
 <iframe src="https://DAIGlobal.exposure.co/the-seeds-of-transformation/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/the-seeds-of-transformation">The Seeds of Change</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>

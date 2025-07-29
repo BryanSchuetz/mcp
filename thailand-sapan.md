@@ -5,8 +5,8 @@ summary: 'Our team promoted cooperation between civil society and agencies of th
   Royal Thai Government to strengthen the role of community organizations, facilitate
   constructive public dialogue, and promote citizen engagement in efforts to improve
   local governance. '
-start: 2010
-end: 2015
+contract-start-year: 2010
+contract-end-year: 2015
 client: U.S. Government
 solutions:
 - Fragile States

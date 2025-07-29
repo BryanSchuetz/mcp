@@ -4,8 +4,8 @@ date: 2020-09-21 08:54:00 Z
 summary: TechStart builds the capacity of Palestinian firms, strengthens demand from
   international buyers and investors, and stimulates the absorption of high-tech knowledge
   in the ecosystem.
-start: 2020
-end: 2028
+contract-start-year: 2020
+contract-end-year: 2028
 client: World Bank
 solutions:
 - Workforce Development and Youth
@@ -20,12 +20,12 @@ The West Bank and Gaza face major threats to their economic growth and the resul
 The [TechStart](https://www.techstart.ps/en) program is designed to assist the Palestinian IT ecosystem in upgrading firm capabilities and spur employment growth. TechStart builds the capacity of Palestinian firms, strengthens demand from international buyers and investors, and stimulates the absorption of high-tech knowledge in the ecosystem.
 
 ![A female participant presenting her project ideas during the Hi Tech Hub-Optimized.jpg](/uploads/A%20female%20participant%20presenting%20her%20project%20ideas%20during%20the%20Hi%20Tech%20Hub-Optimized.jpg)
-  
+
 ### Sample Activities
 
-* Strengthen the capabilities of firms and their workforces, addressing capability shortfalls, information asymmetries, and other factors that dissuade firms from investing in capacity-building activities independently. 
-* Support the entry of new, complementary actors into the IT ecosystem, aiding the private sector to build the technology and business infrastructure that IT service companies rely on to compete, including finance. 
-* Stimulate demand through international market linkages and will encourage foreign direct investment in the West Bank and Gaza. 
+* Strengthen the capabilities of firms and their workforces, addressing capability shortfalls, information asymmetries, and other factors that dissuade firms from investing in capacity-building activities independently.
+* Support the entry of new, complementary actors into the IT ecosystem, aiding the private sector to build the technology and business infrastructure that IT service companies rely on to compete, including finance.
+* Stimulate demand through international market linkages and will encourage foreign direct investment in the West Bank and Gaza.
 
 ### Select Results
 

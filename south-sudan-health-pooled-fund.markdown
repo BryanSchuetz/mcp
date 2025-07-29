@@ -3,8 +3,8 @@ title: South Sudan—Health Pooled Fund
 date: 2018-01-16 16:32:00 Z
 summary: 'The Health Pooled Fund, supported by multiple donors, focused on successfully
   strengthening health systems and delivering essential health services in South Sudan. '
-start: 2012
-end: 2018
+contract-start-year: 2012
+contract-end-year: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

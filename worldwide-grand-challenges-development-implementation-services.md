@@ -6,8 +6,8 @@ summary: 'Grand Challenges for Development gave people around the world a way to
   in areas such as hunger, water, and literacy.
 
 '
-start: 2011
-end: 2014
+contract-start-year: 2011
+contract-end-year: 2014
 client: U.S. Government
 solutions:
 - Include Primary and/or Secondary Solutions

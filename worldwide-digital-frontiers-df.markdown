@@ -4,8 +4,8 @@ date: 2017-10-06 20:36:00 Z
 summary: Digital Frontiers supports the U.S. Agency for International Development’s
   Center for Digital Development in identifying the most successful digital solutions
   and scaling their impact globally.
-start: 2017
-end: 2024
+contract-start-year: 2017
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Digital Acceleration

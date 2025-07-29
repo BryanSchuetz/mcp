@@ -6,8 +6,8 @@ terminated: true
 summary: 'The project strengthens the foundation of a more unified Libyan state by
   empowering local governments, reinforcing community bonds, and improving people’s
   standard of living. '
-start: 2019
-end: 2024
+contract-start-year: 2019
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Decentralization and Local Government Management

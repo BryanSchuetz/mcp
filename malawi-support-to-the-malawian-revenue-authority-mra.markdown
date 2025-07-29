@@ -3,8 +3,8 @@ title: Malawi—Support to the Malawian Revenue Authority (MRA)
 date: 2023-03-09 14:25:00 Z
 summary: 'This project helps the Malawian Revenue Authority improve its organizational
   leadership.  '
-start: 2023
-end: 2024
+contract-start-year: 2023
+contract-end-year: 2024
 client: Irish Aid
 solutions:
 - Governance
@@ -18,5 +18,5 @@ DAI is supporting the Malawian Revenue Authority (MRA) to improve its organizati
 ## Sample Activities
 
 * Help leaders realize the need for continual change to improve performance.
-* Deliver capacity-building training support in change management leadership for 21 leaders in the Executive Committee in MRA. 
-* Deliver an updated follow-on people survey for MRA personnel. 
+* Deliver capacity-building training support in change management leadership for 21 leaders in the Executive Committee in MRA.
+* Deliver an updated follow-on people survey for MRA personnel.

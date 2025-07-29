@@ -2,8 +2,8 @@
 title: Liberia—Liberian Bank for Development and Investment (LBDI)
 date: 2016-01-21 22:40:52.765000000 Z
 client: World Bank
-start: 2007
-end: 2009
+contract-start-year: 2007
+contract-end-year: 2009
 regions:
 - Sub-Saharan Africa
 country:

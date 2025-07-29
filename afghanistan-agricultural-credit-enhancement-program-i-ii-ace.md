@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI managed a $100 million U.S. Agency for International Development (USAID)
   grant to the Ministry of Agriculture, Irrigation, and Livestock to provide credit
   to farmers, who repay their loans after their harvests.
-start: 2015
-end: 2019
+contract-start-year: 2015
+contract-end-year: 2019
 client: U.S. Government
 solutions:
 - Economic Growth

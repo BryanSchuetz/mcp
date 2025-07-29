@@ -5,8 +5,8 @@ published: false
 summary: 'Under the Technical Assistance for the Implementation of Axle Load Control
   project, DAI is advancing Liberia''s road network in line with standards established
   by the Economic Community of West African States (ECOWAS). '
-start: 2022
-end: 2022
+contract-start-year: 2022
+contract-end-year: 2022
 client: European Union
 solutions:
 - Governance
@@ -22,6 +22,6 @@ Under the Technical Assistance for the Implementation of Axle Load Control proje
 
 ### Sample Activities
 
-* Strengthen transport regulations in Liberia in line with ECOWAS standards. 
+* Strengthen transport regulations in Liberia in line with ECOWAS standards.
 * Improve governance of road maintenance, preventing traffic overloading on main transport corridors, and bolster the sustainability of road investments.
-* Increase safety on the highways, improve traffic systems and reduce damages to the road pavement for effective vehicle load control. 
+* Increase safety on the highways, improve traffic systems and reduce damages to the road pavement for effective vehicle load control.

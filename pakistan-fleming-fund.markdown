@@ -5,8 +5,8 @@ summary: DAI’s Fleming Fund program in Pakistan is a collaboration with the Pa
   government to strengthen systems using a “One Health” approach—a multisectoral approach
   to complex health problems that reaches across human health, animal health, and
   environment sectors.
-start: 2019
-end: 2025
+contract-start-year: 2019
+contract-end-year: 2025
 client: U.K. Department of Health and Social Care
 solutions:
 - Global Health
@@ -36,14 +36,14 @@ promos:
   link: https://www.dai.com/news/president-of-pakistan-calls-for-massive-effort-to-tackle-antimicrobial-resistance
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
-Field name: 
+Field name:
 ---
 
-The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/). 
+The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/).
 
 DAI’s Fleming Fund program in Pakistan is a collaboration with the Pakistani government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reach across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team helps incorporate One Health across program interventions, supporting Pakistan in becoming a leader in combating antimicrobial resistance and a model for better management of antimicrobials in human and animal populations.
 
-Upon successful completion of Fleming Fund Phase I, the UK Department of Health and Social Care approved DAI’s application to lead the Fleming Fund Phase II Country Grant in Pakistan for an additional two years (January 2024 to December 2025). 
+Upon successful completion of Fleming Fund Phase I, the UK Department of Health and Social Care approved DAI’s application to lead the Fleming Fund Phase II Country Grant in Pakistan for an additional two years (January 2024 to December 2025).
 
 Phase I focused on enhancing laboratory infrastructure, strengthening human resources and workforce reforms, strengthening AMR and antimicrobial use surveillance systems, building foundations for AMR surveillance data, and promoting rational use of antimicrobial medicines. Phase II will pursue intermediate outcomes relating to the quality data produced for antimicrobial resistance/consumption/use and burden, quality data analysis conducted, and quality data analysis shared with decision-makers to progress towards the long-term outcome of sustainable investment at country and global levels to counter AMR.
 

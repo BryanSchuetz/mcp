@@ -5,8 +5,8 @@ summary: Nutrition Action for Systemic Change (NASC) provides technical expertis
   on nutrition and food systems, building on previous achievements funded by the U.K.
   Foreign, Commonwealth & Development Office (FCDO). NASC supports FCDO to uphold
   its commitments made at the 2021 Tokyo Nutrition for Growth (N4G) Summit.
-start: 2023
-end: 2025
+contract-start-year: 2023
+contract-end-year: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
@@ -37,9 +37,9 @@ Nutrition Action for Systemic Change (NASC) Technical Assistance Facility is man
 
 NASC provides technical expertise on nutrition and food systems, building on previous achievements and new initiatives funded by the FCDO. NASC supports the FCDO to uphold its commitments made at the 2021 [Tokyo Nutrition for Growth (N4G) Summit](https://nutritionforgrowth.org/) to integrate nutrition across its aid portfolio in different sectors, spend at least £1.5 billion up to 2030 on programs that help improve nutrition, and adopt and embed the Nutrition Policy Marker (NPM) within FCDO systems. We will also work with the FCDO to integrate new commitments made at the 2025 Paris N4G Summit. The facility follows on from the [Technical Assistance to Strengthen Capabilities (TASC) Project](https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities?ref=pubs.ghost.io), which contributed to improved nutrition planning and programing and accelerated action on nutrition as part of the Technical Assistance for Nutrition (TAN) Programme. NASC had an initial one-year contract from December 2023 to December 2024 and is currently implementing a second contract from February 2025 to February 2026.
 
-Our consortium partners are  [NutritionWorks](https://www.nutritionworks.org.uk/), [The Natural Resources Institute (NRI)](https://www.nri.org/) and [Options](https://options.co.uk/). 
+Our consortium partners are  [NutritionWorks](https://www.nutritionworks.org.uk/), [The Natural Resources Institute (NRI)](https://www.nri.org/) and [Options](https://options.co.uk/).
 
-NASC supports FCDO’s core nutrition objectives: 
+NASC supports FCDO’s core nutrition objectives:
 1. Enhancing Nutrition Policy & Programming – Supporting FCDO in developing and implementing innovative, cost-effective nutrition policies and country plans aligned with government priorities.
 2. Strengthening Global Engagement – Assisting in shaping FCDO’s nutrition strategy for the 2025 N4G Summit and collaborating with global partners to drive impact.
 3. Improving Evidence & Risk Management – Using research to design effective programs, strengthen agriculture links, and integrate ‘do no harm’ principles.
@@ -59,7 +59,7 @@ Technical assistance is provided as short- or long-term expertise and targets pr
 
 ## Select results
 
-* Submitted 59 deliverables during 2024. 
+* Submitted 59 deliverables during 2024.
 * Developed a [framing paper](/uploads/NASC%20Framing%20Paper_Nutrition_UHC_Oct2024-785b6e.pdf) to support FCDO in advocating for nutrition integration into primary health care systems as part of the Universal Health Coverage agenda.
 * Completed a baseline review of 827 FCDO programs and supported multisectoral nutrition integration in selected priority programs in Afghanistan, Ethiopia, Somalia, the Democratic Republic of Congo, Sierra Leone, Nigeria, and South Sudan.
 * Engaged with seven commercial agriculture programs to support FCDO’s response to the International Commission on Aid Impact (ICAI) [review of UK aid to agriculture in a time of climate changes](https://icai.independent.gov.uk/review/uk-aid-to-agriculture-in-a-time-of-climate-change/).

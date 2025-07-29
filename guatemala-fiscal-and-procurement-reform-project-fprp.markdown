@@ -3,8 +3,8 @@ title: Guatemala—Fiscal and Procurement Reform Project (FPRP)
 date: 2017-01-27 21:05:00 Z
 summary: FPRP supported Guatemala to increase domestic resource mobilization, enhance
   transparency and accountability, and support public procurement reform.
-start: 2017
-end: 2019
+contract-start-year: 2017
+contract-end-year: 2019
 client: U.S. Government
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization

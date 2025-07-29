@@ -5,8 +5,8 @@ summary: The Jordan Workforce Development Project worked to create a competitive
   demand-driven workforce development system that leads to increased private sector
   employment, especially for women, youth, and those living at or below the poverty
   line.
-start: 2014
-end: 2018
+contract-start-year: 2014
+contract-end-year: 2018
 client: U.S. Government
 solutions:
 - Business Environment Reform

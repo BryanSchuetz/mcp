@@ -4,8 +4,8 @@ date: 2019-10-03 11:20:00 Z
 summary: 'The Strengthening Host and Refugees Populations in Ethiopia program works
   to strengthen the economies of target populations in three regions in Ethiopia;
   Dollo Ado, Gambella, and Jijiga. '
-start: 2019
-end: 2025
+contract-start-year: 2019
+contract-end-year: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States
@@ -75,14 +75,14 @@ promos:
 - title: 'Applying the MSD Approach with Refugees & Host Communities, SHARPE Learning
     #1'
   link: "/uploads/applying-msd-approach.pdf"
-Field name: 
+Field name:
 ---
 
 Through the innovative application of the “Markets for Resilience” approach, the Strengthening Host and Refugee Populations in Ethiopia program (SHARPE) is focused on enhancing the economies of target populations across three key regions in Ethiopia: Dollo Ado, Gambella, and Jijiga.
 
 SHARPE drives increased self-reliance among refugees and creates economic opportunities for host communities by piloting and scaling impactful interventions. This approach is rooted in a deep understanding of the economic challenges faced by refugee and host communities. It involves close collaboration with key stakeholders—businesses, government agencies, and service providers—to make markets work better for these populations.
 
-Additionally, SHARPE serves as a vital learning platform for both the international and Ethiopian development communities, offering insights into systemic approaches within humanitarian contexts. By the program's conclusion, SHARPE expects to benefit 125,000 people in the target populations, helping them realize increases in incomes and employment or expand access to assets through private sector-driven changes. 
+Additionally, SHARPE serves as a vital learning platform for both the international and Ethiopian development communities, offering insights into systemic approaches within humanitarian contexts. By the program's conclusion, SHARPE expects to benefit 125,000 people in the target populations, helping them realize increases in incomes and employment or expand access to assets through private sector-driven changes.
 
 The SHARPE program has entered its final year, shifting from developing new business deals to concentrating on research and evidence-based results.
 
@@ -90,16 +90,16 @@ The SHARPE program has entered its final year, shifting from developing new busi
 
 ### Sample Activities
 
-**Business Development and Support:** 
+**Business Development and Support:**
 * Facilitate the creation and growth of refugee and host-owned micro-businesses, including poultry farming, goat trading, and small-scale retail operations, by providing financial support, training, and market linkages.
 
-**Capacity Building:** 
+**Capacity Building:**
 * Support specialized training and technical assistance to refugees and host communities, helping them acquire skills in areas such as poultry farming, livestock management, and financial literacy, which are crucial for sustaining their businesses.
 
-**Market Access and Integration:** 
+**Market Access and Integration:**
 * Integrate refugees into local and regional markets by connecting them with established businesses, improving access to essential resources such as animal feed, seeds, and veterinary supplies, and promoting inclusive market practices.
 
-**Financial Inclusion:** 
+**Financial Inclusion:**
 *Partner with financial institutions to expand access to digital financial services and business loans for refugees, enabling them to secure the capital needed to start and grow their enterprises.
 
 ### Select Results

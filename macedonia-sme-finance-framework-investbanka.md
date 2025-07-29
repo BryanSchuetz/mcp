@@ -2,8 +2,8 @@
 title: Macedonia—SME Finance Framework—Investbanka
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start: 2006
-end: 2008
+contract-start-year: 2006
+contract-end-year: 2008
 regions:
 - Eastern Europe and Central Asia
 country:

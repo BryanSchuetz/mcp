@@ -8,8 +8,8 @@ summary: We support the European Commission’s headquarters, EU delegations, an
   countries to deliver the Global Gateway strategy and operate a demand-driven technical
   assistance facility in close coordination with Directorate-General for International
   Partnerships and Directorate-General for Neighbourhood and Enlargement Negotiations.
-start: 2023
-end: 2025
+contract-start-year: 2023
+contract-end-year: 2025
 client: European Union
 solutions:
 - Governance
@@ -17,7 +17,7 @@ regions: Worldwide
 country: Worldwide
 ---
 
-Development cooperation is a key tool for supporting European Union (EU) partner countries to improve the lives of their citizens and achieve their development goals. For this purpose, the EU commits significant resources to contribute to the achievement of the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda) and other key international commitments by overcoming challenges such as aid fragmentation and decrease in development effectiveness. 
+Development cooperation is a key tool for supporting European Union (EU) partner countries to improve the lives of their citizens and achieve their development goals. For this purpose, the EU commits significant resources to contribute to the achievement of the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda) and other key international commitments by overcoming challenges such as aid fragmentation and decrease in development effectiveness.
 
 The EU's new [Global Gateway](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/stronger-europe-world/global-gateway_en) aims to create smart, sustainable, and secure links with countries around the world in different thematic areas. The initiative is delivered through a [Team Europe](https://international-partnerships.ec.europa.eu/policies/team-europe-initiatives_en) approach, which brings together the EU and its member states with their financial and development institutions, including the European Investment Bank and the European Bank for Reconstruction and Development.
 
@@ -29,7 +29,7 @@ We will establish and operate a demand-driven technical assistance facility in c
 
 ## Sample Activities
 
-* Support the deployment of Team Europe initiatives through greater coordination and coherence, by demonstrating the EU’s leadership, responsibility, and solidarity. 
+* Support the deployment of Team Europe initiatives through greater coordination and coherence, by demonstrating the EU’s leadership, responsibility, and solidarity.
 * Strengthen European partners in the ["Working Better Together"](https://europa.eu/capacity4dev/working-better-together) and Team Europe approaches for the implementation of the 2030 Agenda and the achievement of the SDGs at the headquarters and country levels.
 * Provide technical assistance to EU delegations and headquarters to better coordinate with member states—including their implementing agencies and development banks—as well as the European Investment Bank and the European Bank for Reconstruction and Development.
 * Support partner countries of the Directorate-General for International Partnerships and Directorate-General for Neighbourhood and Enlargement Negotiations in their endeavors to implement the [Addis Ababa Action Agenda](https://en.wikipedia.org/wiki/Addis_Ababa_Action_Agenda) and the 2030 Agenda.

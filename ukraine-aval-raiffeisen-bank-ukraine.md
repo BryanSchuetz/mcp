@@ -5,8 +5,8 @@ summary: The European Bank for Reconstruction and Development contracted DAI in 
   to establish a small and medium-sized enterprise (SME) lending program and ensure
   through an institution-building program that Raiffeisenbank Aval's commitment to
   SME lending was sustainable.
-start: 2006
-end: 2008
+contract-start-year: 2006
+contract-end-year: 2008
 client:
 - European Bank for Reconstruction and Development
 solutions:
@@ -37,8 +37,8 @@ Since its inception in 1992, Aval Raiffeisenbank has strengthened its position i
 * Trained 700 participants throughout the branch network in sales, credit, and relationship management.
 * Developed a "Relationship Manager" concept, including a handbook and guidelines for how to move from a loan officer role to a sales multiple product-oriented relationship management role.
 * Developed and implemented financial instruments for SME development (policy), and institutional capacity building and strengthening.
-* Performed skills audit.  
-* Designed and delivered training.  
-* Completed training needs assessment.  
-* Designed and implemented marketing plan.  
+* Performed skills audit.
+* Designed and delivered training.
+* Completed training needs assessment.
+* Designed and implemented marketing plan.
 * Monitored loan portfolio performance and reported to the client.

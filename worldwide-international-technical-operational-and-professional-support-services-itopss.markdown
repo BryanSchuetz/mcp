@@ -5,12 +5,12 @@ date: 2018-02-23 15:40:00 Z
 summary: DAI provides technical, operational, and professional support services to
   the U.S. Centers for Disease Control and Prevention as part of its work to help
   countries prepare for and respond to emerging health security threats.
-start: 2018
-end: 2023
+contract-start-year: 2018
+contract-end-year: 2023
 client: U.S. Centers for Disease Control and Prevention
 solutions:
 - Global Health
-- 
+-
 regions: Worldwide
 country: Worldwide
 ---

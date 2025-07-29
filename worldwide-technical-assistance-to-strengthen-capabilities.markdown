@@ -4,8 +4,8 @@ date: 2020-12-07 08:54:00 Z
 summary: The Technical Assistance to Strengthen Capabilities (TASC) Project contributed
   to improved nutritional outcomes as part of the UKaid-funded Technical Assistance
   for Nutrition programme.
-start: 2020
-end: 2023
+contract-start-year: 2020
+contract-end-year: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
@@ -43,11 +43,11 @@ promos:
   link: "/uploads/FAQs%20CWIP%20feedback%20mechanism_2024_fr.pdf"
 ---
 
-The Technical Assistance to Strengthen Capabilities (TASC) Project contributed to processes that support improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). Our partners were [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/), and TASC was a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) program. 
+The Technical Assistance to Strengthen Capabilities (TASC) Project contributed to processes that support improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). Our partners were [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/), and TASC was a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) program.
 
-TASC worked to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status. It achieved this by strengthening the enabling environment for nutrition at the global and country levels, ultimately delivering policies and programs that support the reduction of malnutrition. 
+TASC worked to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status. It achieved this by strengthening the enabling environment for nutrition at the global and country levels, ultimately delivering policies and programs that support the reduction of malnutrition.
 
-To sustain and expand action on nutrition, TASC provided demand-driven technical assistance services in two components: [Component 1:](/uploads/TASC%20Support%20to%20SUN%203.0.pdf) Assistance to governments in the SUN Movement and the SUN Movement Secretariat to catalyze efforts to scale up nutrition impact across four strategic objectives; and [Component 2:](/uploads/TASC%20support%20to%20FCDO%20to%20improve%20nutrition%20programming%20and%20policy.pdf) Assistance to the FCDO Nutrition Policy Unit and FCDO country offices to maximize the quality and effectiveness of their nutrition-related policy and programs across five themes. 
+To sustain and expand action on nutrition, TASC provided demand-driven technical assistance services in two components: [Component 1:](/uploads/TASC%20Support%20to%20SUN%203.0.pdf) Assistance to governments in the SUN Movement and the SUN Movement Secretariat to catalyze efforts to scale up nutrition impact across four strategic objectives; and [Component 2:](/uploads/TASC%20support%20to%20FCDO%20to%20improve%20nutrition%20programming%20and%20policy.pdf) Assistance to the FCDO Nutrition Policy Unit and FCDO country offices to maximize the quality and effectiveness of their nutrition-related policy and programs across five themes.
 
 The follow-up to TASC is the [Nutrition Action for Systemic Change (NASC)](https://www.dai.com/our-work/projects/worldwide-nutrition-action-for-systemic-change-nasc) facility, a one-year initiative (2023-24) managed by DAI, which continues to support FCDO to integrate nutrition across its aid portfolio in different sectors.
 
@@ -62,10 +62,10 @@ The follow-up to TASC is the [Nutrition Action for Systemic Change (NASC)](https
 * Working with FCDO on food systems and nutrition with private-sector actors.
 * Advocating on the climate-nutrition intersection by supporting WHO on behalf of FCDO on the new [Initiative on Climate Action and Nutrition (I-CAN)](https://www.who.int/news-room/events/detail/2023/05/25/default-calendar/initiative-on-climate-action-and-nutrition-(i-can)).
 * Supporting evidence synthesis: for example, developing guidance for FCDO on preventing and managing child wasting and for the integration of nutrition into the cholera response.
- 
+
 ## Select Results
 
-* Developed four [guidance notes](https://www.dai.com/uploads/Transforming%20nutrition%20outcomes.pdf) commissioned by the FCDO detailing the latest evidence on how to improve nutrition programming and policies: 
+* Developed four [guidance notes](https://www.dai.com/uploads/Transforming%20nutrition%20outcomes.pdf) commissioned by the FCDO detailing the latest evidence on how to improve nutrition programming and policies:
 1. **[Improving How to Reach Those Most-at-Risk of Malnutrition Guidance Note](/uploads/TASC%20Reaching%20Those%20Most%20at%20Risk%20Guidance%20May%202022.pdf):** Supports the identification of key population groups that are most nutritionally at-risk, the drivers of elevated malnutrition risk, and how to address the nutritional needs of at-risk groups
 2. **[Aligning Food System Activities with Healthier Diets for Low-Income Households Guidance Note](/uploads/TASC%20Food%20System%20Diets%20Guidance%20May%202022.pdf)** Supports organizations and practitioners to design programs and policies that enable the world’s most vulnerable people to eat more diverse, healthier diets, while also meeting climate and economic objectives.
 3. **[How to Promote Better Nutrition Through Social Assistance Guidance Note](/uploads/TASC%20Social%20Protection%20Nutrition%20Guidance%20May%202022.pdf):** Identifies how to use social protection programs to target those most at risk of malnutrition, improve diets and address other nutrition determinants.

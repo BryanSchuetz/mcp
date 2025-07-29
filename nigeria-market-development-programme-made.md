@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Market Development in the Niger Delta (MADE) project, phases I and II,
   worked in all nine Niger Delta states to promote inclusive, pro-poor growth for
   farmers and entrepreneurs. '
-start: 2013
-end: 2020
+contract-start-year: 2013
+contract-end-year: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -45,6 +45,6 @@ Nigeria’s television and film industry, for example, known as “Nollywood,”
 
 * Reached 551,521 smallholder farmers through commercially driven initiatives (direct and indirect), with 389,441 farmers showing increased productivity, of whom 307,722 experienced at least 15 percent increase in incomes over their baseline situation, with a net attributable income of £46 million (£18 million from MADE I).
 * Assisted 36 lead firms across five sectors with changing their approaches to engaging with smallholder farmers, working through 1,982 extension service providers investing in cassava, agricultural inputs, fisheries, poultry and palm oil.
-* Created a market for commercially driven extension provision. More than 50 private training companies have changed their training and service delivery approaches from targeting donors and government to targeting smallholder farmers as prime clients. Service providers are naturally moving into new sectors, applying the same skills to new product markets. They are now selling an ever-widening basket of services to more than 100,000 smallholder farmers. 
+* Created a market for commercially driven extension provision. More than 50 private training companies have changed their training and service delivery approaches from targeting donors and government to targeting smallholder farmers as prime clients. Service providers are naturally moving into new sectors, applying the same skills to new product markets. They are now selling an ever-widening basket of services to more than 100,000 smallholder farmers.
 * Helped nine lead firms invest £8,546,000 in aspirational sectors targeting returnees, potential victims of human trafficking and vulnerable households in Edo State, Nigeria, reaching 33,000 target beneficiaries.
 * Influenced 24 additional investors and 20 development agencies to change their approach of engaging the poor by adopting market systems approaches. Ten nongovernmental groups are now providing co-facilitation services as part of their core offerings. They are submitting proposals and getting funded to deliver market systems development-based projects on their own.

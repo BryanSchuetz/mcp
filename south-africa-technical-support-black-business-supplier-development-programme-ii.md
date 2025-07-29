@@ -3,8 +3,8 @@ title: South Africa—Technical Support to the Black Business Supplier Developme
   II (BBSDP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: South Africa Department of Trade and Industry
-start: 2010
-end: 2011
+contract-start-year: 2010
+contract-end-year: 2011
 regions:
 - Sub-Saharan Africa
 country:

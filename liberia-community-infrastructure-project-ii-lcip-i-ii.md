@@ -5,8 +5,8 @@ summary: After the second civil war in Liberia ended, DAI was active in the coun
   on behalf of the U.S. Agency for International Development (USAID), supporting social
   reconciliation, community infrastructure reconstruction, economic development, and
   democratic governance and civil society strengthening.
-start: 2004
-end: 2010
+contract-start-year: 2004
+contract-end-year: 2010
 client: U.S. Government
 solutions:
 - Fragile States

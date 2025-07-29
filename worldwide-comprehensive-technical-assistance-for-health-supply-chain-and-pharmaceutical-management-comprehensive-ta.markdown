@@ -7,8 +7,8 @@ terminated: false
 summary: 'DAI is a lead partner on the indefinite delivery, indefinite quantity (IDIQ)
   contract, Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical
   Management (Comprehensive TA). '
-start: 2024
-end: 2034
+contract-start-year: 2024
+contract-end-year: 2034
 client: U.S. Government
 solutions:
 - Global Health

@@ -3,8 +3,8 @@ title: Senegal—Kosmos Innovation Center (KIC)
 date: 2025-02-07 14:40:00 Z
 summary: DAI has designed and launched a new KIC program to support local innovation
   and entrepreneurship while meeting the unique needs of communities in Senegal.
-start: 2024
-end: 2026
+contract-start-year: 2024
+contract-end-year: 2026
 client: Kosmos Energy
 solutions:
 - Sustainable Business
@@ -24,7 +24,7 @@ The Kosmos Innovation Center in Saint Louis focuses initially on Langue de Barba
 
 ## Key Activities in Saint Louis:
 * Entrepreneurship Essentials 101 and 102: These workshops, led by experienced DAI trainers, are open to women and youth from diverse backgrounds. They aim to spark awareness of the possibilities within entrepreneurship and inspire participants to explore innovative ideas.
-* Elevate Your Business Idea: Entrepreneurs with promising ideas receive guidance in developing critical components of their business plans, culminating in the creation of prototypes. 
+* Elevate Your Business Idea: Entrepreneurs with promising ideas receive guidance in developing critical components of their business plans, culminating in the creation of prototypes.
 
 
 ## Scaling Impact through a National Program

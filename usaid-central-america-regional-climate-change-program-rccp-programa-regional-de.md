@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: This regional initiative identified solutions and action plans to permit
   the countries and territories of Central America and the Dominican Republic to respond
   to the effects of climate change.
-start: 2013
-end: 2018
+contract-start-year: 2013
+contract-end-year: 2018
 client: U.S. Government
 solutions:
 - Climate

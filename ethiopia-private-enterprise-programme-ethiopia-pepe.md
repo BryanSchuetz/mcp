@@ -5,8 +5,8 @@ summary: 'Enterprise Partners was the major component of the Foreign, Commonweal
   & Development Office (FCDO)''s Private Enterprise Programme Ethiopia (PEPE). It
   was launched to facilitate market systems development to create jobs and raise incomes
   of Ethiopians, especially women, living in poverty. '
-start: 2013
-end: 2020
+contract-start-year: 2013
+contract-end-year: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -49,7 +49,7 @@ layout: project
 
 Enterprise Partners was the major component of the Foreign, Commonwealth & Development Office (FCDO)'s Private Enterprise Programme Ethiopia (PEPE). It was launched to facilitate market systems development to create jobs and raise incomes of Ethiopians, especially women, living in poverty. The primary focus was to stimulate agro-industrial growth and access to finance, with the objective to create 45,000 jobs, increase the income of 65,000 people, and support 150,000 people to access financial services. Enterprise Partners had to achieve these results in a specific context: where there were very few market systems development programmes and at a time when the Government of Ethiopia was only just beginning to embrace the private sector as a development partner that could support the pursuit of the country's industry-focused, export-led growth goals.
 
-DAI implemented this work with consortium partners First Consult (Ethiopia), Itad (United Kingdom), Enclude (Netherlands), and BCaD. We utilized the [market systems approach](https://www.dai.com/news/new-primer-market-systems-development-available) to achieve the impact. Enterprise Partners identified key constraints and developed socially and environmentally responsible strategies, working with industry actors to introduce new business models. 
+DAI implemented this work with consortium partners First Consult (Ethiopia), Itad (United Kingdom), Enclude (Netherlands), and BCaD. We utilized the [market systems approach](https://www.dai.com/news/new-primer-market-systems-development-available) to achieve the impact. Enterprise Partners identified key constraints and developed socially and environmentally responsible strategies, working with industry actors to introduce new business models.
 
 [Enterprise Partners](https://beamexchange.org/practice/programme-index/117/) worked through two major pillars:
 

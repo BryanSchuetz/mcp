@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West (RAMP UP West) project established capable governance at the municipal
   level.
-start: 2011
-end: 2014
+contract-start-year: 2011
+contract-end-year: 2014
 client: U.S. Government
 solutions:
 - Governance

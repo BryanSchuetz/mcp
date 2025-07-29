@@ -3,8 +3,8 @@ title: Rwanda—Human and Institutional Capacity Development Project (HICD/R)
 date: 2016-01-21 22:40:00 Z
 summary: DAI strengthened institutional and human capacity in targeted government
   institutions and civil society organizations in Rwanda.
-start: 2012
-end: 2017
+contract-start-year: 2012
+contract-end-year: 2017
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -2,8 +2,8 @@
 title: Zambia—Study of Nontraditional Exports
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Growth Centre
-start: 2011
-end: 2012
+contract-start-year: 2011
+contract-end-year: 2012
 regions:
 - Sub-Saharan Africa
 country:

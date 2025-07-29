@@ -5,8 +5,8 @@ summary: 'This program supported efficiency and transparency in local markets an
   the training of microfinance policymakers and practitioners in the African, Caribbean,
   and Pacific (ACP) Group of States. Regionally, our partners managed microfinance
   and small business investment funds. '
-start: 2011
-end: 2015
+contract-start-year: 2011
+contract-end-year: 2015
 client: European Union
 solutions:
 - Economic Growth

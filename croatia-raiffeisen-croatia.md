@@ -6,8 +6,8 @@ summary: The overall objective of the European Union/European Bank for Reconstru
   credit markets for small and medium enterprises by building the confidence and capacity
   of participating banks in SME lending, and by providing credit to SMEs through participating
   banks.
-start: 2008
-end: 2009
+contract-start-year: 2008
+contract-end-year: 2009
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

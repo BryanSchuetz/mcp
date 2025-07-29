@@ -7,8 +7,8 @@ summary: 'Preparing food for children ages 6-24 months takes a lot of mothers'' 
   and nutritious weaning foods that incorporate multiple food groups.
 
 '
-start: 2010
-end: 2013
+contract-start-year: 2010
+contract-end-year: 2013
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

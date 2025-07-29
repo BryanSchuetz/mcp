@@ -6,8 +6,8 @@ published: false
 summary: This project supports investments in natural capital and cleaner technologies
   to encourage low-carbon development and reduce adverse impacts on public health
   in Belarus.
-start: 2020
-end: 2021
+contract-start-year: 2020
+contract-end-year: 2021
 client: European Union
 solutions:
 - Environment

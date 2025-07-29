@@ -6,8 +6,8 @@ terminated: true
 summary: The Egypt Economic Governance Activity (EGA) works with the Government of
   Egypt to support the country’s investment climate by strengthening inclusive governance
   and supporting the Government’s structural reform program.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

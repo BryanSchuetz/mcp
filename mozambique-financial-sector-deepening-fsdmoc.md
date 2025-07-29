@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Financial Sector Deepening Mozambique (FSDMoç) was a financial inclusion
   facilitation unit. FSDMoç targeted increased access and improved quality of financial
   services for 2 million individuals and 650 businesses in Mozambique by 2019.
-start: 2014
-end: 2021
+contract-start-year: 2014
+contract-end-year: 2021
 client: Foreign, Commonwealth & Development Office, Swedish International Development
   Cooperation Agency
 solutions:
@@ -37,7 +37,7 @@ In July 2017, [FSDMoç](http://fsdmoc.com/) received an additional 39 million Sw
 * Partner with the Digital Frontiers Institute on meso-level activities such as payment systems, inter-operability, and development of technology solutions.
 * Partner with the Consultative Group to Assist the Poor and others in applying Human-Centered Design to develop rural safety nets such as insurance and housing finance.
 
-###  Select Results 
+###  Select Results
 
 * Partnered to implement saving groups models with the Aga Khan Foundation and CARE, creating 66 saving groups totaling more than 1,700 members, including move than 900 women.
 * Enabled more than 130,000 financially underserved people (two-thirds women) to access and utilize at least one new financial service such as saving, borrowing, and e-payments—nearly 87,000 used more than one new service.

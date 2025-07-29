@@ -7,8 +7,8 @@ summary: 'To support the development of the small and medium enterprises sector 
   ICS Total Leasing SA in December 2010.
 
 '
-start: 2011
-end: 2012
+contract-start-year: 2011
+contract-end-year: 2012
 client: European Bank for Reconstruction and Development
 solutions:
 - Include Primary and/or Secondary Solutions

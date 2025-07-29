@@ -6,8 +6,8 @@ summary: The Policy Development Facility Bridge programme provided near-term tec
   economic reforms, a more modern and efficient public sector, and better delivery
   of policy, public goods, and services, and ultimately contributing to inclusive
   growth and poverty reduction.
-start: 2020
-end: 2021
+contract-start-year: 2020
+contract-end-year: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -24,7 +24,7 @@ The programme identified and worked with champions of change in the Nigerian pub
 ## Sample Activities
 
 * Provide assistance toward creating a more transparent and competitive tax system.
-* Produce research on policy priorities of reformers, using this information to inform reform on key policy issues. 
+* Produce research on policy priorities of reformers, using this information to inform reform on key policy issues.
 * Identify gaps in technical expertise in the beneficiary organisations and design interventions for tackling the needs in the most efficient and cost‐effective way.
 
 ## Select Results

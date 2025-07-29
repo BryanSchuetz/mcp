@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'Supported by the U.S. Department of Labor, CULTIVAR raised labor standard
   compliance and increased the competitiveness of targeted agricultural sectors in
   the Dominican Republic, Honduras, and Nicaragua. '
-start: 2007
-end: 2011
+contract-start-year: 2007
+contract-end-year: 2011
 client: U.S. Government
 solutions:
 - Sustainable Business

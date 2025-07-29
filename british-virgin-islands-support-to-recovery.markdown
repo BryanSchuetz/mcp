@@ -4,8 +4,8 @@ date: 2018-03-28 15:06:00 Z
 summary: 'DAI supported labour policy reforms and providing vocational training to
   help the local workforce participate in reconstruction efforts following the hurricanes
   of 2017. '
-start: 2017
-end: 2018
+contract-start-year: 2017
+contract-end-year: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -26,7 +26,7 @@ The hurricanes of 2017 devastated the infrastructure of the British Virgin Islan
 
 ### Select Results
 
-* Designed and implemented vocational training programs to help underemployed populations meet the rising demand for skilled labour in the construction and maritime industries. 
+* Designed and implemented vocational training programs to help underemployed populations meet the rising demand for skilled labour in the construction and maritime industries.
 * Worked with the government of the British Virgin Islands to develop labour policies that met the immediate needs of the recovery process and created long-term employment opportunities.
-* Managed the repair of 100 hurricane-damaged homes, in collaboration with the Ministry of Health and Social Development and a local construction company, ensuring that construction follows local codes. 
+* Managed the repair of 100 hurricane-damaged homes, in collaboration with the Ministry of Health and Social Development and a local construction company, ensuring that construction follows local codes.
 * Partnered with the Ministry to develop and implement long-term housing solutions.

@@ -6,8 +6,8 @@ terminated: true
 summary: The National Governance Program works with the Government of Georgia to deliver
   citizen-responsive governance based on greater accountability, transparency, and
   institutional independence.
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

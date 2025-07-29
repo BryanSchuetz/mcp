@@ -5,8 +5,8 @@ summary: 'Asegurando la Educación worked to improve schools’ ability to preve
   strengthened local networks that increase school safety, and built the capacity
   of the Ministry of Education and social service agencies to respond to school-based
   violence. '
-start: 2017
-end: 2023
+contract-start-year: 2017
+contract-end-year: 2023
 client: U.S. Government
 solutions:
 - Fragile States

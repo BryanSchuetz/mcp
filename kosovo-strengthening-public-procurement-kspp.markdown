@@ -3,8 +3,8 @@ title: Kosovo—Strengthening Public Procurement (KSPP)
 date: 2020-12-15 11:16:00 Z
 summary: The Kosovo Strengthening Public Procurement (KSPP) project strengthened the
   public procurement system and reduced incidents of malfeasance and corruption.
-start: 2020
-end: 2023
+contract-start-year: 2020
+contract-end-year: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -19,9 +19,9 @@ While Kosovo has been making positive progress towards reform and the requiremen
 The Kosovo Strengthening Public Procurement (KSPP) project, funded by the British Embassy, worked to strengthen the public procurement system to reduce incidents of malfeasance and corruption. It improved practices implemented by contracting authorities, as well as worked with the Procurement Review Body (PRB)—a decision-making panel—to ensure professional and fair adjudication of procurement disputes.
 
 ![Newborn_Pristina.jpg](/uploads/Newborn_Pristina.jpg)
- 
+
 ## Sample Activities
- 
+
 * Ensure that the PRB is well-governed and accountable, maximising the potential of each employee.
 * Digitalise the case management system to ensure a more impartial, transparent, and accountable review process, improving the quality of decisions and reducing the risk of corruption.
 * Help ensure that PRB decisions are based on the law, clearly reasoned, and consistent with previously adjudicated cases.
@@ -33,5 +33,5 @@ The Kosovo Strengthening Public Procurement (KSPP) project, funded by the Britis
 * Helped the PRB Board to improve its appeal decision consistency from 50 percent to 80 percent.
 * Assisted the PRB Secretariat to be more effective in processing procurement appeals—a 14 percent improvement in time to receive appeals and appoint experts.
 * Developed 11 meaningful key performance indicators used by the National Assembly to oversee PRB performance.
-* Introduced tools to allow PRB to arrive at more consistent decisions and track PRB performance against key performance indicators. 
+* Introduced tools to allow PRB to arrive at more consistent decisions and track PRB performance against key performance indicators.
 * Improved three partner ministries' procurement scores; reduced overall procurement timescales by 10 days; and increased the incidence of rejected appeals from economic operators.

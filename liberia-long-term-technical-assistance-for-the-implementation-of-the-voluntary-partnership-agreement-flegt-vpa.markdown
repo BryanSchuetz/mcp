@@ -6,8 +6,8 @@ summary: 'This project increases the value of traded timber products, strengthen
   law enforcement and governance, and share forest benefits more equitably through
   implementation of the Forest Law Enforcement, Governance, and Trade Voluntary Partnership
   Agreement between Liberia and the European Union. '
-start: 2019
-end: 2022
+contract-start-year: 2019
+contract-end-year: 2022
 client: European Union
 solutions:
 - Environment
@@ -22,7 +22,7 @@ promos:
   link: https://dai-global-developments.com/articles/eu-forest-project-in-liberia-tackles-deforestation-and-paves-the-way-for-stability
 ---
 
-This project works to increase the value of traded timber products, strengthen forest law enforcement and governance, and share forest benefits more equitably through implementation of the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement (FLEGT-VPA) between Liberia and the European Union (EU). 
+This project works to increase the value of traded timber products, strengthen forest law enforcement and governance, and share forest benefits more equitably through implementation of the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement (FLEGT-VPA) between Liberia and the European Union (EU).
 
 The forest sector plays a key role in Liberia’s sustainable socioeconomic development, poverty reduction, and economic growth. FLEGT-VPA aims to reduce the risk of civil conflict through improvements in forest governance and sustainable forest management.
 

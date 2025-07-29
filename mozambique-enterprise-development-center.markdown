@@ -5,8 +5,8 @@ summary: 'DAI established and operates an Enterprise Development Center in Mozam
   The center collaborates with the government of Mozambique and the private sector
   to provide Mozambican enterprises with skills to participate in a variety of growth
   industries in the country. '
-start: 2019
-end: 2025
+contract-start-year: 2019
+contract-end-year: 2025
 client: ExxonMobil Moçambique, Limitada, on behalf of Mozambique Rovuma Venture and
   the Rovuma  LNG Area 4 partners
 solutions:
@@ -34,7 +34,7 @@ Since its launch, MozUp has contributed to the development and growth of SMEs an
 
 * Empowered 2,546 businesses to register on the [Supplier Registration Portal.](https://mozup.org/supplier-registration-portal/ "https://mozup.org/supplier-registration-portal/")[https://mz.rovumalngsrp.com/](https://mz.rovumalngsrp.com/ "https://mz.rovumalngsrp.com/")
 * Delivered 149 trainings through a mix of live webinars and in-person sessions, across 19 fit-for-purpose training curricula focused on key areas to improve SME competitiveness.
-* More than 4,500 people participated in MozUp training from entities across Mozambique, including 43 percent women. 
+* More than 4,500 people participated in MozUp training from entities across Mozambique, including 43 percent women.
 * More than 950 companies participated in MozUp training activities, attending on average five trainings each.
 * Mentored 10 entities through ISO quality compliance, with six obtaining certification to date.
 * Implemented five business-to-business networking events with MozUp partners with nearly 150 participants from local small firms.

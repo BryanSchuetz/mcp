@@ -5,8 +5,8 @@ summary: To help address barriers and boost economic growth, the World Bank laun
   the Somali Business Catalytic Fund (SBCF) to invest in the establishment and expansion
   of profitable small and medium enterprises. Over its life, the SBCF disbursed more
   than $5.2 million in grant funding in the Somaliland, Puntland, and Mogadishu regions.
-start: 2016
-end: 2019
+contract-start-year: 2016
+contract-end-year: 2019
 client: World Bank
 solutions:
 - Innovation and Entrepreneurship

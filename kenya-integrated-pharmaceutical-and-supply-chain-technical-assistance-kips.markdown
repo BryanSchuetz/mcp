@@ -7,8 +7,8 @@ summary: 'The Integrated Pharmaceutical and Supply Chain Technical Assistance Ac
   works to ensure more sustainable access to—and appropriate use of—quality-assured
   and affordable health commodities in Kenya by supporting the development of an increasingly
   resilient and mature supply chain system and pharmaceutical regulatory services. '
-start: 2024
-end: 2024
+contract-start-year: 2024
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Global Health

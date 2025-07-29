@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Drivers of Accountability Programme worked to address the issues of impunity
   and lack of accountability that fed into the post-election violence of 2007–2008
   in Kenya.
-start: 2010
-end: 2015
+contract-start-year: 2010
+contract-end-year: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States

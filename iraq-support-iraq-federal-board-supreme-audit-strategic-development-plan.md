@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI managed this grant in Iraq, implemented by a team of expert advisors
   in financial and performance audit, petroleum accounting, fraud detection and prevention,
   and institutional relationship strengthening.
-start: 2012
-end: 2015
+contract-start-year: 2012
+contract-end-year: 2015
 client: U.S. Government
 solutions:
 - Governance

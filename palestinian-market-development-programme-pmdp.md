@@ -3,8 +3,8 @@ title: Palestine—Palestinian Market Development Programme (PMDP)
 date: 2016-01-21 22:40:00 Z
 summary: PMDP improved market systems and the competitiveness of the Palestinian private
   sector.
-start: 2013
-end: 2019
+contract-start-year: 2013
+contract-end-year: 2019
 client:
 - Foreign, Commonwealth & Development Office
 - European Union
@@ -18,8 +18,8 @@ country:
 promos:
 - title: Getting Back to Business in Post-Conflict Gaza
   link: https://dai-global-developments.com/articles/getting-back-to-business-in-post-conflict-gaza
-- title: 
-  link: 
+- title:
+  link:
 layout: project
 ---
 

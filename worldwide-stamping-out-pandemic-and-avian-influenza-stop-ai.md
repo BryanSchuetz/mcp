@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The STOP AI project provided technical resources and support services in
   preparedness planning, surveillance, and prevention; outbreak response; and re-infection
   prevention and recovery.
-start: 2007
-end: 2011
+contract-start-year: 2007
+contract-end-year: 2011
 client: U.S. Government
 solutions:
 - Global Health

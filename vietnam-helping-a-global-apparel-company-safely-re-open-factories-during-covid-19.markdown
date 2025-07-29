@@ -5,8 +5,8 @@ summary: 'DAI assisted VF Corporation—one of the world’s largest apparel, fo
   and accessories companies—to reduce COVID transmission and safely re-open key supplier
   factories to employees during the COVID-19 pandemic, while maintaining business
   continuity. '
-start: 2021
-end: 2022
+contract-start-year: 2021
+contract-end-year: 2022
 client: VF Corporation
 solutions:
 - Sustainable Business
@@ -17,7 +17,7 @@ promos:
   link: https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience?utm_source=daidotcom
 ---
 
-DAI’s Sustainable Business Group assisted [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear and accessories companies—to reduce COVID transmission and safely re-open key supplier factories to employees during the COVID-19 pandemic, while maintaining business continuity. DAI oversaw a COVID-19 response program that directly supported factories across process development, procurement, and training, and saw the safe reopening of seven VF supply chain factories in compliance with Vietnam’s government guidelines. 
+DAI’s Sustainable Business Group assisted [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear and accessories companies—to reduce COVID transmission and safely re-open key supplier factories to employees during the COVID-19 pandemic, while maintaining business continuity. DAI oversaw a COVID-19 response program that directly supported factories across process development, procurement, and training, and saw the safe reopening of seven VF supply chain factories in compliance with Vietnam’s government guidelines.
 
 **DAI’s support included:**
 

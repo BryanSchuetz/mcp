@@ -7,8 +7,8 @@ terminated: true
 summary: 'The Good Governance Activity seeks to improve the transparency and accountability
   of DRC provincial and local government authorities in managing public financial
   resources, thus increasing the availability of those resources for local development. '
-start: 2017
-end: 2024
+contract-start-year: 2017
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

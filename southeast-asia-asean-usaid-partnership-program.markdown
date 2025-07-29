@@ -7,8 +7,8 @@ summary: 'Through the ASEAN-US Partnership Program, the U.S. supports ASEAN effo
   to enhance regional policies, cooperation, and capacity across its member states
   and partners to further sustainable and inclusive growth, tackle shared challenges,
   and strengthen common values. '
-start: 2024
-end: 2029
+contract-start-year: 2024
+contract-end-year: 2029
 client: U.S. Government
 solutions:
 - Governance

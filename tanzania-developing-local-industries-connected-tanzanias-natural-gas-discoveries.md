@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI worked in the Mtwara region of Tanzania to analyze the demand and supply
   for local suppliers in key supply chains in the gas industry, partnering with ExxonMobil,
   British Gas, and Statoil.
-start: 2013
-end: 2014
+contract-start-year: 2013
+contract-end-year: 2014
 client:
 - World Bank
 - Foreign, Commonwealth & Development Office

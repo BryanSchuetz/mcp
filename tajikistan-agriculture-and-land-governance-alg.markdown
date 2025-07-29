@@ -8,8 +8,8 @@ summary: Feed the Future Tajikistan Agriculture and Land Governance Activity ass
   farmers by developing more productive and efficient agriculture systems, building
   the resilience of smallholders, and improving the enabling environment to facilitate
   sustainable and long-term, ag-led growth.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

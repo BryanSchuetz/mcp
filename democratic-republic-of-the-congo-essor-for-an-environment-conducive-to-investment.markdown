@@ -5,8 +5,8 @@ summary: Essor acted at meso (business associations) and macro (government) leve
   to improve the incomes of the poor through the development of micro, small, and
   medium-sized enterprises (MSMEs), including women- and youth-owned and ones in rural
   areas, through reforms to the country’s investment climate and policies.
-start: 2015
-end: 2020
+contract-start-year: 2015
+contract-end-year: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

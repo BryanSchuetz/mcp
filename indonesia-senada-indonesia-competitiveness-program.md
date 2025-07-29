@@ -2,8 +2,8 @@
 title: Indonesia—SENADA Indonesia Competitiveness Program
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-start: 2005
-end: 2009
+contract-start-year: 2005
+contract-end-year: 2009
 regions:
 - Asia and the Pacific
 country:

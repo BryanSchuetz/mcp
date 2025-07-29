@@ -8,8 +8,8 @@ tags:
 summary: E4E supports the South African government’s efforts in improving the quality
   of basic education, vocational training, and job placement services from early childhood
   through teenage years.
-start: 2020
-end: 2025
+contract-start-year: 2020
+contract-end-year: 2025
 client: European Union
 solutions:
 - Governance
@@ -19,11 +19,11 @@ regions: Sub-Saharan Africa
 country: South Africa
 ---
 
-Although South Africa devotes a relatively high proportion of its gross domestic product (GDP) to education and training, the country faces challenges such as high dropout rates, low pass rates, and high youth unemployment rates. 
+Although South Africa devotes a relatively high proportion of its gross domestic product (GDP) to education and training, the country faces challenges such as high dropout rates, low pass rates, and high youth unemployment rates.
 
 The Education for Employability (E4E) Sector Reform Programme seeks to improve education and employment prospects for young South Africans. E4E supports the government’s efforts to improve the quality of basic education, vocational training, and job placement services from early childhood through teenage years.
 
-Our team supports the National Treasury and three key implementing government departments in the design, administration, and implementation of E4E. The project develops institutional capacity as well as provides management and operational support. 
+Our team supports the National Treasury and three key implementing government departments in the design, administration, and implementation of E4E. The project develops institutional capacity as well as provides management and operational support.
 
 ### Sample Activities
 

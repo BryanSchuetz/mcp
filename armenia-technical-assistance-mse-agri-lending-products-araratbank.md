@@ -2,8 +2,8 @@
 title: Armenia—Technical Assistance for MSE Agri-Lending Products for Araratbank
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI designed sustainable lending schemes for small agribusinesses in Armenia. '
-start: 2013
-end: 2014
+contract-start-year: 2013
+contract-end-year: 2014
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

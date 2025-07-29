@@ -5,8 +5,8 @@ published: false
 terminated: true
 summary: The Partners for Transparency program supports locally driven solutions that
   increase transparency and accountability and reduce corruption in Colombia.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

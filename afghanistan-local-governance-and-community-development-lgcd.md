@@ -6,8 +6,8 @@ summary: 'When this project launched in 2006, the insurgency was intensifying in
   for International Development was crucial: encourage communities in the most volatile
   parts of the country to turn away from the insurgency and toward the Government
   of the Islamic Republic of Afghanistan.'
-start: 2006
-end: 2011
+contract-start-year: 2006
+contract-end-year: 2011
 client: U.S. Government
 solutions:
 - Gender

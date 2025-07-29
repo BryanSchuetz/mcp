@@ -7,8 +7,8 @@ summary: The Association of Southeast Asian Nations (ASEAN) sought to promote eq
   and regional security for its population of more than 600 million people. The ASEAN-U.S.
   Partnership for Good Governance, Equitable, and Sustainable Development and Security
   (PROGRESS) focused on strengthening institutions to advance ASEAN’s vision.
-start: 2013
-end: 2018
+contract-start-year: 2013
+contract-end-year: 2018
 client: U.S. Government
 solutions:
 - Economic Growth

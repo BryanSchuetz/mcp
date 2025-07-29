@@ -5,8 +5,8 @@ summary: The U.S. Agency for International Development (USAID)-funded Parliament
   Strengthening Program (PSP) program helped to develop Haiti's parliamentary institutional
   capacity, promoted transparency in legislative processes, and facilitated representation
   through technical assistance, training, staffing, and materials.
-start: 2011
-end: 2014
+contract-start-year: 2011
+contract-end-year: 2014
 client: U.S. Government
 solutions:
 - Governance

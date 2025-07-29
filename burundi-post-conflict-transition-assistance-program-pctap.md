@@ -2,8 +2,8 @@
 title: Burundi—Post-Conflict Transition Assistance Program (PCTAP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-start: 2005
-end: 2007
+contract-start-year: 2005
+contract-end-year: 2007
 regions:
 - Sub-Saharan Africa
 country:

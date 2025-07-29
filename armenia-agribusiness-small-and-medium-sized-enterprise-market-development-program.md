@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The U.S. Agency for International Development-funded Agribusiness Small
   and Medium-Sized Enterprise Market Development Program sought to increase market
   opportunities for small and medium-sized businesses. '
-start: 2000
-end: 2007
+contract-start-year: 2000
+contract-end-year: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

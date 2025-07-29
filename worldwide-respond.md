@@ -5,8 +5,8 @@ summary: Diseases of serious concern are emerging from wildlife populations in r
   of the world where humans, wildlife, and livestock are increasingly in contact.
   RESPOND operated in hotspot regions where conditions are conducive for animal-to-human
   disease outbreaks.
-start: 2009
-end: 2014
+contract-start-year: 2009
+contract-end-year: 2014
 client: U.S. Government
 solutions:
 - Global Health

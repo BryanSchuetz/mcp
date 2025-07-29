@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'This project was part of DAI''s framework contract with the Foreign, Commonwealth
   & Development Office (FCDO) and was implemented by Nathan Associates UK. DAI consulted
   the project on aspects of climate resilience. '
-start: 2013
-end: 2020
+contract-start-year: 2013
+contract-end-year: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security

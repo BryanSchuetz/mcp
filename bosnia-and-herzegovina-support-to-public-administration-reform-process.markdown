@@ -4,8 +4,8 @@ date: 2021-03-09 13:04:00 Z
 summary: Bosnia and Herzegovina has been implementing public administration reform
   since 2006. This project supported the Public Administration Reform Coordinator’s
   Office at all government levels to efficiently coordinate the process of reform.
-start: 2019
-end: 2021
+contract-start-year: 2019
+contract-end-year: 2021
 client: European Union
 solutions:
 - Governance
@@ -32,4 +32,4 @@ Bosnia and Herzegovina has been implementing public administration reform since 
 * Prepared solutions for the design of an improved, performance-based system for monitoring and evaluating reform projects.
 * Drafted a policy paper analyzing the coordination structures.
 * Delivered workshops on the principle of political neutrality.
-* Trained 500 civil servants and took concrete steps towards the digitalization of the public administration system.  
+* Trained 500 civil servants and took concrete steps towards the digitalization of the public administration system.

@@ -4,8 +4,8 @@ date: 2019-03-14 20:59:00 Z
 summary: 'DAI implemented the Mexico Clean Energy Programme, which developed the skills
   of small and medium enterprises and government institutions to support Mexico''s
   transition to a low-carbon economy. '
-start: 2019
-end: 2022
+contract-start-year: 2019
+contract-end-year: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business
@@ -18,7 +18,7 @@ country: Mexico
 
 The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reduce poverty, and generate new market opportunities for symbiotic U.K. partnerships and investments.
 
-DAI helped the FCDO achieve its vision by implementing the Mexico Clean Energy Programme (MCEP), which developed the skills of small and medium enterprises (SMEs) and government institutions to support Mexico's transition to a low-carbon economy. 
+DAI helped the FCDO achieve its vision by implementing the Mexico Clean Energy Programme (MCEP), which developed the skills of small and medium enterprises (SMEs) and government institutions to support Mexico's transition to a low-carbon economy.
 
 The program used EPI (Energía, Participación e Inclusión) as the delivery model, enhanced the skills, capabilities, and resources of the Mexican energy sector by co-creating solutions that drove inclusive and sustainable growth. MCEP developed its curricula based on the findings of an industrial baseline study that DAI conducted in 2019 to identify key supply chains.
 
@@ -46,9 +46,9 @@ Course portfolio for regulator institutions includes:
 
 ## Select Results
 
-* Delivered eight training programs on diverse topics—from a general course on the energy sector to specialized courses on finance, business opportunities, the electricity industry, clean energy, innovation, and English skills. 
+* Delivered eight training programs on diverse topics—from a general course on the energy sector to specialized courses on finance, business opportunities, the electricity industry, clean energy, innovation, and English skills.
 * Designed five additional activities in response to the COVID-19 pandemic focused on the recovery of SMEs in various areas recognized as critical by the industry—financial services, energy efficiency, e-commerce, crisis management, and mental health tools.
 * Reached 585 direct beneficiaries each taking at least one of the courses. Fifty-two percent of course participants were women, double the percentage of women working in Mexico's energy sector; 40 percent were earning less than £14 per day; 13 percent were students. Some 113 participants were from SMEs.
 * Built a big-data analysis on the labor market for Mexico’s renewable and clean energy sector. This job dashboard provided stakeholders and beneficiaries with information on in-demand skills, particularly for clean energy projects.
-* Developed an in-house electromobility report to identify future skills that the supply chain will require to keep in line with COP26 priorities including a Zero Emissions Vehicle action line and the implementation of the National Electromobility Strategy. 
+* Developed an in-house electromobility report to identify future skills that the supply chain will require to keep in line with COP26 priorities including a Zero Emissions Vehicle action line and the implementation of the National Electromobility Strategy.
 * Identified challenges and opportunities for skills development, which was also useful for identifying commercial opportunities for British manufacturing companies in Mexico.

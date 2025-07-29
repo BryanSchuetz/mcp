@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'WeBSEFF I and II provided debt financing to businesses, municipalities,
   and energy service companies for energy projects undertaken in Bosnia-Herzegovina,
   Macedonia, Former Yugoslav Republic of Montenegro, and Serbia. '
-start: 2009
-end: 2017
+contract-start-year: 2009
+contract-end-year: 2017
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

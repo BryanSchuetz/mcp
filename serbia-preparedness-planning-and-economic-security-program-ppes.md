@@ -5,8 +5,8 @@ summary: 'The Preparedness, Planning, and Economic Security project increased st
   by working on three fronts: building the capacity of vulnerable communities to prepare
   for crises and natural disasters, helping small businesses grow and expand into
   new markets within and beyond Serbia, and working to empower Serbian youth.'
-start: 2006
-end: 2013
+contract-start-year: 2006
+contract-end-year: 2013
 client: U.S. Government
 solutions:
 - Fragile States

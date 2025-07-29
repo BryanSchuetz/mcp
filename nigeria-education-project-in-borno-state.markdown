@@ -4,8 +4,8 @@ date: 2020-06-05 13:31:00 Z
 summary: 'The Education Project in Borno State supported the state government’s recovery
   in the wake of insurgency and provided targeted relief to vulnerable and displaced
   populations. '
-start: 2019
-end: 2021
+contract-start-year: 2019
+contract-end-year: 2021
 client: 'Shell Nigeria Exploration and Production Company Limited '
 solutions:
 - Education
@@ -17,7 +17,7 @@ country: Nigeria
 
 The Education Project in Borno State supported the state government’s recovery in the wake of insurgency and provided targeted relief to vulnerable and displaced populations. The project centered around the educational needs of vulnerable households and internally displaced persons (IDPs). DAI provided technical, management, security, and logistics support.
 
-The project built the capacity of teachers, increased access to learning aids, and renovated damaged school infrastructure. The team implemented a cascade approach to training teachers and administrators, maximizing program funding available for the provision of educational materials. 
+The project built the capacity of teachers, increased access to learning aids, and renovated damaged school infrastructure. The team implemented a cascade approach to training teachers and administrators, maximizing program funding available for the provision of educational materials.
 
 It was anticipated that the active participation of local communities and government officials in the intervention supports continued maintenance and use of the schools—and paved the way for joint public-private initiatives in Borno’s education sector.
 
@@ -25,14 +25,14 @@ It was anticipated that the active participation of local communities and govern
 
 ### Sample Activities
 
-* Enhance access to good quality education through infrastructural development. 
+* Enhance access to good quality education through infrastructural development.
 * Improve teacher effectiveness through teacher training.
-* Improve school effectiveness through the provision of teaching and learning materials. 
+* Improve school effectiveness through the provision of teaching and learning materials.
 
 ### Select Results
 
 * Equipped 10 classrooms with solar electricity.
-* Rebuilt damaged school infrastructure. 
+* Rebuilt damaged school infrastructure.
 * Constructed three new blocks of 14 classrooms and staff offices with toilet facilities and furniture.
 * Supplied instruction and learning materials.
 * Installed one solar-powered borehole and 5,000-liter overhead water reservoirs.

@@ -6,8 +6,8 @@ summary: Complementing other International Finance Corporation interventions to 
   building delivered to Rawbank in the Democratic Republic of the Congo fell under
   the Africa MSME Finance Program, which seeks to significantly increase support to
   African micro, small, and medium enterprises (MSME).
-start: 2009
-end: 2012
+contract-start-year: 2009
+contract-end-year: 2012
 client: International Finance Corporation
 solutions:
 - Economic Growth

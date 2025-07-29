@@ -5,8 +5,8 @@ summary: DAI supported BasisBank in the implementation of a comprehensive instit
   programme. The objective of the programme was to strengthen the bank to allow it
   to compete effectively in Georgia and the region and thereby contribute to increased
   competition and a more balanced distribution of financial power.
-start: 2009
-end: 2011
+contract-start-year: 2009
+contract-end-year: 2011
 client:
 - JSC Basis BasisBank
 - European Bank for Reconstruction and Development

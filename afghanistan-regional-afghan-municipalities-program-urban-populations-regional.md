@@ -6,8 +6,8 @@ summary: The Regional Afghan Municipalities Program for Urban Populations, Regio
   Command East (RAMP UP East) supported 14 provincial capitals. Its primary customers
   were municipal officials such as mayors, revenue officers, and engineers as well
   as the citizens who benefit from municipal services.
-start: 2010
-end: 2014
+contract-start-year: 2010
+contract-end-year: 2014
 client: U.S. Government
 solutions:
 - Governance

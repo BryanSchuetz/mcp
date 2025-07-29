@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The project increased access to multisectoral HIV/AIDS, health, and related
   services for mobile populations and vulnerable communities along major transport
   corridors.
-start: 2008
-end: 2013
+contract-start-year: 2008
+contract-end-year: 2013
 client: U.S. Government
 solutions:
 - Global Health

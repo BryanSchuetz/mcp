@@ -4,8 +4,8 @@ date: 2024-02-23 13:40:00 Z
 summary: Through the Technical Assistance and Partnership Facility, the EU seeks to
   lay the foundation for sustainable development and stability, in alignment with
   the Somalia National Development Plan.
-start: 2024
-end: 2026
+contract-start-year: 2024
+contract-end-year: 2026
 client: European Union
 solutions:
 - Governance
@@ -19,7 +19,7 @@ Somalia faces complex challenges impacting its political stability and societal 
 The Technical Assistance and Partnership Facility unfolds through three essential components. Firstly, it boosts governmental capacity at both state and federal levels, with a specific focus on the Ministry of Planning. At the same time, technical experts are strengthening the identification, formulation, implementation, and monitoring of EU-funded programs in Somalia. This spans crucial areas such as climate adaptation and social protection. The third component underscores the importance of nurturing partnerships and fostering policy dialogues between the EU and Somalia. Through these holistic efforts, the EU seeks to tackle Somalia's challenges comprehensively, laying the foundation for sustainable development and stability in alignment with the Somalia National Development Plan.
 
 ![TIS1.jpg](/uploads/TIS1.jpg)
- 
+
 ## Sample Activities
 
 * Strengthen the capacity of the government of Somalia at both state and federal levels, specifically the Ministry of Planning.

@@ -3,8 +3,8 @@ title: Morocco—Green Value Chains (Morocco GVC)
 date: 2021-09-15 11:29:00 Z
 summary: The Morocco Green Value Chains project combines small firm competitiveness
   concepts with the green economy.
-start: 2018
-end: 2024
+contract-start-year: 2018
+contract-end-year: 2024
 client: European Bank for Reconstruction and Development
 solutions:
 - Climate

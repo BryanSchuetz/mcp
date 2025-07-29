@@ -10,8 +10,8 @@ summary: USAID Eau partners with multiple stakeholders—water utilities in larg
   by helping service providers develop and implement plans to expand coverage to all
   target areas, gain access to finance, and better manage water resources for resilient,
   sustained service delivery.
-start: 2017
-end: 2024
+contract-start-year: 2017
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Environment

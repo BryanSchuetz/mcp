@@ -4,8 +4,8 @@ date: 2020-05-11 09:22:00 Z
 summary: The Enterprise and Innovation Programme increased innovation and growth in
   startups and small firms and provided support and training through the establishment
   of business innovation centres in Tajikistan and Kyrgyzstan.
-start: 2019
-end: 2023
+contract-start-year: 2019
+contract-end-year: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -33,11 +33,11 @@ EIP’s PEAK Enterprise and Innovation Programme created and sustained 5,397 job
 
 ### Select Results
 
-* Opened four ‘PEAK’ centers across Kyrgyzstan and Tajikistan. PEAK centers support startups and micro, small, and medium-sized enterprises (MSMEs) by providing business and entrepreneurship mentoring, training, accelerator programs, access to investors, education, and skills workshops. 
+* Opened four ‘PEAK’ centers across Kyrgyzstan and Tajikistan. PEAK centers support startups and micro, small, and medium-sized enterprises (MSMEs) by providing business and entrepreneurship mentoring, training, accelerator programs, access to investors, education, and skills workshops.
 * Trained 585 graduate startups and MSMEs (398 in Kyrgyzstan, 187 in Tajikistan). Graduate businesses include coding and programmer centers; supply and procurement services; advertising companies; re-cycled manufacturers; hotels; branding providers, and much more.
 * PEAK graduates have had the opportunity to pitch their startup and MSME ideas to investors to acquire funding. In Kyrgyzstan alone, £252,456 worth of investments have been granted to the graduates.
 * Built an alumni network to help ensure graduates can retain networking and collaboration opportunities after completion of the various programs that EIP offers. In Kyrgyzstan, more than 120 graduates attended two Alumni Club Meetings; and in Tajikistan, more than 60 PEAK graduates participated in the PEAK Alumni Club Summit in Dushanbe.
 * Trained 57 women in two entrepreneurship pre-acceleration programs during 2021-2022. Several of these women have applied for further grants to develop their MSMEs.
 * Helped 88 women in Kyrgyzstan participate in PEAK's women entrepreneurship pre-acceleration and acceleration programs.
-* Increased 83 percent of supported start-ups/MSMEs enterprises’ resilience to external shocks. 
+* Increased 83 percent of supported start-ups/MSMEs enterprises’ resilience to external shocks.
 * Saw 74 percent revenue growth in supported start-ups and 51 percent revenue growth in supported MSMEs.

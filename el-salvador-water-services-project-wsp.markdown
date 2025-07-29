@@ -6,8 +6,8 @@ terminated: true
 summary: The Water Services Project aims to improve the quality of—and access to—water
   services in urban areas serviced by El Salvador’s National Administration of Aqueducts
   and Sewers.
-start: 2024
-end: 2024
+contract-start-year: 2024
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

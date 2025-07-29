@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'SIKA-North worked to create more resilient communities in Afghanistan that
   see their government officials as delivering public services and responsive to local
   problems. '
-start: 2012
-end: 2015
+contract-start-year: 2012
+contract-end-year: 2015
 client: U.S. Government
 solutions:
 - Governance

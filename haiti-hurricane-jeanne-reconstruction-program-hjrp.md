@@ -2,8 +2,8 @@
 title: Haiti—Hurricane Jeanne Reconstruction Program (HJRP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-start: 2004
-end: 2006
+contract-start-year: 2004
+contract-end-year: 2006
 regions:
 - Latin America and the Caribbean
 country:

@@ -7,8 +7,8 @@ tags:
 summary: The Zambia Regulatory Environment Conducive to Business and Investment Project
   provides technical assistance to support a more inclusive regulatory environment
   that enables business growth and green investment.
-start: 2024
-end: 2027
+contract-start-year: 2024
+contract-end-year: 2027
 client: European Union
 solutions:
 - Economic Growth

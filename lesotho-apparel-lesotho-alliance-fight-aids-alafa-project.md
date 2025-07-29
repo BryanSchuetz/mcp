@@ -6,8 +6,8 @@ summary: The Apparel Lesotho Alliance to Fight AIDS (ALAFA) project was tasked w
   not only was an intervention was feasible, but also that it was vital to the sustainability
   of the apparel industry, to save an estimated 1,850 lives per year in the industry
   and increase productivity.
-start: 2005
-end: 2007
+contract-start-year: 2005
+contract-end-year: 2007
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

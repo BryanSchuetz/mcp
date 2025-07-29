@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The USAID Family Farming Program (FFP), under the Feed the Future initiative,
   worked to reduce poverty in Tajikistan through improved nutrition and inclusive
   agricultural growth in 12 target districts in Khatlon province. '
-start: 2010
-end: 2015
+contract-start-year: 2010
+contract-end-year: 2015
 client: U.S. Government
 solutions:
 - Economic Growth

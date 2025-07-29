@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI and lead partner Everis provided European Union negotiators with quantitative
   tools to assess the government procurement markets in Australia, Brazil, China,
   India, Indonesia, New Zealand, and Thailand.
-start: 2015
-end: 2019
+contract-start-year: 2015
+contract-end-year: 2019
 client: European Union
 solutions:
 - Economic Growth
@@ -27,7 +27,7 @@ DAI and lead partner Everis carried out studies on government procurement in Aus
 
 ### Select Results
 
-* Developed a methodology for quantifying public procurement flows. 
+* Developed a methodology for quantifying public procurement flows.
 * Built a database and series of country studies.
 
 [1]: https://assetify-dai.com/projects/EC-Procurement-webpage.jpg

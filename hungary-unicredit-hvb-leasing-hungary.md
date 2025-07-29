@@ -3,8 +3,8 @@ title: Hungary—Unicredit (HVB) Leasing Hungary
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported Unicredit Leasing Hungary to strengthen its small and medium
   enterprise leasing practices.
-start: 2005
-end: 2010
+contract-start-year: 2005
+contract-end-year: 2010
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

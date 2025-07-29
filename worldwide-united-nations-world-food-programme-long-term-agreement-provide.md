@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI performed evaluations of WFP's portfolio of programs in Central America,
   Chad, Haiti, Yemen, Zimbabwe, and Niger to help the organization better implement
   its food assistance programs.
-start: 2010
-end: 2013
+contract-start-year: 2010
+contract-end-year: 2013
 client: United Nations World Food Programme
 solutions:
 - Agriculture and Food Security

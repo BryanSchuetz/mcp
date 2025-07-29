@@ -5,8 +5,8 @@ published: false
 summary: This project works to increase and diversify dietary intake of safe and nutritious
   foods to achieve optimal nutrition for women of childbearing age, adolescent girls,
   infants, and young children in 10 targeted districts in Malawi.
-start: 2019
-end: 2023
+contract-start-year: 2019
+contract-end-year: 2023
 client: European Union
 solutions:
 - Global Health
@@ -25,7 +25,7 @@ Our team supports the relevant line ministries, training institutions, and the t
 
 ### Sample Activities
 
-* Integrate nutrition into the curricula of schools and training institutions. 
+* Integrate nutrition into the curricula of schools and training institutions.
 * Establish a food and nutrition security information system at both national and district levels.
-* Strengthen the functional capacities of both the Malawi National Nutrition Committee and the District Nutrition Coordinating Committee. 
+* Strengthen the functional capacities of both the Malawi National Nutrition Committee and the District Nutrition Coordinating Committee.
 * Inform national policies of evidence-based nutrition-sensitive strategies and nutrition regulatory frameworks through conducting operational research.

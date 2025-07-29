@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: We devised a strategy to expand and improve financial services in Mongolia
   that would facilitate the strengthening of select value chains, including in mining,
   agriculture, construction, and manufacturing.
-start: 2013
-end: 2013
+contract-start-year: 2013
+contract-end-year: 2013
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

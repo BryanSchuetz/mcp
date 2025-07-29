@@ -5,8 +5,8 @@ date: 2025-03-19 15:43:00 Z
 summary: OMRAN Group, Oman Air, and Oman Airports—three key players in Oman’s tourism
   and aviation sectors—partnered with SBG to develop a comprehensive In-Country Value
   (ICV) blueprint strategy to support Oman's Vision 2040.
-start: 2024
-end: 2024
+contract-start-year: 2024
+contract-end-year: 2024
 client: OMRAN
 solutions:
 - Sustainable Business

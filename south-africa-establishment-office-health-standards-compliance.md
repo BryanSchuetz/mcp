@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'We assisted the South Africa National Department of Health as it transformed
   its Office of Standards Compliance into an independent public agency, the Office
   of Health Standards and Compliance. '
-start: 2012
-end: 2013
+contract-start-year: 2012
+contract-end-year: 2013
 client: South Africa National Treasury
 solutions:
 - Governance

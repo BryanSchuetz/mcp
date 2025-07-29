@@ -5,8 +5,8 @@ summary: The Lebanon Water Project increased reliable and sustainable access to 
   for Lebanese citizens, improved water management practices, enhanced the efficiency
   and sustainability of the public water utilities, and responded to water issues
   arising from the influx of Syrian refugees.
-start: 2015
-end: 2021
+contract-start-year: 2015
+contract-end-year: 2021
 client: U.S. Government
 solutions:
 - Environment

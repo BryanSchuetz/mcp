@@ -4,8 +4,8 @@ date: 2017-09-01 15:18:00 Z
 summary: This two-year pilot was designed as an implementation research initiative,
   and aimed to generate evidence in support of an appropriately funded maternal health
   emergency transport policy in Nigeria.
-start: 2010
-end: 2012
+contract-start-year: 2010
+contract-end-year: 2012
 client: MacArthur Foundation
 solutions:
 - Global Health

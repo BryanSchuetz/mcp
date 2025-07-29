@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52 Z
 client:
 - Foreign, Commonwealth & Development Office
 - World Bank
-start: 2008
-end: 2012
+contract-start-year: 2008
+contract-end-year: 2012
 regions:
 - Middle East and North Africa
 country:

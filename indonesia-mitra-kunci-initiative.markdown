@@ -4,8 +4,8 @@ date: 2017-10-13 16:09:00 Z
 summary: 'The Mitra Kunci Initiative provided Indonesia’s poorest and most vulnerable
   with skills needed to be productive members of the workforce through training, information,
   and resources to prepare them to meet the needs of the private sector. '
-start: 2017
-end: 2022
+contract-start-year: 2017
+contract-end-year: 2022
 client: U.S. Government
 solutions:
 - Economic Growth

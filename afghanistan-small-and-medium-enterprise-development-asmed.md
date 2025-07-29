@@ -7,8 +7,8 @@ summary: 'ASMED supported small and medium-sized enterprises (SMEs), the major d
   expanding SMEs and increasing employment.
 
 '
-start: 2006
-end: 2012
+contract-start-year: 2006
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Economic Growth

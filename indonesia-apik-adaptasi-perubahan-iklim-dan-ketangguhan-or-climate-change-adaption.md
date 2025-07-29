@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development’s first project focused exclusively
   on climate change adaptation in Indonesia helped 8,000 community members and 334
   government staff prepare for risks associated with climate change.
-start: 2015
-end: 2020
+contract-start-year: 2015
+contract-end-year: 2020
 client: U.S. Government
 solutions:
 - Climate

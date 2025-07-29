@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Tilitonse Fund was a multi-donor grants facility that supported Malawian-based
   civil society organisations in promoting accountable, inclusive, and responsive
   governance.
-start: 2011
-end: 2017
+contract-start-year: 2011
+contract-end-year: 2017
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

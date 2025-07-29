@@ -7,8 +7,8 @@ summary: Our project assisted the European Commission’s Directorate General fo
   Partnerships (DG INTPA) in identifying best practices for youth actions around the
   world, with a view to formulate future actions to fill existing gaps and to ensure
   the largest impact and coherence with other activities.
-start: 2020
-end: 2022
+contract-start-year: 2020
+contract-end-year: 2022
 client: European Union
 solutions:
 - Governance
@@ -31,5 +31,5 @@ Our project assisted the European Commission’s Directorate General for Interna
 
 * Analysed and identified relevant policies and best policy practices supporting and engaging with youth implemented by the EU, EU Member States, and other relevant actors.
 * Formulated recommendations on youth policies for DG INTPA and the EU.
-* Supported the launch of EU’s Youth Sounding Board, gathering 25 young people from all over the world to provide the EU advice on topics spanning all political priorities. 
+* Supported the launch of EU’s Youth Sounding Board, gathering 25 young people from all over the world to provide the EU advice on topics spanning all political priorities.
 * Supported the consultation process on the EU’s Youth Action Plan.

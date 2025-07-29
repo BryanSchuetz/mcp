@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Through the State Audit of Vietnam (SAV), DAI and the U.K. National Audit
   Office provided support to the SAV to build capacity in public sector auditing and
   helped to implement the new State Audit Law.
-start: 2006
-end: 2007
+contract-start-year: 2006
+contract-end-year: 2007
 client: European Union
 solutions:
 - Governance

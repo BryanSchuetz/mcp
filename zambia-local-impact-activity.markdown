@@ -6,8 +6,8 @@ terminated: true
 summary: 'Local Impact supports the transformation of subnational governance in Zambia
   to be more responsive to citizens'' needs to help the government improve both the
   enabling environment and development outcomes critical to advancing self-reliance. '
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

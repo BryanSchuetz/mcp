@@ -7,8 +7,8 @@ summary: 'The Malawi Governance for Solutions (GfS) Activity works to foster sta
   resilient, and more self-reliant partnerships that best position local communities
   to address their own challenges and contribute to the trajectory of [Malawi Vision
   2063](https://malawi.un.org/en/108390-malawi-vision-2063-inclusively-wealthy-and-self-reliant-nation). '
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

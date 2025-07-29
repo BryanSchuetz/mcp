@@ -7,8 +7,8 @@ summary: The Fragile Waters mechanism provides U.S. Agency for International Dev
   Operating Units, government ministries, service providers, regulators, basin authorities,
   local officials, and communities with the information and interventions needed to
   pivot water security approaches and programs as shocks and stressors unfold.
-start: 2023
-end: 2024
+contract-start-year: 2023
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Environment

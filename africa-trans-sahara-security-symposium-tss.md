@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and DAI
   conducted this innovative civil-military operations/relations education program
   to support the interagency Trans-Sahara Counter Terrorism Partnership.
-start: 2008
-end: 2012
+contract-start-year: 2008
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Fragile States

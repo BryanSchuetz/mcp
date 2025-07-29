@@ -5,8 +5,8 @@ summary: 'Through the Hunger Safety Net Programme (HSNP), more than 600,000 of K
   most vulnerable people had access to cash transfers on a regular basis and up to
   2,100,000 people were reached with emergency cash transfers in times of drought
   or flood. '
-start: 2014
-end: 2019
+contract-start-year: 2014
+contract-end-year: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security
@@ -24,7 +24,7 @@ Households receiving the regular bi-monthly cash transfers were selected from th
 
 The goal of [HSNP2](http://www.hsnp.or.ke/) was to continue to reduce poverty, hunger, and vulnerability in the focus counties, resulting in better and more sustainable [safety nets](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/) for poor and [vulnerable households](https://www.youtube.com/watch?v=ObSi7IXcYeU).
 
-Through HSNP, more than 600,000 of Kenya’s most vulnerable people had access to cash transfers on a regular basis and up to 2.1 million people were reached with emergency cash transfers in times of drought or flood. 
+Through HSNP, more than 600,000 of Kenya’s most vulnerable people had access to cash transfers on a regular basis and up to 2.1 million people were reached with emergency cash transfers in times of drought or flood.
 
 <iframe src="https://player.vimeo.com/video/207471099?h=ff9ba990b1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 

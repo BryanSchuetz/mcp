@@ -4,8 +4,8 @@ date: 2020-07-01 10:45:00 Z
 summary: The Education for Employment project supported the Government of BiH to increase
   the responsiveness of its education sector to labor market needs and worked to increase
   institutional capacities and coordination within the education sector at all levels.
-start: 2020
-end: 2023
+contract-start-year: 2020
+contract-end-year: 2023
 client: European Union
 solutions:
 - Governance
@@ -18,7 +18,7 @@ Addressing the mismatch between the supply of, and demand for, labor in Bosnia a
 
 The European Union (EU)-funded Education for Employment project supported the Government of BiH to increase the responsiveness of its education sector to labor market needs and worked to increase institutional capacities and coordination within the education sector at all levels. The project components included strengthening lifelong learning career guidance systems;  developing qualifications and standards at the higher education level; promoting new teacher training programs at the initial and in-service level; and advancing measures to improve human resources development across the education system.
 
-Our team’s efforts were designed to lead to students achieving higher levels of attainment in high-demand skills, including those related to entrepreneurial and digital competencies. In doing so, effort introduced career guidance in primary and secondary schools, establishing guidance corners established in 18 pilot schools. The team also created a “Rulebook and Guide for the Recognition of Non-Formal Education and Informal Learning,” developed more than 100 teacher training programs across eight public universities, and conducted and created handbooks for assessments. 
+Our team’s efforts were designed to lead to students achieving higher levels of attainment in high-demand skills, including those related to entrepreneurial and digital competencies. In doing so, effort introduced career guidance in primary and secondary schools, establishing guidance corners established in 18 pilot schools. The team also created a “Rulebook and Guide for the Recognition of Non-Formal Education and Informal Learning,” developed more than 100 teacher training programs across eight public universities, and conducted and created handbooks for assessments.
 
 ![GAP OLD BRIDGE IN MOSTAR.JPG](/uploads/GAP%20OLD%20BRIDGE%20IN%20MOSTAR.JPG)
 
@@ -35,11 +35,11 @@ Our team’s efforts were designed to lead to students achieving higher levels o
 
 * Established 18 career guidance corners in 18 pilot schools.
 * Trained teachers and school principals in the provision of career orientation.
-* Published and distributed a Handbook on Career Guidance. 
+* Published and distributed a Handbook on Career Guidance.
 * Carried out labor markets needs analysis among employers.
-* Developed occupational and qualifications standards for higher education in selected sectors. 
-* Published a rulebook on the recognition of non-formal education and informal learning for the purpose of continuing education. 
-* Developed new models for the continuous professional development of teachers. 
+* Developed occupational and qualifications standards for higher education in selected sectors.
+* Published a rulebook on the recognition of non-formal education and informal learning for the purpose of continuing education.
+* Developed new models for the continuous professional development of teachers.
 * Developed entrepreneurial learning and digital skills for teachers at pre-university levels of education.
 * Delivered four modules of training for staff from ministries of education and educational institutes.
-* Prepared and validated operational plan for the preparation and administration of external assessments. 
+* Prepared and validated operational plan for the preparation and administration of external assessments.

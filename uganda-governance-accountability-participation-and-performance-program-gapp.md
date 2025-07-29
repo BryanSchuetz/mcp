@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: GAPP worked to improve the legal, policy, regulatory, and institutional environment
   in Uganda to enhance democratic governance and the engagement of citizens with their
   local governments.
-start: 2012
-end: 2019
+contract-start-year: 2012
+contract-end-year: 2019
 client: U.S. Government
 solutions:
 - Governance

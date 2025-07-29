@@ -8,8 +8,8 @@ summary: The DRC Strengthening Livelihoods and Resilience Activity assists the g
   to improve the resilience capacities in vulnerable households and communities and
   supports the Congolese people, households, and communities in their efforts to sustainably
   escape poverty and chronic vulnerability.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

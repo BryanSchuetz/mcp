@@ -4,8 +4,8 @@ date: 2021-02-09 08:09:00 Z
 summary: Funded by the Inter-American Development Bank, DAI's Sustainable Business
   Group worked with the Belize Credit Union League to help Belizean small and medium
   enterprises grow through innovative green finance products.
-start: 2020
-end: 2022
+contract-start-year: 2020
+contract-end-year: 2022
 client: Inter-American Development Bank
 solutions:
 - Sustainable Business
@@ -24,5 +24,5 @@ In partnership with the Government of Canada and the InterAmerican Development B
 
 * Collaborate with the BCUL to review and enhance a green finance product being piloted for the livestock sector.
 * Develop an Institutional Greening Policy and Action plan to reinforce environmentally friendly habits for each partner credit union in the BCUL.
-* Conduct a climate risk assessment of BCUL’s portfolio through its own digital Climate Risk Tool, training loan officers to use it during their business inspections. 
+* Conduct a climate risk assessment of BCUL’s portfolio through its own digital Climate Risk Tool, training loan officers to use it during their business inspections.
 * Contribute to the knowledge management and communications library for EcoMicro by developing annual fact sheets, photo stories, newsletter articles, blogs, and a short video on the pilot program.

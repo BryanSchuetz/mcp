@@ -5,8 +5,8 @@ date: 2021-01-18 13:18:00 Z
 summary: 'This project improved Türkiye’s legal and administrative framework in migration
   management by establishing a well-functioning migration management system in line
   with European Union standards. '
-start: 2019
-end: 2021
+contract-start-year: 2019
+contract-end-year: 2021
 client: European Union
 solutions:
 - Governance
@@ -18,7 +18,7 @@ Türkiye is a country with two sea borders, sitting between eastern Europe, Cent
 
 Our project improved Türkiye’s legal and administrative framework in migration management by establishing a well-functioning migration management system in line with the European Union (EU) acquis and standards. The objective was to improve the institutional capacity of the Turkish Directorate General of Migration Management (DGMM) for nationality identification through piloting a Language Analysis System (LAS).
 
-The development, implementation, and evaluation of the LAS pilot—allied with targeted capacity building and the establishment of a range of policy dialogue mechanisms—will enable the process of nationality determination of irregular migrants in Türkiye. 
+The development, implementation, and evaluation of the LAS pilot—allied with targeted capacity building and the establishment of a range of policy dialogue mechanisms—will enable the process of nationality determination of irregular migrants in Türkiye.
 
 This intervention was a critical element towards strengthening the migration management system in Türkiye.
 
@@ -35,6 +35,6 @@ This intervention was a critical element towards strengthening the migration man
 
 * Developed the concept for the LAS.
 * Analyzed 565 voice samples by both human experts and via an accent recognition system, submitted to DGMM.
-* Developed the LAS procedures manual approved by DGMM. 
+* Developed the LAS procedures manual approved by DGMM.
 * Developed a training manual reviewed by DGMM.
-* Developed an e-learning system in Turkish for integration onto the DGMM platform. 
+* Developed an e-learning system in Turkish for integration onto the DGMM platform.

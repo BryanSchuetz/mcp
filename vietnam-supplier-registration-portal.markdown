@@ -5,8 +5,8 @@ published: false
 summary: DAI’s Sustainable Business Group (SBG) provided a Supplier Registration Portal
   (SRP) for a multinational corporation to serve as a business registration system
   for Vietnamese firms seeking work in their major supply chains.
-start: 2018
-end: 2020
+contract-start-year: 2018
+contract-end-year: 2020
 client: Multinational corporation
 solutions:
 - Sustainable Business

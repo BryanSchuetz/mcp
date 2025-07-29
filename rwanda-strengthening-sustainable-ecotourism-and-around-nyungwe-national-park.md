@@ -6,8 +6,8 @@ summary: The project supported the Rwanda Development Board’s efforts to impro
   management of the National Park and helped local communities and the private sector
   engage in ecotourism activities and thereby gain tangible financial benefits from
   biodiversity conservation efforts in the area.
-start: 2010
-end: 2015
+contract-start-year: 2010
+contract-end-year: 2015
 client: U.S. Government
 solutions:
 - Environment

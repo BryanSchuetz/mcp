@@ -6,8 +6,8 @@ summary: The Global NDC Support Facility contributes to the acceleration of the 
   towards low-carbon, resource-efficient, and resilient economies in line with the
   EU Green Deal, Paris Agreement, the Sendai Framework on Disaster Risk Reduction,
   and the Sustainable Development Goals.
-start: 2021
-end: 2026
+contract-start-year: 2021
+contract-end-year: 2026
 client: European Union
 solutions:
 - Climate
@@ -28,7 +28,7 @@ DAI is setting up and operating the EU Global Support Facility for Nationally De
 
 * Provide technical support to partner countries, helping them plan climate adaptation measures including nature-based solutions for adaptation and mitigation purposes, natural capital accounting, and valuation for ecosystems services in the context of the Paris Agreement, the Sendai Framework, and the 2030 Agenda.
 * Provide advice on issues related to climate loss and damage, disaster risk reduction, disaster and emergency preparedness, early warning systems, risk assessment and management, community resilience, livelihoods, and ecosystems.
-* Support the design and implementation of public economic policies contributing to climate mitigation and adaptation objectives. 
+* Support the design and implementation of public economic policies contributing to climate mitigation and adaptation objectives.
 * Support partner countries’ review and enhancement of monitoring, reporting, and verification frameworks related to NDCs and climate strategies.
 * Train stakeholders on the implementation of the Paris Agreement, the Sendai Framework, and the 2030 Agenda.
 * Produce communication and visibility products including videos, webpages, and banners/posters around the NDCs.

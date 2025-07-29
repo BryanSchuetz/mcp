@@ -10,8 +10,8 @@ tags:
 summary: 'The Expert Advisory Call Down Services (EACDS) Lot 4: Climate Change, Nature,
   and Global Health provides rapid, quality-assured, short-term technical expertise
   to support the development of U.K. Aid programs.'
-start: 2023
-end: 2025
+contract-start-year: 2023
+contract-end-year: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate
@@ -32,7 +32,7 @@ EACDS is a technical advisory call-down service that provides rapid, quality-ass
 
 The Lot 4 priority objective areas are:
 * Design, delivery, and monitoring of risk-informed development investments across key sectors.
-* Developing innovative approaches to tackle adverse weather conditions and protect nature. 
+* Developing innovative approaches to tackle adverse weather conditions and protect nature.
 * Informing and developing responses to the changing nature of systems and society.
 
 ![Vietnam SFM.jpg](/uploads/Vietnam%20SFM.jpg)

@@ -4,8 +4,8 @@ title: Ethiopia—GCCA+/Climate Smart Mainstreaming into the Productive Safety N
 date: 2019-01-17 13:10:00 Z
 summary: The Climate-Smart PSNP project is enhancing the design and planning capacities
   of Ethiopia’s Public Works Coordination Unit and Food Security Coordination Directorate.
-start: 2018
-end: 2024
+contract-start-year: 2018
+contract-end-year: 2024
 client: European Union
 solutions:
 - Environment
@@ -38,9 +38,9 @@ Using instruments such as GIS and remote sensing for monitoring and evaluation, 
 
 ## Select Results
 
-* Supported 22 districts in the roll-out of climate-smart approaches. 
-* Trained 2,000 agriculture public officers on climate risks and how to mitigate them. 
-* Revised and piloted watershed and rangeland development guidelines in 22 districts across a range of ecological areas. 
-* Mainstreamed climate-smart approaches mainstreamed into PSNP manuals, guides, and training materials.  
-* Carried out stocktaking process to understand land use and climate-related issues, evaluate capacities in the field, and map climate-smart practices already in use. 
+* Supported 22 districts in the roll-out of climate-smart approaches.
+* Trained 2,000 agriculture public officers on climate risks and how to mitigate them.
+* Revised and piloted watershed and rangeland development guidelines in 22 districts across a range of ecological areas.
+* Mainstreamed climate-smart approaches mainstreamed into PSNP manuals, guides, and training materials.
+* Carried out stocktaking process to understand land use and climate-related issues, evaluate capacities in the field, and map climate-smart practices already in use.
 * Delineated micro-watersheds in the 22 districts, including base maps that include bio-physical assessment data, current land use, land cover, and other baseline information needed in development planning.

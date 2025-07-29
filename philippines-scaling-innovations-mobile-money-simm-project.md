@@ -3,8 +3,8 @@ title: Philippines—Scaling Innovations in Mobile Money (SIMM) Project
 date: 2016-01-21 22:40:00 Z
 summary: This two-year project addressed supply and demand constraints to broaden
   adoption of mobile money in the Philippines while promoting global knowledge sharing.
-start: 2012
-end: 2014
+contract-start-year: 2012
+contract-end-year: 2014
 client: U.S. Government
 solutions:
 - Economic Growth

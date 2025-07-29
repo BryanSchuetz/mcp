@@ -5,8 +5,8 @@ summary: The Serbian Agribusiness Project built on current and past USAID progra
   to help the Serbian agricultural sector transform into an increasingly efficient
   and competitive sector that is broad-based and integrates producers from all regions
   of the country into the agricultural economy.
-start: 2007
-end: 2012
+contract-start-year: 2007
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Economic Growth

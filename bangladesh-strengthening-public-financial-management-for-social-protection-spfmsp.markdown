@@ -6,8 +6,8 @@ summary: 'DAI managed the final year of the Strengthening Public Financial Manag
   for Social Protection project implementation and provided information technology,
   adaptive social protection, policy, and project management expertise to support
   this Bangladesh program. '
-start: 2020
-end: 2021
+contract-start-year: 2020
+contract-end-year: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -28,7 +28,7 @@ The Strengthening Public Financial Management for Social Protection (SPFMSP) Pro
 
 Government-to-people (G2P) cash transfer payments now cover about 35 million beneficiaries in Bangladesh. Digitized G2P payment systems allow poor and vulnerable people to choose their preferred mode for receiving cash transfers either through banks, mobile financial service providers, or agent banking/village kiosks. Millions of beneficiaries of maternity, old age and widow allowances, and recipients of student scholarships, now have greater control of their finances, and the ability to access their funding immediately and without traveling long distances. G2P empowers vulnerable people to make informed decisions about receiving their cash allowances while allowing governments to plan and time their cash flows for safety-net programs. The Treasury-compliant G2P systems benefit government planning as the money leaves the Treasury only when it is due to be paid, while the system verifies each beneficiary through their national identity cards, eliminating ghost beneficiaries and double-dipping. This means there is less chance of fraud and better allocation of funding. The SPFMSP project, under the broader umbrella of the Strengthening Government Social Protection multi-donor program, supported the Government of Bangladesh in consolidating its MIS and tools, while training officers and civil servants in the public administration for the expansion of G2P payment systems.
 
-**DAI managed the final year of this project’s implementation and provided information technology, adaptive social protection, policy, and project management expertise to support this important program.** 
+**DAI managed the final year of this project’s implementation and provided information technology, adaptive social protection, policy, and project management expertise to support this important program.**
 
 ![Johannes Go_Dhaka Public Transport.jpg](/uploads/Johannes%20Go_Dhaka%20Public%20Transport.jpg)
 

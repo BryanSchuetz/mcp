@@ -6,8 +6,8 @@ summary: We supported the establishment of a geographic information system (GIS)
   geospatial data to support government decision making in Edo State. We also built
   the capacity of local staff to help with the planning and monitoring of urban upgrading
   projects, violence prevention strategies, and other government initiatives.
-start: 2013
-end: 2013
+contract-start-year: 2013
+contract-end-year: 2013
 client: World Bank
 solutions:
 - Digital Acceleration

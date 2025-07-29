@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The need to diversify export markets is broadly accepted throughout Moldova.
   ACED supported this imperative—including improving Moldova's sanitary and phytosanitary
   standards compliance and its ability to meet international food safety standards.
-start: 2011
-end: 2016
+contract-start-year: 2011
+contract-end-year: 2016
 client:
 - U.S. Agency for International Development
 - Millennium Challenge Corporation

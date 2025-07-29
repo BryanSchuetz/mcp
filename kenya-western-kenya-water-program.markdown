@@ -6,8 +6,8 @@ terminated: true
 summary: 'The U.S. Agency for International Development (USAID)-funded Western Kenya
   Water Project (WKWP) supports decentralized county governments to deliver the inclusive
   and sustainable services that strengthen water security. '
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Environment

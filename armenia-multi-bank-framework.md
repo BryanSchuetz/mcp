@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the European Bank for Reconstruction and Development
   to support Armenian partner banks in establishing adequate lending practices and
   supporting them in loan appraisal and credit approval processes.
-start: 2008
-end: 2012
+contract-start-year: 2008
+contract-end-year: 2012
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
@@ -17,7 +17,7 @@ country:
 layout: project
 ---
 
-DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support Armenian partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes. DAI established and implemented EBRD-funded small and medium enterprise sub-projects in all-new partner banks. 
+DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support Armenian partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes. DAI established and implemented EBRD-funded small and medium enterprise sub-projects in all-new partner banks.
 
 ### Sample Activities
 
@@ -30,6 +30,6 @@ DAI was contracted by the European Bank for Reconstruction and Development (EBRD
 
 ### Select Results
 
-* Contributed to the overall institutional strengthening of the banks by advising on the structuring of credit departments and developing and improving internal credit policies and procedures. 
-* Worked with the partner banks to create capabilities and capacities in both policies and procedures and staff to build a profitable and high-quality small and medium enterprise sub-loan portfolio. 
+* Contributed to the overall institutional strengthening of the banks by advising on the structuring of credit departments and developing and improving internal credit policies and procedures.
+* Worked with the partner banks to create capabilities and capacities in both policies and procedures and staff to build a profitable and high-quality small and medium enterprise sub-loan portfolio.
 * Helped the banks further and independently develop their lending activities and effectively manage their portfolios.

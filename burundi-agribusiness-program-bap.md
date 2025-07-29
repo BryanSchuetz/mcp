@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI supported Burundi's efforts to respond to changes in the world agricultural
   market that occurred in the 1990s, when Burundi was mired in crisis, and to revitalize
   the country's agricultural sector.
-start: 2007
-end: 2012
+contract-start-year: 2007
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Economic Growth

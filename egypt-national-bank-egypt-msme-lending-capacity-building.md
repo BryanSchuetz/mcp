@@ -5,8 +5,8 @@ summary: With a nationwide network of more than 300 banking units and dedicated 
   and medium-sized enterprises (SME) department with nearly 1,000 employees, the bank
   is a national leader in SME finance. DAI assisted the bank to increase its microfinance
   and broader SME portfolio.
-start: 2014
-end: 2017
+contract-start-year: 2014
+contract-end-year: 2017
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

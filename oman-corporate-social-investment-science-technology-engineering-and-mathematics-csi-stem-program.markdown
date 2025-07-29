@@ -4,8 +4,8 @@ title: Oman—Corporate Social Investment Science, Technology, Engineering, Arts
 date: 2020-01-10 19:25:00 Z
 summary: 'DAI’s Sustainable Business Group designed and implemented a flagship social
   investment initiative for a large Omani conglomerate. '
-start: 2019
-end: 2022
+contract-start-year: 2019
+contract-end-year: 2022
 client: Khimji Ramdas
 solutions:
 - Sustainable Business
@@ -19,7 +19,7 @@ promos:
 
 DAI’s Sustainable Business Group partnered with Eshraqa—the social development of arm of Khimji Ramdas, one of the Sultanate’s leading business conglomerates—to deliver stemazone as its flagship corporate social responsibility program.
 
-The stemazone initiative provides services to children across the country and inspires young Omanis to enter STEAM (science, technology, engineering, art, and mathematics) fields and set them on the STEAM pathway from an early age, which studies show is critical to building a skilled workforce. 
+The stemazone initiative provides services to children across the country and inspires young Omanis to enter STEAM (science, technology, engineering, art, and mathematics) fields and set them on the STEAM pathway from an early age, which studies show is critical to building a skilled workforce.
 
 The stemazone was national in scope and implemented in partnership with the Oman Children’s Museum. Under this partnership, Oman’s Children Museum serves as the anchor location in Muscat for the initiative, hosting visitors from the public and schools interested in engaging in STEAM-related activities, including coding, robotics, 3-D printing, and more. During the COVID-19 pandemic, the project pivoted to a hybrid model combining in-person and virtual activities. The e-stemazone has online webinars and courses on a range of topics, accessible for free to students across Oman.
 
@@ -30,7 +30,7 @@ The stemazone was national in scope and implemented in partnership with the Oman
 **A Digital-First Approach to Learning**
 The stemazone curriculum emphasizes best practices in hands-on learning by doing. Students learn about technology, develop new skills with the guidance of experienced instructors, and conduct experiments based on the engineering design process—using simple materials they can find in their homes. The platform includes coding exercises for beginners from the age of seven to more intermediate coders. The e-stemazone helps develop students’ technological skills by having them interact with content online.
 
-**Stemazone Program Wins Three Innovation Awards** 
+**Stemazone Program Wins Three Innovation Awards**
 
 [The stemazone Initiative was a big winner at the 2021 Future Skills and Human Resources Development Conference in Muscat, Oman.](https://www.dai.com/news/dai-designed-and-implemented-csr-education-program-wins-three-innovation-awards-in-oman) The Arabian Research Bureau ARB/OITE presented awards to Eshraqa in three categories: “Future Technology,” “Robotics,” and “Best of the Best.”
 

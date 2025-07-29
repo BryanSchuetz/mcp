@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Access to Rural Finance for Microenterprises project built an inclusive,
   sustainable microfinance sector in Mexico as a means to increase access to a range
   of financial services and thereby spur local economic development.
-start: 2004
-end: 2009
+contract-start-year: 2004
+contract-end-year: 2009
 client: U.S. Government
 solutions:
 - Economic Growth

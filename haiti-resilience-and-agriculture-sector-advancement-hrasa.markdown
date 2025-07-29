@@ -9,8 +9,8 @@ summary: The Haiti Resilience and Agriculture Sector Advancement Activity improv
   expands private sector engagement and investment in agricultural market systems;
   and strengthens the capacity of subsistence farming households to participate in
   opportunities.
-start: 2021
-end: 2024
+contract-start-year: 2021
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

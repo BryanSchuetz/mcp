@@ -7,8 +7,8 @@ terminated: true
 summary: The Strengthening Regional Peace and Stability in West Africa program builds
   the capacity and commitment of USAID’s regional and bilateral partners to prevent
   conflict and address governance weaknesses with the aim of reducing countries’ fragility.
-start: 2023
-end: 2024
+contract-start-year: 2023
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Fragile States

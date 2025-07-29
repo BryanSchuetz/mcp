@@ -5,8 +5,8 @@ summary: The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Loc
   a Boa Governação in Portuguese, contributed to improved governance and accountability
   for Mozambican citizens in urban municipalities, so that citizens—particularly women
   and youth—know more, engage more, and vote with confidence in their cities.
-start: 2012
-end: 2017
+contract-start-year: 2012
+contract-end-year: 2017
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -33,8 +33,8 @@ The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Local para a
 
 ### Select Results
 
-* Created relationships between local governments and citizens, energised by a partner network of 220 community-based organisations and local nongovernmental groups, 4,859 community activists and individual agents of change (45 percent of whom are female), and 10 media outlets (local radio stations and newspapers). 
-* Enabled the municipal planning and budgeting models in Nampula, Quelimane, Beira, and Maputo to have direct citizen participation in defining annual priorities, and supported the adoption of innovative community problem-solving tools for addressing key issues such as water leaks, waste management, and primary health services. 
+* Created relationships between local governments and citizens, energised by a partner network of 220 community-based organisations and local nongovernmental groups, 4,859 community activists and individual agents of change (45 percent of whom are female), and 10 media outlets (local radio stations and newspapers).
+* Enabled the municipal planning and budgeting models in Nampula, Quelimane, Beira, and Maputo to have direct citizen participation in defining annual priorities, and supported the adoption of innovative community problem-solving tools for addressing key issues such as water leaks, waste management, and primary health services.
 * Supported the creation of hundreds of new social and economic infrastructure, which are now benefiting millions of people. Such projects include the improvement in waste management and hygiene conditions in health facilities and markets in Maputo and Tete and the construction of long-demanded access roads, water and electricity systems, health facilities, and markets in peripheral, low-income neighbourhoods of Quelimane, Beira, and Nampula.
 
 [1]: https://assetify-dai.com/projects/Dialogo.jpg

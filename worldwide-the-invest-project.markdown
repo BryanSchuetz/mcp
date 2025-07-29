@@ -3,8 +3,8 @@ title: Worldwide—INVEST
 date: 2017-10-06 19:20:00 Z
 summary: 'INVEST was a flexible, efficient buy-in mechanism that helped the U.S. Agency
   for International Development (USAID) mobilize private capital for development results. '
-start: 2017
-end: 2024
+contract-start-year: 2017
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

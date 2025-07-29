@@ -4,8 +4,8 @@ date: 2017-11-30 21:43:00 Z
 summary: 'Trade Ready Serbia strengthened the capacity of small businesses to access
   trade finance and stimulated local banks to offer trade finance products that will
   help support economic growth and job creation.  '
-start: 2017
-end: 2020
+contract-start-year: 2017
+contract-end-year: 2020
 client: European Bank for Reconstruction and Development
 solutions:
 - Trade
@@ -31,6 +31,6 @@ To help address these gaps, the European Bank for Reconstruction and Development
 
 ### Select Results
 
-* Provided diagnostic services to more than 30 companies in clinics for SMEs. 
+* Provided diagnostic services to more than 30 companies in clinics for SMEs.
 * Trained 12 SMEs and 19 local consultants in international trade and trade finance.
 * Organised 10 awareness seminars in different regions of the country targeted at SMEs involved in international trade.

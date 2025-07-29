@@ -8,8 +8,8 @@ summary: The Feed the Future Market Systems and Partnerships activity (MSP) help
   practice in integrating private sector engagement across all activities, while at
   the same time deepening market systems development across the Feed the Future program
   cycle.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

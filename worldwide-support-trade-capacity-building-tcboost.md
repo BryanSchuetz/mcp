@@ -7,8 +7,8 @@ summary: 'The DAI/Nathan Group (DNG), a joint venture between DAI and Nathan Ass
   country missions.
 
 '
-start: 2008
-end: 2011
+contract-start-year: 2008
+contract-end-year: 2011
 client: U.S. Government
 solutions:
 - Governance

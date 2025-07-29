@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI implemented a small and medium-sized enterprise lending scheme at UkrSibbank
   in Ukraine, with the focus on building the bank's capacity through training in credit
   analysis and portfolio management.
-start: 2009
-end: 2010
+contract-start-year: 2009
+contract-end-year: 2010
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
@@ -29,9 +29,9 @@ UkrSibbank received a €50 million credit line from the European Bank for Recon
 
 * Supported disbursement of 643 loans totaling €44 million.
 * Trained 120 participants throughout the branch network and with training of trainers on customer retention in eight locations.
-* Assisted loan officers with loan applications.  
+* Assisted loan officers with loan applications.
 * Conducted review of applications.
-* Set lending targets by branch.  
-* Analyzed loan application process.  
-* Recommended improvements and implemented suggested changes to current lending processes and procedures.  
+* Set lending targets by branch.
+* Analyzed loan application process.
+* Recommended improvements and implemented suggested changes to current lending processes and procedures.
 * Monitored portfolio quality and ensured full compliance of all existing and new facility loans with EBRD requirements.

@@ -4,8 +4,8 @@ date: 2022-04-07 16:07:00 Z
 summary: Defra commissioned DAI to conduct research and analysis of the current state
   of play in the Legal Amazon region in Brazil to inform the next round of climate
   finance investments in the country.
-start: 2021
-end: 2022
+contract-start-year: 2021
+contract-end-year: 2022
 client: Department for Environment Food and Rural Affairs (Defra); UK ICF
 solutions:
 - Resilience

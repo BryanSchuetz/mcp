@@ -5,8 +5,8 @@ summary: Land administration in Mozambique has been seriously under-resourced, a
   needed new, modern systems in place to be able to deal with the increasing demands
   being placed upon it. The principal aim of this support programme to four provinces
   was to improve the efficiency of the land rights management and registration system.
-start: 2009
-end: 2013
+contract-start-year: 2009
+contract-end-year: 2013
 client: Millennium Challenge Account
 solutions:
 - Economic Growth
@@ -40,4 +40,4 @@ Land administration in Mozambique has been seriously under-resourced, and needed
 * Registered 198,764 parcels and issued 157,167 full land titles (DUATs), between March 2011 and August 2013 in the four northern provinces of Mozambique.
 * Secured land rights for women—35 percent of all titles were issued to women as single title-holders and another 12 percent were co-titled.
 * Produced 20 land use and cover maps, covering eight municipalities (focused on land use) and 12 districts (focused on land cover).
-* Designed, produced, and implemented a new national information system to record land ownership and transactions, called LIMS (Land Information Management System) in English or SIGIT (Sistema de Gestão de Informação sobre a Terra) in Portuguese. 
+* Designed, produced, and implemented a new national information system to record land ownership and transactions, called LIMS (Land Information Management System) in English or SIGIT (Sistema de Gestão de Informação sobre a Terra) in Portuguese.

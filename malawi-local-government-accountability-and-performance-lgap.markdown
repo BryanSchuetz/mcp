@@ -5,8 +5,8 @@ summary: To ensure more citizens benefit from the effects of decentralization, t
   Local Government Accountability and Performance activity worked to improve local
   government performance and transparency, increase citizen engagement, and strengthen
   the enabling environment for decentralization in Malawi.
-start: 2016
-end: 2021
+contract-start-year: 2016
+contract-end-year: 2021
 client:
 - U.S. Agency for International Development
 - Foreign, Commonwealth & Development Office
@@ -45,9 +45,9 @@ View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and
 
 ### Select Results
 
-* Provided integrated financial management information system training to every single finance staff and non-finance manager responsible for approving spending in all 28 districts of Malawi. 
+* Provided integrated financial management information system training to every single finance staff and non-finance manager responsible for approving spending in all 28 districts of Malawi.
 * Improved government human resources function by aligning payroll with an accurate headcount; conducting vacancy analysis; updating staff returns; review of personal emoluments; clarifying terms and conditions of service, and working conditions; and supporting recruitment.
 * Developed a Teacher-Performance Assessment System, revamped the school inspection system to uphold national standards, and developed a professional certification for teachers.
-* Developed public expenditure tracking tools.  
+* Developed public expenditure tracking tools.
 
 <iframe src="https://player.vimeo.com/video/273965892" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

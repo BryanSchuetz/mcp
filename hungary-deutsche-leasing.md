@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by EBRD to assist Deutsche Leasing Hungary, certain aspects
   of which were also applied to Deutsche Leasing's operations in Czech Republic and
   Poland, to expand its leasing operations for the SME segment.
-start: 2006
-end: 2009
+contract-start-year: 2006
+contract-end-year: 2009
 client: European Bank for Reconstruction and Development
 solutions:
 - Finance and Investment

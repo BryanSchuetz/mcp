@@ -4,8 +4,8 @@ date: 2020-01-23 10:06:00 Z
 summary: 'LERII aimed to assist the Lebanese government in implementing key economic
   reforms, reach agreement on the construction of key donor-financed infrastructure
   projects, and ensure that such projects were successfully built and operated. '
-start: 2020
-end: 2021
+contract-start-year: 2020
+contract-end-year: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -25,19 +25,19 @@ With our partners—the Lebanese Economic Association, Economic Consulting Assoc
 
 ![Lebanon infra.jpg](/uploads/Lebanon%20infra.jpg)
 
-### Sample Activities 
+### Sample Activities
 
 * Employ a problem-driven and strategic approach to identify reform priorities where genuine traction for reform lies and in response to specific government requests.
 * Ensure national ownership and alignment with partners and the Government of Lebanon’s national reform agenda.
 * Design a methodology for real-time monitoring and rapid feedback loops based on an understanding of the barriers faced by groups participating in supported initiatives to accessing information and providing feedback.
 
-<hr> 
+<hr>
 
 **Although the project was due to run until 2024, FCDO decided to close the LERII-TAF program in June 2021 as a result of its 2021-2022 business planning and ODA re-prioritization. Below are some highlights of what the project achieved before closing.**
 
-### Select Results 
+### Select Results
 
-* Embedded political economy analyses (PEAs) supported the program’s adaptive approach by deepening its understanding of alternative pathways and mechanisms of change outside the caretaker government. This included how various formal and informal stakeholder groups are structuring and influencing debates, informing citizens, and shaping their demands. 
-* Informed the mapping of actions to be taken under different scenarios to ensure the sustainable impact of interventions, highlighting citizen-centric issues through policy roundtables. 
+* Embedded political economy analyses (PEAs) supported the program’s adaptive approach by deepening its understanding of alternative pathways and mechanisms of change outside the caretaker government. This included how various formal and informal stakeholder groups are structuring and influencing debates, informing citizens, and shaping their demands.
+* Informed the mapping of actions to be taken under different scenarios to ensure the sustainable impact of interventions, highlighting citizen-centric issues through policy roundtables.
 * Proposed the program identifies and prioritizes select ministries to create the enabling conditions for reform at administrative levels (systems and processes).
 * Identified champions within the government, such as in the Institute of Finance and the Ministery of Economy and Trade, who had started piloting reform models that could be replicated across other public institutions.

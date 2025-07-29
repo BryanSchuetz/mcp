@@ -5,8 +5,8 @@ summary: C-CAP built the resilience of vulnerable coastal communities to withsta
   more intense and frequent weather events and ecosystem degradation in the short
   term, and sea level rise in the long term. We improved coastal zone management and
   water resource management capacity and strengthened disaster management.
-start: 2012
-end: 2017
+contract-start-year: 2012
+contract-end-year: 2017
 client: U.S. Government
 solutions:
 - Environment

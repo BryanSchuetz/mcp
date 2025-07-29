@@ -5,8 +5,8 @@ date: 2020-08-17 14:30:00 Z
 summary: This project is increasing the capacity of the Government of the Republic
   of Moldova and other key national institutions in implementing the European Union-Republic
   of Moldova Association Agenda.
-start: 2020
-end: 2025
+contract-start-year: 2020
+contract-end-year: 2025
 client: European Union
 solutions:
 - Governance
@@ -23,7 +23,7 @@ The DAI-led technical assistance project works to increase the capacity of the G
 
 Drawing upon the best EU and international practices, we provide tailormade technical assistance to the central public authorities of the Republic of Moldova involved in the AA monitoring and implementation, including the Ministry of Foreign Affairs and European Integration; the State Chancellery; the Ministry of Finance; the Ministry of Economy and Infrastructure; the Parliament; and the other key project target groups to comprehensively address its needs.
 
-![ACED and MCC Moldova co-organized a training seminar for rural Moldovan women entrepreneurs involved in agriculture.jpg](/uploads/ACED%20and%20MCC%20Moldova%20co-organized%20a%20training%20seminar%20for%20rural%20Moldovan%20women%20entrepreneurs%20involved%20in%20agriculture.jpg) 
+![ACED and MCC Moldova co-organized a training seminar for rural Moldovan women entrepreneurs involved in agriculture.jpg](/uploads/ACED%20and%20MCC%20Moldova%20co-organized%20a%20training%20seminar%20for%20rural%20Moldovan%20women%20entrepreneurs%20involved%20in%20agriculture.jpg)
 
 ### Sample Activities
 

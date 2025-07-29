@@ -5,8 +5,8 @@ published: false
 terminated: true
 summary: The Investment for Business Resilience Activity in Ukraine focuses on getting
   needed finance in the hands of businesses to rebuild and grow.
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

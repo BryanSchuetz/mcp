@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Khyber Pakhtunkhwa Governance Program assisted the provincial government
   and civil society organizations to improve local government service and better serve
   citizens. '
-start: 2015
-end: 2018
+contract-start-year: 2015
+contract-end-year: 2018
 client: U.S. Government
 solutions:
 - Governance

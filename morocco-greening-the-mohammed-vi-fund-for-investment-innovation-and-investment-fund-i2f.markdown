@@ -5,8 +5,8 @@ date: 2022-05-23 11:15:00 Z
 summary: DAI worked with the Moroccan Ministry of Economy and Finance to support the
   design and structuring of the Mohammed VI Fund for Investment (M6FI), embedding
   the environmental, social, and governance (ESG) criteria.
-start: 2021
-end: 2022
+contract-start-year: 2021
+contract-end-year: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
@@ -15,11 +15,11 @@ regions: Middle East and North Africa
 country: Morocco
 ---
 
-The Mohammed VI Fund for Investment (M6FI), established in 2020 with an initial £1.2 billion budget allocation, spearheads Morocco’s COVID-19 recovery efforts. The Fund’s core mandate is to provide local businesses and strategic infrastructure projects with long-term financing, in the form of equity or quasi-equity, to i) support the growth of high-potential small and medium-sized enterprises (SMEs); ii) promote the financing of commercially sustainable infrastructure, and iii) develop strategic sectors which can help the national economy recover in a post-crisis context. 
+The Mohammed VI Fund for Investment (M6FI), established in 2020 with an initial £1.2 billion budget allocation, spearheads Morocco’s COVID-19 recovery efforts. The Fund’s core mandate is to provide local businesses and strategic infrastructure projects with long-term financing, in the form of equity or quasi-equity, to i) support the growth of high-potential small and medium-sized enterprises (SMEs); ii) promote the financing of commercially sustainable infrastructure, and iii) develop strategic sectors which can help the national economy recover in a post-crisis context.
 
 M6FI has the mandate to leverage capital totaling £3.6 billion from development and commercial investors through investment vehicles or sub-funds in line with thematic priorities: infrastructure, industrial reorganization, SMEs, agriculture, tourism, innovation/growth.
 
-DAI worked with the Ministry of Economy and Finance (MEF) to support the design and structuring of M6FI, embedding the environmental, social, and governance (ESG) criteria required to ensure alignment with the Paris Agreement and international standards adhered to by development finance institutions and commercial investors. 
+DAI worked with the Ministry of Economy and Finance (MEF) to support the design and structuring of M6FI, embedding the environmental, social, and governance (ESG) criteria required to ensure alignment with the Paris Agreement and international standards adhered to by development finance institutions and commercial investors.
 
 The program also recommended additional pro-climate and ESG criteria to support the Fund’s aim to mobilize international climate finance to specific sub-sectors. It made suggestions to reflect and embed these recommendations to help M6FI incorporate ESG into the investment decision-making process at a fund and sub-fund level and equipped the Fund with the necessary screening tools to support Paris-compliant projects.
 

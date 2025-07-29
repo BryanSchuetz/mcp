@@ -5,8 +5,8 @@ date: 2019-12-20 18:38:00 Z
 summary: The Assistance Technique et Appui à la Communication et Visibilité du Programme
   d'Appui à la Société Civile au Burundi (ASCB) project supports civil society in
   Burundi.
-start: 2019
-end: 2022
+contract-start-year: 2019
+contract-end-year: 2022
 client: European Union
 solutions:
 - Governance
@@ -16,7 +16,7 @@ country: Burundi
 
 Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans.
 
-Implemented through grants and procurement of services, the ASCB project supports civil organizations’ participation in development and local governance issues. 
+Implemented through grants and procurement of services, the ASCB project supports civil organizations’ participation in development and local governance issues.
 
 DAI’s team advises and supports ASBC’s implementing partners through technical assistance focused on methodology, tools for monitoring and evaluation, capitalization, and capacity building for grassroots organizations.
 

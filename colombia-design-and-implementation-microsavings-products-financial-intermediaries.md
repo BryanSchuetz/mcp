@@ -4,8 +4,8 @@ title: Colombia—Design and Implementation of Microsavings Products for Financi
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked to expand the frontier of quality banking services to benefit
   geographically isolated poor people and micro-entrepreneurs in Colombia.
-start: 2012
-end: 2014
+contract-start-year: 2012
+contract-end-year: 2014
 client: Colombia Bank of International Trade
 solutions:
 - Economic Growth

@@ -6,8 +6,8 @@ summary: Improving Jordan's productivity will be the key to sustainable economic
   sector is key to stimulating and sustaining growth, it cannot do so alone. SABEQ
   worked with both the public and private sectors to increase the number of jobs available
   to Jordanians, and enhance the competitiveness of Jordanian firms.
-start: 2006
-end: 2011
+contract-start-year: 2006
+contract-end-year: 2011
 client: U.S. Government
 solutions:
 - Economic Growth

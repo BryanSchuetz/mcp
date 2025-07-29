@@ -6,8 +6,8 @@ summary: 'The Parliamentary Development and Enhancement in Moldova (PADEM) proje
   by the Parliament Secretariat. This work includes strengthening parliamentary oversight,
   improving legal drafting, enhancing communication with citizens, and increasing
   the Secretariat’s capacity to assist Members of Parliament. '
-start: 2025
-end: 2029
+contract-start-year: 2025
+contract-end-year: 2029
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Governance
@@ -24,7 +24,7 @@ The project has three main components: enhancing the legislative process, improv
 ![Moldova Parliament.jpg](/uploads/Moldova%20Parliament.jpg)
 
 ### Sample Activities
- 
+
 * Design and deliver professional development packages, including an induction program for newly elected MPs.
 * Pilot pre-legislative scrutiny and legislative drafting with selected Parliamentary Standing Committees.
 * Establish a Post-Legislative Scrutiny Office and implement post-legislative scrutiny actions with technical support for improved legislative review.

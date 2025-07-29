@@ -5,8 +5,8 @@ summary: DAI is delivering a component of the [Partnership for Learning in Niger
   (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane),
   the U.K. Foreign, Commonwealth, & Development Office’s flagship education program,
   which operates in Kano, Kaduna, and Jigawa states.
-start: 2024
-end: 2024
+contract-start-year: 2024
+contract-end-year: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-DAI is delivering a component of the [Partnership for Learning in Nigeria (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane), the U.K. Foreign, Commonwealth, & Development Office’s flagship education program, which operates in Kano, Kaduna, and Jigawa states. Of the 20 million Nigerian children out of school, Kano accounts for some 2 million. 
+DAI is delivering a component of the [Partnership for Learning in Nigeria (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane), the U.K. Foreign, Commonwealth, & Development Office’s flagship education program, which operates in Kano, Kaduna, and Jigawa states. Of the 20 million Nigerian children out of school, Kano accounts for some 2 million.
 
 Several factors account for Kano’s poor education indicators, including poor infrastructure, lack of training for teachers and other personnel, lack of basic materials such as books, and poor service quality, as reflected in low completion rates and inadequate enrolment of girls. Addressing these challenges requires concerted efforts across government, civil society, and relevant stakeholders; a conference was designed to bring these stakeholders together to identify the most important gaps in Kano’s education sector and develop a roadmap to sustainably address them.
 
@@ -27,7 +27,7 @@ DAI coordinated the conference, leveraging its knowledge of the context and stak
 
 * Support the Kano State Government to convene the Kano State Education Recovery Conference.
 * Develop the Education Sector SWOT Matrix.
-* Develop a Sustainability Framework: Pathways for Continued Improvement and Reform. 
+* Develop a Sustainability Framework: Pathways for Continued Improvement and Reform.
 * Develop a Conference Report: Comprehensive Documentation of Activities and Outcomes.
 
 ## Select Results

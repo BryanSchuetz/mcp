@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The fourth phase of the Business Sector Programme Support (BSPS IV) had three
   components—Agricultural Markets Development, Improved Business Climate, and Access
   to Finance—and six subcomponents.
-start: 2014
-end: 2019
+contract-start-year: 2014
+contract-end-year: 2019
 client: Danida
 solutions:
 - Economic Growth

@@ -5,8 +5,8 @@ summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts acros
   Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which
   8 million benefited directly from improved services, reduced violence, and increased
   political participation. '
-start: 2012
-end: 2018
+contract-start-year: 2012
+contract-end-year: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Gender and Social Inclusion
@@ -32,7 +32,7 @@ layout: project
 
 <iframe src="https://player.vimeo.com/video/257543586" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[AAWAZ](http://aawaz.org.pk/index.php) worked from the community to the national level to enhance women's safe political participation, strengthen community cohesion and nonviolent dispute resolution, and build citizens' capacity, particularly women and other disadvantaged groups, to influence the quality of government service delivery. AAWAZ improved women’s effective public and political participation; tackled violence against women and girls and religion-based conflict; and supported citizens to access information about their rights, prevent conflict and work effectively with duty-bearers to remedy gaps in essential services. It aimed to ensure that democratic processes are more open, inclusive, and accountable to citizens in Pakistan. AAWAZ operated in 4,500 villages and settlements in 45 Districts across Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which 8 million benefited directly from improved services, reduced violence, and increased political participation.  
+[AAWAZ](http://aawaz.org.pk/index.php) worked from the community to the national level to enhance women's safe political participation, strengthen community cohesion and nonviolent dispute resolution, and build citizens' capacity, particularly women and other disadvantaged groups, to influence the quality of government service delivery. AAWAZ improved women’s effective public and political participation; tackled violence against women and girls and religion-based conflict; and supported citizens to access information about their rights, prevent conflict and work effectively with duty-bearers to remedy gaps in essential services. It aimed to ensure that democratic processes are more open, inclusive, and accountable to citizens in Pakistan. AAWAZ operated in 4,500 villages and settlements in 45 Districts across Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which 8 million benefited directly from improved services, reduced violence, and increased political participation.
 
 ### Sample Activities
 

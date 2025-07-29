@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Security Sector Accountability and Police Reform Programme worked to
   improve the Democratic Republic of the Congo's capacity to provide security, safety,
   and justice for all.
-start: 2009
-end: 2015
+contract-start-year: 2009
+contract-end-year: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Peace-Building and Political Transition
@@ -24,7 +24,7 @@ promos:
 layout: project
 ---
 
-The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality. If we are to help address poverty and establish democratic systems responsive to the needs of the DRC's citizens, we must simultaneously address this fundamental issue of human security. 
+The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality. If we are to help address poverty and establish democratic systems responsive to the needs of the DRC's citizens, we must simultaneously address this fundamental issue of human security.
 
 Against this backdrop, the United Kingdom in 2010 launched the Security Sector Accountability and Police Reform (SSAPR) programme, a five-year pilot initiative to promote accountability and support the national police reform process. DAI implemented the External Accountability Component of this programme in the provincial capitals of South Kivu, Bas-Congo, and Western Kasai.
 

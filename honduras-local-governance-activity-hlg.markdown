@@ -6,8 +6,8 @@ terminated: true
 summary: 'HLG works to strengthen the essential capacity of civil society groups,
   local governments, and service providers to provide Honduran citizens with improved
   services. '
-start: 2016
-end: 2024
+contract-start-year: 2016
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Decentralization and Local Government Management

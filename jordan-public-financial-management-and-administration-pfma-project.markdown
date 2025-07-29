@@ -6,8 +6,8 @@ terminated: true
 summary: 'The Public Financial Management and Administration (PFMA) project is a five-year
   initiative to improve the Jordanian revenue system and enhance the budget management
   process. '
-start: 2021
-end: 2024
+contract-start-year: 2021
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

@@ -5,8 +5,8 @@ summary: 'The Strengthening Democratic Governance and Accountability Project wor
   to strengthen public accountability systems; improved planning, communication, policy
   reform, and implementation; and increased the participation of women and under-represented
   groups in Sri Lanka. '
-start: 2016
-end: 2020
+contract-start-year: 2016
+contract-end-year: 2020
 client: U.S. Government
 solutions:
 - Governance

@@ -4,8 +4,8 @@ date: 2017-10-26 21:35:00 Z
 summary: DAI supported the Millennium Challenge Corporation in Mongolia by developing
   policy and planning solutions to address constraints to water access and supply
   in the vast unplanned settlements surrounding the nation’s capital city.
-start: 2017
-end: 2019
+contract-start-year: 2017
+contract-end-year: 2019
 client: Millennium Challenge Corporation
 solutions:
 - Water and Sanitation Services and Management

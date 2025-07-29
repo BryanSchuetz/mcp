@@ -5,8 +5,8 @@ summary: Decentralization is an important component of lasting democratic develo
   in countries such as Macedonia that are accustomed to a centralized autocracy. The
   MDW project increased the capacity of municipal governments to assume new powers
   under the decentralization that commenced in 2005.
-start: 2004
-end: 2007
+contract-start-year: 2004
+contract-end-year: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

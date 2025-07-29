@@ -4,8 +4,8 @@ date: 2017-02-16 20:47:00 Z
 summary: 'Protect was a multi-pronged program in the Philippines that worked to conserve
   biodiversity, protect wildlife, and sustain ecosystem services in ways that also
   improved the local population’s livelihoods and long-term well-being. '
-start: 2016
-end: 2021
+contract-start-year: 2016
+contract-end-year: 2021
 client: U.S. Government
 solutions:
 - Environment

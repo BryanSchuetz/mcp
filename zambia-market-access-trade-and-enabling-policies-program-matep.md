@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development (USAID)-funded Market Access,
   Trade, and Enabling Policies (MATEP) project was designed to increase Zambia's exports
   of agricultural and natural resource products into regional and international markets.
-start: 2005
-end: 2010
+contract-start-year: 2005
+contract-end-year: 2010
 client: U.S. Government
 solutions:
 - Economic Growth

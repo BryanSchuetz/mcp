@@ -6,8 +6,8 @@ summary: The project provided technical assistance to the Ministry of Agricultur
   Livestock, and Fisheries for the implementation of the Programme d’Appui au Développement
   Durable du Secteur Agricole, a €70 million initiative to reform Benin’s agricultural
   sector.
-start: 2018
-end: 2022
+contract-start-year: 2018
+contract-end-year: 2022
 client: European Union
 solutions:
 - Economic Growth
@@ -17,7 +17,7 @@ country: Benin
 
 The project provided technical assistance to the Ministry of Agriculture, Livestock, and Fisheries (APRM) for the implementation of the Programme d’Appui au Développement Durable du Secteur Agricole (PADDSA), a €70 million initiative to reform Benin’s agricultural sector.
 
-Our assistance combined with complementary support delegated to the Belgian Technical Cooperation, which ensured the capacity building of local stakeholders. PADDSA’s complementary support mechanism ensured the coherence of interventions designed to reform the agriculture, livestock, and fisheries sectors in Benin. 
+Our assistance combined with complementary support delegated to the Belgian Technical Cooperation, which ensured the capacity building of local stakeholders. PADDSA’s complementary support mechanism ensured the coherence of interventions designed to reform the agriculture, livestock, and fisheries sectors in Benin.
 
 Our project team focused on building the capacity of institutions involved in steering sectoral policy, consolidating the national agricultural statistics and information systems, and improving the general framework for financing agricultural development.
 

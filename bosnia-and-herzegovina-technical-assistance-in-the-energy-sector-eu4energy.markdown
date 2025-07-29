@@ -6,8 +6,8 @@ tags:
 - European Union
 summary: 'The EU4Energy project aims to support Bosnia and Herzegovina in reforming
   its energy sector in alignment with the European Union energy acquis. '
-start: 2022
-end: 2025
+contract-start-year: 2022
+contract-end-year: 2025
 client: European Union
 solutions:
 - Environment
@@ -27,7 +27,7 @@ The EU4Energy project aims to support BiH in reforming its energy sector. The pr
 
 ## Sample Activities
 
-* Implement energy sector reforms, including the development of new energy and climate policies and the harmonization of relevant legislation with the EU energy acquis. 
-* Build capacity at all levels of government to assume their role in the process of energy acquis transposition, meeting energy market requirements, and energy policy planning and implementation. 
+* Implement energy sector reforms, including the development of new energy and climate policies and the harmonization of relevant legislation with the EU energy acquis.
+* Build capacity at all levels of government to assume their role in the process of energy acquis transposition, meeting energy market requirements, and energy policy planning and implementation.
 * Increase public awareness of energy-related matters.
-* Support dialogue with both the public and energy sector stakeholders to inform and help them understand the benefits of energy reform. 
+* Support dialogue with both the public and energy sector stakeholders to inform and help them understand the benefits of energy reform.

@@ -5,8 +5,8 @@ summary: As part of the Astrale group of nine European partners, we supported th
   LIFE III Environment Programme from 2001 to 2005 and we have been supporting the
   whole LIFE III and LIFE + Programmes since 2005, in our role as the External Assistance
   Team.
-start: 2009
-end: 2023
+contract-start-year: 2009
+contract-end-year: 2023
 client: European Union
 solutions:
 - Agriculture and Food Security

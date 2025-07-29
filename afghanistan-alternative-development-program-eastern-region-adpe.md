@@ -6,8 +6,8 @@ summary: In 2004, the eastern provinces of Afghanistan cultivated approximately 
   in area from 2003, and more than 70 percent of the households were involved in the
   illicit poppy economy, double the national average. In 2005, after a strong enforcement
   campaign by the governor, the poppy-growing area was reduced by 90 percent.
-start: 2005
-end: 2009
+contract-start-year: 2005
+contract-end-year: 2009
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - Business Trust
 - Department of Provincial and Local Government
-start: 2006
-end: 2011
+contract-start-year: 2006
+contract-end-year: 2011
 regions:
 - Sub-Saharan Africa
 country:

@@ -3,8 +3,8 @@ title: Afghanistan—Assistance in Building Afghanistan by Development Enterpris
 date: 2016-01-21 22:40:00 Z
 summary: 'ABADE worked to increase domestic and foreign investment, stimulate employment,
   and improve sales of Afghan products. '
-start: 2012
-end: 2017
+contract-start-year: 2012
+contract-end-year: 2017
 client: U.S. Government
 solutions:
 - Business Environment Reform

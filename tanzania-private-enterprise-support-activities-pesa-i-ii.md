@@ -7,8 +7,8 @@ summary: 'Active in six regions that account for a third of Tanzania''s populati
   existing groups that pool resources and improve their sales position.
 
 '
-start: 2002
-end: 2007
+contract-start-year: 2002
+contract-end-year: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

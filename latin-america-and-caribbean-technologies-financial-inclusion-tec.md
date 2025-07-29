@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Tec-In project worked to identify and develop innovations in the use
   of information and communications technology to expand access to financial services
   throughout Latin America and the Caribbean.
-start: 2010
-end: 2012
+contract-start-year: 2010
+contract-end-year: 2012
 client:
 - Multilateral Investment Fund
 - Inter-American Development Bank

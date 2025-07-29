@@ -7,8 +7,8 @@ summary: The Public Financial Management activity assists the Government of Mald
   to prioritize infrastructure projects with the highest returns to the economy, enhance
   domestic resource mobilization, and realize “win-win” public-private partnerships
   in infrastructure to reduce dependence on high-risk debt financing.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

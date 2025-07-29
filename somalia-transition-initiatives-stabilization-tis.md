@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: This U.S. Agency for International Development-funded program worked to increase
   the visibility of, and confidence in, the government of Somalia by improving government
   service delivery.
-start: 2011
-end: 2016
+contract-start-year: 2011
+contract-end-year: 2016
 client: U.S. Government
 solutions:
 - Fragile States

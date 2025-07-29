@@ -6,8 +6,8 @@ terminated: true
 summary: 'The Destination Nature Activity conserves biodiversity and reduces greenhouse
   gas emissions by supporting rural communities to make a living from sustainable
   nature tourism. '
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Environment

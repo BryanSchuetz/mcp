@@ -6,8 +6,8 @@ summary: Through the U.S. Agency for International Development (USAID)'s Technic
   Support Program, DAI assisted the Government of the Republic of Equatorial Guinea
   to achieve its goals by improving efficiency, transparency, and accountability in
   social planning and investments.
-start: 2006
-end: 2009
+contract-start-year: 2006
+contract-end-year: 2009
 client: U.S. Government
 solutions:
 - Governance

@@ -8,8 +8,8 @@ summary: 'The Burma Responsible Investment and Trade Activity, funded by the U.S
   and domestic private sector firms and civil society actors to promote civilian ownership
   of the Myanmar economy by increasing the share held by responsible, accountable,
   and transparent firms. '
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

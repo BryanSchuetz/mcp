@@ -5,8 +5,8 @@ summary: The Access to Security and Justice Programme worked with the government
   Sierra Leone to consolidate peace and stability by increasing access to responsive,
   accountable, and effective security and justice services, especially for the poor,
   vulnerable, and those living in remote and marginalized areas.
-start: 2011
-end: 2016
+contract-start-year: 2011
+contract-end-year: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

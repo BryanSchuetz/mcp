@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The P&R project addressed the practical issues confronting national governments
   as they coped with the human, financial, and logistical constraints associated with
   pandemic threats. '
-start: 2014
-end: 2019
+contract-start-year: 2014
+contract-end-year: 2019
 client: U.S. Government
 solutions:
 - Global Health

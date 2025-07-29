@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Food and Enterprise Development Program helped Liberia achieve increased
   food security—in terms of food availability, utilization, and affordability—by building
   incentive structures that assisted local stakeholders to adopt a commercial approach.
-start: 2011
-end: 2016
+contract-start-year: 2011
+contract-end-year: 2016
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

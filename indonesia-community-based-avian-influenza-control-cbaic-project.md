@@ -6,8 +6,8 @@ summary: CBAIC worked with the Government of Indonesia and local partners to exp
   villages across the western half of the country with the goal of reducing the risk
   of AI transmission to animals and humans, and ultimately, reduce the risk of pandemic
   influenza developing from deadly bird flu.
-start: 2006
-end: 2010
+contract-start-year: 2006
+contract-end-year: 2010
 client: U.S. Government
 solutions:
 - Global Health

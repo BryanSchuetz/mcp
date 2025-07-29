@@ -6,8 +6,8 @@ terminated: true
 summary: The USAID Jordan Municipal Support Program improves local government service
   delivery, stimulates local economic development, and thereby strengthens the social
   contract in the Kingdom.
-start: 2022
-end: 2024
+contract-start-year: 2022
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

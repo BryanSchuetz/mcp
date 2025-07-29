@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Land Tenure Assistance activity pioneered a low-cost, participatory land
   registration system that works at the local level, enabling smallholder landowners
   to secure their property rights.
-start: 2015
-end: 2021
+contract-start-year: 2015
+contract-end-year: 2021
 client: U.S. Government
 solutions:
 - Economic Growth

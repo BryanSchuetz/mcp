@@ -4,8 +4,8 @@ date: 2018-01-16 18:08:00 Z
 summary: The Mobilising Access to Maternal Health Services in Zambia (MAMaZ) programme
   addressed the factors that affect access to maternal, newborn, and child health
   services.
-start: 2010
-end: 2013
+contract-start-year: 2010
+contract-end-year: 2013
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
@@ -22,12 +22,12 @@ The programme addressed the factors that affect access to maternal, newborn, and
 ### Sample Activities
 
 * Work directly with communities to build social approval for behaviour change.
-* Assist communities to develop their own emergency response systems. 
+* Assist communities to develop their own emergency response systems.
 * Worked through existing structures.
 *Train community health volunteers to manage the process.
 
 ### Select Results
 
-* Increased the usage of skilled attendants at childbirth from 43 percent to 70 percent.  
+* Increased the usage of skilled attendants at childbirth from 43 percent to 70 percent.
 * Increased the number of women who attended prenatal care in their first trimester from 47 percent to 71 percent. The proportion of those women who attended at least four antenatal care visits in total increased from 30 percent to 43 percent.
 * Retained 95 percent of volunteers.

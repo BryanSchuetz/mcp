@@ -5,8 +5,8 @@ summary: 'CAMI improved service delivery and strengthened government legitimacy 
   50 local municipalities in Kyrgyzstan, which resulted in 15,636 residents with improved
   access to clean drinking water, 53,245 citizens benefitting from improved garbage
   collection, and 590 public dialogue sessions. '
-start: 2016
-end: 2021
+contract-start-year: 2016
+contract-end-year: 2021
 client: U.S. Government
 solutions:
 - Governance

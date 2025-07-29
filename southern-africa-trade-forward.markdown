@@ -4,8 +4,8 @@ date: 2020-02-21 11:49:00 Z
 summary: The Trade Forward Southern Africa programme supported trade growth, improved
   gender equality in the trade arena, and alleviated poverty across Botswana, Eswatini,
   Lesotho, Mozambique, Namibia, and South Africa.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -35,7 +35,7 @@ promos:
 
 The program helped businesses meet the standards required for exporting to regional and international markets. It worked primarily with and through business support organisations, such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It focused on providing technical cooperation to export and near-export businesses, particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.
 
-TFSA’s achievements include handing over the [TFSA Trade Hub](https://www.tfsouthernafrica.org/) and [School of Export (SoE)](https://www.schoolofexport.org/) to a sustainable legacy partner. The Hub provides a digital library of export resources that have been crucial in helping small firms begin their export journey—since 2021, 72,682 users have visited the site. The SoE learning management system offers 28 modules to help SMEs build capacity to export, grow revenue, and create jobs. Over two years, 3,623 registered users completed 2,729 courses. 
+TFSA’s achievements include handing over the [TFSA Trade Hub](https://www.tfsouthernafrica.org/) and [School of Export (SoE)](https://www.schoolofexport.org/) to a sustainable legacy partner. The Hub provides a digital library of export resources that have been crucial in helping small firms begin their export journey—since 2021, 72,682 users have visited the site. The SoE learning management system offers 28 modules to help SMEs build capacity to export, grow revenue, and create jobs. Over two years, 3,623 registered users completed 2,729 courses.
 
 <iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

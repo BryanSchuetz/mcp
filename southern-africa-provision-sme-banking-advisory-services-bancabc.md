@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'BancABC is a pan-African financial services group that operates in five
   countries: Botswana, Mozambique, Tanzania, Zambia, and Zimbabwe. DAI helped BancABC
   build efficient and profitable operations that increased financial intermediation.'
-start: 2011
-end: 2014
+contract-start-year: 2011
+contract-end-year: 2014
 client: International Finance Corporation
 solutions:
 - Economic Growth

@@ -6,8 +6,8 @@ summary: In 2011, the European Union and the Government of Liberia concluded a V
   and Trade Action Plan. The agreement commits the Liberian Government to developing
   and implementing systems to ensure that its timber exports to the European Union
   come from legal sources.
-start: 2013
-end: 2018
+contract-start-year: 2013
+contract-end-year: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

@@ -6,8 +6,8 @@ summary: 'PROSPECT helped the Association of Southeast Asian Nations (ASEAN) def
   joint measures to address transnational challenges, strengthened ASEAN’s people-to-people
   engagement, and elevated rights and opportunities for women and other vulnerable
   groups. '
-start: 2018
-end: 2024
+contract-start-year: 2018
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

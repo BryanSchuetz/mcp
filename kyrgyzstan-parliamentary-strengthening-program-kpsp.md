@@ -5,8 +5,8 @@ summary: 'To effect reform and stability, the Kyrgyzstan Parliament must work to
   three intertwined objectives: being a more constructive actor in the Kyrgyz state
   system, a responsive and representative body, and a well-managed institution. DAI
   supported the Parliament (*Jogorku Kenesh*) in that effort.'
-start: 2010
-end: 2015
+contract-start-year: 2010
+contract-end-year: 2015
 client: U.S. Government, U.K. Foreign, Commonwealth & Development
   Office
 solutions:

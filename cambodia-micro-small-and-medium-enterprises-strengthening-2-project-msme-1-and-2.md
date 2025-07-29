@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Cambodia MSME 1 and 2 Project built upon the success of DAI-led employing
   a market-driven, grassroots strategy aimed at alleviating poverty and fostering
   economic growth in 17 rural provinces.
-start: 2005
-end: 2012
+contract-start-year: 2005
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Economic Growth

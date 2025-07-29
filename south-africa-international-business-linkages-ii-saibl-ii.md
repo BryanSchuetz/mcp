@@ -5,8 +5,8 @@ summary: With the South Africa International Business Linkages II program (SAIBL
   an enterprise development and business linkages project, we worked to reverse the
   damage done to black-owned business during apartheid through training, technical
   assistance, and linking businesses.
-start: 2008
-end: 2012
+contract-start-year: 2008
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Economic Growth

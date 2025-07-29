@@ -6,8 +6,8 @@ terminated: true
 summary: 'Policy LINK strengthens the leadership capacity of public, private, and
   civil society actors and fosters collective action among them to transform policy
   systems. '
-start: 2019
-end: 2024
+contract-start-year: 2019
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

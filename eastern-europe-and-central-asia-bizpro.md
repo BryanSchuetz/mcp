@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine,
   and Moldova. In Belarus, we organized professional accounting programs and engaged
   a local think tank to provide economic analysis.
-start: 2000
-end: 2006
+contract-start-year: 2000
+contract-end-year: 2006
 client: U.S. Government
 solutions:
 - Economic Growth

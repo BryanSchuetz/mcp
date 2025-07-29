@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI supported a Zambian-led process, built sustained capacity in the Cabinet
   Office, which has a central role in driving up efficiency and holding line ministries
   accountable.
-start: 2014
-end: 2016
+contract-start-year: 2014
+contract-end-year: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -20,7 +20,7 @@ Zambia is a middle-income country but poverty is still widespread and service de
 
 DAI supported a Zambian-led process, built sustained capacity in the Cabinet Office, which has a central role in driving up efficiency and holding line ministries accountable. PSPP aimed for a balance between rural and urban issues, and an appropriate geographic spread. PSPP developed links and achieved synergy with other Zambia programmes of the U.K. Department for International Development.
 
-The programme addressed three projects to start: Agricultural Policy and Programmes, with an initial focus on agricultural extension services, particularly to poor farmers in remote, rural areas; employment policies and programmes, with an initial focus on the significant unemployment among urban youth; and service delivery programmes: accessing birth certificates, which are fundamental to effectively participating in society and basic rights such as health care, education, inheritance, access to a passport, opening a bank account, or obtaining credit.
+The programme addressed three projects to contract-start-year: Agricultural Policy and Programmes, with an initial focus on agricultural extension services, particularly to poor farmers in remote, rural areas; employment policies and programmes, with an initial focus on the significant unemployment among urban youth; and service delivery programmes: accessing birth certificates, which are fundamental to effectively participating in society and basic rights such as health care, education, inheritance, access to a passport, opening a bank account, or obtaining credit.
 
 ### Select Results
 

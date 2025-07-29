@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI provided technical assistance under EUROSAN, a food security and nutrition
   project, which was led by Belgium-based Agriconsulting and supported by DAI and
   Nicaragua-based Simbiosis.
-start: 2015
-end: 2021
+contract-start-year: 2015
+contract-end-year: 2021
 client: European Union
 solutions:
 - Economic Growth

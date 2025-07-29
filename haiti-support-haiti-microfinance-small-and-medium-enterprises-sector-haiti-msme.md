@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Haiti MSME was launched by the U.S. Agency for International Development
   (USAID) to improve livelihoods and create employment through broader access to financial
   services.
-start: 2006
-end: 2009
+contract-start-year: 2006
+contract-end-year: 2009
 client: U.S. Government
 solutions:
 - Economic Growth

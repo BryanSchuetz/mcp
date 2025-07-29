@@ -7,8 +7,8 @@ summary: The Ukraine Governance and Local Accountability (HOVERLA) program is co
   the necessary legal framework for decentralization, supporting the operation of
   newly consolidated communities, improving services delivered to citizens, and advancing
   citizen engagement at all levels.
-start: 2021
-end: 2024
+contract-start-year: 2021
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Governance

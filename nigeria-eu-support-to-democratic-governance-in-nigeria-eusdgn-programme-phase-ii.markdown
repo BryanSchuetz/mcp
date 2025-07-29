@@ -7,8 +7,8 @@ tags:
 summary: DAI supports the Independent National Electoral Commission (INEC) in Nigeria—which
   works to enhance the credibility of the elections and seeks to boost citizen participation
   across the country.
-start: 2022
-end: 2027
+contract-start-year: 2022
+contract-end-year: 2027
 client: European Union
 solutions:
 - Governance
@@ -19,20 +19,20 @@ country: Nigeria
 promos:
 - title: DAI’s Joe Abah Speaks on the Nigeria 2023 Elections at EUSDGN Project Event
   link: https://www.dai.com/news/dais-joe-abah-speaks-on-the-nigeria-2023-elections-at-eu-sdgn-project-event
-- title: 
-  link: 
+- title:
+  link:
 ---
 
-Nigeria has significant security challenges and is confronted with instability and conflict on several fronts. The upcoming general elections in 2023 and in 2027 present a chance to improve the democratic process. 
+Nigeria has significant security challenges and is confronted with instability and conflict on several fronts. The upcoming general elections in 2023 and in 2027 present a chance to improve the democratic process.
 
-The European Union-funded Support to Democratic Governance in Nigeria (EUSDGN) Programme, Phase II, works to facilitate a peaceful and fair electoral process that advances the country’s political and economic development. 
+The European Union-funded Support to Democratic Governance in Nigeria (EUSDGN) Programme, Phase II, works to facilitate a peaceful and fair electoral process that advances the country’s political and economic development.
 
-DAI leads activities under Component 1 of the programme—Support to the Independent National Electoral Commission (INEC)—which works to enhance the credibility of the elections and seeks to boost citizen participation across the country. Under the supervision of the EU Delegation, DAI also supports monitoring and evaluation and leads visibility activities for the project. 
+DAI leads activities under Component 1 of the programme—Support to the Independent National Electoral Commission (INEC)—which works to enhance the credibility of the elections and seeks to boost citizen participation across the country. Under the supervision of the EU Delegation, DAI also supports monitoring and evaluation and leads visibility activities for the project.
 
 ![ADEM7824.jpg](/uploads/ADEM7824.jpg)
 
 ## Sample Activities
- 
+
 * Improve the quality of electoral administration in Nigeria through support to INEC, State Independent Electoral Commissions, and other stakeholders.
 * Strengthen legislative and judicial reform capacities in compliance with democratic principles and standards.
 * Enhance pluralism, internal democracy, and equality of opportunity in the political parties and party system.
@@ -45,7 +45,7 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 ## Select Results
 
 * Trained 300 judges of the Court of Appeal and Judges (members) of the Election Petition Tribunal on how to address potential conflicting judgments in electoral litigations.
-* Lead the [innovative voter education initiative](https://eusdgn.org/youthvotecountng-mega-concert-in-lagos/) on the electoral process, including the incorporation of pop culture and music artists during the [Youth Votes Count concert](https://eusdgn.org/wp-content/uploads/2022/09/Case-Study-1.pdf), which led to 25,000 youths registering for permanent voter card. 
+* Lead the [innovative voter education initiative](https://eusdgn.org/youthvotecountng-mega-concert-in-lagos/) on the electoral process, including the incorporation of pop culture and music artists during the [Youth Votes Count concert](https://eusdgn.org/wp-content/uploads/2022/09/Case-Study-1.pdf), which led to 25,000 youths registering for permanent voter card.
 * Lead the signing of the [Peace Accord by all presidential candidates](https://placng.org/Legist/political-parties-presidential-candidates-sign-peace-accord-as-campaigns-start/) for the 2023 General elections committing to a civil electoral process, and submitting themselves to accountability.
 * Mobilized more than 1,800 people with disabilities across the country to vote and be a part of the electoral process.
 * Introduced community outreach and sensitization programs for marginalized groups.

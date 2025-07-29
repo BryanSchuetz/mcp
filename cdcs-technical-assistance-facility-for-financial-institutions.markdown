@@ -4,8 +4,8 @@ date: 2021-09-21 13:13:00 Z
 summary: 'FSG Plus supports BII in addressing two pressing priorities—i) inclusion
   and ii) climate and environmental sustainability—by catalyzing sustainable practice
   change in financial institutions. '
-start: 2021
-end: 2026
+contract-start-year: 2021
+contract-end-year: 2026
 client: British International Investment (BII)
 solutions:
 - Economic Growth
@@ -16,7 +16,7 @@ country: Regional
 
 British International Investment (BII)—formerly CDC Group—is the UK Government’s development finance institution. It supports the sustainable, long-term growth of businesses across South Asia and Africa.
 
-Financial Services Group Plus (FSG Plus) is a Technical Assistance (TA) Facility for Financial Institutions that enables a systematic approach to TA delivery. It works with financial service providers in South Asia and Africa to catalyze investment in low-carbon, climate-resilient projects and promote inclusive climate finance. 
+Financial Services Group Plus (FSG Plus) is a Technical Assistance (TA) Facility for Financial Institutions that enables a systematic approach to TA delivery. It works with financial service providers in South Asia and Africa to catalyze investment in low-carbon, climate-resilient projects and promote inclusive climate finance.
 
 FSG Plus looks for opportunities to:
 * Develop new/improved products: this includes improvements to the design and distribution of financial services to make them more accessible to unserved customer segments, such as women-led businesses and small and medium-sized enterprises (SMEs) in frontier markets.

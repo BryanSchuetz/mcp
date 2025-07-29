@@ -5,8 +5,8 @@ summary: In Indonesia, 100 million people lack access to clean water, and many h
   in densely populated areas are not served by existing piped water. This project
   developed an innovative "ridge to reef" approach that leveraged the inextricable
   connection between health and the environment.
-start: 2004
-end: 2010
+contract-start-year: 2004
+contract-end-year: 2010
 client: U.S. Government
 solutions:
 - Environment

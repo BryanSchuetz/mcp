@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: An estimated 12 million people and families in Vietnam are affected by disabilities.
   We assisted the Vietnamese to provide more comprehensive care, treatment, and specialized
   assistance to people with disabilities.
-start: 2012
-end: 2016
+contract-start-year: 2012
+contract-end-year: 2016
 client: U.S. Government
 solutions:
 - Global Health

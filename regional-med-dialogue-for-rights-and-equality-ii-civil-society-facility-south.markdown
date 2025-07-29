@@ -5,8 +5,8 @@ summary: The MED Dialogue For Rights and Equality II, Civil Society Facility Sou
   project works to increase the capacity of young civil society actors as key partners
   in designing and implementing policies and programs that address the region’s developmental
   challenges.
-start: 2023
-end: 2026
+contract-start-year: 2023
+contract-end-year: 2026
 client: European Union
 solutions:
 - Governance
@@ -24,7 +24,7 @@ This project uses an integrated approach to support greater involvement of civil
 
 ## Sample Activities
 
-* Implement a civil society leadership programme to train and empower young leaders in assuming their role in policy dialogue and advocacy activities in the region.  
+* Implement a civil society leadership programme to train and empower young leaders in assuming their role in policy dialogue and advocacy activities in the region.
 * Support the creation and maintenance of alumni networks for young leaders in the South Mediterranean with a focus on building collaborative relationships between young civil society leaders.
 * Organise national meetings in the Middle East and North Africa.
 * Facilitate awareness-raising and knowledge-sharing of the structured dialogue processes.

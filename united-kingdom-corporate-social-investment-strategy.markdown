@@ -6,8 +6,8 @@ summary: 'DAI’s Sustainable Business Group (SBG) was engaged by a leading U.K.
   team and produce a refreshed strategy and impact measurement framework for its shared
   value social investment initiative for the company’s fresh produce sourcing in emerging
   markets. '
-start: 2017
-end: 2018
+contract-start-year: 2017
+contract-end-year: 2018
 client: Multinational corporation
 solutions:
 - Sustainable Business

@@ -4,8 +4,8 @@ date: 2017-08-24 17:01:00 Z
 summary: 'DAI’s Sustainable Business Group was contracted by the World Bank to develop,
   plan, and deliver The Kenya Local Content Exchanges project, an initiative of the
   Petroleum Business Opportunities project. '
-start: 2017
-end: 2018
+contract-start-year: 2017
+contract-end-year: 2018
 client: World Bank
 solutions:
 - Sustainable Business

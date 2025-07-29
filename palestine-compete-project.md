@@ -5,8 +5,8 @@ summary: DAI worked with key Palestinian sectors  to better compete in regional 
   global markets. Targeted sectors in the West Bank and Gaza included agribusiness,
   tourism, information and communications technology, stone and marble, fishing, and
   garments.
-start: 2011
-end: 2019
+contract-start-year: 2011
+contract-end-year: 2019
 client: U.S. Government
 solutions:
 - Economic Growth

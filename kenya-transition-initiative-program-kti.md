@@ -5,8 +5,8 @@ summary: Through assistance in reducing tensions and by enabling economic, polit
   and social recovery, the Kenya Transition Initiative Program (KTI) helped to renew
   the nation's confidence and capacity in addressing instability, political marginalization,
   and violence.
-start: 2007
-end: 2012
+contract-start-year: 2007
+contract-end-year: 2012
 client: U.S. Government
 solutions:
 - Fragile States

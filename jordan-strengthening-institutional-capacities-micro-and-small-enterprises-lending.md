@@ -7,8 +7,8 @@ summary: As part of a European Reconstruction and Development Bank-funded projec
   MSME lender by implementing a specialized lending methodology, training bank staff
   in MSME lending, strengthening internal audit and control procedures, developing
   a credit scoring model, and improving performance measurement.
-start: 2016
-end: 2017
+contract-start-year: 2016
+contract-end-year: 2017
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

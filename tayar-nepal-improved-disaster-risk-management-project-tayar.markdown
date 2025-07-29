@@ -4,8 +4,8 @@ date: 2019-09-25 13:47:00 Z
 summary: Tayar benefitted more than 716,000 people across the country through its
   disaster preparedness and response activities, aimed at improving national systems
   and institutions’ response to all types of natural disasters.
-start: 2019
-end: 2024
+contract-start-year: 2019
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Environment

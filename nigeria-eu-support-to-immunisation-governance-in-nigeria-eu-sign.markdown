@@ -4,8 +4,8 @@ date: 2017-08-28 17:43:00 Z
 summary: 'The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project improved
   maternal newborn and child health by protecting children and their mothers from
   preventable diseases. '
-start: 2014
-end: 2019
+contract-start-year: 2014
+contract-end-year: 2019
 client: European Union
 solutions:
 - Health Governance
@@ -21,7 +21,7 @@ Funded by the European Union, the project strengthened the governance of routine
 
 The project worked closely with the National Primary Health Care Development Agency (NPHCDA) and its state counterparts to ensure sustainable quality routine immunisation services.
 
-Conseil Sante, in partnership with DAI Global Health, managed the contract and provided technical assistance to the NPHCDA to support and enhance its capacity to effectively manage and utilize European Development Fund resources under the SIGN project. 
+Conseil Sante, in partnership with DAI Global Health, managed the contract and provided technical assistance to the NPHCDA to support and enhance its capacity to effectively manage and utilize European Development Fund resources under the SIGN project.
 
 ### Sample Activities
 

@@ -5,8 +5,8 @@ summary: 'DAI’s Fleming Fund programme in Nigeria was a collaboration with the
   government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a
   “One Health” approach—a multisectoral approach to complex health problems that reaches
   across human health, animal health, and environment sectors. '
-start: 2019
-end: 2021
+contract-start-year: 2019
+contract-end-year: 2021
 client: U.K. Department of Health and Social Care
 solutions:
 - Health Governance
@@ -37,7 +37,7 @@ Fleming Fund Nigeria partners included the Institute for Human Virology Nigeria,
 
 ## Select Results
 
-* Built a strong multisector country AMR governance structure at national and local levels in health facilities and laboratories. 
+* Built a strong multisector country AMR governance structure at national and local levels in health facilities and laboratories.
 * Strengthened laboratory infrastructure and equipment across reference laboratories and surveillance sites.
 * Improved antimicrobial stewardship across human health reference laboratories and sites.
 * Developed and used policies, strategies, protocols, standards, and guidelines relevant to effective AMR.

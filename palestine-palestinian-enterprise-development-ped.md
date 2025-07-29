@@ -2,8 +2,8 @@
 title: Palestine—Palestinian Enterprise Development (PED)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-start: 2005
-end: 2008
+contract-start-year: 2005
+contract-end-year: 2008
 regions:
 - Middle East and North Africa
 country:

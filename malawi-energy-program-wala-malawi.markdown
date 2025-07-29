@@ -6,8 +6,8 @@ tags:
 - European Union
 summary: 'Wala Malawi supports the industrialization and diversification of the Malawian
   electricity sector by implementing reforms and promoting private-sector investments. '
-start: 2022
-end: 2026
+contract-start-year: 2022
+contract-end-year: 2026
 client: European Union
 solutions:
 - Climate
@@ -17,9 +17,9 @@ country: Malawi
 ---
 
 In Malawi, inadequate electricity generation capacity and limited access to modern energy have the combined effect of inhibiting economic development at all levels. Characterized by aging infrastructure and persistent outages, the electricity supply system is over-reliant on hydropower, with most of the generating stations located on one river.
- 
+
 Diversifying the energy mix in Malawi is one of the key pillars of the country's National Energy Policy. Electricity generation from renewable sources is envisaged to increase electricity generation capacity and boost electricity access from 18 percent of the population to 30 percent by 2030.
- 
+
 Against this backdrop, our technical assistance supports the industrialization and diversification of the electricity sector by implementing reforms and promoting private-sector investment. Our assistance is part of a wider program called the Malawi Energy Program (Wala Malawi), a central component of the Team Europe Initiative, “Green Growth for Malawi,” which supports the resilient transformation of Malawi’s economy and energy systems.
 
 ![Local Government Accountability and Performance (LGAP).JPG](/uploads/Local%20Government%20Accountability%20and%20Performance%20(LGAP).JPG)

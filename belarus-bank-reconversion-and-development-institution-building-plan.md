@@ -5,8 +5,8 @@ summary: DAI led a consortium that provided technical assistance in parallel to 
   equity investment by the European Bank for Reconstruction and Development for the
   Reconversion and Development Bank of Belarus of $3.36 million in 2008, followed
   by a further increase in 2010.
-start: 2009
-end: 2011
+contract-start-year: 2009
+contract-end-year: 2011
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

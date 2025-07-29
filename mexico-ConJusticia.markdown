@@ -8,8 +8,8 @@ summary: ConJusticia in Mexico consolidates and sustains recent justice system r
   by supporting state-level attorneys general offices and justice courts, with an
   emphasis on promoting collaboration and durable partnerships between these entities
   and other justice sector and local actors.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Include Primary and/or Secondary Solutions

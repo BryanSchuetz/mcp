@@ -6,8 +6,8 @@ terminated: false
 summary: The Cybersecurity for Critical Infrastructure Activity works to reduce cybersecurity
   vulnerabilities in critical infrastructure and to transform Ukraine from a compromised,
   reactive cybersecurity actor to a proactive cybersecurity leader.
-start: 2020
-end: 2025
+contract-start-year: 2020
+contract-end-year: 2025
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -5,8 +5,8 @@ summary: The Guatemala National Institutions Strengthening Project supported the
   reform efforts, focused on creating a more effective and transparent public financial
   management system, which will, in turn, improve governance, reduce opportunities
   for corruption, enhance public service delivery, and deter illegal migration.
-start: 2022
-end: 2023
+contract-start-year: 2022
+contract-end-year: 2023
 client: U.S. Government
 solutions:
 - Governance

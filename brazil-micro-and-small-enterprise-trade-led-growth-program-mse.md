@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development (USAID) Brazil Micro and Small
   Enterprise Trade-Led Growth Program was a pilot project, aimed at enhancing job
   and income creation through trade-led growth of micro and small enterprises.
-start: 2004
-end: 2007
+contract-start-year: 2004
+contract-end-year: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

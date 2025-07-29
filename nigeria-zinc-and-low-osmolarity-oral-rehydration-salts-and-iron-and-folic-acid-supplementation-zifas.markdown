@@ -5,8 +5,8 @@ date: 2017-08-28 20:05:00 Z
 summary: ZIFAS increased the coverage and quality of antenatal care using low dose
   IFAS to reduce pregnancy related illnesses and deaths resulting from anaemia in
   pregnancy in Nigeria.
-start: 2013
-end: 2016
+contract-start-year: 2013
+contract-end-year: 2016
 client: Micronutrient Initiative
 solutions:
 - Global Health

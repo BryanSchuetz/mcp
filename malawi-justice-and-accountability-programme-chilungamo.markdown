@@ -4,8 +4,8 @@ date: 2020-04-21 14:52:00 Z
 summary: Chilungamo contributed to increased levels of governance, accountability,
   compliance with the rule of law, and respect, promotion, and protection of human
   rights in Malawi.
-start: 2017
-end: 2023
+contract-start-year: 2017
+contract-end-year: 2023
 client: European Union
 solutions:
 - Governance
@@ -17,14 +17,14 @@ country: Malawi
 
 The Government of Malawi has stated its commitment to contributing to dignified lives for its citizens through an accountable government, informed democratic choice, and the humane and effective delivery of justice.
 
-The Chilungamo (“justice”) project contributed to increased levels of governance, accountability, compliance with the rule of law, and respect, promotion, and protection of human rights in Malawi. The project worked to reduce the burden on the criminal justice system, coordinate the criminal justice system, reduce prison overcrowding, and increase access to justice for both victims and offenders. This effort to improve the justice system has assisted more than 100,000 Malawians by creating victim support units, ensuring people receive legal aid, handling 6,100 cases of violence against women, resolving 3,700 cases of maladministration, and facilitating the release of close to 5,000 prisoners—including people found to be innocent or detained beyond their sentence terms. 
+The Chilungamo (“justice”) project contributed to increased levels of governance, accountability, compliance with the rule of law, and respect, promotion, and protection of human rights in Malawi. The project worked to reduce the burden on the criminal justice system, coordinate the criminal justice system, reduce prison overcrowding, and increase access to justice for both victims and offenders. This effort to improve the justice system has assisted more than 100,000 Malawians by creating victim support units, ensuring people receive legal aid, handling 6,100 cases of violence against women, resolving 3,700 cases of maladministration, and facilitating the release of close to 5,000 prisoners—including people found to be innocent or detained beyond their sentence terms.
 
 ![Malawi Prisons Office Nov 17.jpg](/uploads/Malawi%20Prisons%20Office%20Nov%2017.jpg)
- 
+
 ## Sample Activities
 
 * Raise citizen awareness of available legal services.
-* Ensure effective and efficient coordination between all stakeholders and implementers involved in the project.	
+* Ensure effective and efficient coordination between all stakeholders and implementers involved in the project.
 
 ## Select Results
 

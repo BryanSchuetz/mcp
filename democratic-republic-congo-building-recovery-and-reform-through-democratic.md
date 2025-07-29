@@ -7,8 +7,8 @@ summary: 'Working at national and provincial levels, the Building Recovery and R
   consulting and technical assistance, training services, applied research, workshops,
   conference organization and hosting, logistical support, and commodities to advance
   the DRC''s political transition. '
-start: 2008
-end: 2010
+contract-start-year: 2008
+contract-end-year: 2010
 client: U.S. Government
 solutions:
 - Fragile States

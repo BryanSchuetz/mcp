@@ -6,8 +6,8 @@ terminated: true
 summary: The Trade and Investment Facilitation Activity works to boost the exports
   of Lebanese goods and services, facilitate investment in Lebanese enterprises, and
   improve the business and investment enabling environment in Lebanon.
-start: 2020
-end: 2024
+contract-start-year: 2020
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

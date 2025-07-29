@@ -5,8 +5,8 @@ summary: This partnership between the U.S. Department Of Labor and Vietnamese go
   follow-on to Phase 1 that was funded by the U.S. Agency for International Development—provided
   technical assistance to unions, businesses, and government in strengthening the
   implementation of labor laws and promoting sound industrial relations.
-start: 2009
-end: 2013
+contract-start-year: 2009
+contract-end-year: 2013
 client: U.S. Government
 solutions:
 - Economic Growth

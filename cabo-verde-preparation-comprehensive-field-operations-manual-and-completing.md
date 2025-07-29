@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Cabo Verde Land project provided direct support for public outreach,
   adjudication, parcel mapping, data capture, processing of information and records
   for the purpose of land registration.
-start: 2014
-end: 2016
+contract-start-year: 2014
+contract-end-year: 2016
 client: Millennium Challenge Corporation
 solutions:
 - Economic Growth

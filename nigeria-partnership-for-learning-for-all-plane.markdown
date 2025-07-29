@@ -4,8 +4,8 @@ date: 2021-09-08 11:18:00 Z
 summary: 'The Partnership for Learning for All in Nigeria (PLANE) project is delivering
   a more inclusive and effective education system and improving learning outcomes
   for students in their pre-primary and primary years. '
-start: 2021
-end: 2028
+contract-start-year: 2021
+contract-end-year: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Education
@@ -29,16 +29,16 @@ promos:
 - title: 'VIDEO: Adoption of Education Dashboard strengthens school support visits
     in Kano, Kaduna, and Jigawa'
   link: https://vimeo.com/941934977?share=copy
-Field name: 
+Field name:
 ---
 
-Partnership for Learning for All in Nigeria (PLANE) is a seven-year education Program, funded by the U.K. Foreign, Commonwealth and Development Office (FCDO). It aims to support and realize the Government of Nigeria’s commitment to delivering sustainable improvements in learning outcomes for all of Nigeria’s children. 
+Partnership for Learning for All in Nigeria (PLANE) is a seven-year education Program, funded by the U.K. Foreign, Commonwealth and Development Office (FCDO). It aims to support and realize the Government of Nigeria’s commitment to delivering sustainable improvements in learning outcomes for all of Nigeria’s children.
 
-The program engages with state and non-state actors within the basic education sub-sector to strengthen systems for improved delivery of inclusive, good-quality foundational learning, with a focus on marginalized groups, especially girls and children with disabilities. It will contribute to transformational change, enabling the delivery of effective and efficient educational services at scale to improve learning outcomes. 
- 
+The program engages with state and non-state actors within the basic education sub-sector to strengthen systems for improved delivery of inclusive, good-quality foundational learning, with a focus on marginalized groups, especially girls and children with disabilities. It will contribute to transformational change, enabling the delivery of effective and efficient educational services at scale to improve learning outcomes.
+
 PLANE works at the federal level and in five states (Kaduna, Kano, Jigawa, Yobe, and Borno) with legislators, state and non-state education providers, civil society organizations, teachers' unions, community leaders, learners, and parents. It also works in two regions: the southeast and southwest.
 
-The program’s anticipated impact is significant and far-reaching, with the potential to reach up to eight million children. It aims to enhance teaching and learning for approximately 1.5 million children. Additionally, PLANE's initiatives in education during emergencies are expected to benefit around 600,000 children. By targeting various aspects of the education landscape, PLANE seeks to lay the foundation for improved learning outcomes, increased accessibility, and enhanced educational quality for generations to come. 
+The program’s anticipated impact is significant and far-reaching, with the potential to reach up to eight million children. It aims to enhance teaching and learning for approximately 1.5 million children. Additionally, PLANE's initiatives in education during emergencies are expected to benefit around 600,000 children. By targeting various aspects of the education landscape, PLANE seeks to lay the foundation for improved learning outcomes, increased accessibility, and enhanced educational quality for generations to come.
 
 More information is available on the [**PLANE website**](https://planenigeria.com/).
 

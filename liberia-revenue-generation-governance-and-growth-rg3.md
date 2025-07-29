@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Revenue Generation for Governance and Growth project helped the Liberia
   Revenue Authority to improve its tax collection system and cultivate accountability
   among taxpayers. '
-start: 2016
-end: 2021
+contract-start-year: 2016
+contract-end-year: 2021
 client: U.S. Government
 solutions:
 - Economic Growth

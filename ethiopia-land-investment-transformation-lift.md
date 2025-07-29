@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Land Investment for Transformation programme raised incomes for the rural
   poor and vulnerable populations in Ethiopia and enhanced economic growth through
   second-level land certification and improved rural land administration.
-start: 2013
-end: 2021
+contract-start-year: 2013
+contract-end-year: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -62,4 +62,4 @@ The [Land Investment for Transformation (LIFT) programme](https://liftethiopia.c
 * Advanced implementation of the new Rural Land Administration System to record post-registration land transactions.
 * Produced land policy reports to allow government stakeholders to make evidence-based decisions.
 * Published the [Inclusive Land Registration and Critical Role of Social Development Officers Guide](/uploads/DAI%20SDO%20Guide-3ddf0d.pdf).
-* Launched a Knowledge Hub to [share lessons learned](https://www.dai.com/news/ukaid-funded-land-programme-launches-knowledge-hub). 
+* Launched a Knowledge Hub to [share lessons learned](https://www.dai.com/news/ukaid-funded-land-programme-launches-knowledge-hub).

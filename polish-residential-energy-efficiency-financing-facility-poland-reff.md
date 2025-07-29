@@ -3,8 +3,8 @@ title: Poland—Residential Energy Efficiency Financing Facility (Poland REFF)
 date: 2016-01-21 22:40:00 Z
 summary: Poland REFF created a program of targeted loans to incentivize borrowing
   for household improvements that increase efficiency and reduce energy consumption.
-start: 2016
-end: 2023
+contract-start-year: 2016
+contract-end-year: 2023
 client: European Bank for Reconstruction and Development
 solutions:
 - Energy
@@ -34,8 +34,8 @@ The project facilitated the disbursement of €128 million in sub-loans through 
 
 ### Select Results
 
-* Created a €200 million credit facility to build the market for investments in sustainable energy in the residential sector in Poland.  
-* Ensured that financial institutions became familiar with appraising and financing energy efficiency and renewable energy investments in the sector.  
-* Increased awareness of potential borrowers of energy and resource-saving benefits. 
-* Developed an innovative List of Eligible Materials and Equipment to easily find energy-efficient products and materials, and giving materials suppliers the opportunity to register, bolstering demand for their businesses.  
+* Created a €200 million credit facility to build the market for investments in sustainable energy in the residential sector in Poland.
+* Ensured that financial institutions became familiar with appraising and financing energy efficiency and renewable energy investments in the sector.
+* Increased awareness of potential borrowers of energy and resource-saving benefits.
+* Developed an innovative List of Eligible Materials and Equipment to easily find energy-efficient products and materials, and giving materials suppliers the opportunity to register, bolstering demand for their businesses.
 * Won “Deal of the Year” at the Central and Eastern European Clean Energy Awards.

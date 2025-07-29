@@ -7,8 +7,8 @@ tags:
 summary: 'Our project strengthens Montenegro''s transport sector by enhancing institutional
   capacity, aligning national legislation with EU transport acquis, and advancing
   the preparation and implementation of priority transport projects. '
-start: 2025
-end: 2028
+contract-start-year: 2025
+contract-end-year: 2028
 client: European Union
 solutions:
 - Governance
@@ -19,7 +19,7 @@ country: Montenegro
 
 Montenegro has made significant progress in the transport sector as part of its European Union (EU) accession process, achieving a satisfactory level of preparedness in strategic development aligned with the [Trans-European Transport Network (TEN-T)](https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en) framework. However, challenges persist in legislative alignment, infrastructure project maturity, and administrative capacity, which require targeted reforms and capacity-building to ensure compliance with EU standards and effective implementation of transport policies.
 
-Our project strengthens Montenegro's transport sector by enhancing institutional capacity, aligning national legislation with EU transport acquis, and advancing the preparation and implementation of priority transport projects. 
+Our project strengthens Montenegro's transport sector by enhancing institutional capacity, aligning national legislation with EU transport acquis, and advancing the preparation and implementation of priority transport projects.
 
 The initiative focuses on improving strategic planning, legal harmonization in areas like road safety and maritime transport and developing priority infrastructure projects to a mature stage. These efforts contribute to creating a more efficient, sustainable, and EU-compliant transport system in Montenegro.
 

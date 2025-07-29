@@ -6,8 +6,8 @@ summary: 'This project increased the number of local suppliers of fresh produce 
   black economic empowerment policy. It assisted farmers and cooperatives with the
   informed farm- and market-level support they need to link to Massmart''s fresh produce
   supply chain. '
-start: 2013
-end: 2014
+contract-start-year: 2013
+contract-end-year: 2014
 client: Walmart
 solutions:
 - Agriculture and Food Security

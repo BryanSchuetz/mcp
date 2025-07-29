@@ -6,8 +6,8 @@ summary: DAI supported the Government of Botswana, and especially the Ministry o
   Education and Skills Development, to implement the Education and Training Strategic
   Sector Plan and to undertake key system reforms, including improvements in public
   finance management.
-start: 2017
-end: 2018
+contract-start-year: 2017
+contract-end-year: 2018
 client: European Union
 solutions:
 - Education
@@ -16,7 +16,7 @@ regions: Sub-Saharan Africa
 country: Botswana
 ---
 
-As part of a national development strengthening initiative, Botswana has begun transforming its education system to align it with the national development vision—culminating in the Education and Training Strategic Sector Plan (ETSSP). 
+As part of a national development strengthening initiative, Botswana has begun transforming its education system to align it with the national development vision—culminating in the Education and Training Strategic Sector Plan (ETSSP).
 
 DAI supported the Government of Botswana, and especially the Ministry of Education and Skills Development, to implement the ETSSP and to undertake key system reforms, including improvements in public finance management. The ETSSP supported Botswana’s Vision 2016 development goals through the 10th National Development in terms of a prosperous, productive, and innovative society achieved through poverty reduction, promotion of life-long learning and helping to promote the National Human resources Development Strategy (NHRDS).
 
@@ -26,7 +26,7 @@ DAI supported the Government of Botswana, and especially the Ministry of Educati
 
 * Establish robust and efficient systems and frameworks for improved service delivery by the public, mainly in the education sector of Botswana.
 * Improve the capacity in concerned ministries and parastatals to implement system reforms and policies as laid out in reform programmes approved by the Government.
-* Integrate holistic advisory services that provide solutions to the benefit of the sector(s) concerned. 
+* Integrate holistic advisory services that provide solutions to the benefit of the sector(s) concerned.
 * Strengthen and improve processes in place of planning, implementation, and monitoring and evaluation of the Education Sector Plan 2015-2020 in the ministries in the education sector and concerned parastatals.
 
 ### Select Results

@@ -7,8 +7,8 @@ summary: The EU-GCC Dialogue on Economic Diversification II project aims to enha
   economic, trade, and investment cooperation between the EU and Gulf regions. By
   focusing on innovation-driven industries, the project leverages the EU’s expertise
   to support the Gulf Cooperation Council's diversification goals.
-start: 2025
-end: 2027
+contract-start-year: 2025
+contract-end-year: 2027
 client: European Union
 solutions:
 - Economic Growth

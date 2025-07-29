@@ -5,8 +5,8 @@ summary: 'Through Puentes para el Empleo, DAI supported the U.S. Agency for Inte
   Development in El Salvador to link young people—including women and vulnerable populations—to
   basic social resources of work, knowledge, security, and social capital to foster
   inclusion through employment opportunities. '
-start: 2015
-end: 2020
+contract-start-year: 2015
+contract-end-year: 2020
 client: U.S. Government
 solutions:
 - Economic Growth

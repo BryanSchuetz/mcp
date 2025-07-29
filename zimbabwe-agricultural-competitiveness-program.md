@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI worked through existing institutions and with the re-emerging private
   sector to identify needed reforms in the investment environment to promote competitiveness
   in Zimbabwe's agricultural sector.
-start: 2010
-end: 2015
+contract-start-year: 2010
+contract-end-year: 2015
 client: U.S. Government
 solutions:
 - Economic Growth

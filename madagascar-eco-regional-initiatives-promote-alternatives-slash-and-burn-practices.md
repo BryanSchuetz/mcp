@@ -7,8 +7,8 @@ summary: Through the Eco-Regional Initiatives to Promote Alternatives to Slash a
   and development that contributed to national goals articulated in the "Madagascar
   Naturellement" vision, the "Madagascar Action Plan," and other government policy
   documents.
-start: 2004
-end: 2009
+contract-start-year: 2004
+contract-end-year: 2009
 client: U.S. Government
 solutions:
 - Environment

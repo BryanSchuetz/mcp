@@ -4,8 +4,8 @@ date: 2017-09-01 17:19:00 Z
 summary: The Partnership for Transforming Health Systems 1 in Nigeria supported local
   initiatives to strengthen government stewardship in health policy, planning, and
   financing to improve management in public health.
-start: 2002
-end: 2008
+contract-start-year: 2002
+contract-end-year: 2008
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI supported a World Bank pilot program by assessing and making recommendations
   for investment and design of a mobile platform for disseminating market and climate
   information to farmers in the Kafue and Barotse sub-basins of Zambia.
-start: 2012
-end: 2012
+contract-start-year: 2012
+contract-end-year: 2012
 client: International Finance Corporation
 solutions:
 - Environment

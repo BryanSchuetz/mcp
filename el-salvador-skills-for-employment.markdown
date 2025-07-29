@@ -6,8 +6,8 @@ terminated: true
 summary: Our assistance enhances local Salvadoran partners' ability to improve human
   capital and strengthen job training and placement outcomes for vulnerable populations
   and for likely migrants.
-start: 2023
-end: 2024
+contract-start-year: 2023
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

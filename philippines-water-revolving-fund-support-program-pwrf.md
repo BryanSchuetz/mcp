@@ -5,8 +5,8 @@ summary: The Philippines Water Revolving Fund, the only water revolving fund out
   the United States and Europe, leveraged overseas development assistance with local
   private funds using a blended finance arrangement between the Philippine government
   and private banks.
-start: 2006
-end: 2013
+contract-start-year: 2006
+contract-end-year: 2013
 client: U.S. Government
 solutions:
 - Environment

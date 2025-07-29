@@ -6,8 +6,8 @@ published: false
 terminated: true
 summary: 'DAI is working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and
   Uzbekistan to improve regional trade—which will grow exports and employment. '
-start: 2016
-end: 2024
+contract-start-year: 2016
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -5,8 +5,8 @@ summary: The Zimbabwe Accountability and Citizen Engagement (ZIMACE) program pro
   human rights and promotes transparent and accountable governance across Zimbabwe
   by empowering citizens to hold the state accountable for its use of resources and
   its respect for human rights and democratic principles.
-start: 2023
-end: 2027
+contract-start-year: 2023
+contract-end-year: 2027
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

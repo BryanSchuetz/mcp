@@ -5,8 +5,8 @@ summary: The Parliamentary Program in Azerbaijan project assisted the Parliament
   called the Milli Majlis, in improving its government oversight and representation
   functions, with an emphasis on internal institutional reform and training of new
   constituency-based staff.
-start: 2007
-end: 2010
+contract-start-year: 2007
+contract-end-year: 2010
 client: U.S. Government
 solutions:
 - Governance

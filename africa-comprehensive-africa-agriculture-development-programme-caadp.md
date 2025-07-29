@@ -5,8 +5,8 @@ summary: The Comprehensive Africa Agriculture Development Programme (CAADP) is t
   agricultural programme of the New Partnership for Africa's Development, an African
   Union (AU) programme. We provided technical assistance, at country and regional
   levels, to the CAADP.
-start: 2012
-end: 2016
+contract-start-year: 2012
+contract-end-year: 2016
 client: World Bank
 solutions:
 - Agriculture and Food Security

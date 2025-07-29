@@ -7,12 +7,12 @@ summary: 'DAI was commissioned by TradeMark Southern Africa to conduct an indepe
   aim of improving the relationship between the retailer and its suppliers.
 
 '
-start: 2012
-end: 2012
+contract-start-year: 2012
+contract-end-year: 2012
 client: TradeMark Southern Africa
 solutions:
 - Agriculture and Food Security
-- 
+-
 - Economic Growth
 regions:
 - Sub-Saharan Africa

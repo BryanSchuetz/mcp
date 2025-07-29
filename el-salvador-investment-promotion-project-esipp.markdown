@@ -5,8 +5,8 @@ published: false
 terminated: true
 summary: The Investment Promotion Project is a five-year USAID initiative to increase
   investment and access to finance in El Salvador.
-start: 2024
-end: 2024
+contract-start-year: 2024
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

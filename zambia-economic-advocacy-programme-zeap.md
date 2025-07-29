@@ -6,8 +6,8 @@ summary: While quality economic policy research exists within Zambia, the countr
   support economic growth. The Zambia—Economic Advocacy Programme (ZEAP) aimed to
   raise both the quality of research as well as improve how research results are communicated
   and used for advocacy.
-start: 2013
-end: 2016
+contract-start-year: 2013
+contract-end-year: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Decentralization and Local Government Management

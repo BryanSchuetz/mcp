@@ -7,8 +7,8 @@ summary: 'Business Egypt is building a robust ecosystem of market-led institutio
   accelerators, business service providers, financial institutions, youth and women’s
   networks, business associations, public-private forums, one-stop shops—working in
   harmony to create long-term jobs and a more-resilient private sector.  '
-start: 2021
-end: 2024
+contract-start-year: 2021
+contract-end-year: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

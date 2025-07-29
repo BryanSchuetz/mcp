@@ -9,8 +9,8 @@ summary: The Organisation of African, Caribbean, and Pacific States (OACPS) are 
   most vulnerable countries in the world to the adverse impacts of changes in climate.
   To tackle these vulnerabilities, OACPS is working with its 79 members to enhance
   their resilience and preparedness for natural hazard risks.
-start: 2023
-end: 2028
+contract-start-year: 2023
+contract-end-year: 2028
 client: European Union
 solutions:
 - Governance
@@ -24,13 +24,13 @@ The Organisation of African, Caribbean, and Pacific States (OACPS) comprises the
 
 Against this backdrop, the 11th European Development Fund Intra-Africa, Caribbean, and Pacific Natural Disaster Risk Reduction Program (11th EDF Intra-ACP NDRR Program) is designed to strengthen the resilience to disasters in the African, Caribbean, and Pacific (ACP) States. DAI is supporting the OACPS Secretariat to ensure the successful implementation of the 11th EDF Intra-ACP NDRR Program.
 
-The project contributes to reducing the impact of disasters caused by natural hazards and extreme events as well as building and strengthening the resilience of OACPS members. 
+The project contributes to reducing the impact of disasters caused by natural hazards and extreme events as well as building and strengthening the resilience of OACPS members.
 
 A particular focus of the programme is developing and sharing knowledge on disaster risk reduction among OACPS countries and key ACP stakeholders through the provision of a knowledge management system, e-learning, and training. DAI experts will also provide analytical work—technical studies, policy notes, research papers—on a demand-driven basis.
 
 ![DAI_flood 2.jpg](/uploads/DAI_flood%202.jpg)
 
-## Select Activities 
+## Select Activities
 
 * Strengthen the coordination, monitoring, and evaluation of the 11th EDF Intra-ACP NDRR Program and disaster risk management indicators.
 * Increase availability of technical assistance, analytical advice, and learning exchange on disaster risk reduction to OACPS countries.
