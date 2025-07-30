@@ -1,4 +1,4 @@
----
+
 title: Serbia—Trade Ready
 date: 2017-11-30 21:43:00 Z
 summary: 'Trade Ready Serbia strengthened the capacity of small businesses to access
@@ -15,7 +15,7 @@ country: Serbia
 promos:
 - title: EBRD launches Trade Ready in Serbia
   link: https://www.ebrd.com/news/2018/ebrd-launches-trade-ready-in-serbia.html
----
+
 
 Small and medium-sized enterprises (SMEs) are major drivers of trade, employment, and economic development in Serbia. However, these small businesses face barriers when expanding into international importing and exporting. In particular, they struggle with limited access to trade finance. Local financial institutions are reluctant to offer trade financing to smaller businesses, while SMEs often lack knowledge about trade finance instruments and how to conduct international commerce.
 

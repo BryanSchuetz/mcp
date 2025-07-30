@@ -1,4 +1,4 @@
----
+
 title: Lebanon—Water Project (LWP)
 date: 2016-01-21 22:40:00 Z
 summary: The Lebanon Water Project increased reliable and sustainable access to water
@@ -29,7 +29,7 @@ promos:
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 layout: project
----
+
 
 The Lebanon Water Project (LWP) increased reliable and sustainable access to water for Lebanese citizens, [improved water management practices](https://medium.com/usaid-global-waters/saving-livelihoods-one-drop-at-a-time-269e1f3a9af7), enhanced the efficiency and sustainability of the public water utilities, and responded to water issues arising from the influx of Syrian refugees. We promoted better water governance as a means to assure the long-term protection of Lebanon's water resources. In implementing the program, we prioritized sustainability—environmental, financial, and social—and engagement with the private sector and municipalities to ensure widespread buy-in for change.
 

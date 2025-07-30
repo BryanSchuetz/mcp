@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Centre for Disaster Protection
 date: 2021-08-16 13:56:00 Z
 summary: The Centre for Disaster Protection focuses on managing risks relating to
@@ -12,7 +12,7 @@ solutions:
 -
 regions: Worldwide
 country: Worldwide
----
+
 
 The [Centre for Disaster Protection](https://www.disasterprotection.org/) focuses on managing risks relating to disasters, helping countries move from reaction to readiness, and planning better for future disasters.
 

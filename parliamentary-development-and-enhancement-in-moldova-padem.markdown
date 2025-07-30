@@ -1,4 +1,4 @@
----
+
 title: Parliamentary Development and Enhancement in Moldova (PADEM)
 date: 2025-04-07 12:57:00 Z
 summary: 'The Parliamentary Development and Enhancement in Moldova (PADEM) project
@@ -13,7 +13,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Moldova
----
+
 
 As Moldova seeks European Union membership, it faces social, political, and economic pressures, including political fragmentation and frequent electoral law changes. The 2025 parliamentary elections will be crucial in shaping the country’s political future.
 

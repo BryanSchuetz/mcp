@@ -1,4 +1,4 @@
----
+
 title: Georgia—National Governance Program
 date: 2022-12-12 13:36:00 Z
 published: false
@@ -17,7 +17,7 @@ solutions:
 - Local Governance and Decentralization
 regions: Eastern Europe and Central Asia
 country: Georgia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

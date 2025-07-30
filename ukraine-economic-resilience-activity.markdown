@@ -1,4 +1,4 @@
----
+
 title: Ukraine—USAID Economic Resilience Activity (ERA)
 date: 2018-11-16 14:43:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Workforce Development and Youth
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

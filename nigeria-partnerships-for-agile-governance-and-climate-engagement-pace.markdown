@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Partnership for Agile Governance & Climate Engagement (PACE)
 date: 2024-06-28 09:48:00 Z
 summary: 'The Nigeria Governance and Climate Change program supports coalitions to
@@ -14,7 +14,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 The Nigerian government recognizes the devastating effects of changes in climate on socio-economic development. However, poor governance and stakeholder engagement hinder resilience efforts despite growing awareness about impacts of extreme weather-related events. Effective collective action for managing these impacts and developing resilience remains elusive.
 

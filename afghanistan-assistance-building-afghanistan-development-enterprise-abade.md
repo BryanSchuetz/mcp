@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Assistance in Building Afghanistan by Development Enterprise (ABADE)
 date: 2016-01-21 22:40:00 Z
 summary: 'ABADE worked to increase domestic and foreign investment, stimulate employment,
@@ -14,7 +14,7 @@ regions:
 country:
 - Afghanistan
 layout: project
----
+
 
 ABADE worked to increase domestic and foreign investment, stimulate employment, and improve sales of Afghan products. By funding Afghan businesses with viable plans and matching funds, ABADE helped these businesses mitigate the financial risk inherent to investing, expanding, and innovating.
 

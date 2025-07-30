@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Infrastructure Advisory Facility (UKNIAF)
 date: 2020-09-28 09:43:00 Z
 summary: The U.K. Nigeria Infrastructure Advisory Facility enhances the management
@@ -13,7 +13,7 @@ solutions:
 - Climate
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 The U.K. Nigeria Infrastructure Advisory Facility (UKNIAF) enhances the management of Nigeria’s infrastructure development towards power sector reform, public-private partnerships (PPP), capital spending, and repair and maintenance of federal roads. This work is expected to result in increased economic growth, job creation, and contribute towards the United Nations' Global Goals by reducing poverty for the majority of the Nigeria populace.
 

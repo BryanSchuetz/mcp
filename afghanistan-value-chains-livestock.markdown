@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Value Chains Program
 date: 2018-08-15 18:30:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Afghanistan
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

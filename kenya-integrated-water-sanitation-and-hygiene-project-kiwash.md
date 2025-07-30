@@ -1,4 +1,4 @@
----
+
 title: Kenya—Integrated Water, Sanitation, and Hygiene Project (KIWASH)
 date: 2016-01-21 22:40:00 Z
 summary: The Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH) project
@@ -31,7 +31,7 @@ promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
----
+
 
 By [combining nutrition programming ](https://medium.com/usaid-global-waters/tackling-malnutrition-at-every-turn-ff0961ade674#.ff6g4pdvj)with improved access to water, sanitation, and hygiene (WASH), the U.S. Agency for International Development designed the Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH). [KIWASH](http://www.kiwash.org/) enabled [nearly 900,000 Kenyans](https://www.usglc.org/blog/clean-water-education-access-opportunity/) across nine counties to gain access to improved water security, sanitation, and hygiene services (WSSH) and assist households in gaining access to irrigation and nutrition services.
 

@@ -1,4 +1,4 @@
----
+
 title: Malawi—Governance for Solutions (GfS) Activity
 date: 2022-08-01 13:03:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Malawi
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

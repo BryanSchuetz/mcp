@@ -1,4 +1,4 @@
----
+
 title: Mexico—Skills for Prosperity Mexico (SFPMx)
 date: 2019-12-18 15:14:00 Z
 summary: The Skills for Prosperity Mexico project works to prepare learners to go
@@ -17,7 +17,7 @@ promos:
   link: https://www.youtube.com/channel/UCSJTczpbfeXMEPu_3Hbr5Ng
 - title: Skills for Prosperity Mexico Program Results and Success Stories
   link: "/uploads/SFPMx%20-%20Program%20Results%20and%20Success%20Stories-bdb786.pdf"
----
+
 
 The Skills for Prosperity Mexico (SFPMx) Programme worked to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
 

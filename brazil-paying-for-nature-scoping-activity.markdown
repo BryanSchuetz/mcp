@@ -1,4 +1,4 @@
----
+
 title: Brazil—Paying for Nature Scoping Activity
 date: 2022-04-07 16:07:00 Z
 summary: Defra commissioned DAI to conduct research and analysis of the current state
@@ -12,7 +12,7 @@ solutions:
 - Environment
 regions: Latin America and the Caribbean
 country: Brazil
----
+
 
 Home to 33 percent of the world’s tropical forests, the Brazilian Amazon ecosystem plays a critical role as part of global systems, influencing the global carbon cycle, as well as hemispheric hydrological systems.
 

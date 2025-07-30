@@ -1,4 +1,4 @@
----
+
 title: Kosovo—Critical Infrastructure Resilience (CIR) Activity
 date: 2024-12-19 08:34:00 Z
 published: false
@@ -16,7 +16,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Kosovo
----
+
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 In early 2023, the Government of Kosovo passed the Law on Cybersecurity and the National Cybersecurity Strategy and Action Plan in quick succession. Since then, the U.S. Agency for International Development has been playing a pivotal role in advancing these developments. The DAI-led USAID [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program facilitates the Critical Infrastructure Cybersecurity Working Group—Kosovo’s first platform for a wide range of cybersecurity for critical infrastructure stakeholders—which contributed directly to the passage of the Law on Cybersecurity. Through CIDR, USAID is also helping design Kosovo’s first-ever Cybersecurity Agency, with a mandate to propose, implement, and oversee cybersecurity measures in Kosovo.

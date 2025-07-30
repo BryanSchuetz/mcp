@@ -1,4 +1,4 @@
----
+
 title: United States—Driving More Inclusive Growth Through Support for Small Businesses
 date: 2023-11-21 10:27:00 Z
 summary: The Mastercard Center for Inclusive Growth commissioned DAI to help shape,
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: North America
 country: 'United States '
----
+
 
 The United States is experiencing an unprecedented surge in entrepreneurship. Americans filed 5.5 million applications to start new businesses in 2023, an all-time high and the third consecutive year of record-breaking growth. Recent federal legislation has aimed to bolster this entrepreneurial wave.
 

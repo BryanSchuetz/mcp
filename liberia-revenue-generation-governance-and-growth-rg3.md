@@ -1,4 +1,4 @@
----
+
 title: Liberia—Revenue Generation for Governance and Growth (RG3)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Revenue Generation for Governance and Growth project helped the Liberia
@@ -30,7 +30,7 @@ promos:
     for Domestic Development
   link: https://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development
 layout: project
----
+
 
 Enhancing the government of Liberia's ability to collect taxes from its citizens is critical to the country's long-term development goals. However, tax evasion, poor tax policy, and ineffective enforcement all constrain the government's ability to [mobilize the domestic revenues](http://dai-global-developments.com/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue?utm_source=daidotcom) it needs to provide basic services to citizens and promote economic growth and social development.
 

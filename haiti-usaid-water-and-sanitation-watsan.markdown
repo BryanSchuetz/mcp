@@ -1,4 +1,4 @@
----
+
 title: Haiti—USAID Water and Sanitation; Water Security and Systems Strengthening
   Activity (USAID Eau)
 date: 2018-01-01 20:11:00 Z
@@ -18,7 +18,7 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions: Latin America and the Caribbean
 country: Haiti
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

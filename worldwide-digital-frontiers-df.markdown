@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Digital Frontiers
 date: 2017-10-06 20:36:00 Z
 summary: Digital Frontiers supports the U.S. Agency for International Development’s
@@ -21,7 +21,7 @@ promos:
   link: "/uploads/DF_AtTheFrontlines_Factsheet_1page_12.11.23pdf.pdf"
 - title: How Traditional USAID Partners Can Support New Local Partners
   link: https://dai-global-developments.com/articles/how-traditional-usaid-partners-can-support-new-local-partners/
----
+
 
 Across the developing world, digital technologies are accelerating change at every level of society. The challenge is that, to date, these solutions have not matched the pace and scale of the problems they address.
 

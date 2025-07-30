@@ -1,4 +1,4 @@
----
+
 title: Moldova—IFC Investment Climate Reform
 date: 2016-01-21 22:40:00 Z
 summary: DAI completed the International Finance Corporation (IFC)'s Investment Climate
@@ -15,7 +15,7 @@ regions:
 country:
 - Moldova
 layout: project
----
+
 
 DAI completed the International Finance Corporation (IFC)'s Investment Climate Reform program in support of Moldova's strategy to prepare its economy to capitalize on the country's association agreement with the European Union (EU).
 

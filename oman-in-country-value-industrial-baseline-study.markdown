@@ -1,4 +1,4 @@
----
+
 title: Oman—In-Country Value Industrial Baseline Study
 date: 2020-09-18 13:27:00 Z
 summary: DAI’s Sustainable Business Group (SBG) created an in-country value (ICV)
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Middle East and North Africa
 country: Oman
----
+
 
 DAI’s Sustainable Business Group (SBG) created an in-country value (ICV) demand and supply analysis for an oil and gas project in Oman using both qualitative and quantitative analyses. In a workshop format, DAI worked with the client, a large multinational oil and gas company, to do a high-level review of the capital project scope and to prioritize the sectors with the greatest potential ICV opportunity related to their operations. The data was analyzed in collaboration with the client to allow for the synthesis of recommendations to identify at a granular level the ICV opportunities in these target supply chains. The Local Content Optimization Model was used in conjunction with the competitive assessment matrix to create a forecast of ICV. The competitiveness assessment provides analysis of local companies' abilities to provide goods and services relative to international competitors.
 

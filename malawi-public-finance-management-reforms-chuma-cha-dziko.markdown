@@ -1,4 +1,4 @@
----
+
 title: Malawi—Public Finance Management Reforms (Chuma Cha Dziko)
 date: 2019-12-05 08:05:00 Z
 summary: DAI works with the Government of Malawi, the Ministry of Finance, Economic
@@ -13,7 +13,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Malawi
----
+
 
 Advancing public financial management in Malawi is a complex process that requires keen understanding of how change happens within this context—the political economy, key stakeholders and their priorities, and the interrelated and systemic technical bottlenecks.
 

@@ -1,4 +1,4 @@
----
+
 title: Democratic Republic of the Congo—Integrated Governance Activity (IGA); Good
   Governance Activity (GGA)
 date: 2017-02-23 21:19:00 Z
@@ -18,7 +18,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

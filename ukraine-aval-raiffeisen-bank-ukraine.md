@@ -1,4 +1,4 @@
----
+
 title: Ukraine—Aval Raiffeisen Bank
 date: 2016-01-21 22:40:00 Z
 summary: The European Bank for Reconstruction and Development contracted DAI in Ukraine
@@ -18,7 +18,7 @@ regions:
 country:
 - Ukraine
 layout: project
----
+
 
 Since its inception in 1992, Aval Raiffeisenbank has strengthened its position in the Ukrainian market through an extensive branch network and a strong customer deposit base. Aval Raiffeisenbank has been strong in micro and small business lending, and in lending to larger business borrowers. However, in 2006, the bank assessed its need to address the segment that lies between these two. The European Bank for Reconstruction and Development contracted DAI to establish a small and medium-sized enterprise (SME) lending program and ensure through an institution-building program that Aval Raiffeisenbank's commitment to SME lending was sustainable.
 

@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Technical Assistance for Capacity Building for Effective Nationality
   Determination
 date: 2021-01-18 13:18:00 Z
@@ -12,7 +12,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Türkiye is a country with two sea borders, sitting between eastern Europe, Central Asia, and the Middle East. It lies at a crossroads for inter-regional and intercontinental migration. Within the last decade, the civil unrest in the Middle East particularly destabilized the region, with the domino effect of uprisings leading to conflict and civil war, in turn leading to significant migration flows out of the region. Managing migration both into and through its borders is a pressing issue for Türkiye.
 

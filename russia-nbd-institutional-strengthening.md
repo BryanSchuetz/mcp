@@ -1,4 +1,4 @@
----
+
 title: Russia—NBD Institutional Strengthening
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI was hired to assist Russia''s NBD, a bank focused on the micro, small,
@@ -18,7 +18,7 @@ regions:
 country:
 - Russia
 layout: project
----
+
 
 DAI was hired to assist Russia's NBD, a bank focused on the micro, small, and medium enterprise sector, in its efforts to ensure that the appropriate institutional structures were put in place to enable the bank to grow and achieve its business objectives to expand into new regions and to attract a strategic investor.
 

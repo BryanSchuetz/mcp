@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Local Governance and Community Development (LGCD)
 date: 2016-01-21 22:40:00 Z
 summary: 'When this project launched in 2006, the insurgency was intensifying in Afghanistan
@@ -21,7 +21,7 @@ regions:
 country:
 - Afghanistan
 layout: project
----
+
 
 LGCD facilitated 2,635 community projects that addressed local grievances, facilitated dialogue, and engendered trust in district and provincial leaders. LGCD’s projects, undertaken in a variety of sectors, included assessments, rehabilitation of community infrastructure, basic vocational training, training of local government officials, cash-for-work activities, and provision of agricultural inputs and equipment.
 

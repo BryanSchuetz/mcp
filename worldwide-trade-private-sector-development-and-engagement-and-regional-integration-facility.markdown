@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Trade, Private Sector Development, and Engagement (TPSD/E) Facility,
   I and II
 date: 2017-02-21 01:44:00 Z
@@ -15,7 +15,7 @@ solutions:
 regions: Worldwide
 country: Worldwide
 Key:
----
+
 
 Trade and private sector engagement are recognized as key drivers for poverty reduction through their capability to spur growth and investment, create good-quality jobs, and generate tax revenues to fund public services. However, experience shows that improved market access alone is not always sufficient for sustained economic development. Access often needs to be complemented by policy measures that support lasting and equitable prosperity.
 

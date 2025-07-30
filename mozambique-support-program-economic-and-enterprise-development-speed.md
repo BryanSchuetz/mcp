@@ -1,4 +1,4 @@
----
+
 title: Mozambique—Supporting the Policy Enabling Environment for Development (SPEED,
   SPEED+, III)
 date: 2016-01-21 22:40:00 Z
@@ -22,7 +22,7 @@ regions:
 country:
 - Mozambique
 layout: project
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

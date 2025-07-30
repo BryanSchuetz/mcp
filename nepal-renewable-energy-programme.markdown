@@ -1,4 +1,4 @@
----
+
 title: Nepal—Renewable Energy Programme (NREP)
 date: 2019-01-22 21:16:00 Z
 summary: Along with key partner Winrock International, DAI is building the capacity
@@ -14,7 +14,7 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Nepal
----
+
 
 Nepal’s energy sector faces complex and interrelated challenges and uncertainties. These include issues such as a lack of sustainable financing mechanisms and an over-reliance on subsidies, in addition to wider contextual opportunities and challenges such as the devolution of authority to new provincial and local governments under Nepal’s federal transition. These opportunities must be tapped into, and challenges overcome if the sector is to achieve its potential in terms of improving access to clean energy and driving increased productivity in the country’s economy.
 

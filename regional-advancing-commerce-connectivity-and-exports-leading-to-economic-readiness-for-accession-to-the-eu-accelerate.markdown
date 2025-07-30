@@ -1,4 +1,4 @@
----
+
 title: Regional—Advancing Commerce Connectivity and Exports Leading to Economic Readiness
   for Accession to the EU (ACCELERATE)
 date: 2024-08-26 13:26:00 Z
@@ -16,7 +16,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: regional
----
+
 
 Economic growth in the Western Balkans, Caucasus, Ukraine, and Moldova faces many challenges that have been exacerbated due to the impact of COVID-19 and the war in Ukraine. Russian’s invasion in particular has brought renewed energy to the European Union (EU) accession process and greater interest in Euro-Atlantic integration. The Advancing Commerce Connectivity and Exports Leading to Economic Readiness for Accession to the EU (ACCELERATE) program, funded by the U.S. Agency for International Development, works to advance EU market integration and support the accession process in up to 10 aspiring countries, including Moldova, Ukraine, and countries across the Western Balkans.
 

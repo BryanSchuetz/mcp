@@ -1,4 +1,4 @@
----
+
 title: Uganda—Developing Market-Oriented and Environmentally Sustainable Beef Meat
   Industry
 date: 2020-04-29 10:40:00 Z
@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Uganda
----
+
 
 The Developing Market-Oriented and Environmentally Sustainable Beef Meat Industry project contributes to a competitive, profitable, job-intensive, and environmentally sustainable agricultural sector in Uganda. DAI uses a value chain approach in targeted areas to boost the overall performance of the meat sector, including its production volume, quality, value addition, employment rate, and environmental sustainability.
 

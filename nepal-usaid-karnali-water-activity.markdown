@@ -1,4 +1,4 @@
----
+
 title: Nepal—USAID Karnali Water Activity
 date: 2021-07-02 08:47:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions: Asia and the Pacific
 country: Nepal
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

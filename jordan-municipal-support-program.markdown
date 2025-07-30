@@ -1,4 +1,4 @@
----
+
 title: Jordan—Municipal Support Program (MSP)
 date: 2022-08-25 13:48:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Local Governance and Decentralization
 regions: Middle East and North Africa
 country: Jordan
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

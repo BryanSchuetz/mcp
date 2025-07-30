@@ -1,4 +1,4 @@
----
+
 title: Tanzania—Green and Smart Cities SASA
 date: 2023-05-31 17:07:00 Z
 summary: The Green and Smart Cities SASA project is a Team Europe Initiative that
@@ -12,7 +12,7 @@ solutions:
 - Environment
 regions: Sub-Saharan Africa
 country: Tanzania
----
+
 
 The rapid pace of urbanization in the past decades has outpaced the development of institutional systems and infrastructure needed to manage Tanzania's transition from a low-income to a middle-income country. With ongoing changes to the climate, this trend is expected to continue, putting pressure on existing systems and increasing the risk of natural disasters.
 

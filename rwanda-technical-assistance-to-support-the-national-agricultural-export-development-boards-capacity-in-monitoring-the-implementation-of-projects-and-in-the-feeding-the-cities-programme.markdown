@@ -1,4 +1,4 @@
----
+
 title: Rwanda—Technical Assistance to Support the National Agricultural Export Development
   Board’s Capacity in Monitoring the Implementation of Projects and in the ‘Feeding
   the Cities’ Programme
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Rwanda
----
+
 
 Rwanda’s agricultural sector is predominantly composed of smallholder farmers, the country’s main food suppliers. With more than 70 percent of the farming community counted as smallholders, the country and its development partners have embarked on a plan to professionalize the industry, supporting farmers to maximize their productivity. The modernization plan also supports market linkages—locally and internationally.
 

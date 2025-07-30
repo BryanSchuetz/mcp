@@ -1,4 +1,4 @@
----
+
 title: Colombia—Partners for Transparency (PfT)
 date: 2020-08-10 10:28:00 Z
 published: false
@@ -15,7 +15,7 @@ country: Colombia
 promos:
 - title: Mobilizing All Colombians in the Fight Against Corruption
   link: https://dai-global-developments.com/articles/mobilizing-all-colombians-in-the-fight-against-corruption/
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

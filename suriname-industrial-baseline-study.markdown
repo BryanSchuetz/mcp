@@ -1,4 +1,4 @@
----
+
 title: Suriname–Industrial Baseline Study
 date: 2020-09-18 14:20:00 Z
 summary: 'On behalf of Staatsolie, Suriname’s state-owned oil and gas company, DAI’s
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
 country: Suriname
----
+
 
 On behalf of Staatsolie, Suriname’s state-owned oil and gas company, DAI’s Sustainable Business Group (SBG) used its Industrial Baseline Study methodology to assess local supplier competitiveness across 45 supply chain categories. Measured against demand associated with a hypothetical offshore project, SBG identified critical gaps and key opportunities to maximize local content. Included in this exercise, SBG conducted formal industry stakeholder mapping and risk analysis activities. Bringing together findings from enterprise surveys, supply chain expert interviews, stakeholder workshops, and DAI’s LCOM analysis, the project team developed short-, medium-, and long-term strategy documents for the client. The initial survey was taken of a representative sample across supply chains that included 203 firms and was complemented by in-person interviews that were intended to gather qualitative data about the relevant supply chain categories and the competitiveness of local firms.
 

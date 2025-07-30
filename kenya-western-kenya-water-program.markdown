@@ -1,4 +1,4 @@
----
+
 title: "Kenya—Western Kenya Water \nProject (WKWP)"
 date: 2022-06-06 14:04:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions: Sub-Saharan Africa
 country: Kenya
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
@@ -24,7 +24,7 @@ The U.S. Agency for International Development (USAID)-funded Western Kenya Water
 
 WKWP works across eight counties in Western Kenya (Bungoma, Busia, Homa Bay, Kakamega, Kisii, Kisumu, Migori, and Siaya) and with Lake Victoria North and South Basins. Our approach—dubbed Kenya Inatimiza (Kenya Delivers)—facilitates the co-creation and co-design of solutions with each of the counties. WKWP’s all-Kenyan team draws on a pool of Kenyan partners to create bespoke packages of technical assistance and capacity-building, tailored to each county’s baseline needs, priorities, and opportunities. Supporting WKWP activities are a Solution Fund, a construction budget, and an emphasis on data and digital interventions for better decision-making and efficiencies
 
-![Devs----KIWASH-Women-4.jpeg](/uploads/Devs----KIWASH-Women-4.jpeg)
+![Devs-KIWASH-Women-4.jpeg](/uploads/Devs-KIWASH-Women-4.jpeg)
 
 ## Sample Activities
 

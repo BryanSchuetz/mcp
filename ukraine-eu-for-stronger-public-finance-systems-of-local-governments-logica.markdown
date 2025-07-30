@@ -1,4 +1,4 @@
----
+
 title: Ukraine—EU for Stronger Public Finance Systems of Local Governments (LOGICA)
 date: 2021-01-14 08:58:00 Z
 summary: The EU for Stronger Public Finance Systems of Local Governments project supported
@@ -18,7 +18,7 @@ promos:
 - title: Fiscal Decentralization Builds Citizen Trust, Positions Ukraine for European
     Future
   link: https://dai-global-developments.com/articles/fiscal-decentralization-builds-citizen-trust-positions-ukraine-for-european-future
----
+
 
 In April 2017, the Government of Ukraine released a Medium-Term Government Priority Action Plan up to 2020. Among the five main goals of the plan was achieving effective governance, as a result of the public administration, decentralization, and public finance reform.
 

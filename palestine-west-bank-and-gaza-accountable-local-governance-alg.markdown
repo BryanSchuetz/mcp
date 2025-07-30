@@ -1,4 +1,4 @@
----
+
 title: Palestine—West Bank/Gaza Accountable Local Governance (ALG)
 date: 2024-10-18 07:08:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Local Governance and Decentralization
 regions: Middle East and North Africa
 country: Palestine
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

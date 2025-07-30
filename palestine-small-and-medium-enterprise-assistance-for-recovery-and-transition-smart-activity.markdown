@@ -1,4 +1,4 @@
----
+
 title: Palestine—Small and Medium Enterprise Assistance for Recovery and Transition
   (SMART)
 date: 2021-09-10 15:54:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Workforce Development and Youth
 regions: Middle East and North Africa
 country: Palestine
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

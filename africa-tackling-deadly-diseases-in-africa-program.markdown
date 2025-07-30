@@ -1,4 +1,4 @@
----
+
 title: Africa—Tackling Deadly Diseases in Africa (TDDA) programme
 date: 2019-01-23 15:27:00 Z
 summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme worked to save lives
@@ -33,7 +33,7 @@ promos:
 - title: "**Video (long version)**: Building the Role of Civil Society Organisations
     in Health Security in Chad"
   link: https://vimeo.com/daiglobal/tddachad
----
+
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods.
 

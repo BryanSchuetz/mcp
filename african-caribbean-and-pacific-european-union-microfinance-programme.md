@@ -1,4 +1,4 @@
----
+
 title: African, Caribbean, and Pacific—European Union Microfinance Programme
 date: 2016-01-21 22:40:00 Z
 summary: 'This program supported efficiency and transparency in local markets and
@@ -16,7 +16,7 @@ regions:
 country:
 - Worldwide
 layout: project
----
+
 
 It is easy for people with access to financial services to make safe and sensible decisions on loans, savings, money transfers, and insurance. But in the African, Caribbean, and Pacific (ACP) Group of States, 71 percent of adults lack access to a bank. This program helped to grow the microfinance sector—basic financial services for the poor—across the ACP Group of States that encompasses 740 million people in 79 countries.
 

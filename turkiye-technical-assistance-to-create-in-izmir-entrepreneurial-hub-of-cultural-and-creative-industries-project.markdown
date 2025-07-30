@@ -1,4 +1,4 @@
----
+
 title: 'Türkiye—Technical Assistance to Create in Izmir: Entrepreneurial Hub of Cultural
   and Creative Industries Project'
 date: 2022-09-09 08:15:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Türkiye has rapidly urbanized in the last 20 years, establishing itself as an upper-middle-class country. However, the COVID-19 pandemic exacerbated existing issues with rising inflation, youth unemployment, financial sector vulnerabilities, and poverty. Despite the political and economic constraints in Türkiye, the cultural and creative industries are still an enormous source of job opportunities and growth. This project is designed to expand the commercialization and internationalization of cultural and creative businesses for İzmir and the region to strengthen Türkiye’s competitiveness in the global economy.
 

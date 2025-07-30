@@ -1,4 +1,4 @@
----
+
 title: Zambia—Economic Advocacy Programme (ZEAP)
 date: 2016-01-21 22:40:00 Z
 summary: While quality economic policy research exists within Zambia, the country's
@@ -20,7 +20,7 @@ regions:
 country:
 - Zambia
 layout: project
----
+
 
 While quality economic policy research exists within Zambia, the country's policymakers were not always aware of how to access and use this information to support economic growth. The Zambia—Economic Advocacy Programme (ZEAP) aimed to raise both the quality of research as well as improve how research results are communicated and used for advocacy. The intended outcome was more and better public debate that would lead to better economic policy and, in turn, more wealth creation and poverty alleviation.
 

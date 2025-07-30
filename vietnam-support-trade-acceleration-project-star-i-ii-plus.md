@@ -1,4 +1,4 @@
----
+
 title: Vietnam—Support for Trade Acceleration Project (STAR I, II, Plus)
 date: 2016-01-21 22:40:00 Z
 summary: Following on the enormous success of STAR I, STAR II (2006–2010) focused
@@ -22,7 +22,7 @@ promos:
 - title: USAID STAR Project Helped Propel Vietnam into the Global Economy
   link: https://dai-global-developments.com/articles/usaid-star-project-helped-propel-vietnam-into-the-global-economy
 layout: project
----
+
 
 In December 2001, the governments of the United States and Vietnam signed a historic bilateral free trade agreement that promised to strengthen economic and political ties between the two countries. The U.S. Agency for International Development (USAID)-funded STAR (2001–2006)—the first major USAID technical assistance project in economic growth implemented in Vietnam since 1975—supported the Government of Vietnam in implementing the U.S.-Vietnam Bilateral Trade Agreement (BTA) and began reforms needed for accession to the World Trade Organization (WTO), which the country achieved in 2007.
 

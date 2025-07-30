@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Sustainable Municipal Solid Waste Management and Partnership (USAID
   SELARAS)
 date: 2023-11-13 09:31:00 Z
@@ -17,7 +17,7 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Indonesia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

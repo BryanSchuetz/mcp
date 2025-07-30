@@ -1,4 +1,4 @@
----
+
 title: Georgia—Support to the Independence, Accountability, and Efficiency of the
   Judiciary
 date: 2020-06-08 11:23:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Eastern Europe and Central Asia
 country: Georgia
----
+
 
 Georgia has undergone extensive reform to increase judicial independence, accountability, efficiency, and transparency. Key reforms concerning the selection, promotion, and transfer of judges and judicial integrity are addressed, alongside structural changes in the High School of Justice and Supreme Court to strengthen judicial independence. These efforts are detailed in the Draft Organic Law of Georgia on Entering Amendments to the Organic Law of Georgia on Common Courts.
 

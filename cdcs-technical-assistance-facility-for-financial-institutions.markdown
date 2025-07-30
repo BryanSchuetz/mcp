@@ -1,4 +1,4 @@
----
+
 title: Regional—Financial Services Group (FSG Plus)
 date: 2021-09-21 13:13:00 Z
 summary: 'FSG Plus supports BII in addressing two pressing priorities—i) inclusion
@@ -12,7 +12,7 @@ solutions:
 - Finance and Investment
 regions: Regional
 country: Regional
----
+
 
 British International Investment (BII)—formerly CDC Group—is the UK Government’s development finance institution. It supports the sustainable, long-term growth of businesses across South Asia and Africa.
 

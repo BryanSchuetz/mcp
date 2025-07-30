@@ -1,4 +1,4 @@
----
+
 title: Worldwide—GCA Local Adaptation Champions Awards
 date: 2022-06-13 16:06:00 Z
 summary: DAI supported the delivery of the Local Adaptation Champions Awards
@@ -11,7 +11,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
----
+
 
 Launched by [The Global Center on Adaptation](https://gca.org/llachampions/) in 2022, the Local Adaptation Champions Awards spotlight and reward inspiring, innovative, and scalable locally led efforts that address the impacts of adverse weather events and build effective climate resilience among the most vulnerable communities, sections of society, and individuals who are at the frontlines of the greatest existential threat faced by humankind.
 

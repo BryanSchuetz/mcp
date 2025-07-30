@@ -1,4 +1,4 @@
----
+
 title: Uganda—Deregulation—Support to the Legal and Regulatory Environment for Business
   in Uganda (Phase I, II)
 date: 2016-01-21 22:40:00 Z
@@ -19,7 +19,7 @@ regions:
 country:
 - Uganda
 layout: project
----
+
 
 Significant achievements have been made in the past decade in revitalizing the Ugandan economy, but poverty levels remain high. The formal private sector has grown, but still comprises a low proportion of the total economy, and its capacity to grow further and faster is held back by weaknesses in the regulatory environment.
 

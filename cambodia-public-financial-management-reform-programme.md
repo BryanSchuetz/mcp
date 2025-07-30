@@ -1,4 +1,4 @@
----
+
 title: Cambodia—Public Financial Management Reform Programme
 date: 2016-01-21 22:40:00 Z
 summary: The Royal Government of Cambodia successfully designed and implemented a
@@ -21,7 +21,7 @@ promos:
 - title: A Platform Approach to Improving Public Financial Management
   link: http://www.train4dev.net/fileadmin/Resources/General_Documents/DfID_A%20Platform%20Approach%20to%20PFM.pdf
 layout: project
----
+
 
 The Royal Government of Cambodia successfully designed and implemented a comprehensive four-stage public financial reform plan supported by 10 development partners, including the European Union, the U.K. Foreign, Commonwealth & Development Office (FCDO), and AusAID. Through this assignment, DAI provided the Chief Technical Advisor, ensuring cohesion between the different partners and initiatives under the program. The advisor was an expert on the platform approach to public financial management and was a key contributor to the FCDO-published [report][1], "A Platform Approach to Improving Public Financial Management."
 

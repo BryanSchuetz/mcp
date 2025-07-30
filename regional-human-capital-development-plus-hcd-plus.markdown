@@ -1,4 +1,4 @@
----
+
 title: Regional—Human Capital Development Plus (HCD+)
 date: 2022-10-31 11:00:00 Z
 summary: DAI is training staff at HDC+, a regional advocacy and technical assistance
@@ -11,7 +11,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Nigeria, Ethiopia, Kenya, and Burkina Faso
----
+
 
 DAI incubated Human Capital Development Plus (HDC+), a regional advocacy and technical assistance hub that contributes to increasing government commitment, funding, and accountability to developing human capacity across the continent.
 

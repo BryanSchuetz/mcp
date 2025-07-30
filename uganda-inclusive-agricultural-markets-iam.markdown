@@ -1,4 +1,4 @@
----
+
 title: Uganda—Feed the Future Inclusive Agricultural Markets (IAM)
 date: 2019-10-15 07:27:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Market Systems and Value Chain
 regions: Sub-Saharan Africa
 country: Uganda
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

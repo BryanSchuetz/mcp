@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Regional Agricultural Development Program (RADP–East)
 date: 2016-01-21 22:40:00 Z
 summary: RADP-East addressed issues of unreliable irrigation, poor agricultural cultivation
@@ -19,7 +19,7 @@ regions:
 country:
 - Afghanistan
 layout: project
----
+
 
 The Regional Agricultural Development Program-East (RADP-East), funded by the U.S. Agency for International Development, addressed issues of unreliable irrigation, poor agricultural cultivation techniques, and a lack of knowledge about accessing new markets, by using a value chain facilitation strategy to improve crop yields and find new outlets for rural Afghan farmers to sell their harvests, thereby increasing the food and economic security of the region.
 

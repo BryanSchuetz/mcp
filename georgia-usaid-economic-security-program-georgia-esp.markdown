@@ -1,4 +1,4 @@
----
+
 title: Georgia—USAID Economic Security Program
 date: 2019-05-08 12:09:00 Z
 summary: The USAID Economic Security Program assisted Georgian firms in taking advantage
@@ -24,7 +24,7 @@ promos:
   link: https://usaidpubs.exposure.co/a-business-takes-flight
 - title: Project Video Channel
   link: https://www.youtube.com/channel/UCv6NMRe2cDvSczBdtb1jWuQ
----
+
 
 Georgia is a country at the crossroads of Asia and Europe on a vital trading and transit route for goods and services. In recent years, Georgia signed free trade agreements that greatly expand Georgia's market access. The USAID Economic Security Program assisted Georgian firms to take advantage of the country’s market access and location to exploit regional economic opportunities and compete with international competitors for Georgia's domestic market.
 

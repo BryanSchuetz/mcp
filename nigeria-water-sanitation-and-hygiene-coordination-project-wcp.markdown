@@ -1,4 +1,4 @@
----
+
 title: |-
   Nigeria—Water, Sanitation, and Hygiene Coordination Project
   (WCP)
@@ -15,7 +15,7 @@ solutions:
 - Environment
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 Nigeria’s water security, sanitation, and hygiene (WSSH) sector has reached an alarming state of decline, with nearly one-third of the population lacking access to improved drinking water sources and approximately two-thirds living without adequate sanitation facilities. With one of the fastest-growing urban populations in the world, Nigeria’s municipal centers in particular are likely to face increasing difficulty in meeting the water and sanitation service needs of their citizens.
 

@@ -1,4 +1,4 @@
----
+
 title: Liberia—Technical Assistance for the Implementation of Axle Load Control
 date: 2022-01-14 15:04:00 Z
 published: false
@@ -12,7 +12,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Liberia
----
+
 
 Since the end of its civil wars, Liberia has sought to strengthen the infrastructure sector, including developing a safer and more reliable road network. Liberia has a limited road system of only 10,600 kilometers, which falls short in terms of both safety and coverage, with rural areas often remaining isolated. Additionally, related institutions are limited with low technical and management capacity when it comes to dealing with operations, management, and private-sector vendors.
 

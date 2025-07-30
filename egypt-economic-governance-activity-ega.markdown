@@ -1,4 +1,4 @@
----
+
 title: Egypt—Economic Governance Activity (EGA)
 date: 2020-08-14 15:34:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Public Administration, Civil Service Reform, and Human Resources Management
 regions: Middle East and North Africa
 country: Egypt
----
+
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 The Government of Egypt has achieved an encouraging degree of macroeconomic stabilization in the past several years, coupled with regulatory, policy, and civil service reforms to create space for private sector growth. Yet, Egypt’s economic governance reforms must be broader and deeper if it is to achieve its development vision of improving public welfare by creating enough quality jobs to meet the massive demographic challenge it now faces. The reforms must strengthen a weak institutional framework and begin to reverse socioeconomic inequities.

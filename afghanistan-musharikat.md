@@ -1,4 +1,4 @@
----
+
 title: 'Afghanistan—Promote: Musharikat'
 date: 2016-01-21 22:40:00 Z
 summary: Musharikat supported the U.S. Agency for International Development (USAID)
@@ -20,7 +20,7 @@ regions:
 country:
 - Afghanistan
 layout: project
----
+
 
 Musharikat supported the U.S. Agency for International Development (USAID) Afghanistan’s investments in women.
 

@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Technical Assistance for Establishment of Boosting Effective and Sustainable
   Transformation for Energy (BEST for Energy)
 date: 2020-08-14 13:01:00 Z
@@ -17,7 +17,7 @@ country: Türkiye
 promos:
 - title: Transforming Izmir into a Clean Energy Hub
   link: https://dai-global-developments.com/articles/transforming-izmir-into-a-clean-energy-hub/
----
+
 
 In recent years, energy consumption in Türkiye has grown rapidly, due to urbanization, positive demographic trends, economic growth, and increasing per capita income. But the country remains dependent on imported sources of energy, which can experience price fluctuations. Improving energy security is, therefore, one of Türkiye's top priorities.
 

@@ -1,4 +1,4 @@
----
+
 title: Ethiopia—Technical Assistance Programme to Support Lending Operations to the
   Women’s Entrepreneurship Development Project (WEDP)
 date: 2021-01-29 09:55:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Ethiopia
----
+
 
 The development of small and medium enterprises (SMEs) play a key role in Ethiopia’s drive to reach middle-income country status within the next decade, and women entrepreneurs are an important element of this growth equation. Currently, high minimum loan sizes and excessive collateral requirements restrict women’s access to loans from commercial banks, while microfinance institutions need greater support to enhance their potential for long-term sustainability and growth.
 

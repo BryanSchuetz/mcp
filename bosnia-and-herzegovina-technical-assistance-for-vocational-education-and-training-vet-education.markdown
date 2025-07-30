@@ -1,4 +1,4 @@
----
+
 title: Bosnia and Herzegovina—Technical Assistance for Vocational Education and Training
   (VET) Education
 date: 2023-12-08 16:27:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Education
 regions: Eastern Europe and Central Asia
 country: Boznia and Herzegovina
----
+
 
 Bosnia and Herzegovina's Vocational Education and Training (VET) system faces severe challenges in integrating key competencies and improving the quality of vocational education. Employment rates for VET graduates have fallen below EU targets, highlighting the need for better recognition of non-formal education and informal learning. The Technical Assistance (TA) for VET Education project, continuing the impactful work of the [Education for Employment](https://www.dai.com/our-work/projects/bosnia-and-herzegovina-education-for-employment) project, aims to address these challenges with an emphasis on strengthening the process by which skills are verified, thereby enhancing the employment prospects of students and other skills holders.
 

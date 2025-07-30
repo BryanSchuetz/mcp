@@ -1,4 +1,4 @@
----
+
 title: Guyana—Centre for Local Business Development
 date: 2017-08-24 16:43:00 Z
 summary: 'The Sustainable Business Group designed a [Centre for Local Business Development](https://www.dai.com/news/dai-to-collaborate-with-exxonmobil-on-centre-for-local-business-development-in-guyana)
@@ -12,7 +12,7 @@ solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
 country: Guyana
----
+
 
 The [Centre for Local Business Development](https://www.dai.com/news/dai-to-collaborate-with-exxonmobil-on-centre-for-local-business-development-in-guyana) in Guyana was established in 2017 with the objective to assist local businesses to become more competitive and to support their entry into the nascent oil and gas supply chain. The Centre became Guyana’s leading source for local oil and gas procurement, business and industry information, policy advocacy and professional networking opportunities. It provides reliable, up-to-date information on the offshore oil and gas sector, in addition to training and mentorship for business.
 

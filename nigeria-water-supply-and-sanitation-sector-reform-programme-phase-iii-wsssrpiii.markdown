@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Water Supply and Sanitation Sector Reform Programme Phase III (WSSSRPIII)
 date: 2020-04-21 10:48:00 Z
 summary: The Water Supply and Sanitation Sector Reform Programme Phase III in Nigeria
@@ -12,7 +12,7 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 Nigeria is the largest country in Africa, where 2,100 children under the age of 5 die every day from diseases easily preventable with better hygiene, improved sanitation, and access to clean drinking water. It is a paradox that even in states with an abundance of water resources, and access to water and sanitation remains very poor. The average water service delivery is only 32 litres per capita per day in urban areas and 10 litres in small towns and rural areas, while the quality is in most cases suspect.
 

@@ -1,4 +1,4 @@
----
+
 title: 'Nepal—Udaya: Investment and Innovation for Economic Development'
 date: 2024-02-06 15:46:00 Z
 summary: Udaya leverages innovative financing mechanisms to improve access by small
@@ -12,7 +12,7 @@ solutions:
 - Finance and Investment
 regions: Asia and the Pacific
 country: Nepal
----
+
 
 Working with the Government of Nepal, Udaya leverages innovative financing mechanisms to improve access by small and medium-sized enterprises (SMEs) to growth capital and business development services in Koshi Province. The expected outcomes are:
 1. SMEs grow and can innovative as they have access to business development services, capital, and information on public initiatives and incentives.

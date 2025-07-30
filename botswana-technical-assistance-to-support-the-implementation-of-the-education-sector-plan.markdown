@@ -1,4 +1,4 @@
----
+
 title: Botswana—Technical Assistance to Support the Implementation of the Education
   Sector Plan
 date: 2021-07-27 13:08:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Botswana
----
+
 
 As part of a national development strengthening initiative, Botswana has begun transforming its education system to align it with the national development vision—culminating in the Education and Training Strategic Sector Plan (ETSSP).
 

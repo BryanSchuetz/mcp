@@ -1,4 +1,4 @@
----
+
 title: Tajikistan—Feed the Future Agriculture and Land Governance (ALG)
 date: 2020-08-12 15:00:00 Z
 published: false
@@ -18,7 +18,7 @@ solutions:
 - Agriculture and Food Security
 regions: Eastern Europe and Central Asia
 country: Tajikistan
----
+
 
 For more than a decade, the U.S. Agency for International Development (USAID) has supported Tajikistan’s agriculture-led economic growth and improved nutrition outcomes in Khatlon. Now the Feed the Future Tajikistan Agriculture and Land Governance (ALG) activity [moves beyond](https://www.usaid.gov/tajikistan/press-releases/sep-18-2020-usaid-launches-36-million-program) these previous investments to catalyze growth by enabling the local private sector to develop and expand market opportunities and work with government and civil society to drive systemic reforms in the enabling environment for agriculture that allow smallholders and private sector firms to invest and upgrade land through improved registration and administration. Of equal importance, ALG ensures that women, youth, and vulnerable groups in remote areas in Khatlon are not left behind in the climb, integrating them into market-led opportunities in processing, value addition, and livelihood diversification while deepening their resilience through nutrition-sensitive crop adoption and behavior change. Combined, these efforts will enable Tajikistan to strengthen its journey to self-reliance and reduce its over-reliance on remittances from neighboring Russia.
 

@@ -1,4 +1,4 @@
----
+
 title: El Salvador—Water Services Project (WSP)
 date: 2024-07-10 10:34:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Latin America and the Caribbean
 country: El Salvador
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

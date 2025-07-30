@@ -1,4 +1,4 @@
----
+
 title: Tanzania—Local Content Benchmarking Study and Exchanges
 date: 2017-08-24 16:56:00 Z
 summary: DAI’s Sustainable Business Group (SBG) was contracted by the Oil and Gas
@@ -12,7 +12,7 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Tanzania
----
+
 
 DAI’s Sustainable Business Group (SBG) was contracted by the Oil and Gas Association of Tanzania (OGAT) to complete a Local Content Benchmarking Study and subsequent Local Content Advisory. This analysis provided a discussion on the key elements of a robust local content framework and developed six ways to categorize different aspects of a local content legal framework. The study explained each and then used this framework to assess how Tanzania’s local content framework (mainly the Petroleum Act 2015) mapped against these. The study then looked at the local content policy experience in Angola, Brazil, Ghana, Mozambique, and Nigeria against this same framework to provide data points on a variety of approaches to local content development.
 

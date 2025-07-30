@@ -1,4 +1,4 @@
----
+
 title: Democratic Republic of the Congo—Security Sector Accountability and Police
   Reform Programme (SSAPR)
 date: 2016-01-21 22:40:00 Z
@@ -22,7 +22,7 @@ promos:
 - title: Nurturing a Culture of Law and Justice in the DRC
   link: https://dai-global-developments.com/articles/nurturing-a-culture-of-law-and-justice-in-the-drc
 layout: project
----
+
 
 The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality. If we are to help address poverty and establish democratic systems responsive to the needs of the DRC's citizens, we must simultaneously address this fundamental issue of human security.
 

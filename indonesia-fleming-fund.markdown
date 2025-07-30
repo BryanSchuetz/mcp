@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Fleming Fund Phases I and II
 date: 2020-10-19 09:50:00 Z
 summary: DAI’s Fleming Fund programme in Indonesia is a collaboration with the Indonesian
@@ -16,7 +16,7 @@ country: Indonesia
 promos:
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
----
+
 
 The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR).
 

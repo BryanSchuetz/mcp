@@ -1,4 +1,4 @@
----
+
 title: Zimbabwe—Accountability and Citizen Engagement (ZIMACE)
 date: 2023-05-26 11:28:00 Z
 summary: The Zimbabwe Accountability and Citizen Engagement (ZIMACE) program protecst
@@ -12,7 +12,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Zimbabwe
----
+
 
 Zimbabwe has limited opportunities for citizens to participate and engage with the government and little government accountability to citizens. The increasingly authoritarian and restrictive political context inhibits democratic processes and effective, inclusive delivery of basic services.
 

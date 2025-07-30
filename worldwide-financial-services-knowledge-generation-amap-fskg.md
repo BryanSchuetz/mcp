@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Financial Services Knowledge Generation (AMAP-FSKG)
 date: 2016-01-21 22:40:00 Z
 summary: Research and knowledge conducted under FSKG increased the capacity of donors
@@ -15,7 +15,7 @@ regions:
 country:
 - Regional
 layout: project
----
+
 
 For more than two decades, DAI has been the U.S. Agency for International Development (USAID)'s partner in microenterprise development and microenterprise research, and has been involved in all of the debates about how to provide high-quality, sustainable financial services to low-income, informal sector businesses. As the debates and research continue, DAI and its partners continue to push the research frontier, identifying innovative, efficient, and cost-effective ways to extend financial services to poor and geographically remote clients. Research and knowledge conducted under FSKG increased the capacity of donors and USAID missions to design and strengthen implementation, monitoring, and evaluation of microfinance projects.
 

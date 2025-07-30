@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Integrated Natural Resource Management (INRM) Activity
 date: 2020-08-03 17:10:00 Z
 summary: The Integrated Natural Resource Management (INRM) program is designed to
@@ -12,7 +12,7 @@ solutions:
 - Natural Resource Management
 regions: Worldwide
 country: United States
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

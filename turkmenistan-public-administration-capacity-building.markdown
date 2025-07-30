@@ -1,4 +1,4 @@
----
+
 title: Turkmenistan—Public Administration Capacity Building
 date: 2020-04-21 13:08:00 Z
 summary: 'The Public Administration Capacity Building program supported the modernization
@@ -10,7 +10,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Turkmenistan
----
+
 
 A shortage of well-educated and skilled officials to run state agencies and create new policies has hampered Turkmenistan’s growth and economic development. To help develop these skills within Turkmenistan’s civil service, the European Union funded the Support to the Public Administration Capacity Building program. DAI’s team supported the modernization of the Turkmen Public Administration in line with European standards.
 

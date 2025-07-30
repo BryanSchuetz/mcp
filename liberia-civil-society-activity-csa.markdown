@@ -1,4 +1,4 @@
----
+
 title: Liberia—Civil Society Activity (CSA)
 date: 2021-11-15 09:21:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Voice and Accountability
 regions: Sub-Saharan Africa
 country: Liberia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

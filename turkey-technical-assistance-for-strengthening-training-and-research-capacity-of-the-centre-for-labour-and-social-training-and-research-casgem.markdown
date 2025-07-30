@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Technical Assistance for Strengthening Training and Research Capacity
   of the Centre for Labour and Social Training and Research (ÇASGEM)
 date: 2020-08-14 11:26:00 Z
@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Occupational health and safety (OHS) remains a key concern in Türkiye. In 2017, out of 15,676,733 insured employees, 359,653 suffered from occupational accidents; 691 reported cases of occupational disease; and 1,636 lost their lives. Occupational accidents and diseases cost Türkiye's economy €1.66 billion per year.
 

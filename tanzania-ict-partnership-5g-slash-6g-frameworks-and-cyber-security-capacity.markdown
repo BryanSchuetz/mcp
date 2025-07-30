@@ -1,4 +1,4 @@
----
+
 title: 'Tanzania—ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity'
 date: 2022-10-03 11:46:00 Z
 summary: 'The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity
@@ -14,7 +14,7 @@ solutions:
 - Digital Acceleration
 regions: Sub-Saharan Africa
 country: Tanzania
----
+
 
 While Tanzania has a robust information and communications technologies (ICT) and digital sector (including private-sector developers, tech startups, local talent, and a burgeoning e-government ecosystem), the policy and regulatory environment has not kept pace with technological advancements.
 

@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Zinc and Low-osmolarity Oral Rehydration Salts and Iron and Folic Acid
   Supplementation (ZIFAS)
 date: 2017-08-28 20:05:00 Z
@@ -12,7 +12,7 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 The Zinc and Low-osmolarity Oral Rehydration Salts and Iron and Folic Acid Supplementation programme (ZIFAS) developed innovative strategies to improve upon the existing low coverage of low-osmolarity oral rehydration salts (L-ORS), zinc, and iron and folic acid supplements in four states in northern Nigeria.
 

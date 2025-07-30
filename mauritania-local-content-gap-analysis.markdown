@@ -1,4 +1,4 @@
----
+
 title: Mauritania—Local Content Study
 date: 2018-06-21 21:04:00 Z
 tags:
@@ -18,7 +18,7 @@ solutions:
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Mauritania
----
+
 
 DAI’s Sustainable Business Group (SBG) worked with a multinational mining company to assess the company’s Local Business Integration (LBI) program and conducted a gap analysis to inform recommendations for optimizing supplier development. We conducted a two-phase analysis which was comprised of a comprehensive review of all LBI documentation, policies, and procedures, followed by in-person interviews with staff, local companies, and local stakeholders.
 

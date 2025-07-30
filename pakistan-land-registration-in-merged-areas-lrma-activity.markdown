@@ -1,4 +1,4 @@
----
+
 title: Pakistan—Land Registration in Merged Areas (LRMA) Activity
 date: 2021-05-19 14:06:00 Z
 published: false
@@ -16,7 +16,7 @@ solutions:
 - Environment
 regions: Asia and the Pacific
 country: Pakistan
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

@@ -1,4 +1,4 @@
----
+
 title: El Salvador—Improved Management and Conservation of Critical Watersheds (IMCCW)
 date: 2016-01-21 22:40:00 Z
 summary: To improve the economic situation in rural areas, the Government of El Salvador's
@@ -18,7 +18,7 @@ regions:
 country:
 - El Salvador
 layout: project
----
+
 
 Many inhabitants of the ecological corridors and watersheds of western El Salvador employ farming and other practices that contribute to environmental degradation—trends that threaten the sustainability of critical ecosystems, degrade water supplies and quality, and bind farmers to environmentally destructive subsistence farming. At the same time, growing markets for certified specialty coffees, high-quality fruits and vegetables, and ecotourism offer opportunities to generate income and improve environmental quality.
 

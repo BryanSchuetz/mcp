@@ -1,4 +1,4 @@
----
+
 title: Sierra Leone—Support to Civil Society and Local Authorities for Local Development
 date: 2021-03-09 11:45:00 Z
 summary: We are supporting decentralization in Sierra Leone by empowering local authorities
@@ -16,7 +16,7 @@ country: Sierra Leone
 promos:
 - title: 'Case Study: Solar Kiosks for Better Health Services'
   link: "/uploads/Case%20Study%20Template_sierraLeone-5e8bcc.pdf"
----
+
 
 Strengthening governance is key to achieve long-term internal peace and economic and social development in Sierra Leone. The country aims at improving the capacity of local governance structures to deliver appropriate services to local communities as part of a decentralization process. The Local Government Act 2004 (amended in 2017) provides the legal framework that guides this decentralization. Despite significant milestone achievements in the devolution of functions, fiscal autonomy, and service delivery, several challenges persist, in part due to the absence of a dedicated policy that can translate increasing political commitment to more meaningful powers for local councils.
 

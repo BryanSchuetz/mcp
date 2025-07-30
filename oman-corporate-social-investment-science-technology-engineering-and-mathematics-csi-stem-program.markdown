@@ -1,4 +1,4 @@
----
+
 title: Oman—Corporate Social Investment Science, Technology, Engineering, Arts, and
   Mathematics (CSR STEAM) Program
 date: 2020-01-10 19:25:00 Z
@@ -15,7 +15,7 @@ promos:
 - title: DAI-Designed and Implemented CSR Education Program Wins Three Innovation
     Awards in Oman
   link: https://www.dai.com/news/dai-designed-and-implemented-csr-education-program-wins-three-innovation-awards-in-oman
----
+
 
 DAI’s Sustainable Business Group partnered with Eshraqa—the social development of arm of Khimji Ramdas, one of the Sultanate’s leading business conglomerates—to deliver stemazone as its flagship corporate social responsibility program.
 

@@ -1,4 +1,4 @@
----
+
 title: Jordan—Technical Assistance to European Union Support to Green Economy
 date: 2024-09-20 07:32:00 Z
 summary: The EU's Green Economy program in Jordan supports the country’s green transition
@@ -11,7 +11,7 @@ solutions:
 - Environment
 regions: Middle East and North Africa
 country: Jordan
----
+
 
 Jordan faces challenges in advancing its green economy, including economic pressures, high unemployment, and environmental sustainability needs. Its partnership with the European Union (EU) has led to successful green initiatives, notably in energy, waste management, and water provision, aligned with the European Green Deal and the New Agenda for the Mediterranean. Jordan has committed to reducing emissions by 31 percent by 2030, in line with strategic frameworks like Vision 2025 and the National Green Growth Action Plan (2021-2025).
 

@@ -1,4 +1,4 @@
----
+
 title: Serbia—Improving the Quality of Education by Introducing Examinations at the
   End of Secondary Education (State Matura)
 date: 2020-10-22 10:46:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Education
 regions: Eastern Europe and Central Asia
 country: Serbia
----
+
 
 Analyses of the Serbian education system carried out in recent years have shown ample evidence of the need for improvement. The existing practice of the final examination system at the end of secondary education is not standardized; the assessment process is subjective and higher education institutions complain about the limited knowledge and low literacy of incoming students.
 

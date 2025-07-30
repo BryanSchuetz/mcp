@@ -1,4 +1,4 @@
----
+
 title: Oman—National Cross-Sector ICV Strategy
 date: 2020-09-18 13:08:00 Z
 summary: DAI’s Sustainable Business Group (SBG) led Petroleum Development Oman’s (PDO)
@@ -10,7 +10,7 @@ solutions:
 - Sustainable Business
 regions: Middle East and North Africa
 country: Oman
----
+
 
 DAI’s Sustainable Business Group (SBG) led Petroleum Development Oman’s (PDO) effort to develop a National Cross-Sector ICV Strategy. Phase I of the project covered the health and utilities sectors to pilot the methodology used in the sector assessments. SBG coordinated with the Ministry of Commerce and Industry (MoCI) and PDO to design an in-country value (ICV) historical analysis and a forecast based on projections for the demand of goods, labor, and services between 2019 and 2025. The team collected primary data on procurement, service contracts, and employment from relevant public and private sector stakeholders to assess the ICV performance and demand forecasts for goods, services, and manpower. The data was categorized using international standard classification taxonomies to ensure that cross-sector analysis will be possible upon completion of all sector analysis.
 

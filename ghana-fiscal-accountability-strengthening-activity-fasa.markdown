@@ -1,4 +1,4 @@
----
+
 title: Ghana—Fiscal Accountability Strengthening Activity (FASA)
 date: 2024-09-12 13:03:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Ghana
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

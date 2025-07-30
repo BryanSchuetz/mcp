@@ -1,4 +1,4 @@
----
+
 title: Regional—Acting for Climate in South Mediterranean (Clima-Med)
 date: 2020-05-20 13:02:00 Z
 summary: DAI is supporting a regional approach to support the transition towards sustainable,
@@ -16,7 +16,7 @@ promos:
 - title: 'Funding Climate Action in the South Mediterranean: Local Authorities Take
     the Lead'
   link: https://dai-global-developments.com/articles/funding-climate-action-in-the-south-mediterranean-local-authorities-take-the-lead/
----
+
 
 Identified as a [a hotspot region for changes to climate](https://www.iucn.org/regions/mediterranean/our-work/climate-change-mediterranean), the Southern Mediterranean region is seeing increasing water scarcity, rising temperatures, and growing rates of desertification. The increasing frequency of severe weather impacts affects both socio-economic development and the geopolitical environment. The multidimensional nature of the changes call for a coherent and coordinated multi-sectoral response.
 

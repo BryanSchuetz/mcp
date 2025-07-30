@@ -1,4 +1,4 @@
----
+
 title: Ethiopia—Technical Assistance to Support EU-Coffee Action for Ethiopia (EU-CAFE)
 date: 2020-08-07 15:37:00 Z
 summary: EU-CAFE works to sustainably improve Ethiopian farmers’ access to inputs
@@ -15,7 +15,7 @@ promos:
 - title: European Union Supports Ethiopia’s Coffee Sector, Funds Justice, and Legal
     Research Institute
   link: https://semonegna.com/eu-cafe-justice-legal-research-institute-eu/
----
+
 
 The Ethiopian Coffee and Tea Authority (ECTA) has been implementing various coffee production, processing, and marketing activities to enhance the sustainability of the national economy and improve the wellbeing of smallholder farmers, including women and youth. Low production levels, poor quality, and a lack of marketing are some of the challenges depressing returns to farmers and reducing foreign exchange earnings accruing to the country from the coffee sector.
 

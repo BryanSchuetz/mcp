@@ -1,4 +1,4 @@
----
+
 title: Pakistan—AAWAZ Voice and Accountability Programme
 date: 2016-01-21 22:40:00 Z
 summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts across
@@ -26,7 +26,7 @@ promos:
 - title: 'Donor Action in Pakistan: A Comparative Case Study of CDIP and AAWAZ'
   link: https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/16456
 layout: project
----
+
 
 [AAWAZ](http://aawaz.org.pk/index.php?action=home) brought together some of the most important civil society development organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan, Strengthening Participatory Organization, and Sungi Development Foundation. Together, they formed an integrated network—managed by DAI—to strengthen Pakistani citizens' capacity to collectively voice their priorities, bring about reform, and hold the government accountable.
 

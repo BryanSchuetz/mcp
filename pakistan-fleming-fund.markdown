@@ -1,4 +1,4 @@
----
+
 title: Pakistan—Fleming Fund Phases I and II
 date: 2019-06-21 13:00:00 Z
 summary: DAI’s Fleming Fund program in Pakistan is a collaboration with the Pakistani
@@ -37,7 +37,7 @@ promos:
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
 Field name:
----
+
 
 The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). The Fund is administered through [Mott Macdonald](https://www.mottmac.com/).
 

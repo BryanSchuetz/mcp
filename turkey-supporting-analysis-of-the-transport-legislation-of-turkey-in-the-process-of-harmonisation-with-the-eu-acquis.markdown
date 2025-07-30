@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Supporting Analysis of the Transport Legislation of Türkiye in the
   Process of Harmonisation with the EU Acquis
 date: 2021-07-26 16:20:00 Z
@@ -12,7 +12,7 @@ solutions:
 -
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Given its unique geographical position, improving transport is a priority for Türkiye’s economic and social development. In recent years, Türkiye has made significant investments and legal arrangements to improve and diversify its domestic and international transportation. These efforts have contributed to the development of its foreign trade and tourism.
 

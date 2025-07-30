@@ -1,4 +1,4 @@
----
+
 title: Iraq—Agriculture Reconstruction and Development Program for Iraq (ARDI)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
@@ -17,7 +17,7 @@ summary: 'For 8,000 years, the fertile land between the Tigris and Euphrates riv
   system was in a dire state.
 
 '
----
+
 
 For 8,000 years, the fertile land between the Tigris and Euphrates rivers yielded agricultural goods. But after years of war and neglect, Iraq's farming system was in a dire state. To provide work and income to Iraq's rural population, the U.S. Agency for International Development-funded Agriculture Reconstruction and Development Program for Iraq (ARDI) revitalized the area's agricultural sector. With four components—agricultural production, agribusiness, rural financial services, and soil and water resources—this program assisted the rural population in solving the most pressing problems facing the agricultural sector. The program's goal was to restore and improve conditions for productive and profitable agriculture. DAI built on existing physical infrastructure and human and institutional resources to address the underlying causes of weakness in Iraq's agricultural production.
 

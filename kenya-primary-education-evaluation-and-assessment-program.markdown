@@ -1,4 +1,4 @@
----
+
 title: Kenya—Primary Education Evaluation and Assessment Program
 date: 2024-10-22 13:22:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Kenya
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

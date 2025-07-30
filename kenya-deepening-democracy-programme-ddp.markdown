@@ -1,4 +1,4 @@
----
+
 title: Kenya—Deepening Democracy Programme (DDP)
 date: 2017-05-03 18:52:00 Z
 summary: 'The Kenya Deepening Democracy Programme addressed recurring political instability
@@ -12,7 +12,7 @@ solutions:
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: Kenya
----
+
 
 Despite significant economic growth in recent years, Kenya continues to rank low in key human development indicators due to substandard public services, recurring election-related instability, and non-inclusive markets and institutions. An overall ineffective social contract combined with weak governmental accountability have kept average Kenyans from experiencing the tangible benefits of economic progress in their daily lives.
 

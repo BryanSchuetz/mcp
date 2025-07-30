@@ -1,4 +1,4 @@
----
+
 title: Mongolia—SME Leasing Policy Initiative
 date: 2016-01-21 22:40:00 Z
 summary: DAI helped to improve the performance of Mongolia's financial sector in serving
@@ -17,7 +17,7 @@ regions:
 country:
 - Mongolia
 layout: project
----
+
 
 During the past decade, Mongolia has experienced strong economic growth supported almost single-handedly by its mining industry—primarily copper, coal, and gold. Mongolia has also progressed significantly in developing and strengthening its financial services and regulations. Access to financial services for the private sector has improved, albeit not equally for all businesses.
 

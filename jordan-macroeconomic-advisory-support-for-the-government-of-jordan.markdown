@@ -1,4 +1,4 @@
----
+
 title: Jordan—Macroeconomic Advisory Support for the Government of Jordan
 date: 2023-04-19 15:29:00 Z
 summary: The Macroeconomic Advisory Support to the Government of Jordan project aims
@@ -15,7 +15,7 @@ country: Jordan
 promos:
 - title: Moody’s Upgrades Jordan’s Credit Rating
   link: https://www.dai.com/news/moodys-upgrades-jordans-credit-rating
----
+
 
 Jordan’s economy has been buffeted by repeated shocks for more than a decade. Key risks facing Jordan include higher-than-expected tightening by the US Federal Reserve, forcing commensurate tightening by the Central Bank of Jordan; worsening food and energy security linked to geopolitical events in Eastern Europe and East Asia; climate events, including extended dry periods; and shocks to investor confidence in the emerging markets more broadly.
 

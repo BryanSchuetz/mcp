@@ -1,4 +1,4 @@
----
+
 title: Ghana—Western Region Coastal Foundation (WRCF)
 date: 2016-01-21 22:40:00 Z
 summary: The Western Region Coastal Foundation promotes inclusive economic growth
@@ -22,7 +22,7 @@ promos:
 - title: Dialogue and Development in Ghana’s Oil and Gas Region
   link: http://dai-global-developments.com/articles/dialogue-and-development-in-ghanas-oil-and-gas-region?utm_source=daidotcom
 layout: project
----
+
 
 The discovery of oil and gas off the coast of Ghana’s Western Region in 2007 greatly changed the country’s development trajectory. Production began in 2010 and rapidly accelerated to reach 100,000 barrels per day in just four years. While investments and operations in the oil and gas sector bring new resources and create opportunities for the local economy, they also bring new challenges. Oil-driven growth around cities has raised the cost of living, affecting primarily the urban poor. Meanwhile, new employment opportunities have attracted migrants from other parts of Ghana who often compete with local residents for jobs, further raising tensions and the risk of conflict.
 

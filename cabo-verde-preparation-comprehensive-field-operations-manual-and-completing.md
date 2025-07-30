@@ -1,4 +1,4 @@
----
+
 title: Cabo Verde—Land
 date: 2016-01-21 22:40:00 Z
 summary: The Cabo Verde Land project provided direct support for public outreach,
@@ -23,7 +23,7 @@ promos:
 - title: Land Rights Open Economic Opportunities in Cabo Verde
   link: https://www.mcc.gov/blog/entry/blog-010918-land-rights-cabo-verde
 layout: project
----
+
 
 The Cabo Verde Land project [provided direct support](https://www.mcc.gov/blog/entry/blog-010918-land-rights-cabo-verde) for public outreach, adjudication, parcel mapping, data capture, processing of information and records for the purpose of [land registration](http://dai-global-developments.com/articles/public-private-partnerships-for-land-administration-can-it-work-in-cabo-verde?utm_source=daidotcom). This process led to all parcels on the Island of Sal being validated either for registration or the deferral of rights registration with full justification and clear recommendation on the way forward.
 

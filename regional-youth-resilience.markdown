@@ -1,4 +1,4 @@
----
+
 title: Regional—Youth Resilience, Inclusion & Empowerment
 date: 2022-08-15 14:48:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: Regionial
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

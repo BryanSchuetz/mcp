@@ -1,4 +1,4 @@
----
+
 title: Regional—MED Dialogue For Rights and Equality II, Civil Society Facility South
 date: 2023-01-05 12:57:00 Z
 summary: The MED Dialogue For Rights and Equality II, Civil Society Facility South
@@ -12,7 +12,7 @@ solutions:
 - Governance
 regions: Middle East and North Africa
 country: South Mediterranean
----
+
 
 Increasing the participation of civil society groups in policy-making processes in the South Mediterranean would contribute toward a rights-based, pluralistic, accountable, and inclusive democratic governance process. Around 45 percent of the population in the region is below the age of 25, but mistrust of governments has led to decreased participation of young people in public institutions. The countries in the region also tend to have very few women in high-level political decision-making positions as well as in civil society.
 

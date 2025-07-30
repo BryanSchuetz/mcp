@@ -1,4 +1,4 @@
----
+
 title: Lebanon—Industry Value Chain Development (LIVCD)
 date: 2016-01-21 22:40:00 Z
 summary: The Lebanon Industry Value Chain Development (LIVCD) project improved Lebanon's
@@ -20,7 +20,7 @@ regions:
 country:
 - Lebanon
 layout: project
----
+
 
 Lebanese agricultural products have the potential to compete well in regional and international markets; however many products require improvements in terms of quality and specifications to meet customer demand, leveraging the country's significant assets and abundant talented human resources. In addition, the country is affected by the regional crisis, particularly in rural areas.
 

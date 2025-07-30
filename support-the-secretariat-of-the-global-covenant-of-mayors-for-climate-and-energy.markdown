@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Support the Secretariat of the Global Covenant of Mayors for Climate
   and Energy
 date: 2020-10-09 09:26:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Environment
 regions: Worldwide
 country: Worldwide
----
+
 
 More than half of the world’s population lives in cities, which is likely to increase to more than two-thirds by 2030. Cities use a large proportion of the world’s energy supply and are responsible for around 70 percent of global energy-related greenhouse gas emissions, with transport and buildings being among the largest contributors.
 

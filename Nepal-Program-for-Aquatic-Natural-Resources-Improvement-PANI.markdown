@@ -1,4 +1,4 @@
----
+
 title: Nepal—Paani
 date: 2017-01-10 18:29:00 Z
 summary: The Paani program worked with local and national counterparts to conserve
@@ -28,7 +28,7 @@ promos:
   link: https://daiglobal.exposure.co/virtuous-circle
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
----
+
 
 The water that courses through Nepal’s great Karnali, Mahakali, and [Rapti river](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e?fbclid=IwAR1Sn6NagFFnLHUHi48zZFs93-zO0lzB1GbhF3zK537USnhWPFheNRgG_Ik) basins irrigates the region’s farmland and sustains the health of its people, while also providing a critical habitat for diverse freshwater species and propelling the hydroelectric dams that help to power the country. However, important water resources such as these are increasingly strained by population growth, changes in climate, and indiscriminate use—stressors that will become more severe if left unchecked.
 

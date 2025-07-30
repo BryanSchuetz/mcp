@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS, USAID
   IUWASH Tangguh)
 date: 2016-01-21 22:40:00 Z
@@ -19,7 +19,7 @@ regions:
 country:
 - Indonesia
 layout: project
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

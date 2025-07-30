@@ -1,4 +1,4 @@
----
+
 title: Poland—Polish Sustainable Energy Financing Facility (PolSEFF I & II)
 date: 2016-01-21 22:40:00 Z
 summary: We created a perpetual market for investments in efficient energy by Poland's
@@ -28,7 +28,7 @@ promos:
 - title: Polish Sustainable Energy Financing Facility Wins Clean Energy Award
   link: https://www.dai.com/news/polish-sustainable-energy-financing-facility-wins-clean-energy-award
 layout: project
----
+
 
 We [created a perpetual market](http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs) for investments in efficient energy by Poland's local businesses by training financial institutions on how to appraise and finance sensible energy projects; detailing for small and medium-sized enterprises (SMEs) the competitive advantages of investing in energy-efficient materials and equipment; and training local experts to assist SMEs in identifying and preparing technically feasible, bankable projects. Following the success of the first phase of the program, PolSEFF II provided a new energy efficiency credit line through local participating financial institutions. The facility provided up to a €200 million credit line, following the previous phase's €180 million disbursal, through a framework to commercial banks and leasing companies in Poland for on-lending to SMEs to finance investments in energy efficiency and small-scale renewable energy. This work helped build lasting capacity for this type of finance in Poland, which was highly reliant on foreign energy.
 

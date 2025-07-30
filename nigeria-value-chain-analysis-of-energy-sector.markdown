@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Value Chain Analysis of Energy Sector
 date: 2017-08-24 16:14:00 Z
 summary: The Niger Delta Partnership Initiative Foundation (NDPI)’s 2016 Electricity
@@ -12,7 +12,7 @@ solutions:
 -
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 The Niger Delta Partnership Initiative Foundation (NDPI)’s 2016 Electricity Value Chain Study is the culmination of three years of work between DAI and NDPI/Foundation for Partnership Initiatives in the Niger Delta (PIND). In 2016 DAI’s Sustainable Business Group (SBG) took charge of leading the value chain study. The previous work done with NDPI in 2014-2016 sought to determine the existence and then identify areas of opportunities in the Niger Delta Power sector for NDPI/PIND interventions.
 

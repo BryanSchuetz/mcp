@@ -1,4 +1,4 @@
----
+
 title: Guatemala—Fiscal and Procurement Reform Project (FPRP)
 date: 2017-01-27 21:05:00 Z
 summary: FPRP supported Guatemala to increase domestic resource mobilization, enhance
@@ -15,7 +15,7 @@ promos:
 - title: Want Better Domestic Revenue Mobilization? Build a Digital Taxpayer Registration
     Tool
   link: https://dai-global-developments.com/articles/want-better-domestic-revenue-mobilization-build-a-digital-taxpayer-registration-tool/
----
+
 
 The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic product means the country cannot afford to provide critical public services. The Fiscal and Procurement Reform Project (FPRP) supported the government to increase domestic resource mobilization, enhance transparency and accountability, and support public procurement reform.
 

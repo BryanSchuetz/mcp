@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Competitiveness of Export-Oriented Businesses Activity (ACEBA)
 date: 2020-01-31 10:34:00 Z
 published: false
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Afghanistan
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

@@ -1,4 +1,4 @@
----
+
 title: Honduras—Technical Assistance to Food Security, Nutrition, and Climate Resilience
   in the Dry Corridor (EUROSAN)
 date: 2016-01-21 22:40:00 Z
@@ -16,7 +16,7 @@ regions:
 country:
 - Honduras
 layout: project
----
+
 
 The work of [EUROSAN](https://ec.europa.eu/international-partnerships/projects/eurosan-food-security-nutrition-and-resilience-honduran-dry-corridor_en) is focused on the dry corridor in Honduras, home to some of the country's most marginalised citizens. DAI provided technical assistance under this food security and nutrition project, which was led by Belgium-based Agriconsulting and supported by DAI and Nicaragua-based Simbiosis.
 

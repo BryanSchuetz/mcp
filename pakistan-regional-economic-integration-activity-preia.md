@@ -1,4 +1,4 @@
----
+
 title: Pakistan—Regional Economic Integration Activity (PREIA)
 date: 2016-01-21 22:40:00 Z
 summary: PREIA increased Pakistan's access to regional and international markets and
@@ -24,7 +24,7 @@ promos:
 - title: USAID concludes 9-year economic integration activity in Pakistan
   link: https://www.dawn.com/news/1853787/usaid-concludes-9-year-economic-integration-activity-in-pakistan
 layout: project
----
+
 
 PREIA worked to increase Pakistan's access to regional and international markets and is a key economic growth project that stands to benefit numerous Pakistani businesses. This project worked to: improve Pakistan's business enabling environment so that policies, laws, and regulations are adaptable and more reflective of on-the-ground needs; and improve Pakistan's capacity to access regional markets by identifying bottlenecks and practical solutions for increasing export efficiency.
 

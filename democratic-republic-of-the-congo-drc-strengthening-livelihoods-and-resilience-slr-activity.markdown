@@ -1,4 +1,4 @@
----
+
 title: Democratic Republic of the Congo—Feed the Future Strengthening Livelihoods
   and Resilience (SLR) Activity
 date: 2020-10-02 13:42:00 Z
@@ -17,7 +17,7 @@ solutions:
 -
 regions: Sub-Saharan Africa
 country: Democratic Republic of Congo
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

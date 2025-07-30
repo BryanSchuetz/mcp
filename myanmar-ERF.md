@@ -1,4 +1,4 @@
----
+
 title: Myanmar—Economic Response Facility (ERF)
 date: 2016-01-21 22:40:00 Z
 published: false
@@ -20,7 +20,7 @@ promos:
 - title: Trade in the Time of COVID-19—Risk or Opportunity?
   link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
 layout: project
----
+
 
 Despite growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Myanmar remains one of the poorest countries in Asia. The domestic private sector has experienced little residual benefit from outside investment, widespread underemployment remains an issue, and the majority of gains from growth are still concentrated among a few long-established business entities.
 

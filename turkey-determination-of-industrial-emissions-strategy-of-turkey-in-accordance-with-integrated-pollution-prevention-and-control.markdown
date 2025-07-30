@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Determination of Industrial Emissions Strategy in Accordance with Integrated
   Pollution Prevention and Control
 date: 2020-04-14 15:02:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Türkiye’s economic and social development performance since 2000 has been impressive, leading to increased employment and incomes and making it one of the largest middle-income countries. Türkiye’s economy is mainly dominated by industry and services sectors, while the agriculture sector is smaller. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Türkiye’s export mix.
 

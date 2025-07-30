@@ -1,4 +1,4 @@
----
+
 title: Ukraine—Implementation of EU Practices for Accounting, Financial Reporting,
   and Audit
 date: 2020-05-06 13:08:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
+
 
 *[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 

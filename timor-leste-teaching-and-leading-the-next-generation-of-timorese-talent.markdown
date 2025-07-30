@@ -1,4 +1,4 @@
----
+
 title: Timor-Leste—Teaching and Leading the Next Generation of Timorese (TALENT)
 date: 2024-09-16 08:38:00 Z
 summary: The Teaching and Leading the Next Generation of Timorese (TALENT) project
@@ -12,7 +12,7 @@ solutions:
 - Governance
 regions: Asia and the Pacific
 country: Timor-Leste
----
+
 
 Timor-Leste's education sector faces challenges, especially in secondary schools, where many of the 2,702 teachers lack formal qualifications. Of 4,600 teachers, nearly 1,900 are volunteers without formal training, and many others are only partially qualified. Pre-service education is highly theoretical, while in-service training is outdated. The 2020-2024 Education Sector Plan calls for reforms to enhance teacher qualifications and adopt learner-centered methods.
 

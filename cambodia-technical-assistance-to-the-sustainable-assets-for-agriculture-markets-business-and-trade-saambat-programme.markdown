@@ -1,4 +1,4 @@
----
+
 title: Cambodia—Technical Assistance to the Sustainable Assets for Agriculture Markets,
   Business, and Trade (SAAMBAT) Programme
 date: 2022-10-25 09:11:00 Z
@@ -18,7 +18,7 @@ solutions:
 - Environment
 regions: Asia and the Pacific
 country: Cambodia
----
+
 
 Low-quality road infrastructure has limited the growth of the agriculture, tourism, manufacturing, and construction sectors, and significantly contributed to high poverty levels in rural Cambodia. Lack of access to roads has trapped many rural communities in poverty, as residents do not have access to education, healthcare, or markets. These regions are also highly vulnerable to natural disasters due to changes in climate, heightening the vulnerability of these communities.
 

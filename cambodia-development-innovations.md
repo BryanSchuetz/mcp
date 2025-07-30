@@ -1,4 +1,4 @@
----
+
 title: Cambodia—Development Innovations
 date: 2016-01-21 22:40:00 Z
 summary: The Development Innovations project connected Cambodia's civil society and
@@ -21,7 +21,7 @@ promos:
 - title: Empowering Voters One Mobile Phone at a Time
   link: https://blog.usaid.gov/2015/09/empowering-voters-one-mobile-phone-at-a-time/
 layout: project
----
+
 
 Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) and citizens to tackle development challenges in innovative ways with increased reach and results. The U.S. Agency for International Development (USAID)-funded [Development Innovations](http://www.development-innovations.org/) project connected Cambodia’s civil society and technology communities to design and use information and communication technology (ICT) solutions, and innovative methods, to address Cambodia’s development challenges. The project toolkit included public-private sector partnerships, ICT4D advisory and match-making services, technology expositions, small grants, the 5D Lab co-working space, and the Lab@DI, a service-centered space that provides customized tech training services, and access to equipment and tech coaches.
 

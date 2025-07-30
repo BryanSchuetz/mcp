@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Youth-Powered Ecosystem to Advance Urban Adolescent Health
 date: 2020-05-08 14:13:00 Z
 summary: 'The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
@@ -30,7 +30,7 @@ promos:
   link: https://dai-assets.s3.amazonaws.com/our-work/Lagos%20YPE4AH%20Sustainability%20Plan%202024.pdf
 - title: Kano Sustainability Plan
   link: https://dai-assets.s3.amazonaws.com/our-work/Kano%20YPE4AH%20Sustainability%20Plan%202024.pdf
----
+
 
 In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing more barriers in accessing accurate, reliable health information as traditional programs have struggled to reach them or meet their needs.
 

@@ -1,4 +1,4 @@
----
+
 title: Caribbean—COVID-19 Recovery and Resiliency Through Digitization of Caribbean
   Financial Institutions and their MSME Clients
 date: 2021-04-28 14:45:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
 country: Barbados, Belize, Guyana, Jamaica, Suriname, and Trinidad and Tobago
----
+
 
 DAI is working to increase the adoption of digital innovations that promote business resilience and enhance productivity among financial institutions in the Caribbean—notably Barbados, Belize, Guyana, Jamaica, Suriname, and Trinidad and Tobago—and their micro, small, and medium-sized enterprise (MSME) clients. The focus is on facilitating access to financial technology  (FinTech) and other digital solutions, largely by creating pathways for adoption in collaboration with local incubators, accelerators, innovation hubs, and FinTech businesses.
 

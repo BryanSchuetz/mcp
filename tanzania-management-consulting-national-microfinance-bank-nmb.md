@@ -1,4 +1,4 @@
----
+
 title: Tanzania—Management Consulting to the National Microfinance Bank (NMB)
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI began working in August 1999 to transform the National Microfinance
@@ -18,7 +18,7 @@ regions:
 country:
 - Tanzania
 layout: project
----
+
 
 DAI began working in August 1999 to transform the National Microfinance Bank (NMB), a troubled state-owned savings bank in one of the world's poorest countries, into a profitable commercial bank providing a full range of services to poor and middle-income customers. We focused on growing the bank's revenue base while instituting operational improvements to create a foundation for institutional strength. With technical assistance financed by the World Bank and the Government of Tanzania, NMB's management was restructured, new products were developed, all levels of staff were trained and retrained, and new information technology and management information systems were implemented.
 

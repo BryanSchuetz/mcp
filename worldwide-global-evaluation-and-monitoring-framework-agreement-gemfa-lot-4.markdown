@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Global Evaluation and Monitoring Framework Agreement (GEMFA) - Lot
   4
 date: 2023-04-13 09:24:00 Z
@@ -18,7 +18,7 @@ solutions:
 - Fragile States
 regions: Worldwide
 country: Worldwide
----
+
 
 The Global Evaluation and Monitoring Framework Agreement (GEMFA) is the primary mechanism of the U.K. Foreign, Commonwealth and Development Office (FCDO) for undertaking its monitoring and evaluation assignments. Lot 4 evaluates assignments valued at less than £600,000 and aims to improve the impact and value for money of the FCDO's development spending while supporting the effective delivery of the FCDO's strategic objectives.
 

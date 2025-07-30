@@ -1,4 +1,4 @@
----
+
 title: Liberia—Local Empowerment for Accountability and Decentralization (LEAD)
 date: 2023-05-26 13:58:00 Z
 published: false
@@ -17,7 +17,7 @@ solutions:
 - Local Governance and Decentralization
 regions: Sub-Saharan Africa
 country: Liberia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

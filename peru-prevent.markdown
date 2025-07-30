@@ -1,4 +1,4 @@
----
+
 title: Peru—Prevent activity
 date: 2019-10-03 13:57:00 Z
 summary: Peru Prevent helped Peruvian institutions and actors more effectively manage
@@ -27,7 +27,7 @@ promos:
 - title: 'Success Story: Building Capacity to Empower Forest Users in The Peruvian
     Amazon Environmental Crime Monitoring Network 2022'
   link: "/uploads/MONITORING_NETWORK_2022.pdf"
----
+
 
 Illegal activity, biodiversity loss, weak governance, and social conflict around natural resource management are threatening one of the world’s most ecologically and culturally significant ecosystems in Peru. Additionally, the lack of maintenance of these extraordinary areas has led to the country forgoing millions of dollars in tourism and thousands of job opportunities. On the other hand, Peru is home to a network of diverse, talented, committed local problem-solvers who are ready to apply creative new approaches—rooted in deep local knowledge—to address environmental crime.
 

@@ -1,4 +1,4 @@
----
+
 title: Tanzania—Feed the Future Tanzania Advancing Youth
 date: 2017-09-07 21:28:00 Z
 summary: 'The Feed the Future Tanzania Advancing Youth activity helped young people
@@ -19,7 +19,7 @@ promos:
   link: https://www.usaid.gov/tanzania/news/entrepreneurship-opens-doors-success
 - title: Youth Leader Earns Life-Changing Opportunity
   link: https://www.usaid.gov/tanzania/news/youth-leader-earns-life-changing-opportunity
----
+
 
 In the past decade, Tanzania experienced significant improvements—both economically and socially. The country’s gross domestic product has seen above-average growth, mortality for children under age 5 has dropped substantially, more households have electricity, and more young people have completed primary school. However, economic growth has benefited cities more than rural areas, leading to increased rural to urban migration by youth who see farming as a dead-end occupation. With approximately 800,000 young people entering the workforce each year, providing youth with vocational skills and connecting them to employment opportunities has become an increasingly important and urgent need.
 

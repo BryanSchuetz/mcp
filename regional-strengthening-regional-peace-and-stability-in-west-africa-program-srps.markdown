@@ -1,4 +1,4 @@
----
+
 title: Regional—Strengthening Regional Peace and Stability in West Africa Program
   (SRPS)
 date: 2023-08-03 13:48:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Peace-building and State-building
 regions: Sub-Saharan Africa
 country: West Africa
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

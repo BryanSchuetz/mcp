@@ -1,4 +1,4 @@
----
+
 title: Haiti—Projet Paysages Résilients-Nord (PPR-Nord)
 date: 2022-10-27 09:59:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Natural Resource Management
 regions: Latin America and the Caribbean
 country: Haiti
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

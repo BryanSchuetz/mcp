@@ -1,4 +1,4 @@
----
+
 title: Guyana—Trade Mission
 date: 2020-01-10 18:42:00 Z
 summary: The DAI Sustainable Business Group (SBG) was commissioned to support the
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
 country: Guyana
----
+
 
 The DAI Sustainable Business Group (SBG) was commissioned to support the Newfoundland and Labrador Oil and Gas Industry Association (Noia)’s trade mission to Guyana for two consecutive years. Noia identified key similarities between the recent oil and gas industry development in Guyana and the Province’s own experiences developing an oil and gas supplier base. Guyana has the potential to mirror the Newfoundland and Labrador experience of economic development through offshore oil. To facilitate Noia members’ entry into the Guyanese market and identify strong potential partnerships, SBG has managed two trade missions for their members. The mission’s goals were to inform Noia members of the business environment, political landscape, regulatory regime and cultural considerations, as well as provide up to date information on oil and gas project activities and procurement information from a selection of prime contractors. The mission also provided matchmaking between Noia members and local Guyanese businesses to foster on-the-ground partnerships.
 

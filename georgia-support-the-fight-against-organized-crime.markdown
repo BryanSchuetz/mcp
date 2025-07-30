@@ -1,4 +1,4 @@
----
+
 title: Georgia—Support the Fight Against Organized Crime
 date: 2021-02-12 08:39:00 Z
 summary: We supported the Georgia Ministry of Internal Affairs, and its relevant departments,
@@ -11,7 +11,7 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Eastern Europe and Central Asia
 country: Georgia
----
+
 
 The Government of Georgia has implemented various reforms to strengthen the rule of law, with emphasis on prevention and fight against organized crime. Since 2013, the Interagency Coordinating Council on Fight Against Organized Crime has been mandated with updating, coordinating, and implementing the National Strategy of 2017-2020 for Combating Organized Crime and its action plan.
 

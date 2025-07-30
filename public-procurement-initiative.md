@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Public Procurement Initiative
 date: 2016-01-21 22:40:00 Z
 summary: DAI and lead partner Everis provided European Union negotiators with quantitative
@@ -14,7 +14,7 @@ regions:
 country:
 - Worldwide
 layout: project
----
+
 
 DAI and lead partner Everis carried out studies on government procurement in Australia, Brazil, China, India, Indonesia, New Zealand, and Thailand. We were supported throughout this work by sector and market leaders and employed a large pool of short-term experts—international and local—to collect and process the relevant data in each partner country.
 

@@ -1,4 +1,4 @@
----
+
 title: Ghana—Industrial Baseline and Economic Forecasting
 date: 2017-08-24 16:38:00 Z
 published: false
@@ -12,7 +12,7 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Ghana
----
+
 
 In 2017, the Sustainable Business Group (SBG) conducted an industrial baseline analysis of the Ghanaian offshore petroleum industry to assess the ability of local suppliers to service a specific upstream investment made by the client.
 

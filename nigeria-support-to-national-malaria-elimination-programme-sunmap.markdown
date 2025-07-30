@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Support to National Malaria Elimination Programme (SuNMaP)
 date: 2017-08-29 17:59:00 Z
 summary: 'The Support to the Nigeria Malaria Elimination Program (SUNMAP) strengthened
@@ -13,7 +13,7 @@ solutions:
 - Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 The Support to the National Malaria programme (SuNMaP) worked in close cooperation with Nigeria’s National Malaria Control Elimination Programme (NMEP) in 10 states and selected local governments within those states. Eventually covering around 40 percent of Nigeria’s population, SuNMaP rolled out activities in Anambra, Kano, Lagos, Niger, Ogun Jigawa, Enugu, Katsina and Yobe states.
 

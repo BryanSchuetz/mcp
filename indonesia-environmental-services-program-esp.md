@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Environmental Services Program (ESP)
 date: 2016-01-21 22:40:00 Z
 summary: In Indonesia, 100 million people lack access to clean water, and many households
@@ -18,7 +18,7 @@ promos:
 - title: Taking A Closer Look At Indonesia’s Environmental Services Program
   link: https://cleanwaterenow.com/taking-a-closer-look-at-indonesias-environmental-services-program/
 layout: project
----
+
 
 In Indonesia, 100 million people lack access to clean water, and many households in densely populated areas are not served by existing piped water. This project developed an innovative "ridge to reef" approach that leveraged the inextricable connection between health and the environment. It expanded access to clean water by protecting upland raw water sources while [working with water providers](https://www.globalwaters.org/resources/assets/indonesia-environmental-service-program-esp-evaluation) and users in the lowlands to increase access to water and sanitation services.
 

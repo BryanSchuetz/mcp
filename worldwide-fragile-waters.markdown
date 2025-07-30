@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Fragile Waters
 date: 2023-10-03 13:24:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions: Worldwide
 country: Worldwide
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

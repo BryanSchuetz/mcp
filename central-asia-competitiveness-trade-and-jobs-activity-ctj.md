@@ -1,4 +1,4 @@
----
+
 title: Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ); Trade Central
   Asia (TCA)
 date: 2016-01-21 22:40:00 Z
@@ -18,7 +18,7 @@ regions:
 country:
 - Regional
 layout: project
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

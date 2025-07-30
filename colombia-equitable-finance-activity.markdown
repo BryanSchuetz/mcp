@@ -1,4 +1,4 @@
----
+
 title: Colombia—Equitable Finance Activity
 date: 2022-10-03 17:50:00 Z
 published: false
@@ -17,7 +17,7 @@ solutions:
 regions: Latin America and the Caribbean
 country: Colombia
 
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

@@ -1,4 +1,4 @@
----
+
 title: Zambia—Local Impact Governance Project (Local Impact)
 date: 2020-11-11 09:24:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 -
 regions: Sub-Saharan Africa
 country: Zambia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

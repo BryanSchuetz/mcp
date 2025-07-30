@@ -1,4 +1,4 @@
----
+
 title: Worldwide—INVEST
 date: 2017-10-06 19:20:00 Z
 summary: 'INVEST was a flexible, efficient buy-in mechanism that helped the U.S. Agency
@@ -48,7 +48,7 @@ promos:
   link: "/uploads/Sustainable%20Banking%20Alliance%20-%20Lessons%20Learned%20for%20Climate%20Finance%20in%20Colombia%20and%20Egypt.pdf"
 - title: 'BLOG: Making Blended Finance Work for Climate'
   link: https://dai-global-developments.com/articles/making-blended-finance-work-for-climate/
----
+
 
 INVEST was a flexible, efficient buy-in mechanism implemented over seven years that helped the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an [opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
 

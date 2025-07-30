@@ -1,4 +1,4 @@
----
+
 title: Swaziland—Strengthening Public Health Governance and Management Systems
 date: 2018-01-16 16:54:00 Z
 summary: We supported the Swaziland Ministry of Health in the implementation of the
@@ -11,7 +11,7 @@ solutions:
 - Health Governance
 regions: Sub-Saharan Africa
 country: Swaziland
----
+
 
 Strengthening health care and decentralizing hospitals in Swaziland is a key strategy for improved health care delivery and requires clear governance and enhanced management capacity. The Swaziland Ministry of Health National Health Sector Strategic Plan 2014–2018 aimed to strengthen the governance and management capacity of the Ministry of Health and health institutions to effectively and efficiently perform and discharge core health sector functions.
 

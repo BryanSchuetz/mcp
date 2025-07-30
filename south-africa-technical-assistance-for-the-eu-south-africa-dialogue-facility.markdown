@@ -1,4 +1,4 @@
----
+
 title: South Africa—Technical Assistance for the EU-South Africa Dialogue Facility
 date: 2020-08-07 09:44:00 Z
 summary: 'The Technical Assistance for the EU-South Africa Dialogue Facility works
@@ -11,7 +11,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: South Africa
----
+
 
 This Technical Assistance for the EU-South Africa Dialogue Facility, a follow-on project with two previous iterations, helped enable the strategic partnership that has existed between the European Union (EU) and South Africa since 2007. The initial Trade, Development, and Cooperation Agreement’s Dialogue Facility was launched as a pilot, as policy dialogue was a new concept, but since its launch, the demand for support steadily increased from a wider variety of stakeholders seeking assistance.
 

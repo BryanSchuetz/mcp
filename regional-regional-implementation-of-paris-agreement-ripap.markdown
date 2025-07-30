@@ -1,4 +1,4 @@
----
+
 title: Regional—Implementation of Paris Agreement (RIPAP)
 date: 2021-07-27 13:29:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Regional
----
+
 
 Climate change is a global challenge that requires a collaborative response. With the recently concluded Paris Agreement, there is an increasing demand for international cooperation to drive the necessary transformation to a more resilient, low-carbon economy. The European Union (EU) has been implementing ambitious climate policy for decades and has accumulated extensive knowledge to be shared with experts and policymakers in the beneficiary countries.
 

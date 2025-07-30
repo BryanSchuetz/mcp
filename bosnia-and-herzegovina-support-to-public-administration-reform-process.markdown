@@ -1,4 +1,4 @@
----
+
 title: Bosnia and Herzegovina—Support to Public Administration Reform Process
 date: 2021-03-09 13:04:00 Z
 summary: Bosnia and Herzegovina has been implementing public administration reform
@@ -13,7 +13,7 @@ solutions:
 - Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
----
+
 
 Bosnia and Herzegovina has been implementing public administration reform since 2006. This project supported the Public Administration Reform Coordinator’s Office at all government levels to efficiently coordinate the process of reform. Its overall objective was to contribute to public administration reform by building a professional, accountable, transparent, and efficient public administration that delivers high-quality services to citizens and businesses, and to effectively transpose and implement the European Union acquis. The project worked to improve coordination for the efficient implementation of a Strategic Framework and Action Plan. Additionally, the project raised the visibility of the reform process to win citizen support for change and increase public confidence in public authorities, especially in the institutions that direct and implement the reform process.
 

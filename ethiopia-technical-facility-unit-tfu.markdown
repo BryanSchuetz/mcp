@@ -1,4 +1,4 @@
----
+
 title: Ethiopia—Technical Facility Unit (TFU)
 date: 2023-07-03 16:21:00 Z
 summary: 'The European Union is supporting the Government of Ethiopia through public
@@ -11,7 +11,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: 'Ethiopia '
----
+
 
 The European Union is supporting the Government of Ethiopia through public financial management (PFM) projects and through the new Technical Facility Unit (TFU). The TFU will oversee implementation of the entire PFM Reforms program, providing technical assistance and advisory services to all institutions in the PFM process.
 

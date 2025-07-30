@@ -1,4 +1,4 @@
----
+
 title: Senegal and Mauritania—Industrial Baseline Study
 date: 2020-09-18 13:06:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was contracted by an international
@@ -10,7 +10,7 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Senegal, Mauritania
----
+
 
 DAI’s Sustainable Business Group (SBG) was contracted by an international oil and gas company to conduct an industrial baseline study across Senegal and Mauritania. The project was geared towards the oil and gas company’s procurement team and was composed of three different types of activities: an industrial baseline study (IBS) of their Phase 1 operations, local content tendering documentation, and local content advisory and call-down support. The provision of an IBS on the operating expense phase included demand mapping, an engagement plan, a field assessment, survey and spend analysis, and a report on findings.
 

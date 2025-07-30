@@ -1,4 +1,4 @@
----
+
 title: Liberia—Community Infrastructure Project II (LCIP I, II)
 date: 2016-01-21 22:40:00 Z
 summary: After the second civil war in Liberia ended, DAI was active in the country
@@ -20,7 +20,7 @@ regions:
 country:
 - Liberia
 layout: project
----
+
 
 After the second civil war in Liberia ended, DAI was active in the country on behalf of the U.S. Agency for International Development (USAID), supporting social reconciliation, community infrastructure reconstruction, economic development, and democratic governance and civil society strengthening. Building on this presence, DAI was awarded USAID's Liberia Community Infrastructure Project II, which targeted vulnerable youths by combining literacy and numeracy training, enterprise development and agribusiness assistance, and key infrastructure projects that fostered economic growth for the nation.
 

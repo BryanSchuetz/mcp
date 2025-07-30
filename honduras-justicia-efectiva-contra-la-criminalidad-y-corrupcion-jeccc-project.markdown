@@ -1,4 +1,4 @@
----
+
 title: Honduras—Justicia Efectiva Activity
 date: 2022-05-23 19:36:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Honduras
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

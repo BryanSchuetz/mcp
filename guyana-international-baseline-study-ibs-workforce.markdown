@@ -1,4 +1,4 @@
----
+
 title: Guyana—International Baseline Study (IBS) Workforce
 date: 2020-01-10 18:14:00 Z
 published: false
@@ -12,7 +12,7 @@ solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
 country: Guyana
----
+
 
 Building on a 2017 industrial baseline exercise, DAI’s Sustainable Business Group (SBG) is conducting an assessment and orchestrating a nationwide economic survey to establish a new baseline against which the future development of Guyana can be measured.
 

@@ -1,4 +1,4 @@
----
+
 title: Tanzania—Private Enterprise Support Activities (PESA I, II)
 date: 2016-01-21 22:40:00 Z
 summary: 'Active in six regions that account for a third of Tanzania''s population,
@@ -17,7 +17,7 @@ regions:
 country:
 - Tanzania
 layout: project
----
+
 
 Active in six regions that account for a third of Tanzania's population, the Private Enterprise Support Activities (PESA) project focused on association development, encouraging farmers to form producer associations or to strengthen existing groups that pool resources and improve their sales position. The associations also served as vehicles for DAI-led training in marketing, bargaining, and financial management skills. Ultimately, PESA was about empowering Tanzanian farmers who work hard, but needed development assistance to realize their potential. By September 2006, the DAI team had provided technical assistance to 170 associations, more than 90 of them newly formed, with a combined membership of 24,000. These strengthened producer associations served as the foundation for sustainable development in governance, business, and technical capacity.
 

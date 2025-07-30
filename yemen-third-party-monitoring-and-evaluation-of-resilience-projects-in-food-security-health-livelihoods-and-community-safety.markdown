@@ -1,4 +1,4 @@
----
+
 title: Yemen—Third-Party Monitoring and Evaluation of Resilience Projects in Food
   Security, Health, Livelihoods, and Community Safety
 date: 2021-02-05 10:26:00 Z
@@ -15,7 +15,7 @@ solutions:
 -
 regions: Middle East and North Africa
 country: Yemen
----
+
 
 Decades of civil unrest have had a strong and long-term impact on Yemenis’ living and health conditions and the overall institutional and economic structures of the country. Yemen is considered by the United Nations to be experiencing the worst humanitarian crisis in the world.
 

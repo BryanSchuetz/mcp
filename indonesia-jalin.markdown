@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Jalin
 date: 2017-09-14 21:31:00 Z
 summary: The U.S. Agency for International Development’s Jalin program assisted the
@@ -24,7 +24,7 @@ promos:
   link: https://www.dai.com/news/two-health-innovations-supported-by-usaid-jalin-project-win-awards
 - title: DELIVERY! Saving Moms & Babies in Rural Indonesia
   link: https://usaidindonesia.exposure.co/delivery
----
+
 
 While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations.
 

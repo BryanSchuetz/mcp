@@ -1,4 +1,4 @@
----
+
 title: Kosovo—Municipal Integrity activity
 date: 2023-03-02 16:37:00 Z
 published: false
@@ -16,7 +16,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Kosovo
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

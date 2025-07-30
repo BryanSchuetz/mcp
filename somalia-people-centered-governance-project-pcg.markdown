@@ -1,4 +1,4 @@
----
+
 title: Somalia—People-Centered Governance Activity (PCG)
 date: 2023-07-25 13:51:00 Z
 published: false
@@ -17,7 +17,7 @@ solutions:
 - Public Administration, Civil Service Reform, and Human Resources Management
 regions: Sub-Saharan Africa
 country: Somalia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

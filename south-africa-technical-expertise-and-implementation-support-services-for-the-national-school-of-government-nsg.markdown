@@ -1,4 +1,4 @@
----
+
 title: South Africa—Technical Expertise and Implementation Support Services for the
   National School of Government (NSG)
 date: 2020-08-07 18:04:00 Z
@@ -19,7 +19,7 @@ promos:
 - title: Strengthening South Africa’s Public Sector Capacity to Drive Sustainable
     Development
   link: https://dai-global-developments.com/articles/strengthening-south-africas-public-sector-capacity-to-drive-sustainable-development
----
+
 
 The National School of Government (NSG) in South Africa contributes to the establishment of a capable, professional, and responsive public sector that is committed to, and has institutionalized, the values and policies of a developmental state. The NSG plays a critical role in building the professionalization of public service through learning and development interventions.
 

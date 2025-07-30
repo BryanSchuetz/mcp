@@ -1,4 +1,4 @@
----
+
 title: Mozambique—Technical Assistance in Support of Trade and Development for Promove
   Comércio
 date: 2022-08-02 11:39:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Trade
 regions: Sub-Saharan Africa
 country: Mozambique
----
+
 
 Despite promising developments, Mozambique remains one of the poorest countries in the world and continues to suffer from tensions that date back to the [civil war](https://en.wikipedia.org/wiki/Mozambican_Civil_War). The COVID-19 pandemic has also put significant pressure on the economy of Mozambique, which was on the road to recovery from the natural disasters that devastated significant parts of the country.
 

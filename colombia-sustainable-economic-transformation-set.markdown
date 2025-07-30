@@ -1,4 +1,4 @@
----
+
 title: Colombia—Sustainable Economic Transformation (SET)
 date: 2024-02-02 12:57:00 Z
 published: false
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Latin America and the Caribbean
 country: Colombia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

@@ -1,4 +1,4 @@
----
+
 title: Kenya—Integrated Pharmaceutical and Supply Chain Technical Assistance (KIPS)
 date: 2024-10-15 13:35:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: Kenya
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

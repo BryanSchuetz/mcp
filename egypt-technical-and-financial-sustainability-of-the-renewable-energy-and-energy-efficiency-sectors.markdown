@@ -1,4 +1,4 @@
----
+
 title: Egypt—Technical and Financial Sustainability of the Renewable Energy and Energy
   Efficiency Sectors
 date: 2020-04-21 16:07:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Climate
 regions: Middle East and North Africa
 country: Egypt
----
+
 
 As Egypt continues to rebuild its economy it faces many challenges, including regional unrest and a slowdown in exports due to muted global growth. National security remains a concern. Nevertheless, Egypt’s economy has continued to expand.
 

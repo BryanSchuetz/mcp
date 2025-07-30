@@ -1,4 +1,4 @@
----
+
 title: Egypt—Macro-Economic Stabilization and Reform (MESR)
 date: 2018-05-14 18:52:00 Z
 summary: The Macro-Economic Stabilization and Reform (MESR) project addresses Egypt’s
@@ -17,7 +17,7 @@ promos:
 - title: Green Bonds and Good Governance Accelerate Investment in Climate-Smart Solutions
     in Egypt
   link: https://dai-global-developments.com/articles/green-bonds-and-good-governance-accelerate-investment-in-climate-smart-solutions-in-egypt
----
+
 
 Recent years have seen the Egyptian economy struggle to stabilize, with weak economic governance at the macro and microeconomic levels, contributing to distortions that have hampered private sector growth and dampened Egypt’s economic development. The recent devaluation of the Egyptian pound has helped encourage foreign direct investment and increased exports, but there remain macroeconomic issues, such as the public debt and high inflation, that continue to inhibit economic growth in Egypt.
 

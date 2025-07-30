@@ -1,4 +1,4 @@
----
+
 title: Zambia—EU Support to the National Land Audit
 date: 2023-11-03 14:22:00 Z
 summary: The Support to the National Land Audit project in Zambia supports the design
@@ -14,7 +14,7 @@ solutions:
 - Land Tenure and Property Rights
 regions: Sub-Saharan Africa
 country: Zambia
----
+
 
 Against a backdrop of escalating demand for land, a dual tenure system, underdevelopment in the land sector, and low tenure security, Zambia’s Ministry of Land and Natural Resources (MLNR) faces a pressing need to establish baseline land values and conduct a comprehensive National Land Audit that will deliver accurate, timely, and complete land data, enabling better decision making and more effective land management practices.
 

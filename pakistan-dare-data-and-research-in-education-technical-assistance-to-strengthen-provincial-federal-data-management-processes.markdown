@@ -1,4 +1,4 @@
----
+
 title: 'Pakistan—DARE (Data and Research in Education): Technical Assistance to Strengthen
   Provincial-Federal Data Management Processes'
 date: 2022-05-20 09:08:00 Z
@@ -12,7 +12,7 @@ solutions:
 - Education
 regions: Asia and the Pacific
 country: Pakistan
----
+
 
 DARE (Data and Research in Education) is focused on strengthening federal-provincial data management processes by developing a Data Standardization Framework for data collection under the Annual School Census. The education indicators on which data are to be collected and the definition of variables for calculating those indicators have also been standardized. The project team supports Pakistan’s Ministry of Federal Education and Professional Training by providing technical assistance (TA) to stakeholders at both federal and provincial levels.
 

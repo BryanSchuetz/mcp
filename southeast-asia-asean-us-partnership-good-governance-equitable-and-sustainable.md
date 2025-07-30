@@ -1,4 +1,4 @@
----
+
 title: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable
   Development and Security (U.S.-ASEAN PROGRESS)
 date: 2016-01-21 22:40:00 Z
@@ -22,7 +22,7 @@ regions:
 country:
 - Regional
 layout: project
----
+
 
 Southeast Asia has transformed from a region of political strife and poverty to a region of economic progress and increasing democracy, capped by the Association of South East Asian Nations’ (ASEAN) ambitious plan for a fully integrated ASEAN community.
 

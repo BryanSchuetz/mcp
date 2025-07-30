@@ -1,4 +1,4 @@
----
+
 title: Vietnam—Helping a Global Apparel Company Safely Re-Open Factories During COVID-19
 date: 2022-03-23 12:01:00 Z
 summary: 'DAI assisted VF Corporation—one of the world’s largest apparel, footwear
@@ -15,7 +15,7 @@ country: Vietnam
 promos:
 - title: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
   link: https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience?utm_source=daidotcom
----
+
 
 DAI’s Sustainable Business Group assisted [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear and accessories companies—to reduce COVID transmission and safely re-open key supplier factories to employees during the COVID-19 pandemic, while maintaining business continuity. DAI oversaw a COVID-19 response program that directly supported factories across process development, procurement, and training, and saw the safe reopening of seven VF supply chain factories in compliance with Vietnam’s government guidelines.
 

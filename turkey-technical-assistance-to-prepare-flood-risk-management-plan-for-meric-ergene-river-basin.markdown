@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Technical Assistance to Prepare Flood Risk Management Plan for Meriç-Ergene
   River Basin
 date: 2022-03-21 15:49:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 In recent years, Türkiye’s 25 hydrological basins have been increasingly prone to extreme flood events that have caused serious economic, social, and environmental impacts and losses in human life. As part of its accession to the European Union (EU), Türkiye is required to adapt and prepare an individual implementation plan for the EU’s Floods Directive, the centerpiece of European flood risk management policy.
 

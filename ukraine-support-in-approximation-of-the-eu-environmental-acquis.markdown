@@ -1,4 +1,4 @@
----
+
 title: Ukraine—Support in Approximation of the EU Environmental Acquis
 date: 2020-05-06 13:05:00 Z
 summary: 'Implementation of EU legislation in Ukraine environmental protection occurs
@@ -13,7 +13,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
+
 
 *[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 

@@ -1,4 +1,4 @@
----
+
 title: Latin America and the Caribbean—Technologies for Financial Inclusion (Tec-In)
 date: 2016-01-21 22:40:00 Z
 summary: The Tec-In project worked to identify and develop innovations in the use
@@ -20,7 +20,7 @@ regions:
 country:
 - Regional
 layout: project
----
+
 
 The [Tec-In][1] project worked to identify and develop innovations in the use of information and communications technology (ICT) to expand access to financial services throughout Latin America and the Caribbean.
 

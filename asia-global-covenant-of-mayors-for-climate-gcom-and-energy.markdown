@@ -1,4 +1,4 @@
----
+
 title: Asia—Global Covenant of Mayors (GCoM) for Climate and Energy
 date: 2021-01-07 10:47:00 Z
 summary: 'Our team supports the Global Covenant of Mayors for Climate and Energy in
@@ -11,7 +11,7 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Asia
----
+
 
 Changes in climate can particularly affect urban life, especially in terms of basic services, infrastructure, housing, livelihoods, and health. As hubs of innovation and creativity, cities have an important role to play in preparing for and adapting to the risks posed by adverse weather.
 

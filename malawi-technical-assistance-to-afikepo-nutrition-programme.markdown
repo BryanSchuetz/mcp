@@ -1,4 +1,4 @@
----
+
 title: Malawi—Technical Assistance to AFIKEPO Nutrition Programme
 date: 2021-01-07 10:29:00 Z
 published: false
@@ -13,7 +13,7 @@ solutions:
 - Nutrition and Food Security
 regions: Sub-Saharan Africa
 country: Malawi
----
+
 
 Development programs targeting nutrition have been effective in gradually reducing the rate of stunting in Malawi. However, with one of the highest population growth rates in Africa, the country has not succeeded in reducing the number of stunted children.
 

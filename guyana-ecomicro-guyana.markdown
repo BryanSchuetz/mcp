@@ -1,4 +1,4 @@
----
+
 title: Guyana—EcoMicro Guyana
 date: 2019-05-08 13:11:00 Z
 summary: DAI’s Sustainable Business Group worked with the Guyana Institute for Private
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
 country: Guyana
----
+
 
 Funded by the Inter-American Development Bank, DAI’s Sustainable Business Group (SBG) worked with the Guyana Institute for Private Enterprise Development (IPED) to help Guyanese small and medium enterprises grow through innovative green finance products. As part of the project, SBG conducted a landscape assessment and market analysis across four regions of Guyana, including coastal, river, and rainforest areas to assess demand for renewable energy and energy efficiency (RE/EE) products among IPED clients. SBG surveyed a range of firms within IPED’s portfolio, including agriprocessors, retail shops, hostelry, and catering businesses to better understand financing constraints, average energy usage, and opportunities to incorporate RE/EE technologies and solutions.
 

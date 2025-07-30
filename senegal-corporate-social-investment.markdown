@@ -1,4 +1,4 @@
----
+
 title: Senegal—Corporate Social Investment
 date: 2020-01-15 18:42:00 Z
 summary: Contracted by an international oil and gas company, DAI’s Sustainable Business
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Sengeal
----
+
 
 Contracted by an international oil and gas company, DAI’s Sustainable Business Group (SBG) scoped and designed a corporate social investment project to address the issue of solid waste pollution in Saint-Louis. Our study provided a broad understanding of the solid waste challenge in Saint-Louis, detailed the key initiatives being undertaken, and proposed potential interventions that the client could spearhead.
 

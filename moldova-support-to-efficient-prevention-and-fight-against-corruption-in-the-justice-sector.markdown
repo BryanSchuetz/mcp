@@ -1,4 +1,4 @@
----
+
 title: Moldova—Support to Efficient Prevention and Fight Against Corruption in the
   Justice Sector
 date: 2021-03-09 11:37:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Moldova
----
+
 
 In the Republic of Moldova, the level of confidence that society has in the justice system is generally low. The European Union (EU)-Moldova Association Agenda 2017 requires that Moldova work toward improving the public perception of independence, integrity, transparency, and accountability of the judiciary as a medium-term priority.
 

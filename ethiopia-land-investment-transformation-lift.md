@@ -1,4 +1,4 @@
----
+
 title: Ethiopia—Land Investment for Transformation (LIFT)
 date: 2016-01-21 22:40:00 Z
 summary: The Land Investment for Transformation programme raised incomes for the rural
@@ -38,7 +38,7 @@ promos:
     Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
 layout: project
----
+
 
 While still one of the poorest countries in the world, Ethiopia has made major advances in reducing poverty levels and increasing agricultural production in recent years. However, the pace of progress is constrained by inefficiencies in the rural land sector, including weak documentation and management of land rights.
 

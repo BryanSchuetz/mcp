@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Advisory Service Social Transfers (ASiST III) Programme
 date: 2016-01-21 22:40:00 Z
 summary: DAI helped the European Union to increase the impact, quality, coverage,
@@ -19,7 +19,7 @@ promos:
 - title: "**Documentary Film**: Food Security in Madagascar"
   link: "/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar"
 layout: project
----
+
 
 The Advisory Service in Social Transfers phase III programme (ASiST III) provided on-demand support to partner countries and European Union (EU) delegations in [addressing food security](https://www.dai.com/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar) through national social transfer schemes. ASiST III completed 182 assignments since 2015, examining the roles of public financial management, sustainable agriculture, rural development, and other factors in social transfer programmes and resilience to food crises.
 

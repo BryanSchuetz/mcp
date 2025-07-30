@@ -1,4 +1,4 @@
----
+
 title: Pakistan—Transforming Education in Pakistan (TEP)
 date: 2016-01-21 22:40:00 Z
 summary: The Transforming Education in Pakistan (TEP) programme managed a public advocacy
@@ -18,7 +18,7 @@ regions:
 country:
 - Pakistan
 layout: project
----
+
 
 The Transforming Education in Pakistan (TEP) programme managed a political advocacy and media campaign in Pakistan to ensure that parents and communities demand good-quality education and that the government takes tangible steps to provide [free quality education](https://www.youtube.com/watch?v=6nciO3A-MhI) to all children between the ages of 5 and 16. The campaign, *Alif Ailaan*, worked through six core strands—political and government, media, research, digital/social media, civil society and alliances.
 

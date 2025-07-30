@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Value Chains-Crops (AVC)
 date: 2018-09-06 18:50:00 Z
 summary: 'The Afghanistan Value Chains–Crops (AVC) project promoted rapid, inclusive,
@@ -19,7 +19,7 @@ promos:
 - title: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan
     Trade in the COVID-19 Era'
   link: https://dai-global-developments.com/articles/when-business-as-usual-is-not-good-for-business-afghanistan-pakistan-trade-in-the-covid-19-era
----
+
 
 The Afghanistan Value Chains–Crops (AVC) project promoted rapid, inclusive, and lasting growth in the agriculture sector. This approach combined market systems development, which addresses market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners. This combined approach promoted behavior change, drove innovation, and accelerated economic growth in a way that ensures lasting and large-scale transformational market system change.
 

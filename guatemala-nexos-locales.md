@@ -1,4 +1,4 @@
----
+
 title: Guatemala—Nexos Locales
 date: 2016-01-21 22:40:00 Z
 summary: Nexos Locales works with municipalities in Guatemala's Western Highlands
@@ -39,7 +39,7 @@ promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
----
+
 
 Nexos Locales works with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 

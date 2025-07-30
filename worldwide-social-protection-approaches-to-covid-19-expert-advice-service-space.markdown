@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Social Protection Approaches to COVID-19 Expert Advice Service (SPACE)
 date: 2022-01-20 10:10:00 Z
 summary: SPACE supported governments and other decision-makers in the use or adaptation
@@ -18,7 +18,7 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
----
+
 
 Countries across the globe are using or adapting social protection systems and programs, as well as humanitarian cash assistance, to respond to the COVID-19 crisis. Getting support quickly to those in need is helping them to meet unexpected costs and compensate for the loss of income—both in the immediate and longer term as countries enter periods of COVID-driven recession.
 

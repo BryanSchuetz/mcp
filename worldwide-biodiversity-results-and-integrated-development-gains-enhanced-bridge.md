@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE)
 date: 2016-01-21 22:40:00 Z
 summary: The BRIDGE team integrated biodiversity conservation in development initiatives
@@ -19,7 +19,7 @@ promos:
 - title: Integrating Biodiversity and Sustainable Landscapes in USAID Programming
   link: https://www.climatelinks.org/sites/default/files/asset/document/2019_USAID-BRIDGE-Project_Integrating_Biodiversity_and_Sustainable_Landscapes_in_USAID_Programming.pdf
 layout: project
----
+
 
 Integrating biodiversity conservation in development initiatives such as adaptation to and mitigation of severe weather-related events, democracy and governance, inclusive economic growth, food security, health, and trade, can create significant benefits for beneficiaries. There is, however, a widely held perception that successful conservation initiatives often only have local impact and are typically limited in their impact. Scaling up these benefits requires new approaches to programming that recognize not only how development projects can drive sound conservation, but also how conservation initiatives can improve development impact.
 

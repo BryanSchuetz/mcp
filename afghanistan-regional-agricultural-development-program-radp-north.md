@@ -1,4 +1,4 @@
----
+
 title: Afghanistan—Regional Agricultural Development Program (RADP–North)
 date: 2016-01-21 22:40:00 Z
 summary: The Regional Agricultural Development Program–North (RADP-North) facilitated
@@ -15,7 +15,7 @@ regions:
 country:
 - Afghanistan
 layout: project
----
+
 
 Farmers and agribusinesses in northern Afghanistan faced a range of challenges to improve farm productivity and increase agribusiness profitability. The lack of reliable irrigation, use of low-yielding seeds, widespread absence of fertilizer and pesticide, poor cultivation and post-harvest techniques, shortage of appropriate technologies, and underutilization of female labor all contributed to weak productivity. The Regional Agricultural Development Program–North (RADP-North), funded by the U.S. Agency for International Development (USAID), facilitated investments and worked to improve the productivity and profitability of select agricultural value chains, increasing the food and economic security of rural Afghans.
 

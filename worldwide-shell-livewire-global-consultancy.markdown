@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Shell LiveWIRE Global Consultancy
 date: 2019-02-06 09:10:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) supported Shell with strengthening
@@ -13,7 +13,7 @@ solutions:
 - Sustainable Business
 regions: Worldwide
 country: Worldwide
----
+
 
 [Shell LiveWIRE](https://www.livewire.shell/) is Shell’s flagship enterprise development program, with the mission of strengthening local economies by promoting entrepreneurship, innovation, and meaningful employment.
  

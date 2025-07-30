@@ -1,4 +1,4 @@
----
+
 title: Mozambique—Feed the Future Agricultural Innovations (FTF Inova)
 date: 2017-04-27 18:11:00 Z
 summary: The Feed the Future Agricultural Innovations (FTF Inova) project partnered
@@ -38,7 +38,7 @@ promos:
 - title: 'Partnering With The Private Sector to Solve Complex Problems, Part 2: Some
     Observations About PSE in Thin Markets'
   link: https://www.marketlinks.org/blogs/partnering-private-sector-solve-complex-problems-some-observations-about-pse-thin-markets
----
+
 
 Mozambique has one of the best records of sustained economic growth in Africa, averaging a 7 percent increase in GDP per year for the last decade. However, poverty and malnutrition rates remain high while food availability is limited by low yields and inadequate access to markets. To address these issues, the government of Mozambique has launched an ambitious plan to grow its agricultural sector in an inclusive manner to reduce poverty and alleviate hunger throughout the country.
 

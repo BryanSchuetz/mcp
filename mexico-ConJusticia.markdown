@@ -1,4 +1,4 @@
----
+
 title: Mexico—Programa para el Fortalecimiento de Instituciones de Justicia Penal
   Estatal (ConJusticia)
 date: 2020-07-27 09:54:00 Z
@@ -19,7 +19,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Latin America and the Caribbean
 country: Mexico
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

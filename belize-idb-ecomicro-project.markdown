@@ -1,4 +1,4 @@
----
+
 title: Belize—IDB EcoMicro Project
 date: 2021-02-09 08:09:00 Z
 summary: Funded by the Inter-American Development Bank, DAI's Sustainable Business
@@ -12,7 +12,7 @@ solutions:
 - Finance and Investment
 regions: Latin America and the Caribbean
 country: Belize
----
+
 
 Belize is increasingly affected by extreme weather events and long-term impacts. Average annual losses incurred from natural disasters are equivalent to almost 4 percent of gross domestic product. The agriculture, fisheries, and livestock sectors of Belize are particularly vulnerable. Micro, small, and medium enterprises make up 70 percent of the export crops; it is critical to protect production and livelihoods to undertake climate adaptation efforts.
 

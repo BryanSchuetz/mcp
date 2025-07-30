@@ -1,4 +1,4 @@
----
+
 title: Middle East—A Macroeconomic Impact Assessment of a Transition to Green Hydrogen
 date: 2022-03-16 09:00:00 Z
 summary: 'DAI assessed the economic impact of a national energy transition from fossil
@@ -11,7 +11,7 @@ solutions:
 regions: Middle East and North Africa
 country: Regional
 Field name:
----
+
 
 A public sector client in the Middle East commissioned DAI to assess the economic impact – including local content opportunities – of a national energy transition from fossil fuels toward clean hydrogen-based solutions.
 

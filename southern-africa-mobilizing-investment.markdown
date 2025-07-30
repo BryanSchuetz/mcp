@@ -1,4 +1,4 @@
----
+
 title: Southern Africa—USAID Mobilizing Investment Project
 date: 2022-11-28 14:02:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Trade
 regions: Sub-Saharan Africa
 country: Regional
----
+
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 African markets present a broad range of attractive investment opportunities in emerging sectors, such as digital and technology infrastructure (especially fintech), education, and healthcare, as well as the more traditional sectors of agribusiness, logistics, financial services, and energy. South Africa, a top investment destination on the continent, is becoming an important gateway to new opportunities in other Southern African Development Community countries.

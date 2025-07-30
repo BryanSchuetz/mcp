@@ -1,4 +1,4 @@
----
+
 title: Lesotho—Cooperation Facility and Visibility and Communication Strategy
 date: 2023-07-19 07:54:00 Z
 summary: The project's focus is to promote financial inclusion, assist in Lesotho’s
@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: 'Lesotho '
----
+
 
 This European Union project aims to operationalize the Multiannual Indicative Programme (MIP 2021-2027) and Team Europe Initiatives which foster sustainable socioeconomic development and strengthen partnership between Lesotho and the EU.
 

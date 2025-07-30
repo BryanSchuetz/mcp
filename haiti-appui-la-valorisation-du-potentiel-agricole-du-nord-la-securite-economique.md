@@ -1,4 +1,4 @@
----
+
 title: Haiti—Appui a la Valorisation du potentiel Agricole du Nord, pour la Securite
   Economique et Environnementale (AVANSE)
 date: 2016-01-21 22:40:00 Z
@@ -22,7 +22,7 @@ promos:
     Results
   link: https://medium.com/usaid-2030/i-am-proof-e7f891454a7f
 layout: project
----
+
 
 Despite the steeply sloped terrain, the soil of northern Haiti has the potential to produce profitable cash crops such as rice, bananas, and cacao. However, a lack of access to markets and poor agriculture techniques has kept crop prices and yields low, while floods, droughts, and landslides are a constant threat to farmers’ harvests and livelihoods. These factors have contributed to a persistent cycle of poverty, malnutrition, and food insecurity in the region.
 

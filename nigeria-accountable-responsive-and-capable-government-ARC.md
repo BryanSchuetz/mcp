@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
 summary: The programme helps local governments in Nigeria develop and implement policy
@@ -24,7 +24,7 @@ promos:
 - title: Effect of COVID-19 on Violence-Against-Women
   link: http://www.perlnigeria.net/new-version/resources-for-partners/effect-of-covid-19-on-gender-based-violence
 layout: project
----
+
 
 The Foreign, Commonwealth & Development Office (FCDO) Partnership to Engage, Reform and Learn (PERL) program supports governments, citizens, and evidence-based advocacy. PERL helps governments develop and implement policy by assisting them in tracking and accounting for how policies, plans, and budgets are used to deliver public goods and services to promote growth and reduce poverty. It also supports citizens' engagement with these processes.
 

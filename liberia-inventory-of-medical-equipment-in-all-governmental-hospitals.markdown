@@ -1,4 +1,4 @@
----
+
 title: Liberia—Inventory of Medical Equipment in All Governmental Hospitals
 date: 2017-09-01 17:29:00 Z
 summary: 'DAI Global Health implemented a countrywide inventory of medical equipment
@@ -13,7 +13,7 @@ solutions:
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: Liberia
----
+
 
 Years of civil war left Liberia’s health care infrastructure in need of rebuilding. A key part of this involved ensuring all hospitals had essential medical equipment. DAI Global Health implemented a countrywide inventory of medical equipment in 20 hospitals, funded by the Swiss Agency for Development and Cooperation, to assess the health care technology management and maintenance requirements of the Ministry of Health and Social Welfare in Liberia.
 

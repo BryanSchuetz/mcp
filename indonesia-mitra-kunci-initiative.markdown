@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Mitra Kunci Initiative
 date: 2017-10-13 16:09:00 Z
 summary: 'The Mitra Kunci Initiative provided Indonesia’s poorest and most vulnerable
@@ -17,7 +17,7 @@ promos:
 - title: 'Beyond Good Grades: Students Bring Innovation and Fresh Ideas to Energize
     Small Businesses'
   link: https://usaidindonesia.exposure.co/beyond-good-grades
----
+
 
 Indonesia is a growing regional and global player, having experienced a remarkable democratic and economic transformation over the last two decades. However, the country remains at a development crossroads, with 40 percent of the population earning less than $2 a day.
 

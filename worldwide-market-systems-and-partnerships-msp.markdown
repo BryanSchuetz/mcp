@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Feed the Future Market Systems and Partnerships (MSP)
 date: 2020-06-30 10:48:00 Z
 published: false
@@ -17,7 +17,7 @@ solutions:
 - Market Systems and Value Chain
 regions: Worldwide
 country: Worldwide
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

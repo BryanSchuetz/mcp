@@ -1,4 +1,4 @@
----
+
 title: South Africa—Sishen Iron Ore Company Community Development Trust
 date: 2016-01-21 22:40:00 Z
 summary: DAI developed a long-term strategy—named Vision 2030—to guide the Sishen
@@ -13,7 +13,7 @@ regions:
 country:
 - South Africa
 layout: project
----
+
 
 In September 2011, the South Africa-based Sishen Iron Ore Company Community Development Trust learned it would receive dividends of more than $1 billion. It also understood it was at risk of spending millions, but achieving little in terms of improving lives in its beneficiary local mining communities.
 

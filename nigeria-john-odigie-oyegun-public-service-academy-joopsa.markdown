@@ -1,4 +1,4 @@
----
+
 title: Nigeria—John Odigie Oyegun Public Service Academy (JOOPSA), Phases I, II
 date: 2022-10-05 08:49:00 Z
 summary: DAI is helping the John Odigie Oyegun Public Service Academy (JOOPSA) to
@@ -11,7 +11,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 In 2022, the Edo State Government contracted DAI to establish the John Odigie Oyegun Public Service Academy in Benin City by developing procedures, programs, strategy, and a sustainability roadmap to meet the present and future needs of the state public service. In the first phase, the team established the Academy’s necessary building blocks, including a strategic roadmap and service offerings; governance and organizational structure; standard operating procedures; credible faculty; competent staff; necessary infrastructure; linkages to key training institutions; fit-for-purpose programs; and a visibility and branding structure.
 

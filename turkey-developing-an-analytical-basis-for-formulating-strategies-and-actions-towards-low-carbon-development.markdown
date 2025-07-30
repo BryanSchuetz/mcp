@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Developing an Analytical Basis for Formulating Strategies and Actions
   Towards Low Carbon Development
 date: 2020-04-21 13:56:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Türkiye’s economy is characterised by a relatively low, albeit rapidly increasing, environmental footprint. Compared to industrialised countries or other emerging market economies, it has relatively low carbon emissions per unit of gross domestic product. At the same time, emissions have increased much faster than in other countries in recent decades. If policies can be enacted that promote greater resource efficiency and pollution abatement without jeopardising economic growth, Türkiye could progress towards high income without a dramatic increase in its environmental footprint.
 

@@ -1,4 +1,4 @@
----
+
 title: Haiti—Finance Inclusive
 date: 2017-06-26 16:18:00 Z
 summary: The Haiti Finance Inclusive project supported the development of the enabling
@@ -13,7 +13,7 @@ solutions:
 - Finance and Investment
 regions: Latin America and the Caribbean
 country: Haiti
----
+
 
 Initiatives to increase financial inclusion have yet to translate into significant expansion of relevant services in Haiti. Only 19 percent of Haitian adults have an account with a financial institution, while only 9 percent of adults save and 5 percent borrow from a financial institution. These figures are among the lowest not only in the Latin American and Caribbean region, but globally.
 

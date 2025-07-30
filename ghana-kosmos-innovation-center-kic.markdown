@@ -1,4 +1,4 @@
----
+
 title: Ghana—Kosmos Innovation Center (KIC)
 date: 2017-05-19 17:58:00 Z
 summary: 'DAI helped Kosmos Energy to design, launch, and implement the Kosmos Innovation
@@ -30,7 +30,7 @@ promos:
 - title: Commercializing Agricultural Innovations in the Age of COVID-19
   link: https://dai-global-developments.com/articles/commercializing-agricultural-innovations-in-the-age-of-covid-19
 contract-end-year:
----
+
 
 ![KIC article.png](/uploads/KIC%20article.png)
 

@@ -1,4 +1,4 @@
----
+
 title: Palestine—Innovative Private Sector Development (IPSD) project
 date: 2019-10-14 07:56:00 Z
 summary: The Innovative Private Sector Development (IPSD) project develops entrepreneurship
@@ -15,7 +15,7 @@ country: Palestine
 promos:
 - title: 'Article: IPSD - Supporting Palestine''s Developing Entrepreneurial Ecosystem'
   link: https://thisweekinpalestine.com/palestine-on-the-rise/
----
+
 
 The digital economy of the Middle East is changing. Across the region, planners have recognized the stagnation in old economic structures, moving entrepreneurship to the top of their economic policy agendas. Shackled by physical restrictions on the movement of goods and labor and low levels of investment due to suboptimal investment climate circumstances, the Palestinian economy suffers from low growth and high unemployment. To break through its economic shackles, policymakers must create the right enabling environment and financial support to facilitate vertical progress. Stimulating the emergence of an effective entrepreneurial ecosystem offers one of the most promising mechanisms for creating such progress, precisely because the nature of Palestinian economic challenges cannot be addressed through incremental gains.
 

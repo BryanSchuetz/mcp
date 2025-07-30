@@ -1,4 +1,4 @@
----
+
 title: 'Egypt—National Bank of Egypt: MSME Lending Capacity Building'
 date: 2016-01-21 22:40:00 Z
 summary: With a nationwide network of more than 300 banking units and dedicated small
@@ -15,7 +15,7 @@ regions:
 country:
 - Egypt
 layout: project
----
+
 
 Loans to micro, small, and medium-sized enterprises (MSMEs) account for only 6 percent of the total loan portfolio of Egyptian banks, well below the 10 to 30 percent documented in the countries of the Organisation for Economic Cooperation and Development. The Government of Egypt and Central Bank of Egypt have made access to finance for MSMEs a top priority and key area for banking sector reform.
 

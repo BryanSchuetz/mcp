@@ -1,4 +1,4 @@
----
+
 title: Nepal—Biodiversity (Jal Jangal)
 date: 2022-11-29 08:46:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Nepal
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

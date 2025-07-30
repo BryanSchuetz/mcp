@@ -1,4 +1,4 @@
----
+
 title: Libya—World Bank Needs and Security Assessment
 date: 2016-01-21 22:40:00 Z
 summary: The goal of this assessment was to update World Bank understanding in Libya,
@@ -19,7 +19,7 @@ regions:
 country:
 - Libya
 layout: project
----
+
 
 The goal of this assessment was to update World Bank understanding in Libya, increase the specificity of its knowledge about critical institutions and themes, and broaden the base of Libyan sources for future use by the bank. There are significant knowledge gaps in the international understanding of the challenges and risks in Libya, and DAI worked to fill these gaps from a perspective sensitive to the Libyan context.
 

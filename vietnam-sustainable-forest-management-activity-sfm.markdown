@@ -1,4 +1,4 @@
----
+
 title: Vietnam—Sustainable Forest Management (SFM)
 date: 2020-06-16 15:15:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Governance
 regions: Asia and the Pacific
 country: Vietnam
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

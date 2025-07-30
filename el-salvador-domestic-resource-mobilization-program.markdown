@@ -1,4 +1,4 @@
----
+
 title: El Salvador—Domestic Resource Mobilization Program
 date: 2017-08-14 14:35:00 Z
 summary: By working with national and local governments to improve their systems for
@@ -18,7 +18,7 @@ promos:
   link: https://dai-global-developments.com/articles/how-increasing-tax-revenue-shapes-the-lives-of-salvadorans/
 - title: When Tax Reform Leads to Increased Funding for Health Services
   link: https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services
----
+
 
 Over the past 10 years, El Salvador’s government, with support from the U.S. Agency for International Development (USAID), implemented a series of important tax system reforms that helped raise an additional $2.4 billion in state revenue. Combined with reforms in public financial management (PFM), this [increase in public funds](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp) led to improved citizen welfare, such as [higher public health spending](https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services) that has reduced child mortality and raised life expectancy. Despite these advances, the current tax effort has fallen short of its full potential, while government overspending has created a persistent fiscal deficit. In addition, municipal governments still need to improve their revenue mobilization to fund basic public services.
 

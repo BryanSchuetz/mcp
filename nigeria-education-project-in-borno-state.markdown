@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Education Project in Borno State
 date: 2020-06-05 13:31:00 Z
 summary: 'The Education Project in Borno State supported the state government’s recovery
@@ -13,7 +13,7 @@ solutions:
 - Fragile States
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 The Education Project in Borno State supported the state government’s recovery in the wake of insurgency and provided targeted relief to vulnerable and displaced populations. The project centered around the educational needs of vulnerable households and internally displaced persons (IDPs). DAI provided technical, management, security, and logistics support.
 

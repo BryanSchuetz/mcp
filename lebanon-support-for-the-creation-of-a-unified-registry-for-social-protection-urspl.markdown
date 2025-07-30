@@ -1,4 +1,4 @@
----
+
 title: Lebanon—Support for the Creation of a Unified Registry for Social Protection
   (URSPL)
 date: 2024-01-12 13:55:00 Z
@@ -16,7 +16,7 @@ solutions:
 - Social Strategy
 regions: Middle East and North Africa
 country: Lebanon
----
+
 
 The current social protection system in Lebanon is fragmented and insufficient, leaving out large segments of the population, particularly those engaged in informal labor.
 

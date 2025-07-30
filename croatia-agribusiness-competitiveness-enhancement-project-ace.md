@@ -1,4 +1,4 @@
----
+
 title: Croatia—Agribusiness Competitiveness Enhancement Project (ACE)
 date: 2016-01-21 22:40:00 Z
 summary: By developing effective support systems for producers and strengthening the
@@ -15,7 +15,7 @@ regions:
 country:
 - Croatia
 layout: project
----
+
 
 Although it is more industrialized than many countries in the Balkans and southeastern Europe, Croatia has roughly 250,000 residents who rely on agriculture for their livelihoods. With the primary goals of raising rural living standards and fostering sustainable agricultural production, ACE worked out of regional offices in Zagreb, Eastern Slavonia, and Dalmatia to reach farmers nationwide. By developing effective support systems for producers and strengthening the linkages between producers and agricultural markets, the project enabled agribusiness enterprises to determine and meet market demand by producing more profitable goods. DAI worked on developing market linkages between producers, traders, processors, and tourism-related enterprises and on developing credit resources for short- and medium-term needs. These efforts required the development of small and medium-sized enterprises, including farmer cooperatives, to serve as producer counterparts to traders, processors, and tourist industry personnel. In addition, the DAI team directly assisted farmers to improve production efficiency and worked to identify and secure new sources of credit for rural producers.
 

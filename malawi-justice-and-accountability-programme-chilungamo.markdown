@@ -1,4 +1,4 @@
----
+
 title: Malawi—Justice and Accountability Programme (Chilungamo)
 date: 2020-04-21 14:52:00 Z
 summary: Chilungamo contributed to increased levels of governance, accountability,
@@ -13,7 +13,7 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Sub-Saharan Africa
 country: Malawi
----
+
 
 The Government of Malawi has stated its commitment to contributing to dignified lives for its citizens through an accountable government, informed democratic choice, and the humane and effective delivery of justice.
 

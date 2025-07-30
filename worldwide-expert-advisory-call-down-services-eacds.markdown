@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Expert Advisory Call Down Services (EACDS) Lots B, C, and D
 date: 2017-03-04 02:41:00 Z
 summary: EACDS is a technical advisory call-down service which provides rapid-response,
@@ -37,7 +37,7 @@ promos:
   link: "/uploads/Theme%206%20-%20Data%20monitoring%20and%20evaluation%2008.01.18.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Research Methodology_"
   link: "/uploads/EiE_Evidence_Briefs_Introduction.pdf"
----
+
 
 ### Lot B: Strengthening Resilience and Response to Crises
 

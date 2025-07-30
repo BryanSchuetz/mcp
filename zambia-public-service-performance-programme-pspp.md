@@ -1,4 +1,4 @@
----
+
 title: Zambia—Public Service Performance Programme (PSPP)
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported a Zambian-led process, built sustained capacity in the Cabinet
@@ -14,7 +14,7 @@ regions:
 country:
 - Zambia
 layout: project
----
+
 
 Zambia is a middle-income country but poverty is still widespread and service delivery is unsatisfactory. This five-year programme supported the government of Zambia to improve the delivery of public goods and services.
 

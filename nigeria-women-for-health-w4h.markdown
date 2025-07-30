@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Women for Health (W4H)
 date: 2017-07-28 14:56:00 Z
 summary: The Women for Health (W4H) programme empowered women as service providers
@@ -16,7 +16,7 @@ promos:
 - title: UK Aid Has Helped a Generation of Women in Rural Nigeria to Become Health
     Workers
   link: https://www.globalcitizen.org/en/content/uk-aid-thousands-women-nurses-nigeria/
----
+
 
 Nigeria has the [highest number of maternal deaths in Sub-Saharan Africa](https://devex.shorthandstories.com/care-amid-conflict/index.html) and high rates of under-5 child mortality. These indicators are even more severe in northern Nigeria, where up to 90 percent of pregnant women deliver their babies without a skilled birth attendant. States such as Yobe and Borno are particularly fragile, suffering insurgency which has terrorised young women. Female health workers are particularly important in the north of the country because social norms in rural communities can prohibit women from receiving care from male health workers.
 

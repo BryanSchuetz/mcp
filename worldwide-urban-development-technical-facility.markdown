@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Urban Development Technical Facility
 date: 2022-11-11 11:18:00 Z
 summary: 'The first-ever EU Urban Development Technical Facility focuses on supporting
@@ -12,7 +12,7 @@ solutions:
 -
 regions: Worldwide
 country: Worldwide
----
+
 
 Many of the least-developed countries are experiencing rapid levels of urbanisation and population growth, putting pressure on the limited resources and dire need for sustainable infrastructure. The European Union (EU) has made it a priority to accelerate a global transition towards carbon neutrality, particularly in urban development.
 

@@ -1,4 +1,4 @@
----
+
 title: Sri Lanka—Strengthening Democratic Governance and Accountability Project (SDGAP)
 date: 2016-11-02 20:36:00 Z
 summary: 'The Strengthening Democratic Governance and Accountability Project worked
@@ -26,7 +26,7 @@ promos:
   link: "/uploads/RFP%20-Establishment%20of%20Parliament%20Media%20Center.pdf"
 - title: 'Establishment of Parliament Media Center : Cost Sheet'
   link: "/uploads/Final%20ToR_Specs%20for%20Tender%20with%20price%20shedule.xlsx"
----
+
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka.
 

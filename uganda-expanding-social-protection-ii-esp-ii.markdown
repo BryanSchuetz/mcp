@@ -1,4 +1,4 @@
----
+
 title: Uganda—Expanding Social Protection II (ESP II)
 date: 2019-11-05 13:41:00 Z
 summary: The Expanding Social Protection Programme Phase II (ESP II) delivers unconditional
@@ -11,7 +11,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Uganda
----
+
 
 The Expanding Social Protection Programme Phase II (ESP II) delivered unconditional monthly cash transfers to people 80 and older across Uganda. With funding from the Foreign, Commonwealth & Development Office (FCDO), IrishAid, and Government of Uganda, as of 2019, ESP II was delivering senior citizen grants in 61 districts of Uganda. In November 2018, Parliament and Cabinet committed to a national rollout of the grants in all 135 districts of Uganda by 2021.
 

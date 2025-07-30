@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Partnership for Transforming Health Systems 1 (PATHS 1)
 date: 2017-09-01 17:19:00 Z
 summary: The Partnership for Transforming Health Systems 1 in Nigeria supported local
@@ -13,7 +13,7 @@ solutions:
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: 'Nigeria '
----
+
 
 The Partnership for Transforming Health Systems 1 (PATHS 1) supported local initiatives to strengthen government stewardship in health policy, planning, and financing; improve management in public health, particularly at local levels; raise standards of preventative services, particularly in the areas of malaria, tuberculosis, reproductive health, sexually transmitted infections, and motherhood and childhood illnesses; and raise awareness of people’s rights to quality, affordable care and increase their ability to prevent and manage health conditions.
 

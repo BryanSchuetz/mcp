@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Addressing Invasive Alien Species Threats in Terrestrial Areas and
   Inland Waters
 date: 2021-01-07 10:00:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Invasive alien species are considered one of the main causes of marine and coastal biodiversity loss in Türkiye, posing one of the principal threats to coastal development in the country. Besides impacting native species and ecosystems, invasive alien species can have negative economic and social effects, as well as affect public health.
 

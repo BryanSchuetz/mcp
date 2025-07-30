@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Health Finance and Governance
 date: 2016-01-21 22:40:00 Z
 summary: Our principal responsibility under this subcontract was to strengthen the
@@ -17,7 +17,7 @@ promos:
 - title: When Tax Reform Leads to Increased Funding for Health Services
   link: http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services?utm_source=daidotcom
 layout: project
----
+
 
 Our principal responsibility under this subcontract was to strengthen the governance capacity and accountability mechanisms of partner country health systems.
 

@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Technical Assistance to Strengthen Public Financial Management, Statistics,
   Monitoring, and Evaluation Systems
 date: 2020-05-13 12:11:00 Z
@@ -15,7 +15,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 In Yobe state, Nigeria, high levels of poverty and insufficient access to social services, combined with the effect of Boko Haram crisis on social infrastructure and the livelihoods of citizens, call for a broader fiscal space and improved delivery of basic services.
 

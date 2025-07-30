@@ -1,4 +1,4 @@
----
+
 title: Bangladesh—Fleming Fund Phases I and II
 date: 2020-10-19 08:40:00 Z
 summary: DAI’s Fleming Fund programme in Bangladesh is a collaboration with the Bangladesh
@@ -19,7 +19,7 @@ promos:
 - title: Pattern of Antibiotic Dispensing at Pharmacies According to the WHO Access,
     Watch, Reserve Classification in Bangladesh
   link: https://www.mdpi.com/2079-6382/11/2/247
----
+
 
 The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program administered through [Mott Macdonald](https://www.mottmac.com/) to help low- and middle-income countries fight antimicrobial resistance (AMR).
 

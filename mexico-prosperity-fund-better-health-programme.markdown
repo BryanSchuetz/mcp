@@ -1,4 +1,4 @@
----
+
 title: Mexico—Better Health Programme (BHPMx)
 date: 2019-07-10 08:17:00 Z
 summary: The Mexico Better Health Programme addressed the growing threat of noncommunicable
@@ -28,7 +28,7 @@ promos:
   link: "/uploads/BetterHealthMx.pdf"
 - title: 'Case Study: Tackling Obesity Through Multi-Disciplinary Coalitions'
   link: "/uploads/Case%20Study%20Mexico_MultidisciplinaryPartners.pdf"
----
+
 
 The Better Health Programme Mexico (BHPMx) was part of the U.K. Global Prosperity programme Better Health Programme that covered eight countries. The DAI-managed program addressed the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health.
 

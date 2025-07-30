@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Advancing Women for Resilient Agricultural Supply Chains (AWRAS)
 date: 2024-10-22 13:55:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Agriculture and Food Security
 regions: Worldwide
 country: Worldwide
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

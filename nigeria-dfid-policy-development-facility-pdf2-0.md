@@ -1,4 +1,4 @@
----
+
 title: Nigeria—Policy Development Facility Phase II (PDF II)
 date: 2016-01-21 22:40:00 Z
 summary: The Policy Development Facility II was a flexible, rapid-response facility
@@ -31,7 +31,7 @@ promos:
     Investment Authority"
   link: "/uploads/Improving-Communications-of-the-Nigeria-Sovereign-Investment-Authority-NSIA.pdf"
 layout: project
----
+
 
 The [Policy Development Facility II](https://www.pdfnigeria.org/) was a flexible, rapid-response facility set up to support Champions of Change in the Nigerian government, ministries, departments, and agencies in creating and implementing vital social and economic policies to help [reduce poverty](https://www.pdfnigeria.org/rc/reducing-poverty-sustainably-boosting-economic-activities-selected-achievements-from-pdf-ii/) in Nigeria. PDF II supported the Champions of Change—reform-minded ministers and other high-level government officials—through embedded advisers who provided technical guidance and advice and through studies and research to create an evidence base for reform and to galvanise action.
 

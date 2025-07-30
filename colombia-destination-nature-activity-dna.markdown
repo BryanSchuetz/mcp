@@ -1,4 +1,4 @@
----
+
 title: Colombia—Destination Nature Activity (DNA)
 date: 2022-11-17 13:46:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Climate
 regions: Latin America and the Caribbean
 country: Colombia
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

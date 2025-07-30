@@ -1,4 +1,4 @@
----
+
 title: Egypt—Business Egypt
 date: 2021-11-17 15:27:00 Z
 published: false
@@ -19,7 +19,7 @@ solutions:
 - Energy
 regions: Middle East and North Africa
 country: Egypt
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

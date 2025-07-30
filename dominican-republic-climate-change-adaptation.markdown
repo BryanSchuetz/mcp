@@ -1,4 +1,4 @@
----
+
 title: Dominican Republic—Climate Adaptation
 date: 2020-12-07 10:07:00 Z
 summary: DAI developed a feasibility study and final designs for a climate change
@@ -11,7 +11,7 @@ solutions:
 - Climate
 regions: Latin America and the Caribbean
 country: Dominican Republic
----
+
 
 DAI developed a feasibility study and final designs for a climate adaptation program for the Yaque del Sur River Basin in the Dominican Republic. Intended to promote environmental and social resilience, the program is based on an integrated water resource management system and an adaptive social protection mechanism.
 

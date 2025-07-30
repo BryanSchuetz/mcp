@@ -1,4 +1,4 @@
----
+
 title: South Sudan—Health Pooled Fund
 date: 2018-01-16 16:32:00 Z
 summary: 'The Health Pooled Fund, supported by multiple donors, focused on successfully
@@ -11,7 +11,7 @@ solutions:
 - Fragile States
 regions: Sub-Saharan Africa
 country: South Sudan
----
+
 
 The [Health Pooled Fund](https://medium.com/@HPFSouthSudan), supported by multiple donors, focused on successfully strengthening health systems and delivering essential health services in South Sudan. DAI Global Health was a core partner in a consortium led by Crown Agents. Within the fund were 23 other implementing partners that supported primary health care services in health facilities, including hospitals, across 55 counties.
 

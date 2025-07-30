@@ -1,4 +1,4 @@
----
+
 title: Sierra Leone—Technical Assistance in Support of the Governance Sector in Civil
   Service Reform, Parliament, and the Electoral Cycle
 date: 2020-04-29 11:08:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Sierra Leone
----
+
 
 This European Union (EU)-funded project in Sierra Leone was launched in the aftermath of presidential, parliamentary, and local elections of March 2018—the ideal timeframe to consolidate past reforms in Parliament’s work and electoral cycles. The project builds upon the commitment already undertaken by the Government of Sierra Leone, as supported through partners including the United Nations Development Programme (UNDP), the World Bank, the EU, and the Foreign, Commonwealth & Development Office.
 

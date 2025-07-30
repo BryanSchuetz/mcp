@@ -1,4 +1,4 @@
----
+
 title: Albania—European Union Integration Support Facility (EUIS)
 date: 2024-12-19 08:10:00 Z
 summary: 'The EUIS facility strengthens Albania’s institutional capacity to manage
@@ -11,7 +11,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Albania
----
+
 
 Albania’s strategic priority is European Union (EU) integration. Following the 2022 Inter-Governmental Conference, Albania is committed to advancing its EU accession. This project strengthens Albania’s institutional capacity to manage EU negotiations and align with the [Growth Plan for the Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/growth-plan-western-balkans_en).
 

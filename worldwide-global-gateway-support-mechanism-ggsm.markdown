@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Knowledge Hub Jobs & Growth (Part I)—Global Gateway Support Mechanism
   (GGSM)
 date: 2023-01-09 16:30:00 Z
@@ -22,7 +22,7 @@ promos:
   link: "/uploads/Global%20Gateway%20Transport%20Support%20Mechanism_WEB.pdf"
 - title: 'Map: Global Gateway Transport Support Mechanism Missions'
   link: "/uploads/GGTSM%20-%20Map_WEB.pdf"
----
+
 
 The world faces a massive gap in financing for investments in new and existing infrastructure, and available resources could be used in a more effective way.
 

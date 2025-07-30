@@ -1,4 +1,4 @@
----
+
 title: Ethiopia—Urban Gardens Program for HIV-Affected Women and Children (UGP)
 date: 2016-01-21 22:40:00 Z
 summary: 'As part of an effort to provide healthier, more empowered lifestyles for
@@ -22,7 +22,7 @@ promos:
 - title: Urban Gardens in Ethiopia Help HIV-Affected Women
   link: https://www.youtube.com/watch?v=OYHbgFYxEJQ
 layout: project
----
+
 
 With a population vulnerable to HIV/AIDS and poverty, Ethiopia needs innovative ways to enable its people to lead healthier, more productive lives. Lack of access to food for HIV-vulnerable populations is especially acute in cities, where land and water are scarce and food options are limited, and where food is expensive due to high transport costs and inefficient agriculture markets. As part of an effort to provide healthier, more empowered lifestyles for people with HIV/AIDS and their families, we were tasked with increasing access to fresh, nutritious food, while giving vulnerable Ethiopians an increasing number of ways to earn a living. The U.S. Agency for International Development-funded Urban Gardens Program for HIV-Affected Women and Children (UGP) followed up on the successes of a previous program, Urban Agriculture Program for HIV-Affected Women (UAPHAW), which DAI led from 2004 to 2008.
 

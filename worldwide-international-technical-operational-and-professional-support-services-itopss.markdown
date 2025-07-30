@@ -1,4 +1,4 @@
----
+
 title: Worldwide—International Technical, Operational, and Professional Support Services
   (ITOPSS)
 date: 2018-02-23 15:40:00 Z
@@ -13,7 +13,7 @@ solutions:
 -
 regions: Worldwide
 country: Worldwide
----
+
 
 In an increasingly interconnected world in which people and disease move quickly, the U.S. Centers for Disease Control and Prevention (CDC) is working to protect Americans at home and abroad by projecting its scientific expertise, partnerships, and knowledge base to more than 80 countries around the world. The CDC established the International Technical, Operational, and Professional Support Services (ITOPSS) contract to help achieve its goals of improving health and well-being of people worldwide by helping countries prepare for and respond to emerging health security threats.
 

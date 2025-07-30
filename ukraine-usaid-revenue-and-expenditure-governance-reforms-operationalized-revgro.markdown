@@ -1,4 +1,4 @@
----
+
 title: Ukraine—USAID Revenue and Expenditure Governance Reforms Operationalized (RevGRO)
 date: 2024-12-03 08:33:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
+
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 Ukraine is facing a protracted war of attrition, which has turned into a war for resources. Nearly all of the Government’s domestic resources are absorbed by the war. At this juncture, it is critical to increase revenue mobilization and support more efficient and transparent management of expenditures so that the Government can continue to deliver critical services to its citizens while maintaining the war effort and rebuilding the country.

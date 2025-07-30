@@ -1,4 +1,4 @@
----
+
 title: Somalia—Transition Initiatives for Stabilization (TIS)
 date: 2016-01-21 22:40:00 Z
 summary: This U.S. Agency for International Development-funded program worked to increase
@@ -22,7 +22,7 @@ promos:
 - title: USAID TIS Supports Arts and Culture Week to Engage Youth in Puntland
   link: https://www.dai.com/news/usaid-tis-supports-arts-and-culture-week-engage-youth-puntland
 layout: project
----
+
 
 Somalia has been without a unified central government since 1990. The northern region of Somaliland declared its autonomy in 1991. The current Government of Somalia was established in 2012, but is limited geographically in its influence. The threats of humanitarian disasters, extremist militias, and further fragmentation of the state remain significant.
 

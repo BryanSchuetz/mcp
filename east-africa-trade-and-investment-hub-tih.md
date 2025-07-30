@@ -1,4 +1,4 @@
----
+
 title: East Africa—Trade and Investment Hub
 date: 2016-01-21 22:40:00 Z
 summary: 'The East Africa Trade and Investment Hub was the U.S. Government''s flagship
@@ -27,7 +27,7 @@ promos:
     Million Now Available to Countries in Need'
   link: https://www.dai.com/news/a-trade-solution-to-the-food-security-challenge-surplus-grains-worth-83-dollars-million-now-available-to-countries-in-need
 layout: project
----
+
 
 Growth in Burundi, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda, Tanzania, and Uganda has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.
 

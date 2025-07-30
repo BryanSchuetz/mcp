@@ -1,4 +1,4 @@
----
+
 title: Lebanon—Trade and Investment Facilitation (TIF) Activity
 date: 2020-07-01 09:15:00 Z
 published: false
@@ -16,7 +16,7 @@ solutions:
 - Finance and Investment
 regions: Middle East and North Africa
 country: Lebanon
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

@@ -1,4 +1,4 @@
----
+
 title: Thailand—Sapan
 date: 2016-01-21 22:40:00 Z
 summary: 'Our team promoted cooperation between civil society and agencies of the
@@ -23,7 +23,7 @@ promos:
 - title: For Thailand’s Civil Society, Capacity Building Now Begins at Home
   link: https://dai-global-developments.com/articles/usaid-sapan-program-energized-thailands-civil-society?utm_source=daidotcom
 layout: project
----
+
 
 Democracy in Thailand foundered in recent years on the heels of a period of strong economic gains. During the political crises and civil unrest of 2005-2010, institutions such as citizen advocates, professional associations, labor unions, and independent media faltered or simply disbanded. Ordinary people found it difficult to make their voices heard, and the country suffered through protests, riots, and states of emergency.
 

@@ -1,4 +1,4 @@
----
+
 title: Iraq—Support Policy Dialog and Technical Assistance
 date: 2022-07-28 03:19:00 Z
 tags:
@@ -14,7 +14,7 @@ solutions:
 - Governance
 regions: Middle East and North Africa
 country: Iraq
----
+
 
 Within the parameters of the European Union (EU) Strategy for Iraq and the EU-Iraq Partnership and Cooperation Arrangement (PCA), the key strategic interests of the EU in Iraq are to preserve security and stability, diversify the economy and create jobs, and rebuild the social contract between citizens and institutions. Ensuring sustained improvements in democratic processes and governance, enhancing the business and investment-enabling environment, fostering fair and sustainable employment opportunities, and building a solid human capital are all areas of strategic relevance in achieving these goals.
 

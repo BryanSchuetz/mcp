@@ -1,4 +1,4 @@
----
+
 title: Bosnia and Herzegovina—Technical Assistance in the Energy Sector (EU4Energy)
 date: 2022-09-08 01:11:00 Z
 tags:
@@ -15,7 +15,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
----
+
 
 The economy in Bosnia and Herzegovina (BiH) is highly energy intensive. Poor energy efficiency in the industry sector leads it to consume 3.27 times more energy per unit of output than the average upper-middle-income economy.
 

@@ -1,4 +1,4 @@
----
+
 title: Nigeria—State Partnership for Accountability, Responsiveness, and Capability
   (SPARC)
 date: 2016-01-21 22:40:00 Z
@@ -24,7 +24,7 @@ regions:
 country:
 - Nigeria
 layout: project
----
+
 
 Nigeria is Africa’s largest economy. However, despite its economic dynamism, Nigeria’s inefficient resource management, widespread corruption, and a lack of accountability have undermined the government’s ability to translate this economic progress into inclusive growth and improved public services. Advancements in public administration, public financial management, and enhanced policy are crucial in helping government provide better services and reduce poverty.
 

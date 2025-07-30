@@ -1,4 +1,4 @@
----
+
 title: Lebanon—Technical Assistance Facility for the Private Sector
 date: 2020-04-20 10:42:00 Z
 tags:
@@ -17,7 +17,7 @@ country: Lebanon
 promos:
 - title: "**Catalog:** Turning Challenges into Opportunities"
   link: "/uploads/FINAL_DIGITAL_Turning_challenges_into_opportunities_.pdf"
----
+
 
 In recent decades, Lebanon’s private sector has grown, largely organically, to become a dynamic and entrepreneurial hub for small- and medium-sized enterprises (SMEs). It is highly diversified, covering all levels of the economy, and contributes to around 75 percent of aggregate demand. In fact, the private sector has become the main driver of Lebanon’s economic growth and recovery.
 

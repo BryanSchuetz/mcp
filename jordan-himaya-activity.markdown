@@ -1,4 +1,4 @@
----
+
 title: Jordan—Himaya Activity
 date: 2024-04-03 13:10:00 Z
 published: false
@@ -16,7 +16,7 @@ country: Jordan
 promos:
 - title: Improving Gender-Based Violence Prevention and Response in Jordan
   link: https://www.dai.com/news/improving-gender-based-violence-prevention-and-response-in-jordan
----
+
 
 Female Jordanian survivors of violence face a multitude of challenges when going through the protection system. Survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department due to fear of familial disapproval and social repercussions. Those who have gone through the system have faced questioning and little protection, leading to revictimization and uncertainty about seeking resolutions.
 

@@ -1,4 +1,4 @@
----
+
 title: Zambia—MAMaZ Against Malaria (MAM)
 date: 2018-01-16 17:45:00 Z
 summary: The MAMaZ Against Malaria project addressed the lack of access to quality
@@ -24,7 +24,7 @@ promos:
 - title: "Evidence Brief: Scaling Up Rectal Artesunate in a \nCommunity-Based Initiative
     in Zambia"
   link: "/uploads/MAM@Scale_Evidence_Brief_January_2022.pdf"
----
+
 
 Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.
 

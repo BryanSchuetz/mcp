@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Technical Assistance on Preparation of River Basin Management Plans
   for Six Basins
 date: 2021-10-29 08:48:00 Z
@@ -12,7 +12,7 @@ solutions:
 - Water Security, Sanitation, and Hygiene
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 Türkiye is at increasing risk of water scarcity due to its growing population, infrastructural developments, overexploitation of watersheds, pollution, and changes in climate. The development of river basin management plans is important for the sustainable management of water and is part of Türkiye’s implementation of the [European Union Environmental acquis](http://www.ecranetwork.org/Horizontal-Activities/Handbook-EU-Environmental-Acquis).
 

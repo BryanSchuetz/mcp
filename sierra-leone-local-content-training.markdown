@@ -1,4 +1,4 @@
----
+
 title: Sierra Leone—Local Content Planning and Reporting
 date: 2017-08-24 15:56:00 Z
 summary: DAI's Sustainable Business Group works with the Sierra Leone Local Content
@@ -15,7 +15,7 @@ country: Sierra Leone
 promos:
 - title: Companies Trained to Report on Local Content Compliance
   link: http://awoko.org/2017/07/11/sierra-leone-news-companies-trained-to-report-on-local-content-compliance/
----
+
 
 In accordance with the provisions of the Sierra Leone Local Content Agency Act of 2016, the Sierra Leone Local Content Agency (LCA) is obligated to establish an online portal and scorecard system to simplify and assure standardization in the way in which companies report their local content performance data. To this end, DAI’s proprietary Local Content Plan and Reporting Platform ([LCPR](https://www.dai.com/our-work/local-content-plan-and-report)) software was configured to meet the LCA’s needs over the course of a GIZ-funded contract from 2016 to 2017.
 

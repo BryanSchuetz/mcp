@@ -1,4 +1,4 @@
----
+
 title: Worldwide—USAID Policy LINK
 date: 2019-11-25 08:44:00 Z
 published: false
@@ -14,7 +14,7 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

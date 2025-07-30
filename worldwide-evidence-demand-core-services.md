@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Evidence on Demand Core Services
 date: 2016-01-21 22:40:00 Z
 summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) was
@@ -21,7 +21,7 @@ regions:
 country:
 - Worldwide
 layout: project
----
+
 
 [Evidence on Demand][1] was a resource service providing high-quality information in the fields of climate, environment, infrastructure, and livelihoods. The information hub provided access to a broad range of documents, learning resources and technical expertise. One of the key functions of the service was to assist the former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office) advisers and the [wider][2] international development community in making informed, evidence-based decisions. The expert team behind Evidence on Demand was co-led with IMC Worldwide Ltd in a joint venture.
 

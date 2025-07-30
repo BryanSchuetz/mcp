@@ -1,4 +1,4 @@
----
+
 title: Nepal—Improved Disaster Risk Management Project (Tayar)
 date: 2019-09-25 13:47:00 Z
 summary: Tayar benefitted more than 716,000 people across the country through its
@@ -15,7 +15,7 @@ country: Nepal
 promos:
 - title: 'Tayar Progress Summary '
   link: "/uploads/ebook_design-3-web-7576db.pdf"
----
+
 
 Nepal is prone to a range of natural disasters, including floods, landslides, fires, earthquakes, and disease outbreaks. In the wake of recent tragedies in the country, including the massive 2015 Gorkha earthquake, the U.S. Agency for International Development (USAID) has established a flagship disaster preparedness and response program for Nepal.
 

@@ -1,4 +1,4 @@
----
+
 title: Mozambique—Local Governance Strengthening (LOGOS)
 date: 2021-03-12 16:32:00 Z
 published: false
@@ -16,7 +16,7 @@ solutions:
 - Environment
 regions: Sub-Saharan Africa
 country: Mozambique
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

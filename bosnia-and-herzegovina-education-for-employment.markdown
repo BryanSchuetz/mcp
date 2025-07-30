@@ -1,4 +1,4 @@
----
+
 title: Bosnia and Herzegovina—Education for Employment
 date: 2020-07-01 10:45:00 Z
 summary: The Education for Employment project supported the Government of BiH to increase
@@ -12,7 +12,7 @@ solutions:
 - Education
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
----
+
 
 Addressing the mismatch between the supply of, and demand for, labor in Bosnia and Herzegovina (BiH) is a core priority for the nation’s government. Although establishing a systemwide skills development sector remains the long-term goal in BiH, progress in implementing countrywide strategies has been constrained by the lack of coordination across all levels.
 

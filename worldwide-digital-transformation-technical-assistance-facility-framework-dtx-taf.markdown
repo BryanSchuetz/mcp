@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Digital Transformation Technical Assistance Facility Framework (DTX
   TAF)
 date: 2024-06-06 09:38:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
----
+
 
 Many smaller financial institutions, particularly in low-income or post-conflict contexts, still rely heavily on paper-based systems (e.g., for loan application processes). Digitalization of these processes will introduce controls for risk and likely help foster inclusion in the financial institutions’ portfolios. Moreover, the COVID-19 pandemic and its economic impact crystalized the importance of digitalization for the resilience of financial institutions and their clients’ livelihoods.
 

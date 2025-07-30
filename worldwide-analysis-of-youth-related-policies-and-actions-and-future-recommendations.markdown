@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Analysis of Youth-Related Policies and Actions and Future Recommendations
 date: 2022-03-29 11:17:00 Z
 tags:
@@ -21,7 +21,7 @@ country: Worldwide
 promos:
 - title: Sounding Board Gives Youth a Voice in Development Decision Making
   link: https://dai-global-developments.com/articles/sounding-board-gives-youth-a-voice-in-development-decision-making
----
+
 
 The young generation of today is the largest in history—posing both a challenge and an opportunity for international cooperation and development. Young people face important challenges linked to job creation and labor markets, employability, displacement and migration, conflict, violent extremism, and the effects of changes in climate. With its bilateral, regional, continental, and global partners, reaching the young generation is one of the European Union’s key priorities both within and outside its borders.
 

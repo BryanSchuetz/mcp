@@ -1,4 +1,4 @@
----
+
 title: Vietnam—Technical Assistance for the ARISE+ Programme
 date: 2020-05-06 13:32:00 Z
 summary: 'The EuropeAid project Technical Assistance for the ARISE+ Programme aims
@@ -13,7 +13,7 @@ solutions:
 - Trade
 regions: Asia and the Pacific
 country: Vietnam
----
+
 
 In the context of global economic uncertainties, Vietnam has firmly maintained its position among the fastest-growing countries in the world. In 2018, Vietnam recorded a growth of 7.1 percent; the country’s highest growth rate in 10 years since the world economic crisis in 2008. In 2019, the World Economic Forum’s Global Competitiveness Index, Vietnam ranked 67th out of 141 countries, moving up 10 places in one year. At the same time, the country ranks 68th among 190 economies in the World Bank’s Ease of Doing Business, moving up 14 places in two years.
 

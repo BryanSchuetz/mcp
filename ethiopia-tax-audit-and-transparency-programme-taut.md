@@ -1,4 +1,4 @@
----
+
 title: Ethiopia—Tax, Audit, and Transparency Programme (TAUT)
 date: 2016-01-21 22:40:00 Z
 summary: The Tax, Audit, and Transparency Programme supported the Government of Ethiopia
@@ -14,7 +14,7 @@ regions:
 country:
 - Ethiopia
 layout: project
----
+
 
 Though Ethiopia has achieved dramatic increases in economic growth and some successes in reducing poverty rates, the country’s challenges remain substantial; gross domestic product (GDP) per capita continues to be one of the lowest in the world, revenue collection lags behind growth rates, and incentives for private-sector growth are limited. Public-sector reform is challenging and the goals of the National Growth and Transformation Plan are ambitious. Success is only possible when reform is closely adapted to the local political and economic context, is well sequenced, and is Ethiopian-led.
 

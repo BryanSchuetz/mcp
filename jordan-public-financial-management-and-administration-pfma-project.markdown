@@ -1,4 +1,4 @@
----
+
 title: Jordan—Public Financial Management and Administration (PFMA)
 date: 2021-03-01 07:40:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Middle East and North Africa
 country: Jordan
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

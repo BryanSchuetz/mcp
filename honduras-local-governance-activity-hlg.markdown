@@ -1,4 +1,4 @@
----
+
 title: Honduras—Local Governance Activity (HLG)
 date: 2016-11-19 00:25:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Voice and Accountability
 regions: Latin America and the Caribbean
 country: Honduras
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

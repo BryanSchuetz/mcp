@@ -1,4 +1,4 @@
----
+
 title: Worldwide—Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical
   Management (Comprehensive TA)
 date: 2024-02-06 11:14:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Global Health
 regions: Worldwide
 country: Worldwide
----
+
 
 DAI is a lead partner on the indefinite delivery, indefinite quantity (IDIQ) contract, Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical Management (Comprehensive TA). The IDIQ is part of the U.S. Agency for International Development (USAID)’s broader Next Generation Global Health Supply Chain Suite of Programs (NextGen). The competitive contracting mechanism is designed to ensure that USAID partner countries have sustainable access to safe, effective, quality-assured, and affordable health commodities. Comprehensive TA will work to develop the capacity of local systems, institutions, and individuals to sustainably manage supply chains, for both USAID-procured health commodities and those procured through other donor and national and local systems, and to strengthen local pharmaceutical management systems.
 

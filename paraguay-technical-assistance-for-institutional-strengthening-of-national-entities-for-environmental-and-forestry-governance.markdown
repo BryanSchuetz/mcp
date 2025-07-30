@@ -1,4 +1,4 @@
----
+
 title: Paraguay—Technical Assistance for Institutional Strengthening of National Entities
   for Environmental and Forestry Governance
 date: 2024-05-10 13:16:00 Z
@@ -14,7 +14,7 @@ solutions:
 - Governance
 regions: Latin America and the Caribbean
 country: Paraguay
----
+
 
 Paraguay faces one of the highest rates of forest loss in Latin America, with ecosystems increasingly under pressure due to wildfires, a lack of conservation capacity, illegal logging, and charcoal production. The country's economy, reliant on extensive use of natural resources such as land for agribusiness and livestock, and water for hydroelectric production, has rendered it vulnerable to changes in climate.
 

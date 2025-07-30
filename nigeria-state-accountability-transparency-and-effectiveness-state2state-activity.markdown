@@ -1,4 +1,4 @@
----
+
 title: Nigeria—State Accountability, Transparency, and Effectiveness (State2State)
   Activity
 date: 2020-08-11 10:43:00 Z
@@ -17,7 +17,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Nigeria
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

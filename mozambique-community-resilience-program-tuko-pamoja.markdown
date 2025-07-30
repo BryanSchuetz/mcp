@@ -1,4 +1,4 @@
----
+
 title: Mozambique—Community Resilience Program (Tuko Pamoja)
 date: 2022-10-12 13:58:00 Z
 summary: The Mozambique Community Resilience Program, known locally as Tuko Pamoja,
@@ -13,7 +13,7 @@ country: Mozambique
 promos:
 - title: 'Pivoting in Response to Contextual Changes: Adaptive Management in Mozambique'
   link: https://usaidlearninglab.org/resources/pivoting-response-contextual-changes-adaptive-management-mozambique
----
+
 
 The Mozambique Community Resilience Program (MCRP), known locally as Tuko Pamoja ("We are together"), was designed to understand the dynamics and causes of the violence that had begun in 2017 in northern parts of Cabo Delgado province.
 

@@ -1,4 +1,4 @@
----
+
 title: Madagascar—Improving the Business Environment and Investment Climate (CLIM-INVEST)
 date: 2022-02-17 19:18:00 Z
 summary: CLIM-INVEST supports Madagascar by stimulating investments in the country,
@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Madagascar
----
+
 
 Over the past decade, the European Union (EU) has increasingly emphasized the role and importance of the private sector in development and cooperation with Madagascar. Supporting Madagascar through the CLIM-INVEST project falls within the framework of the EU’s commitments to stimulate investments in the country, create high-quality jobs, foster sustainable and inclusive growth, and encourage responsible business conduct.
 

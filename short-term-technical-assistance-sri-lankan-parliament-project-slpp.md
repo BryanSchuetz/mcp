@@ -1,4 +1,4 @@
----
+
 title: Short-Term Technical Assistance to the Sri Lankan Parliament Project (SLPP)
 date: 2016-01-21 22:40:00 Z
 published: false
@@ -16,7 +16,7 @@ regions:
 country:
 - Sri Lanka
 layout: project
----
+
 
  SLPP supports Sri Lanka's newly elected parliament to change the Standing Orders in light of an evolving constitutional and institutional structure, facilitate training for new members and staff, and enable parliamentary staff to better engage with constituents through local development activities.
 

@@ -1,4 +1,4 @@
----
+
 title: Africa—Africa Lead II
 date: 2016-01-21 22:40:00 Z
 summary: Following on the original Africa Lead project, Africa Lead II built the capacity
@@ -15,7 +15,7 @@ regions:
 country:
 - Regional
 layout: project
----
+
 
 In 2009, the U.S. Government's Feed the Future initiative was born of the belief that global hunger is solvable; that initiative helped support and advance African-led agricultural transformation through [Africa Lead II](http://africaleadftf.org/).
 

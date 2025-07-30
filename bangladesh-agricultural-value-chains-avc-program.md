@@ -1,4 +1,4 @@
----
+
 title: Bangladesh—Agricultural Value Chains (AVC) Program
 date: 2016-01-21 22:40:00 Z
 summary: 'Funded under the Feed the Future initiative, this project improved food
@@ -30,7 +30,7 @@ promos:
     Culture
   link: https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture
 layout: project
----
+
 
 DAI applied a [market systems approach](http://dai.com/news-publications/news/new-primer-market-systems-development-available) to agricultural value chains in Bangladesh’s Southern Delta, home to 30 million people where poverty and under-nutrition are acute and persistent, agricultural productivity is low, and farmers are not typically linked to markets.
 

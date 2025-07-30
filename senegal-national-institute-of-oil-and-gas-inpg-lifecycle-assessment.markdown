@@ -1,4 +1,4 @@
----
+
 title: Senegal—National Institute of Oil and Gas (INPG) Lifecycle Assessment
 date: 2020-01-16 15:30:00 Z
 summary: In July 2019, DAI’s Sustainable Business Group was selected to develop a
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Senegal
----
+
 
 In July 2019, DAI’s Sustainable Business Group was selected to develop a 10-year Operational Business Plan for Senegal’s recently created Institut National du Pétrole et du Gaz (INPG). The team worked with INPG as well as key public and private stakeholders to develop an ambitious but feasible, effective, and comprehensive multiphase strategic plan. This plan will help sustainably accomplish INPG’s goal of shaping and training the future leaders of the oil and gas industry while creating a workforce that can compete on a global scale.
 

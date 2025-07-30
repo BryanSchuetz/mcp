@@ -1,4 +1,4 @@
----
+
 title: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization with the Political-Security
   and Socio-Cultural Communities (PROSPECT)
 date: 2019-07-25 20:20:00 Z
@@ -25,7 +25,7 @@ promos:
   link: https://asean.usmission.gov/landmark-asean-study-sheds-new-light-on-women-peace-and-security-stature-in-southeast-asia/
 - title: CTIP Plan
   link: "/uploads/ASEAN-USAID-CTIP-plan.pdf"
----
+
 
 ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernmental organization comprising 10 southeast Asian countries. Since 1977, the United States has partnered with ASEAN to promote regional cooperation on pressing issues of joint interest. ASEAN-USAID PROSPECT built upon the achievements of its predecessor project, [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable), and continued to support ASEAN in addressing transnational challenges, promoting transparent and effective governance, and elevating the rights and opportunities for women and other vulnerable groups.
 

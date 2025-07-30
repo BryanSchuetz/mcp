@@ -1,4 +1,4 @@
----
+
 title: Philippines—Enhancing Governance, Accountability, and Engagement (ENGAGE)
 date: 2016-01-21 22:40:00 Z
 summary: 'This project assisted six conflict-affected areas in Mindanao, Philippines:
@@ -18,7 +18,7 @@ regions:
 country:
 - Philippines
 layout: project
----
+
 
 This project assisted six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs. Through the promotion of good governance, ENGAGE worked to improve peace and stability by:
 

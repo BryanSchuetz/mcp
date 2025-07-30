@@ -1,4 +1,4 @@
----
+
 title: Ghana—Market Development (MADE) in Northern Ghana
 date: 2016-01-21 22:40:00 Z
 summary: 'This project was part of DAI''s framework contract with the Foreign, Commonwealth
@@ -18,7 +18,7 @@ regions:
 country:
 - Ghana
 layout: project
----
+
 
 This project was part of DAI's framework contract with the Foreign, Commonwealth & Development Office (FCDO) and was implemented by Nathan Associates UK. DAI consulted with the project on aspects of climate resilience.
 

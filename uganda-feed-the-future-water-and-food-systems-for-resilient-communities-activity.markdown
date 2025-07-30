@@ -1,4 +1,4 @@
----
+
 title: Uganda—Feed the Future Water and Food Systems Activity (WFSA)
 date: 2023-09-28 09:04:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Climate
 regions: Sub-Saharan Africa
 country: Uganda
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

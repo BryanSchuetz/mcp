@@ -1,4 +1,4 @@
----
+
 title: Kenya—NiWajibu Wetu (NIWETU)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Kenya NiWajibu Wetu (NIWETU) program, funded by the U.S. Agency for
@@ -20,7 +20,7 @@ promos:
 - title: A Systems-based Approach to CVE
   link: "/uploads/NIWETU%20-%20Systems-Based%20Approach_Final.pdf"
 layout: project
----
+
 
 Kenya is one of Africa’s longest-running democracies, a regional economic powerhouse, and a critical ally in the fight against violent extremism. After Kenyan troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”), the terrorist group al-Shabaab and its Kenyan affiliate al-Hijra reacted by carrying out attacks on public spaces in Kenya. The violent extremist groups have also attempted to create a schism between communities and manipulate underdevelopment and perceptions of marginalization to fuel their victimization narratives and recruit disenfranchised individuals to their cause.
 

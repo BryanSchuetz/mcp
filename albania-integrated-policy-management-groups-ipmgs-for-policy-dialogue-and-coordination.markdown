@@ -1,4 +1,4 @@
----
+
 title: Albania—Integrated Policy Management Groups (IPMGs) for Policy Dialogue and
   Coordination
 date: 2019-11-18 13:30:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Albania
----
+
 
 Albania has been on the path to European Union (EU) accession since 2014, when the country was granted candidate status. The EU is supporting reforms in Albania through the Instrument for Pre-Accession, IPA II, which is based on a sector approach that aims to increase coherence between sector policy, government spending, and the achievement of results.
 

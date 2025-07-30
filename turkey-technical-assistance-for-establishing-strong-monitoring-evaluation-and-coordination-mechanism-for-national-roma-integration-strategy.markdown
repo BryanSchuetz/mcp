@@ -1,4 +1,4 @@
----
+
 title: Türkiye—Technical Assistance for Establishing Strong Monitoring, Evaluation,
   and Coordination Mechanism for National Roma Integration Strategy
 date: 2020-05-06 11:33:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
+
 
 In 2017, the population of Türkiye was estimated at 80.8 million with a growth rate of 1.24 percent per year. Recent studies suggest that the Roma population in Türkiye ranges between 2 to 5 million and the majority of Roma live in Western Anatolia, Thrace, and in southeastern and eastern Türkiye. Altogether, 22 provinces are identified as having Roma communities.
 

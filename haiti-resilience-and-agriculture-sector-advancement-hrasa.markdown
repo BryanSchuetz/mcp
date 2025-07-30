@@ -1,4 +1,4 @@
----
+
 title: Haiti—Feed the Future Resilience and Agriculture Sector Advancement (HRASA)
   Activity
 date: 2021-10-06 09:22:00 Z
@@ -18,7 +18,7 @@ solutions:
 - Sustainable Livelihoods
 regions: Latin America and the Caribbean
 country: Haiti
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

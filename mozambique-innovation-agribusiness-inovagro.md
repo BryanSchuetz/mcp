@@ -1,4 +1,4 @@
----
+
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II, III)
 date: 2016-01-21 22:40:00 Z
 summary: Innovation for Agribusiness increased revenue for small farmers in northern
@@ -34,7 +34,7 @@ promos:
     in Northern Mozambique
   link: "/uploads/InovAgro%E2%80%99s%20Voyage%20of%20Learning%20and%20Adaptation%20for%20Market%20Systems%20Development%20in%20Northern%20Mozambique.pdf"
 layout: project
----
+
 
 Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. More than 80 percent of the economically active population is engaged in subsistence agriculture, with very low levels of production, productivity, and income.
 

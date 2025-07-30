@@ -1,4 +1,4 @@
----
+
 title: Ukraine—US Cybersecurity Activity in Ukraine
 date: 2020-05-14 19:17:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Digital Strategy
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
+
 
 Ukraine’s resilience to Russia’s full-scale invasion is happening not just on the battlefield—it takes place in cyberspace, as Russia wages increasingly serious cyberattacks against Ukraine’s critical infrastructure and government systems. Ukraine’s energy sectors—oil and gas, nuclear, electricity, and hydroelectric systems—are a particularly high-value target.
 

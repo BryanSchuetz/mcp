@@ -1,4 +1,4 @@
----
+
 title: Romania—Volksbank Leasing (VBL)
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the European Bank for Reconstruction and Development
@@ -14,7 +14,7 @@ regions:
 country:
 - Romania
 layout: project
----
+
 
 Established in 2000, Volksbank Leasing (VBL) quickly became one of the top players in the Romanian leasing sector. By 2005, VBL had concluded €112 million in leasing contracts, approximately 80 percent of which were in the vehicle leasing sector and the remaining 20 percent in equipment leasing. The company wanted to expand its equipment leasing business, and given its existing orientation toward the small- and medium-sized enterprise (SME) sector, saw the European Union/European Bank for Reconstruction and Development (EBRD) Finance Facility as an ideal opportunity to do so. DAI was contracted by the EBRD to help VBL expand its leasing operations for the SME segment.
 

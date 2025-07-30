@@ -1,4 +1,4 @@
----
+
 title: Somalia—Technical Assistance and Partnership Facility
 date: 2024-02-23 13:40:00 Z
 summary: Through the Technical Assistance and Partnership Facility, the EU seeks to
@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Somalia
----
+
 
 Somalia faces complex challenges impacting its political stability and societal well-being. The European Union is committed to fostering sustainable development, encouraging inclusive and eco-friendly economic growth, and strengthening resilience and social inclusion for Somalia's progress.
 

@@ -1,4 +1,4 @@
----
+
 title: Southeast Asia—Mekong Adaptation and Resilience to Changes in Climate (ARCC)
 date: 2016-01-21 22:40:00 Z
 summary: The Mekong ARCC project bridged the knowledge gap between high-level science
@@ -23,7 +23,7 @@ promos:
 - title: Establishing a Model at the Local Level for Science-Driven Climate Adaptation
   link: https://dai-global-developments.com/articles/climate-adaptation-success-achieved-by-bridging-climate-science-with-local-realities-in-the-lower-mekong
 layout: project
----
+
 
 Sixty million people living in Southeast Asia's Mekong River Basin are sustained by the river. This is especially true for the 75 percent whose livelihoods and food security depend on agriculture and fisheries, and who face grave threats from the impacts of weather-related events, including crop failure.
 

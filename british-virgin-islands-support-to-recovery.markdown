@@ -1,4 +1,4 @@
----
+
 title: British Virgin Islands—Support to Recovery
 date: 2018-03-28 15:06:00 Z
 summary: 'DAI supported labour policy reforms and providing vocational training to
@@ -12,7 +12,7 @@ solutions:
 - Sustainable Livelihoods
 regions: Latin America and the Caribbean
 country: British Virgin Islands
----
+
 
 The hurricanes of 2017 devastated the infrastructure of the British Virgin Islands. More than one-third of residential buildings suffered significant damage while crippled maritime facilities hindered economic recovery. To achieve the government’s long-term plan of building back better, stronger, and greener, the local labour force requires new skills and building and labour regulations need revising.
 

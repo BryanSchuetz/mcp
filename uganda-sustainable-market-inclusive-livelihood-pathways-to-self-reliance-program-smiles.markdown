@@ -1,4 +1,4 @@
----
+
 title: Uganda—Sustainable Market Inclusive Livelihood Pathways to Self-Reliance Program
   (SMILES)
 date: 2023-05-18 15:21:00 Z
@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Uganda
----
+
 
 The IKEA Foundation is one of the world’s largest private funders committed to helping refugees achieve economic self-reliance and sustainable livelihoods.
 

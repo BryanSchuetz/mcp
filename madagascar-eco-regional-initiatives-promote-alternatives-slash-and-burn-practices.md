@@ -1,4 +1,4 @@
----
+
 title: Madagascar—Eco-Regional Initiatives to Promote Alternatives to Slash and Burn
   Practices (ERI)
 date: 2016-01-21 22:40:00 Z
@@ -17,7 +17,7 @@ regions:
 country:
 - Madagascar
 layout: project
----
+
 
 As a tropical island nation, Madagascar has a rich and diverse foundation of plants, trees, and animals. However, the natural environment has been depleted over the years to the point where desertification threatens Madagascar's future. Through the Eco-Regional Initiatives to Promote Alternatives to Slash and Burn Practices (ERI) project, DAI created an innovative form of eco-regional conservation and development that contributed to national goals articulated in the "Madagascar Naturellement" vision, the "Madagascar Action Plan," and other government policy documents. Working in close concert with partners of the Ecoregional Alliance, the U.S. Agency for International Development and DAI constructed a foundation for responsible management of the new protected areas that improved economic welfare for the people living near the forest corridors of the Fianarantsoa and Toamasina provinces, as well as citizens throughout the country.
 

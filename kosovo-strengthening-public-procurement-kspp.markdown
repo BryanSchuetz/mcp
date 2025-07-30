@@ -1,4 +1,4 @@
----
+
 title: Kosovo—Strengthening Public Procurement (KSPP)
 date: 2020-12-15 11:16:00 Z
 summary: The Kosovo Strengthening Public Procurement (KSPP) project strengthened the
@@ -12,7 +12,7 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Kosovo
----
+
 
 While Kosovo has been making positive progress towards reform and the requirements set out in the European Union-Kosovo Stabilisation and Association Agreement, corruption and ineffective public procurement remain a critical challenge.
 

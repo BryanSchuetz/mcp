@@ -1,4 +1,4 @@
----
+
 title: Maldives—Public Financial Management
 date: 2020-02-24 08:41:00 Z
 published: false
@@ -15,7 +15,7 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Asia and the Pacific
 country: Maldives
----
+
 
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 

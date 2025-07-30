@@ -1,4 +1,4 @@
----
+
 title: Benin—Assistance Technique au Programme d’Appui à la Mise en Oeuvre du Programme
   d’Appui au Développement Durable du Secteur Agricole (PADDSA)
 date: 2021-01-07 11:18:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Benin
----
+
 
 The project provided technical assistance to the Ministry of Agriculture, Livestock, and Fisheries (APRM) for the implementation of the Programme d’Appui au Développement Durable du Secteur Agricole (PADDSA), a €70 million initiative to reform Benin’s agricultural sector.
 

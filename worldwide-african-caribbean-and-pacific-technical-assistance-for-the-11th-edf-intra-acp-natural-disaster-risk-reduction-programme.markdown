@@ -1,4 +1,4 @@
----
+
 title: 'Worldwide—African, Caribbean, and Pacific: Technical Assistance for the 11th
   EDF Intra-ACP Natural Disaster Risk Reduction Programme'
 date: 2023-01-27 11:37:00 Z
@@ -18,7 +18,7 @@ solutions:
 - Environment
 regions: Worldwide
 country: Worldwide
----
+
 
 The Organisation of African, Caribbean, and Pacific States (OACPS) comprises the most vulnerable countries in the world to the adverse effects of changes in climate. To tackle these vulnerabilities, OACPS is working with its 79 members to enhance their resilience and preparedness for natural hazard risks.
 

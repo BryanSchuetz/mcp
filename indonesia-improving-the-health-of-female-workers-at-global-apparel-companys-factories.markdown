@@ -1,4 +1,4 @@
----
+
 title: Indonesia—Improving the Health of Female Workers at Global Apparel Company’s
   Factories
 date: 2022-03-23 11:35:00 Z
@@ -15,7 +15,7 @@ country: Indonesia
 promos:
 - title: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
   link: https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience?utm_source=daidotcom
----
+
 
 DAI’s Sustainable Business Group was commissioned by [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear, and accessories companies—to help develop and implement a health program for a majority-female workforce. The project was initiated under a partnership between VF Corporation and the [USAID Jalin project.](https://www.dai.com/our-work/projects/indonesia-jalin)
 

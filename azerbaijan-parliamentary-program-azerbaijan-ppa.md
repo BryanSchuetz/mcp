@@ -1,4 +1,4 @@
----
+
 title: Azerbaijan—Parliamentary Program in Azerbaijan (PPA)
 date: 2016-01-21 22:40:00 Z
 summary: The Parliamentary Program in Azerbaijan project assisted the Parliament,
@@ -15,7 +15,7 @@ regions:
 country:
 - Azerbaijan
 layout: project
----
+
 
 Azerbaijan faces serious challenges to its democratic development. Democratic institutions are new and evolving from a historical legacy of highly centralized authority, and Azerbaijan ranks near the bottom of several international measures of corruption. A strengthened parliament is critical to maintaining a healthy system of checks and balances and, thus, supporting successful social and economic development. The parliament must first, however, solidify its own sense of identity, with clearly understood roles and responsibilities, professional services, and a vastly stronger relationship between the deputies and the constituents they should serve. The Parliamentary Program in Azerbaijan (PPA) assisted the Parliament, called the Milli Majlis, in improving its government oversight and representation functions, with an emphasis on internal institutional reform and training of new constituency-based staff. We helped establish new norms of behavior that improved institutional professionalism and responsiveness to citizens. European Union standards and legislative compliance mechanisms were utilized in the design and capacity-building activities.
 

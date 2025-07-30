@@ -1,4 +1,4 @@
----
+
 title: Belarus—Support to Effective Air Emissions, Radiation Monitoring, and Improved
   Environmental Management
 date: 2021-01-18 09:58:00 Z
@@ -13,7 +13,7 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Belarus
----
+
 
 Belarus has made significant progress toward reducing air pollution in recent decades. However, the air quality in the country is not in compliance with its standards and is often the cause of serious health effects.
 
