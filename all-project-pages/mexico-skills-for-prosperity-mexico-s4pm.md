@@ -3,8 +3,8 @@ title: Mexico—Skills for Prosperity Mexico (SFPMx)
 date: 2019-12-18 15:14:00 Z
 summary: The Skills for Prosperity Mexico project works to prepare learners to go
   from the classroom to the workforce with the right skills for the marketplace.
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Education

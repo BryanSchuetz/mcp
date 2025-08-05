@@ -6,8 +6,8 @@ summary: 'The U.S. Agency for International Development-funded Ministry of Forei
   the most immediate issues facing the Ministry of Foreign Affairs (MFA) and collaborated
   with MFA personnel to address legal and policy issues, along with the procedural
   and operational aspects of building a new institution. '
-contract-start-year: 2008
-contract-end-year: 2011
+start: 2008
+end: 2011
 client: U.S. Government
 solutions:
 - Decentralization and Local Government Management

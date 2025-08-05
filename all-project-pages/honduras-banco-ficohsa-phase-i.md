@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Working with Banco Ficohsa in Honduras, DAI studied the segmentation of the
   enterprise and residential mortgage markets, and assessed Banco Ficohsa's capacity
   to better serve these segments.
-contract-start-year: 2008
-contract-end-year: 2011
+start: 2008
+end: 2011
 client: International Finance Corporation
 solutions:
 - Economic Growth

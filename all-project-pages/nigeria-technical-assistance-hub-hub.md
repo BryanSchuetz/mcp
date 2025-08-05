@@ -4,8 +4,8 @@ date: 2020-06-05 08:33:00 Z
 summary: 'The Technical Assistance Hub (TA Hub) is an independent nonprofit organization
   that coordinates the delivery of comprehensive technical assistance and institutional
   strengthening support to state governments in Nigeria. '
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: Bill and Melinda Gates Foundation
 solutions:
 - Global Health

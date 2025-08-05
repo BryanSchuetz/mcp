@@ -7,8 +7,8 @@ summary: 'After a month of youth-led protests fueled by social and economic pres
   and uncertainty.
 
 '
-contract-start-year: 2011
-contract-end-year: 2014
+start: 2011
+end: 2014
 client: U.S. Government
 solutions:
 - Governance

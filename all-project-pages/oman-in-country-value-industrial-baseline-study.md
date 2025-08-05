@@ -4,8 +4,8 @@ date: 2020-09-18 13:27:00 Z
 summary: DAI’s Sustainable Business Group (SBG) created an in-country value (ICV)
   demand and supply analysis for an oil and gas project in Oman using both qualitative
   and quantitative analyses.
-contract-start-year: 2018
-contract-end-year: 2019
+start: 2018
+end: 2019
 client: Multinational Corporation
 solutions:
 - Sustainable Business

@@ -7,8 +7,8 @@ summary: We created a perpetual market for investments in efficient energy by Po
   the competitive advantages of investing in energy-efficient materials and equipment;
   and training local experts to assist SMEs in identifying and preparing technically
   feasible, bankable projects.
-contract-start-year: 2010
-contract-end-year: 2018
+start: 2010
+end: 2018
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2020-09-21 08:54:00 Z
 summary: TechStart builds the capacity of Palestinian firms, strengthens demand from
   international buyers and investors, and stimulates the absorption of high-tech knowledge
   in the ecosystem.
-contract-start-year: 2020
-contract-end-year: 2028
+start: 2020
+end: 2028
 client: World Bank
 solutions:
 - Workforce Development and Youth

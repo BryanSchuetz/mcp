@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Food Production, Processing, and Marketing (FPPM) Project in the Democratic
   Republic of the Congo rehabilitated smallholder access to inputs, services, and
   markets so that even smallholder farms were able to become income-generating businesses. '
-contract-start-year: 2011
-contract-end-year: 2014
+start: 2011
+end: 2014
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

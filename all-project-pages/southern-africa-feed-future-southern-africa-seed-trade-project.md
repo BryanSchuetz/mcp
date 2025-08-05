@@ -5,8 +5,8 @@ summary: This project provided technical assistance to help harmonize seed regul
   in the Southern African Development Community (SADC), which allowed seed trade across
   the region, thereby integrating smaller and isolated national markets into one larger
   SADC market for seeds.
-contract-start-year: 2015
-contract-end-year: 2022
+start: 2015
+end: 2022
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

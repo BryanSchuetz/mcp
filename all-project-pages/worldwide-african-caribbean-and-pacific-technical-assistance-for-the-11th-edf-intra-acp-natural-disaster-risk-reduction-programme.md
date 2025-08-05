@@ -9,8 +9,8 @@ summary: The Organisation of African, Caribbean, and Pacific States (OACPS) are 
   most vulnerable countries in the world to the adverse impacts of changes in climate.
   To tackle these vulnerabilities, OACPS is working with its 79 members to enhance
   their resilience and preparedness for natural hazard risks.
-contract-start-year: 2023
-contract-end-year: 2028
+start: 2023
+end: 2028
 client: European Union
 solutions:
 - Governance

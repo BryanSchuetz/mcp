@@ -7,8 +7,8 @@ summary: 'DAI is working to increase the adoption of digital innovations that pr
   business resilience and enhance productivity among financial institutions in the
   Caribbean—notably Barbados, Belize, Guyana, Jamaica, Suriname, and Trinidad and
   Tobago—and their micro, small, and medium-sized enterprise (MSME) clients. '
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: Inter-American Development Bank
 solutions:
 - Sustainable Business

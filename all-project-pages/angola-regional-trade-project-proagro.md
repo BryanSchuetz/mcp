@@ -3,8 +3,8 @@ title: Angola—Regional Trade Project (ProAgro)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Regional Trade Project (ProAgro) was designed to test ways to use regional
   trade as a stimulus to rebuilding the agricultural sector in Angola. '
-contract-start-year: 2004
-contract-end-year: 2007
+start: 2004
+end: 2007
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

@@ -4,8 +4,8 @@ date: 2017-08-24 15:56:00 Z
 summary: DAI's Sustainable Business Group works with the Sierra Leone Local Content
   Agency on an online portal and scorecard system to simplify and assure standardization
   in the way in which companies report their local content performance data.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 solutions:
 - Sustainable Business

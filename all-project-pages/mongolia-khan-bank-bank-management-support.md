@@ -4,10 +4,10 @@ date: 2016-01-21 22:40:00 Z
 summary: In 2000, Mongolia's government hired DAI to restore financial soundness to
   the bank, bring financial services to the rural population, and prepare the bank
   for privatization. The turnaround was successful on all fronts.
-contract-start-year: 2003
-contract-end-year: 2006
+start: 2003
+end: 2006
 client:
-- U.S. Agency for International Development
+- U.S. Government
 - European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2021-09-08 11:18:00 Z
 summary: 'The Partnership for Learning for All in Nigeria (PLANE) project is delivering
   a more inclusive and effective education system and improving learning outcomes
   for students in their pre-primary and primary years. '
-contract-start-year: 2021
-contract-end-year: 2028
+start: 2021
+end: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Education

@@ -5,8 +5,8 @@ summary: The Policy Development Facility II was a flexible, rapid-response facil
   that supported “champions of change”—primarily federal ministers, but also other
   high-level government officials such as the Office of the Vice President—to implement
   economic and social policies that further reduce poverty in Nigeria.
-contract-start-year: 2015
-contract-end-year: 2020
+start: 2015
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

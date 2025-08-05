@@ -4,8 +4,8 @@ date: 2017-08-24 17:11:00 Z
 summary: The Sustainable Business Group (SBG) conducted a Local Content Regime Analysis
   (LCRA) in seven countries and provided a comparative analysis of the impacts of
   local content regimes.
-contract-start-year: 2016
-contract-end-year: 2016
+start: 2016
+end: 2016
 client: Multinational Corporation
 solutions:
 - Local Content and Supply Chain Management

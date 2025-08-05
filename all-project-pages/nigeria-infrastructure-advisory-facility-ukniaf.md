@@ -4,8 +4,8 @@ date: 2020-09-28 09:43:00 Z
 summary: The U.K. Nigeria Infrastructure Advisory Facility enhances the management
   of Nigeria’s infrastructure development towards power sector reform, public-private
   partnerships, capital spending, and repair and maintenance of federal roads.
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

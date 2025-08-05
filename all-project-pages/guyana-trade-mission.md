@@ -4,8 +4,8 @@ date: 2020-01-10 18:42:00 Z
 summary: The DAI Sustainable Business Group (SBG) was commissioned to support the
   Newfoundland and Labrador Oil and Gas Industry Association (Noia)’s trade mission
   to Guyana for two consecutive years.
-contract-start-year: 2018
-contract-end-year: 2020
+start: 2018
+end: 2020
 client: Newfoundland and Labrador Oil and Gas Industry Association
 solutions:
 - Sustainable Business

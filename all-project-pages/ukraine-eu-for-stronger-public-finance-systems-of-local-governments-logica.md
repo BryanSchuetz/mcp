@@ -6,8 +6,8 @@ summary: The EU for Stronger Public Finance Systems of Local Governments project
   increasing the efficiency and transparency of the local financial management systems,
   in line with the EU-Ukraine Association Agreement and Ukraine’s Public Finance Management
   Strategy of 2017–2020.
-contract-start-year: 2017
-contract-end-year: 2020
+start: 2017
+end: 2020
 client: European Union
 solutions:
 - Governance

@@ -4,8 +4,8 @@ date: 2022-11-07 16:42:00 Z
 summary: DAI is delivering the Climate Ambition Support Alliance Phase 2, CASA2 will
   provide legal, technical, strategic, diplomatic, and media support to negotiators
   of the United Nations Framework Convention on Climate Change (UNFCCC)
-contract-start-year: 2022
-contract-end-year: 2026
+start: 2022
+end: 2026
 client: Department for Energy Security & Net Zero (DESNZ)
 solutions:
 - Climate

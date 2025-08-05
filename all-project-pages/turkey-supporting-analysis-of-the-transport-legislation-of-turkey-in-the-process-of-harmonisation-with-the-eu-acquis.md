@@ -4,8 +4,8 @@ title: Türkiye—Supporting Analysis of the Transport Legislation of Türkiye i
 date: 2021-07-26 16:20:00 Z
 summary: 'DAI worked to improve the legislative and institutional capacities of Türkiye
   to facilitate the Acquis alignment process in transportation. '
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: European Union
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ title: Afghanistan—Regional Afghan Municipalities Program for Urban Population
 date: 2016-01-21 22:40:00 Z
 summary: This project addressed helped to establish capable, legitimate governance
   at the municipal level in nine provincial capitals.
-contract-start-year: 2011
-contract-end-year: 2014
+start: 2011
+end: 2014
 client: U.S. Government
 solutions:
 - Governance

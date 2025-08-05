@@ -6,8 +6,8 @@ tags:
 summary: 'DAI is delivering the first two phases of the Climate Finance Accelerator
   activities in Pakistan, including a scoping exercise to map Pakistan''s climate
   finance landscape. '
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: Department for Energy Security and Net Zero
 solutions:
 - Environment

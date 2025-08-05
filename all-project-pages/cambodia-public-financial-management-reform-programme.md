@@ -5,8 +5,8 @@ summary: The Royal Government of Cambodia successfully designed and implemented 
   comprehensive four-stage public financial reform plan supported by 10 development
   partners, including the European Union, the U.K. Foreign, Commonwealth & Development
   Office (FCDO), and AusAID.
-contract-start-year: 2006
-contract-end-year: 2011
+start: 2006
+end: 2011
 client:
 - World Bank
 - Cambodian Government

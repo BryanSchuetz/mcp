@@ -6,8 +6,8 @@ summary: 'DAI managed the final year of the Strengthening Public Financial Manag
   for Social Protection project implementation and provided information technology,
   adaptive social protection, policy, and project management expertise to support
   this Bangladesh program. '
-contract-start-year: 2020
-contract-end-year: 2021
+start: 2020
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Kenya NiWajibu Wetu (NIWETU) program, funded by the U.S. Agency for
   International Development, worked to reduce violent extremism among at-risk individuals
   and communities in hotspots in Kenya. '
-contract-start-year: 2016
-contract-end-year: 2020
+start: 2016
+end: 2020
 client: U.S. Government
 solutions:
 - Fragile States

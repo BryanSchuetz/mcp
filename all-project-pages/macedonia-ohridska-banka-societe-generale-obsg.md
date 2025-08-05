@@ -5,8 +5,8 @@ summary: Ohridska Banka Société Générale (OBSG) became an affiliate of Soci�
   in 2007. One of 10 companies in the Macedonian Stock Exchange Index, OBSG signed
   an agreement with the European Bank for Reconstruction and Development for a €5
   million Loan Facility.
-contract-start-year: 2010
-contract-end-year: 2012
+start: 2010
+end: 2012
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

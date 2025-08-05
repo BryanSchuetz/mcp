@@ -4,8 +4,8 @@ date: 2020-01-16 17:20:00 Z
 summary: 'The Newfoundland and Labrador Oil and Gas Industries Association commissioned
   DAI’s Sustainable Business Group (SBG) to conduct a local content forecasting study
   in Newfoundland and Labrador. '
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Newfoundland and Labrador Oil and Gas Industries Association
 solutions:
 - Sustainable Business

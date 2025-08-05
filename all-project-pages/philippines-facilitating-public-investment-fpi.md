@@ -5,8 +5,8 @@ summary: This project promoted optimization of public expenditures through resul
   budgeting and fiscal transparency, eliminating ineffective spending in favor of
   high-impact programs and public investment in infrastructure, education, technology,
   and other areas.
-contract-start-year: 2013
-contract-end-year: 2018
+start: 2013
+end: 2018
 client: U.S. Government
 solutions:
 - Economic Growth

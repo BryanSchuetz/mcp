@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: IMARISHA, which means "strengthening" in Swahili, was a four-year program
   funded by the U.S. Agency for International Development (USAID) and the U.S. President's
   Emergency Plan for AIDS Relief (PEPFAR) to strengthen economic activities.
-contract-start-year: 2011
-contract-end-year: 2015
+start: 2011
+end: 2015
 client: U.S. Government
 solutions:
 - Global Health

@@ -5,8 +5,8 @@ date: 2017-03-13 17:17:00 Z
 summary: The Malawi Land Governance programme enhanced people’s livelihoods and food
   security through sustainable agricultural development, with an emphasis on reaching
   remote rural areas and vulnerable populations.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: European Union
 solutions:
 - Environment

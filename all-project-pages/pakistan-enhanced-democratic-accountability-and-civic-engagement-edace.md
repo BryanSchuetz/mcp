@@ -5,8 +5,8 @@ summary: The Enhanced Democratic Accountability and Civic Engagement (EDACE) pro
   made short-term, high-impact grants to improve rights awareness, citizen engagement,
   access to justice, and provision of security services to ensure that Pakistani citizen
   rights and democratic processes are strengthened at provincial and local levels.
-contract-start-year: 2013
-contract-end-year: 2016
+start: 2013
+end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

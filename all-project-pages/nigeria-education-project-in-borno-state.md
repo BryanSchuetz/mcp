@@ -4,8 +4,8 @@ date: 2020-06-05 13:31:00 Z
 summary: 'The Education Project in Borno State supported the state government’s recovery
   in the wake of insurgency and provided targeted relief to vulnerable and displaced
   populations. '
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: 'Shell Nigeria Exploration and Production Company Limited '
 solutions:
 - Education

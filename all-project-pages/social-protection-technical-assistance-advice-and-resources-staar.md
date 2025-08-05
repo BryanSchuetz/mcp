@@ -5,8 +5,8 @@ date: 2022-04-19 08:32:00 Z
 summary: 'The Social Protection Technical Assistance, Advice, and Resources (STAAR)
   Facility is dedicated to expanding and improving the effectiveness of investments
   in social protection and social protection approaches in crises. '
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States

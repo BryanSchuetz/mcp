@@ -6,8 +6,8 @@ tags:
 - European Union
 summary: 'Wala Malawi supports the industrialization and diversification of the Malawian
   electricity sector by implementing reforms and promoting private-sector investments. '
-contract-start-year: 2022
-contract-end-year: 2026
+start: 2022
+end: 2026
 client: European Union
 solutions:
 - Climate

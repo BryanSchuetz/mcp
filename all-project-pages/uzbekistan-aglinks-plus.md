@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: We supported farmers, agrifirms, processors, and other value chain participants.
   AgLinks Plus deepened and extended activities from the previous successful project
   that ran from 2007 to 2011.
-contract-start-year: 2011
-contract-end-year: 2015
+start: 2011
+end: 2015
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -6,8 +6,8 @@ summary: SLPP supports Sri Lanka's newly elected parliament to change the Standi
   Orders in light of an evolving constitutional and institutional structure, facilitate
   training for new members and staff, and enable parliamentary staff to better engage
   with constituents through local development activities.
-contract-start-year: 2015
-contract-end-year: 2016
+start: 2015
+end: 2016
 client: U.S. Government
 solutions:
 - Governance

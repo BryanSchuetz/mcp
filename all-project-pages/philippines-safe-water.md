@@ -4,8 +4,8 @@ date: 2019-11-25 09:15:00 Z
 summary: 'The Philippines Safe Water activity provides local government units, water
   service providers, and watershed councils with the information, incentives, and
   partnerships they require to identify and address barriers to a water-secure future. '
-contract-start-year: 2019
-contract-end-year: 2024
+start: 2019
+end: 2024
 client: U.S. Government
 solutions:
 - Water Security, Sanitation, and Hygiene

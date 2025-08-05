@@ -7,8 +7,8 @@ summary: 'DAI was hired to assist Russia''s NBD, a bank focused on the micro, sm
   objectives to expand into new regions and to attract a strategic investor.
 
 '
-contract-start-year: 2007
-contract-end-year: 2009
+start: 2007
+end: 2009
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

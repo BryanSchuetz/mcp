@@ -2,8 +2,8 @@
 title: Namibia—Regional Trade Project (NRTP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-contract-start-year: 2004
-contract-end-year: 2007
+start: 2004
+end: 2007
 regions:
 - Sub-Saharan Africa
 country:

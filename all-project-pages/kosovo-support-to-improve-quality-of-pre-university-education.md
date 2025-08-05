@@ -7,8 +7,8 @@ tags:
 summary: The project strengthens municipal education directorates and schools in Kosovo
   to fulfill their assigned functions related to school recruitment, teacher professional
   development, and quality assurance.
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: European Union
 solutions:
 - Governance

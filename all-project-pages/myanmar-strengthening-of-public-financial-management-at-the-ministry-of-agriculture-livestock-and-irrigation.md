@@ -8,8 +8,8 @@ summary: 'This project is implementing a suite of public financial management me
   nutrition-sensitive systems, with a focus on women and strengthening the institutional
   capacity of Myanmar''s Ministry of Agriculture, Livestock, and Irrigation to tackle
   malnutrition. '
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: European Union
 solutions:
 - Governance

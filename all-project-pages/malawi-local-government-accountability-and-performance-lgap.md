@@ -5,10 +5,10 @@ summary: To ensure more citizens benefit from the effects of decentralization, t
   Local Government Accountability and Performance activity worked to improve local
   government performance and transparency, increase citizen engagement, and strengthen
   the enabling environment for decentralization in Malawi.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client:
-- U.S. Agency for International Development
+- U.S. Government
 - Foreign, Commonwealth & Development Office
 solutions:
 - Governance

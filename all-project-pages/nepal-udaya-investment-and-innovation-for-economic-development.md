@@ -4,8 +4,8 @@ date: 2024-02-06 15:46:00 Z
 summary: Udaya leverages innovative financing mechanisms to improve access by small
   and medium-sized enterprises (SMEs) to growth capital and business development services
   in Koshi Province, Nepal.
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth

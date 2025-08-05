@@ -5,8 +5,8 @@ summary: Shell invited DAI’s Sustainable Business Group (SBG) local content ex
   [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) and [Dorival
   Bettencourt](https://www.dai.com/who-we-are/our-team/dorival-bettencourt) to deliver
   two local content modules at the Global Connect event.
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Shell
 solutions:
 - Sustainable Business

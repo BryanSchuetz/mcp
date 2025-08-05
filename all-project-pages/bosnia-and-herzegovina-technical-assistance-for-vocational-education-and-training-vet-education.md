@@ -6,8 +6,8 @@ summary: The Technical Assistance for Vocational Education and Training (VET) Ed
   project aims to address critical challenges within Bosnia and Herzegovina's education
   system, strengthening the verification of skills and, consequently, enhancing the
   employment prospects of students and skills holders.
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: European Union
 solutions:
 - Governance

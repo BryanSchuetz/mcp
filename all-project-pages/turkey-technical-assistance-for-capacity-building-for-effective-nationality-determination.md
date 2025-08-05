@@ -5,8 +5,8 @@ date: 2021-01-18 13:18:00 Z
 summary: 'This project improved Türkiye’s legal and administrative framework in migration
   management by establishing a well-functioning migration management system in line
   with European Union standards. '
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: European Union
 solutions:
 - Governance

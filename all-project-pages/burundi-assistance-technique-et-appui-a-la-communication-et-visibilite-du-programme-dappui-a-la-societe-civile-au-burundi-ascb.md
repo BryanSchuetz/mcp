@@ -5,8 +5,8 @@ date: 2019-12-20 18:38:00 Z
 summary: The Assistance Technique et Appui à la Communication et Visibilité du Programme
   d'Appui à la Société Civile au Burundi (ASCB) project supports civil society in
   Burundi.
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: European Union
 solutions:
 - Governance

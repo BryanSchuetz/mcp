@@ -5,8 +5,8 @@ summary: 'DAI’s Sustainable Business Group (SBG) is providing a software as a 
   solution to enable efficient reporting of local workforce, procurement, and capacity
   development data for 114 of their active suppliers, in line with local content compliance
   requirements set by the government of the Republic of Kazakhstan. '
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: Multinational corporation
 solutions:
 - Sustainable Business

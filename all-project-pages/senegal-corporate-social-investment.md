@@ -4,8 +4,8 @@ date: 2020-01-15 18:42:00 Z
 summary: Contracted by an international oil and gas company, DAI’s Sustainable Business
   Group (SBG) scoped and designed a corporate social investment project to address
   the issue of solid waste pollution in Saint-Louis, Senegal.
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Multinational corporation
 solutions:
 - Sustainable Business

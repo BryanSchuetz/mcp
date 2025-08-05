@@ -5,8 +5,8 @@ summary: The Green and Smart Cities SASA project is a Team Europe Initiative tha
   enhances the quality of life for Tanzanians by supporting green infrastructure investments,
   local economic growth and development, disaster risk reduction and preparedness,
   and improved public service delivery.
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: European Union
 solutions:
 - Environment

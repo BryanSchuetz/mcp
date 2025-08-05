@@ -4,8 +4,8 @@ date: 2017-09-14 21:31:00 Z
 summary: The U.S. Agency for International Development’s Jalin program assisted the
   Indonesian government as it promoted solutions for preventing maternal and newborn
   deaths and extending health services.
-contract-start-year: 2017
-contract-end-year: 2021
+start: 2017
+end: 2021
 client: U.S. Government
 solutions:
 - Global Health

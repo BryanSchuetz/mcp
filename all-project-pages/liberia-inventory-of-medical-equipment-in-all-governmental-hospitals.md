@@ -5,8 +5,8 @@ summary: 'DAI Global Health implemented a countrywide inventory of medical equip
   in 20 hospitals, funded by the Swiss Agency for Development and Cooperation, to
   assess the health care technology management and maintenance requirements of the
   Ministry of Health and Social Welfare in Liberia. '
-contract-start-year: 2009
-contract-end-year: 2010
+start: 2009
+end: 2010
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Global Health

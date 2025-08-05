@@ -5,8 +5,8 @@ summary: 'DAI assisted VF Corporation—one of the world’s largest apparel, fo
   and accessories companies—to reduce COVID transmission and safely re-open key supplier
   factories to employees during the COVID-19 pandemic, while maintaining business
   continuity. '
-contract-start-year: 2021
-contract-end-year: 2022
+start: 2021
+end: 2022
 client: VF Corporation
 solutions:
 - Sustainable Business

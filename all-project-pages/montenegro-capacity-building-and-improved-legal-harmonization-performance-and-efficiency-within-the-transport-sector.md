@@ -7,8 +7,8 @@ tags:
 summary: 'Our project strengthens Montenegro''s transport sector by enhancing institutional
   capacity, aligning national legislation with EU transport acquis, and advancing
   the preparation and implementation of priority transport projects. '
-contract-start-year: 2025
-contract-end-year: 2028
+start: 2025
+end: 2028
 client: European Union
 solutions:
 - Governance

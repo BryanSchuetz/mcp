@@ -7,8 +7,8 @@ summary: The USAID Revenue and Expenditure Governance Reforms Operationalized (R
   Activity works with the Government of Ukraine, Ukrainian civil society, and the
   private sector to promote fiscal resilience, transparency, and accountability by
   enhancing state revenue generation and financial management.
-contract-start-year: 2024
-contract-end-year: 2024
+start: 2024
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

@@ -4,8 +4,8 @@ date: 2022-10-05 08:49:00 Z
 summary: DAI is helping the John Odigie Oyegun Public Service Academy (JOOPSA) to
   train its public service to deliver high-value services to citizens and accelerate
   other reforms.
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: Edo State Government
 solutions:
 - Governance

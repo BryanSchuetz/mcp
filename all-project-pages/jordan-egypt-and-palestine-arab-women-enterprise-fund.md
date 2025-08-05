@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Arab Women’s Enterprise Fund (AWEF) focused on market system change and
   women’s economic empowerment in Egypt, Jordan, and until March 2018, the occupied
   Palestinian Territories.
-contract-start-year: 2015
-contract-end-year: 2021
+start: 2015
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

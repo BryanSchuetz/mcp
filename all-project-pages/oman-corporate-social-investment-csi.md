@@ -4,8 +4,8 @@ date: 2020-01-10 18:54:00 Z
 summary: DAI’s Sustainable Business Group (SBG) completed a rapid desktop benchmarking
   study comparing social investment spend and initiatives across seven major oil and
   gas companies in Oman.
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Multinational corporation
 solutions:
 - Sustainable Business

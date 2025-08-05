@@ -5,8 +5,8 @@ summary: 'The Rwanda Technical Assistance Facility (TAF) is a component of the S
   Public Financial Management and Revenue Collection (SPARC) program, which aims to
   support the Government of Rwanda on a range of priorities across the public sector
   policy-making agenda. '
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

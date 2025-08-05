@@ -6,8 +6,8 @@ summary: The Policy Development Facility Bridge programme provided near-term tec
   economic reforms, a more modern and efficient public sector, and better delivery
   of policy, public goods, and services, and ultimately contributing to inclusive
   growth and poverty reduction.
-contract-start-year: 2020
-contract-end-year: 2021
+start: 2020
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

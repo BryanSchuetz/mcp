@@ -6,8 +6,8 @@ summary: The Transforming Financial Systems for Climate (TFSC) program is part o
   the Green Climate Fund to develop a market for climate finance in 17 countries across
   Africa and Latin America. The TFSC is supporting the National Bank of Egypt in developing
   its Climate Change Strategy and Environmental and Social Risk Management System.
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: National Bank of Egypt
 solutions:
 - Climate

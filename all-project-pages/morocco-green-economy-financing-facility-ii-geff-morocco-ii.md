@@ -4,8 +4,8 @@ date: 2021-09-15 11:49:00 Z
 summary: 'The Green Economy Financing Facility Morocco II provides financing in the
   form of senior unsecured loans to participating financial institutions, including
   banks, microfinance, and leasing companies. '
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: European Bank for Reconstruction and Development
 solutions:
 - Climate

@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: This project strengthened control of the licit coca market, strengthened
   control of precursor chemicals used in processing coca into coca paste and cocaine,
   and strengthened enforcement of money laundering controls.
-contract-start-year: 2005
-contract-end-year: 2008
+start: 2005
+end: 2008
 client: U.S. Government
 solutions:
 - Governance

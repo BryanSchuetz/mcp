@@ -5,8 +5,8 @@ summary: Along with key partner Winrock International, DAI is building the capac
   of the Government of Nepal to lead and manage the National Small-Scale Renewable
   Energy Framework—an overarching vision for the off-grid electricity and clean cooking
   sector.
-contract-start-year: 2019
-contract-end-year: 2025
+start: 2019
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment

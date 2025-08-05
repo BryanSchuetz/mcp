@@ -5,8 +5,8 @@ summary: PEP-Z tackled low productivity and increasing competitiveness in Zambia
   private sector by strengthening the capacity of micro, small, and medium-sized enterprises
   (MSMEs). We targeted enterprises with the potential to grow, create jobs, and contribute
   to the diversification of the Zambian economy.
-contract-start-year: 2014
-contract-end-year: 2019
+start: 2014
+end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

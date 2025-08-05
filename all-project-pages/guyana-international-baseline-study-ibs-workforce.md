@@ -5,8 +5,8 @@ published: false
 summary: 'DAI’s Sustainable Business Group (SBG) is conducting an assessment and orchestrating
   a nationwide economic survey to establish a new baseline against which the future
   development Guyana can be measured. '
-contract-start-year: 2019
-contract-end-year: 2023
+start: 2019
+end: 2023
 client: Multinational corporation
 solutions:
 - Sustainable Business

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH) project
   combined nutrition programming with improved access to water security, sanitation,
   and hygiene.
-contract-start-year: 2015
-contract-end-year: 2021
+start: 2015
+end: 2021
 client: U.S. Government
 solutions:
 - Environment

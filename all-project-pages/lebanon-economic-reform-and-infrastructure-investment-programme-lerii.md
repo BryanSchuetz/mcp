@@ -4,8 +4,8 @@ date: 2020-01-23 10:06:00 Z
 summary: 'LERII aimed to assist the Lebanese government in implementing key economic
   reforms, reach agreement on the construction of key donor-financed infrastructure
   projects, and ensure that such projects were successfully built and operated. '
-contract-start-year: 2020
-contract-end-year: 2021
+start: 2020
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

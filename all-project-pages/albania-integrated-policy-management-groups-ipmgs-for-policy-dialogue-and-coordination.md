@@ -6,8 +6,8 @@ summary: DAI provided technical assistance to the Integrated Policy Management G
   (IPMGs) for policy dialogue and coordination in Albania to improve institutional
   mechanisms, capacities, and procedures for strategic and integrated planning at
   central and sector levels.
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: European Union
 solutions:
 - Governance

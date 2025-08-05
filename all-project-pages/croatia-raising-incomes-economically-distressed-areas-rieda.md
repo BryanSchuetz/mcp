@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'RIEDA was a demand-driven agricultural project that extended the reach of
   the Croatia Agribusiness Competitiveness Enhancement project to bring small and
   part-time farmers in the Area of Special State Concern into the mainstream. '
-contract-start-year: 2003
-contract-end-year: 2008
+start: 2003
+end: 2008
 client: U.S. Government
 solutions:
 - Economic Growth

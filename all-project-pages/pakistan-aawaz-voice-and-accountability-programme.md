@@ -5,8 +5,8 @@ summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts acros
   Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which
   8 million benefited directly from improved services, reduced violence, and increased
   political participation. '
-contract-start-year: 2012
-contract-end-year: 2018
+start: 2012
+end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Gender and Social Inclusion

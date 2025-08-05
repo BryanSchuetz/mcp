@@ -7,8 +7,8 @@ summary: Our project assisted the European Commission’s Directorate General fo
   Partnerships (DG INTPA) in identifying best practices for youth actions around the
   world, with a view to formulate future actions to fill existing gaps and to ensure
   the largest impact and coherence with other activities.
-contract-start-year: 2020
-contract-end-year: 2022
+start: 2020
+end: 2022
 client: European Union
 solutions:
 - Governance

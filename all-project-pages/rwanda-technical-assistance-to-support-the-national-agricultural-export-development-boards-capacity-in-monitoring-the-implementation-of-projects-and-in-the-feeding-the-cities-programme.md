@@ -6,8 +6,8 @@ date: 2021-02-05 10:43:00 Z
 summary: 'The European Union is supporting the Government of Rwanda to modernize agriculture
   through a number of projects and funding models. DAI provides project monitoring
   and management support to the National Agricultural Export Development Board. '
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

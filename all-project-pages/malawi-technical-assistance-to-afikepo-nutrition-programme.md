@@ -5,8 +5,8 @@ published: false
 summary: This project works to increase and diversify dietary intake of safe and nutritious
   foods to achieve optimal nutrition for women of childbearing age, adolescent girls,
   infants, and young children in 10 targeted districts in Malawi.
-contract-start-year: 2019
-contract-end-year: 2023
+start: 2019
+end: 2023
 client: European Union
 solutions:
 - Global Health

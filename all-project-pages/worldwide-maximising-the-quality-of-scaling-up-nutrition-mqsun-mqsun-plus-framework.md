@@ -5,8 +5,8 @@ summary: MQSUN+ provided multi-disciplinary, highly qualified expert teams, incl
   nutritionists, economists, statisticians, social economists, and other specialists
   in key areas such as public health, agriculture and food security, law, social protection,
   water, sanitation, and hygiene (WASH), education, governance, and gender.
-contract-start-year: 2012
-contract-end-year: 2020
+start: 2012
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

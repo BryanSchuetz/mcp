@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: " Kenya FIRM built the capacity of the commercial sector to deliver customized
   financial products and services for entrepreneurs and busi­nesses—primarily in rural
   areas."
-contract-start-year: 2011
-contract-end-year: 2016
+start: 2011
+end: 2016
 client: U.S. Government
 solutions:
 - Economic Growth

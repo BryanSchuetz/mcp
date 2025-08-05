@@ -6,8 +6,8 @@ summary: The Technical Assistance for Capacity Enhancement for Development and I
   of Smart Specialization Strategies in Türkiye’s Regions (CEDIS3) will strengthen
   the capacity of national and regional actors to formulate and implement Smart Specialization
   Strategies.
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: European Union
 solutions:
 - Economic Growth

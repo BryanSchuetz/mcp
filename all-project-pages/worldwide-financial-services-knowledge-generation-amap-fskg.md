@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Research and knowledge conducted under FSKG increased the capacity of donors
   and U.S. Agency for International Development missions to design and strengthen
   implementation, monitoring, and evaluation of microfinance projects.
-contract-start-year: 2003
-contract-end-year: 2008
+start: 2003
+end: 2008
 client: U.S. Government
 solutions:
 - Economic Growth

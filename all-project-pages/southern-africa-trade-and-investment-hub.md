@@ -5,8 +5,8 @@ summary: The USAID Southern Africa Trade and Investment Hub engaged with partner
   across Southern Africa to deepen regional economic integration, promote two-way
   trade with the United States under the African Growth and Opportunity Act, and attract
   investment that drives commercial expansion within the region and globally.
-contract-start-year: 2016
-contract-end-year: 2022
+start: 2016
+end: 2022
 client: U.S. Government
 solutions:
 - Trade

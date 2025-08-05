@@ -5,8 +5,8 @@ summary: By developing effective support systems for producers and strengthening
   linkages between producers and agricultural markets, the Agribusiness Competitiveness
   Enhancement Project enabled agribusiness enterprises to determine and meet market
   demand by producing more profitable goods in Croatia.
-contract-start-year: 2002
-contract-end-year: 2007
+start: 2002
+end: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

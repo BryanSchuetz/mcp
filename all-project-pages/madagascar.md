@@ -6,8 +6,8 @@ terminated: true
 summary: The USAID HARENA Activity works to reduce threats to biodiversity and forests,
   improve conservation, and build resilience to climate change; develop sustainable,
   economic opportunities for the poor; and improve environmental governance in Madagascar.
-contract-start-year: 2024
-contract-end-year: 2024
+start: 2024
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

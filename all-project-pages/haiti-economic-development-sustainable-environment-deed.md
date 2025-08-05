@@ -5,8 +5,8 @@ summary: Environmental degradation in Haiti is the worst in the Western Hemisphe
   cause and result of the country's economic decline. DEED focused on promoting environmentally
   sustainable development in two of the country's watersheds through commercial agriculture,
   alternative livelihood development, and natural resource management.
-contract-start-year: 2008
-contract-end-year: 2012
+start: 2008
+end: 2012
 client: U.S. Government
 solutions:
 - Environment

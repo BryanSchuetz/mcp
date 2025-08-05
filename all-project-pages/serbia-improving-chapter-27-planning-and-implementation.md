@@ -5,8 +5,8 @@ summary: Aligning the legal and administrative systems of candidate countries wi
   EU law is a complex. The primary objective of this initiative is to assist Serbia
   to align its climate policies with EU Negotiating Positions, which is crucial to
   a smooth EU accession process.
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: European Union
 solutions:
 - Environment

@@ -6,8 +6,8 @@ summary: 'Our project supported the SWAIMS programme to improve maritime securit
   and safety in the Gulf of Guinea. We strengthened governance and law enforcement
   frameworks against maritime crimes, operational capacities, and response by law
   enforcement. '
-contract-start-year: 2019
-contract-end-year: 2024
+start: 2019
+end: 2024
 client: European Union and ECOWAS Commission
 solutions:
 - Governance

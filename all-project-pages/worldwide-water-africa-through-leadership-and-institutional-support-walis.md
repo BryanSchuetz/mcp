@@ -3,8 +3,8 @@ title: Worldwide—Water for Africa through Leadership and Institutional Support
 date: 2016-01-21 22:40:00 Z
 summary: 'The WALIS program provides technical, programmatic, administrative, and
   logistical support to USAID in improving the capacity of African water sectors. '
-contract-start-year: 2015
-contract-end-year: 2021
+start: 2015
+end: 2021
 client: U.S. Government
 solutions:
 - Environment

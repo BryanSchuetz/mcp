@@ -5,8 +5,8 @@ date: 2021-07-27 15:20:00 Z
 summary: 'DAI''s work aims to reinforce the safety and security in the maritime domain
   in the Gulf of Guinea in the Economic Community of Central African States (ECCAS)
   Region. '
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Governance

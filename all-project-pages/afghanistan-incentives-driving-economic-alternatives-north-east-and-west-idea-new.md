@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Incentives Driving Economic Alternatives for the North, East, and West
   (IDEA-NEW) program dissuaded Afghans from growing poppy by increasing access to
   licit, commercially viable, alternative sources of income.
-contract-start-year: 2009
-contract-end-year: 2015
+start: 2009
+end: 2015
 client: U.S. Government
 solutions:
 - Economic Growth

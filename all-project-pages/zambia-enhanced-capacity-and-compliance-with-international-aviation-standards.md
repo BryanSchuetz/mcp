@@ -4,8 +4,8 @@ date: 2021-04-19 15:02:00 Z
 summary: 'We support Zambia’s aviation sector—strengthening its policy, regulatory,
   and institutional capacities to improve compliance with international aviation standards,
   especially in terms of air safety and security oversight. '
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: European Union
 solutions:
 - Governance

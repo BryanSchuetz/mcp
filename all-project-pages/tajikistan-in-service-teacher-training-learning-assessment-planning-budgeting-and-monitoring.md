@@ -5,8 +5,8 @@ date: 2021-03-09 11:25:00 Z
 summary: We supported the Ministry of Education and Science in Tajikistan in improving
   services related to teacher training, learning assessment, financial planning, and
   monitoring.
-contract-start-year: 2017
-contract-end-year: 2021
+start: 2017
+end: 2021
 client: European Union
 solutions:
 - Governance

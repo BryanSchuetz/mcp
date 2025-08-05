@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI provided technical assistance primarily to developing-country governments
   to help them make informed decisions and draft national biosafety frameworks in
   line with their international obligations.
-contract-start-year: 2005
-contract-end-year: 2010
+start: 2005
+end: 2010
 client: U.S. Government
 solutions:
 - Economic Growth

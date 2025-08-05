@@ -2,8 +2,8 @@
 title: Moldova—Business and Tax Administration Reform Project (BIZTAR)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-contract-start-year: 2007
-contract-end-year: 2011
+start: 2007
+end: 2011
 regions:
 - Eastern Europe and Central Asia
 country:

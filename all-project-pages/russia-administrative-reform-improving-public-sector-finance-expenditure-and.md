@@ -4,8 +4,8 @@ title: 'Russia—Administrative Reform: Improving Public Sector Finance, Expendi
 date: 2016-01-21 22:40:00 Z
 summary: 'Working for the Technical Assistance to the Commonwealth of Independent
   States program, three DAI projects helped Russia improve public sector operations. '
-contract-start-year: 2005
-contract-end-year: 2007
+start: 2005
+end: 2007
 client: European Union
 solutions:
 - Governance

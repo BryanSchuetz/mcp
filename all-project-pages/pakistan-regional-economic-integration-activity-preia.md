@@ -3,8 +3,8 @@ title: Pakistan—Regional Economic Integration Activity (PREIA)
 date: 2016-01-21 22:40:00 Z
 summary: PREIA increased Pakistan's access to regional and international markets and
   is a key economic growth project that stands to benefit numerous Pakistani businesses.
-contract-start-year: 2015
-contract-end-year: 2024
+start: 2015
+end: 2024
 client: U.S. Government
 solutions:
 - Public Financial Management

@@ -5,8 +5,8 @@ summary: 'The EuropeAid project Technical Assistance for the ARISE+ Programme ai
   to provide technical assistance to the Vietnamese Government to maximise Vietnam’s
   benefits from preferential trade regimes, with a focus on regional agreements and
   the EU-Vietnam Free Trade Agreement and Investment Protection Agreement. '
-contract-start-year: 2019
-contract-end-year: 2023
+start: 2019
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

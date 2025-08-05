@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Lebanon Industry Value Chain Development (LIVCD) project improved Lebanon's
   economic stability and provided income-generating opportunities for small business
   while creating jobs for the rural population, in particular women and youth.
-contract-start-year: 2012
-contract-end-year: 2019
+start: 2012
+end: 2019
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

@@ -3,8 +3,8 @@ title: Mexico—Financial Services Programme
 date: 2019-02-15 19:04:00 Z
 summary: 'This programme aims to create a more inclusive and competitive financial
   services sector accessible to all segments of Mexican society and new market entrants. '
-contract-start-year: 2019
-contract-end-year: 2023
+start: 2019
+end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

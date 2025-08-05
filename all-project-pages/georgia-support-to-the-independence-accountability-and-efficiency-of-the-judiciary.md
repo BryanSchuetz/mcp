@@ -5,8 +5,8 @@ date: 2020-06-08 11:23:00 Z
 summary: The project Support to the Independence, Accountability, and Efficiency of
   the Judiciary assisted with ensuring the impartiality and professionalism of the
   judiciary towards being free from political or any other undue interference in Georgia.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: European Union
 solutions:
 - Governance

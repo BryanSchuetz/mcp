@@ -2,8 +2,8 @@
 title: Ecuador—Strengthening Access to Microfinance and Economic Liberalization (SALTO)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-contract-start-year: 2001
-contract-end-year: 2007
+start: 2001
+end: 2007
 regions:
 - Latin America and the Caribbean
 country:

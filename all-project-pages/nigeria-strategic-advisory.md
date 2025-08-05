@@ -4,8 +4,8 @@ date: 2020-09-18 13:26:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) provided strategic advisory services
   to Chevron’s Partnerships Initiative in the Niger Delta (PIND) Foundation to support
   it in developing a strategy for its next funding cycle. '
-contract-start-year: 2017
-contract-end-year: 2017
+start: 2017
+end: 2017
 client: Multinational corporation
 solutions:
 - Sustainable Business

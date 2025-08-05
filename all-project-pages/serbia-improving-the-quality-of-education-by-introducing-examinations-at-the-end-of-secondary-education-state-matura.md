@@ -5,8 +5,8 @@ date: 2020-10-22 10:46:00 Z
 summary: The State Matura Project prepared the education system and the Ministry of
   Education, Science, and Technological Development to implement new final examinations
   at the end of secondary education in the Republic of Serbia.
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: European Union
 solutions:
 - Governance

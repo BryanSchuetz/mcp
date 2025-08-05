@@ -5,8 +5,8 @@ summary: 'Implementation of EU legislation in Ukraine environmental protection o
   within eight sectors and is governed by 29 sources of law establishing common rules
   and standards to be reflected in domestic law. This project addresses the relevant
   laws, specifically addressing waste management and air quality. '
-contract-start-year: 2019
-contract-end-year: 2024
+start: 2019
+end: 2024
 client: European Union
 solutions:
 - Environment

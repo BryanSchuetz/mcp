@@ -5,8 +5,8 @@ summary: OTP Banka Slovensko is an institution that has historically focused on 
   lending. In 2005, the bank looked to diversify its portfolio and decided to incorporate
   small and medium-sized enterprise (SME) lending into its strategy. DAI was asked
   to redesign the analysis and approval process to meet the realities of the SME sector.
-contract-start-year: 2005
-contract-end-year: 2007
+start: 2005
+end: 2007
 client: European Bank for Reconstruction and Development
 solutions:
 - Finance and Investment

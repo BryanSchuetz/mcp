@@ -7,8 +7,8 @@ tags:
 summary: Our project works to reduce the adverse consequences of flood events for
   human health, environment, cultural heritage, and economic activity through assessment
   and management of flood risk in Türkiye.
-contract-start-year: 2022
-contract-end-year: 2025
+start: 2022
+end: 2025
 client: European Union
 solutions:
 - Environment

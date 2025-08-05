@@ -6,8 +6,8 @@ summary: RADP-East addressed issues of unreliable irrigation, poor agricultural 
   chain facilitation strategy to improve crop yields and find new outlets for rural
   Afghan farmers to sell their harvests, thereby increasing the food and economic
   security of the region.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

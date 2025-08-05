@@ -4,8 +4,8 @@ date: 2020-02-21 11:49:00 Z
 summary: The Trade Forward Southern Africa programme supported trade growth, improved
   gender equality in the trade arena, and alleviated poverty across Botswana, Eswatini,
   Lesotho, Mozambique, Namibia, and South Africa.
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

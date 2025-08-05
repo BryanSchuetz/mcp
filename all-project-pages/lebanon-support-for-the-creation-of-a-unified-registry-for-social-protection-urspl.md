@@ -7,8 +7,8 @@ tags:
 summary: Our project is improving the effectiveness and efficiency of social protection
   programs and services to Lebanese households through the establishment of a Unified
   Registry for Social Protection.
-contract-start-year: 2024
-contract-end-year: 2027
+start: 2024
+end: 2027
 client: European Union
 solutions:
 - Economic Growth

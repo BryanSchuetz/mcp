@@ -6,8 +6,8 @@ summary: The Programme de Bonne Gouvernance (PBG), or Good Governance Program, i
   by working closely with civil society and community-based organizations, parliamentary
   institutions at the central and provincial levels, and public institutions with
   a stake and role in decentralization.
-contract-start-year: 2009
-contract-end-year: 2014
+start: 2009
+end: 2014
 client: U.S. Government
 solutions:
 - Governance

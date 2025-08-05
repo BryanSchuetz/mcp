@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Fiscal Reform Project in Angola was based on DAI's earlier work under
   the Fiscal Reform in Support of Trade Liberalization project, which designed and
   launched the Fiscal Programming Unit in the Angola Ministry of Finance.
-contract-start-year: 2006
-contract-end-year: 2009
+start: 2006
+end: 2009
 client: U.S. Government
 solutions:
 - Governance

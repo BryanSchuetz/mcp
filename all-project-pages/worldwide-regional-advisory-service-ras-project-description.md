@@ -5,8 +5,8 @@ summary: The Regional Advisory Service provided expert advice on strategic plann
   monitoring and evaluation, audit and risk management, and governance to five regional
   organisations in the Pacific, in addition to supporting Australia’s Pacific regional
   aid program.
-contract-start-year: 2014
-contract-end-year: 2018
+start: 2014
+end: 2018
 client: Australia Department for Foreign Affairs and Trade
 solutions:
 - Governance

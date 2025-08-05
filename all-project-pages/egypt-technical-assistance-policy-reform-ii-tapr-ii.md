@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: TAPR II's objective was to provide a comprehensive and integrated source
   of technical assistance to Egyptian reformers to help them define and implement
   their vision for economic policy and institutional reforms.
-contract-start-year: 2005
-contract-end-year: 2009
+start: 2005
+end: 2009
 client: U.S. Government
 solutions:
 - Economic Growth

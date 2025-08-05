@@ -4,8 +4,8 @@ date: 2017-09-07 21:28:00 Z
 summary: 'The Feed the Future Tanzania Advancing Youth activity helped young people
   ages 15 to 29 in Tanzania to enhance their employability, business savvy, leadership
   skills, and participation in civic life. '
-contract-start-year: 2017
-contract-end-year: 2022
+start: 2017
+end: 2022
 client: U.S. Government
 solutions:
 - Economic Growth

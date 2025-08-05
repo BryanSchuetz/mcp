@@ -5,8 +5,8 @@ date: 2020-08-17 14:30:00 Z
 summary: This project is increasing the capacity of the Government of the Republic
   of Moldova and other key national institutions in implementing the European Union-Republic
   of Moldova Association Agenda.
-contract-start-year: 2020
-contract-end-year: 2025
+start: 2020
+end: 2025
 client: European Union
 solutions:
 - Governance

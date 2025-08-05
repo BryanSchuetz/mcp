@@ -7,8 +7,8 @@ summary: 'The marshlands of southern Iraq were once a major flyway for billions 
   for their inhabitants'' uprising against Saddam Hussein following the Gulf War.
 
 '
-contract-start-year: 2003
-contract-end-year: 2005
+start: 2003
+end: 2005
 client: U.S. Government
 solutions:
 - Economic Growth

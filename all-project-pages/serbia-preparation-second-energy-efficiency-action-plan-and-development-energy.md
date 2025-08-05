@@ -7,8 +7,8 @@ summary: The Preparation of Second Energy Efficiency Action Plan and Development
   and Environment by creating an action plan and building capacities to advance energy-saving
   and energy-efficiency measures that will help reduce energy consumption and carbon
   dioxide emissions.
-contract-start-year: 2014
-contract-end-year: 2015
+start: 2014
+end: 2015
 client: European Union
 solutions:
 - Energy

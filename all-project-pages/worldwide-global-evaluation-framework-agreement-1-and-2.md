@@ -3,8 +3,8 @@ title: Worldwide—Global Evaluation Framework Agreement 1 and 2
 date: 2018-01-16 20:07:00 Z
 summary: The Global Evaluation Framework Agreement 2 ensured the provision of efficient
   and effective expert services for the design and implementation of evaluations.
-contract-start-year: 2012
-contract-end-year: 2018
+start: 2012
+end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

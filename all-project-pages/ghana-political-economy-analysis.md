@@ -5,8 +5,8 @@ summary: 'In service to its evaluation of migrating a logistics base to a port i
   Ghana, an international oil and gas company contracted DAI’s Sustainable Business
   Group (SBG) to conduct a political economy analysis to identify the risks and opportunities
   associated with the venture. '
-contract-start-year: 2016
-contract-end-year: 2016
+start: 2016
+end: 2016
 client: 'Multinational corporation '
 solutions:
 - Sustainable Business

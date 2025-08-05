@@ -5,8 +5,8 @@ summary: DAI’s Fleming Fund programme in Bangladesh is a collaboration with th
   government to strengthen systems using a “One Health” approach—a multisectoral approach
   to complex health problems that reaches across human health, animal health, and
   environment sectors.
-contract-start-year: 2020
-contract-end-year: 2025
+start: 2020
+end: 2025
 client: U.K Department of Health and Social Care
 solutions:
 - Global Health

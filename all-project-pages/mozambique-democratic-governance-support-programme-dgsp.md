@@ -5,8 +5,8 @@ summary: The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Loc
   a Boa Governação in Portuguese, contributed to improved governance and accountability
   for Mozambican citizens in urban municipalities, so that citizens—particularly women
   and youth—know more, engage more, and vote with confidence in their cities.
-contract-start-year: 2012
-contract-end-year: 2017
+start: 2012
+end: 2017
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

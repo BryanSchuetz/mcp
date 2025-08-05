@@ -7,8 +7,8 @@ tags:
 summary: Our technical assistance team is working with European partners in the identification
   and formulation of an evidence-based, cross-cutting programme that promotes the
   rule of law and protects human rights for all Palestinians.
-contract-start-year: 2022
-contract-end-year: 2022
+start: 2022
+end: 2022
 client: European Union
 solutions:
 - Governance

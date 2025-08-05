@@ -8,8 +8,8 @@ tags:
 summary: 'This project expands the commercialization and internationalization of cultural
   and creative industries for İzmir and the region, to strengthen Türkiye’s competitiveness
   in the global economy. '
-contract-start-year: 2022
-contract-end-year: 2025
+start: 2022
+end: 2025
 client: European Union
 solutions:
 - Economic Growth

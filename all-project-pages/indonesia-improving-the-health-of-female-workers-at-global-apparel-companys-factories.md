@@ -5,8 +5,8 @@ date: 2022-03-23 11:35:00 Z
 summary: DAI was commissioned by VF Corporation—one of the world’s largest apparel,
   footwear, and accessories companies—to help develop and implement a health program
   for a majority-female workforce.
-contract-start-year: 2020
-contract-end-year: 2022
+start: 2020
+end: 2022
 client: VF Corporation
 solutions:
 - Sustainable Business

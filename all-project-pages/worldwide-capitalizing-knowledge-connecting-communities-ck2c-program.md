@@ -3,8 +3,8 @@ title: Worldwide—Capitalizing Knowledge, Connecting Communities (CK2C) Program
 date: 2016-01-21 22:40:00 Z
 summary: Through this project, DAI facilitated the exchange of knowledge across natural
   resource management (NRM) communities worldwide.
-contract-start-year: 2007
-contract-end-year: 2013
+start: 2007
+end: 2013
 client: U.S. Government
 solutions:
 - Environment

@@ -6,8 +6,8 @@ terminated: true
 summary: 'The Central Asia Resilient Communities Activity assists hotspot communities
   in building resilient ecosystems that reduce risk and enhance protection against
   violent extremism. '
-contract-start-year: 2018
-contract-end-year: 2024
+start: 2018
+end: 2024
 client: U.S. Government
 solutions:
 - Stabilization

@@ -4,8 +4,8 @@ date: 2020-09-18 13:14:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) worked with an international oil
   and gas company to collaboratively scope and design a major social investment program
   for Sao Tome and Principe, focused on promoting youth entrepreneurship and innovation. '
-contract-start-year: 2018
-contract-end-year: 2018
+start: 2018
+end: 2018
 client: Multinational corporation
 solutions:
 - Sustainable Business

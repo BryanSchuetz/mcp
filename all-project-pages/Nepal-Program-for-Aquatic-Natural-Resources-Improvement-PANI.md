@@ -4,8 +4,8 @@ date: 2017-01-10 18:29:00 Z
 summary: The Paani program worked with local and national counterparts to conserve
   freshwater biodiversity and implement sustainable water management practices in
   Nepal.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: U.S. Government
 solutions:
 - Natural Resource Management

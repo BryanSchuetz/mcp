@@ -8,8 +8,8 @@ summary: Like with its successful [PolSEFF](/our-work/projects/poland-polish-sus
   for Development, European Investment Bank, and KfW Development Bank, extended credit
   lines to local partner financial institutions in Morocco that then on-lent to their
   clients.
-contract-start-year: 2013
-contract-end-year: 2020
+start: 2013
+end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
 - Energy

@@ -7,8 +7,8 @@ summary: 'The project engages thousands of women in maternal and child health ed
   and works with farmers across 13 districts to help them adopt climate-resilient
   farming practices to produce diverse, nutritious foods that are crucial to reducing
   stunting. '
-contract-start-year: 2019
-contract-end-year: 2024
+start: 2019
+end: 2024
 client: U.S. Government
 solutions:
 - Global Health

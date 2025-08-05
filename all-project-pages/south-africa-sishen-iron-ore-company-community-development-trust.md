@@ -3,8 +3,8 @@ title: South Africa—Sishen Iron Ore Company Community Development Trust
 date: 2016-01-21 22:40:00 Z
 summary: DAI developed a long-term strategy—named Vision 2030—to guide the Sishen
   Iron Ore Company Community Development Trust's decisions during the next 20 years.
-contract-start-year: 2011
-contract-end-year: 2015
+start: 2011
+end: 2015
 client: Sishen Iron Ore Company
 solutions:
 - Sustainable Business

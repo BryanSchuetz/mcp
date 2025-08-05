@@ -4,8 +4,8 @@ date: 2017-08-24 15:40:00 Z
 published: false
 summary: The Sustainable Business Group (SBG) delivered training to officials from
   the Ghana Petroleum Commission in the local content regulations.
-contract-start-year: 2017
-contract-end-year: 2017
+start: 2017
+end: 2017
 client: Ghana Petroleum Commission
 solutions:
 - Sustainable Business

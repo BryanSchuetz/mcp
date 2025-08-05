@@ -5,8 +5,8 @@ published: false
 summary: 'The Sustainable Business Group (SBG) convened a workshop covering the fundamentals
   of oil and gas and aimed at providing the Senegalese media with the foundational
   knowledge to effectively report on developments in the sector. '
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: Multinational Corporation
 solutions:
 - Sustainable Business

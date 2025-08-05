@@ -5,8 +5,8 @@ summary: 'As part of an effort to provide healthier, more empowered lifestyles f
   people with HIV/AIDS and their families, we were tasked with increasing access to
   fresh, nutritious food, while giving vulnerable Ethiopians an increasing number
   of ways to earn a living. '
-contract-start-year: 2008
-contract-end-year: 2012
+start: 2008
+end: 2012
 client: U.S. Government
 solutions:
 - Economic Growth

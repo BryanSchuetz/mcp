@@ -5,10 +5,10 @@ summary: Since the Dayton Peace Accords of 1995, Bosnia and Herzegovina has been
   its emerging multiethnic and representative government. To improve the chances for
   political success and sustainability, GAP built the capacity of 41 "partner municipalities"
   to serve their citizens within a policy and fiscal framework of good governance.
-contract-start-year: 2004
-contract-end-year: 2008
+start: 2004
+end: 2008
 client:
-- U.S. Agency for International Development
+- U.S. Government
 - Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth

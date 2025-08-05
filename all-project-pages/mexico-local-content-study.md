@@ -10,8 +10,8 @@ tags:
 summary: 'Mexican Association of Hydrocarbon Organizations commissioned the DAI Sustainable
   Business Group to conduct a multiphase study consisting of policy analysis and benchmarking,
   national content methodology simplification, and supply-demand gap analysis. '
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: National Organization
 solutions:
 - Sustainable Business

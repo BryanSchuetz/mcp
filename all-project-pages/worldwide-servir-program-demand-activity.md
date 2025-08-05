@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Satellites photograph the world, providing a world of information. DAI helped
   use this information to help countries prepare for and mitigate the effects of climate
   change and natural and manmade disasters.
-contract-start-year: 2012
-contract-end-year: 2015
+start: 2012
+end: 2015
 client: U.S. Government
 solutions:
 - Climate

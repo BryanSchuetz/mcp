@@ -4,8 +4,8 @@ date: 2019-03-14 20:59:00 Z
 summary: 'DAI implemented the Mexico Clean Energy Programme, which developed the skills
   of small and medium enterprises and government institutions to support Mexico''s
   transition to a low-carbon economy. '
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business

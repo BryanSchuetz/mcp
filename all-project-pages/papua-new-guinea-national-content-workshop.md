@@ -5,8 +5,8 @@ published: false
 summary: DAI’s Sustainable Business Group (SBG) is helping facilitate a series of
   presentations for a  multinational corporation on the current state of national
   content in Papua New Guinea.
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Multinational corporation
 solutions:
 - Sustainable Business

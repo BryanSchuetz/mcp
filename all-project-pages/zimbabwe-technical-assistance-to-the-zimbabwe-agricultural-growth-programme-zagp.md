@@ -6,8 +6,8 @@ summary: The Zimbabwe Agriculture Growth Programme addresses critical weaknesses
   the country’s livestock value chains with innovative approaches to strengthening
   local institutions, building capacity, and promoting policy reforms that improve
   livelihoods for smallholder farmers.
-contract-start-year: 2018
-contract-end-year: 2024
+start: 2018
+end: 2024
 client: European Union
 solutions:
 - Agriculture and Food Security

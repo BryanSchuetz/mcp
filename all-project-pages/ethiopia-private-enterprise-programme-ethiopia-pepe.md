@@ -5,8 +5,8 @@ summary: 'Enterprise Partners was the major component of the Foreign, Commonweal
   & Development Office (FCDO)''s Private Enterprise Programme Ethiopia (PEPE). It
   was launched to facilitate market systems development to create jobs and raise incomes
   of Ethiopians, especially women, living in poverty. '
-contract-start-year: 2013
-contract-end-year: 2020
+start: 2013
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

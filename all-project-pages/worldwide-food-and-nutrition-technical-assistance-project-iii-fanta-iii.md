@@ -3,8 +3,8 @@ title: Worldwide—Food and Nutrition Technical Assistance Project III (FANTA II
 date: 2016-01-21 22:40:00 Z
 summary: 'FANTA worked to improve and strengthening nutrition and food security policies,
   strategies, programs, and systems in Asian, African, and Central American countries. '
-contract-start-year: 2012
-contract-end-year: 2016
+start: 2012
+end: 2016
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

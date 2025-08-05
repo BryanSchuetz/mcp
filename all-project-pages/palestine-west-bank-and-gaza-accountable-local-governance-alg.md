@@ -6,8 +6,8 @@ terminated: true
 summary: The Accountable Local Governance (ALG) Activity improves the delivery of
   essential public services and promotes inclusive and accountable governance in the
   West Bank and Gaza.
-contract-start-year: 2024
-contract-end-year: 2024
+start: 2024
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

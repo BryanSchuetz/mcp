@@ -5,8 +5,8 @@ summary: The MED Dialogue For Rights and Equality II, Civil Society Facility Sou
   project works to increase the capacity of young civil society actors as key partners
   in designing and implementing policies and programs that address the region’s developmental
   challenges.
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: European Union
 solutions:
 - Governance

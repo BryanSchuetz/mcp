@@ -5,8 +5,8 @@ summary: DAI’s Sustainable Business Group (SBG) undertook extensive analysis o
   regulatory, policy, and contractual documents to identify new opportunities to improve
   the policy framework for local benefits to drive greater local economic growth vis-à-vis
   employment and small firm participation in the energy supply chain.
-contract-start-year: 2017
-contract-end-year: 2019
+start: 2017
+end: 2019
 client: Multinational corporation
 solutions:
 - Sustainable Business

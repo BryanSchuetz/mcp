@@ -4,8 +4,8 @@ date: 2018-01-16 18:08:00 Z
 summary: The Mobilising Access to Maternal Health Services in Zambia (MAMaZ) programme
   addressed the factors that affect access to maternal, newborn, and child health
   services.
-contract-start-year: 2010
-contract-end-year: 2013
+start: 2010
+end: 2013
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

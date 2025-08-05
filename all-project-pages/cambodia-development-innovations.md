@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Development Innovations project connected Cambodia's civil society and
   technology communities to design and use information and communication technology
   solutions to address development challenges.
-contract-start-year: 2013
-contract-end-year: 2019
+start: 2013
+end: 2019
 client: U.S. Government
 solutions:
 - Economic Growth

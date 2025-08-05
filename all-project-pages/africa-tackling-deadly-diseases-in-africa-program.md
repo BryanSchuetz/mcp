@@ -4,8 +4,8 @@ date: 2019-01-23 15:27:00 Z
 summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme worked to save lives
   and improved global health security by reducing the impact of disease outbreaks,
   epidemics, and other public health threats across sub-Saharan Africa. '
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

@@ -4,8 +4,8 @@ date: 2022-10-31 11:00:00 Z
 summary: DAI is training staff at HDC+, a regional advocacy and technical assistance
   hub that contributes to increasing government commitment, funding, and accountability
   to developing human capital across the continent.
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: Bill and Melinda Gates Foundation
 solutions:
 - Governance

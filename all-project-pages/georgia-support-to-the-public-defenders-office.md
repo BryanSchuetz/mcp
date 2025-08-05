@@ -4,8 +4,8 @@ date: 2023-03-28 15:58:00 Z
 summary: Our project supports the Georgia Public Defender’s Office to improve its
   ability to implement and monitor human rights policies and actions and raise human
   rights awareness across government and society.
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: European Union
 solutions:
 - Governance

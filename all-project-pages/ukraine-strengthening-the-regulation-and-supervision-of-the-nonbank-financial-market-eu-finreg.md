@@ -6,8 +6,8 @@ summary: 'Through EU-FINREG, DAI assisted the Ukrainian authorities in strengthe
   the regulatory framework and supervision practices for securities and investment
   businesses, insurance, pensions, nonbank credit institutions, nonbank payment institutions,
   and other nonbank financial services. '
-contract-start-year: 2017
-contract-end-year: 2023
+start: 2017
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

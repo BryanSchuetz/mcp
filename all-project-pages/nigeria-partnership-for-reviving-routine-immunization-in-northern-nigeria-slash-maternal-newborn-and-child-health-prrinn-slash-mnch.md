@@ -7,8 +7,8 @@ summary: Covering a population of approximately 19 million in four states of Nor
   Maternal Newborn and Child Health programme (PRRINN/MNCH) combined health systems
   strengthening with routine immunization and maternal, newborn, and child health
   interventions.
-contract-start-year: 2006
-contract-end-year: 2014
+start: 2006
+end: 2014
 client: Foreign, Commonwealth & Development Office, State Department of the Norwegian
   Government
 solutions:

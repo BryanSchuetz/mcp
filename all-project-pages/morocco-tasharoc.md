@@ -3,8 +3,8 @@ title: Morocco—TASHAROC
 date: 2018-11-16 15:03:00 Z
 summary: 'TASHAROC supported inclusive development and reduced political and economic
   disenfranchisement in the Northern Moroccan region. '
-contract-start-year: 2017
-contract-end-year: 2022
+start: 2017
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

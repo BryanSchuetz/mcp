@@ -6,8 +6,8 @@ summary: The Global NDC Support Facility contributes to the acceleration of the 
   towards low-carbon, resource-efficient, and resilient economies in line with the
   EU Green Deal, Paris Agreement, the Sendai Framework on Disaster Risk Reduction,
   and the Sustainable Development Goals.
-contract-start-year: 2021
-contract-end-year: 2026
+start: 2021
+end: 2026
 client: European Union
 solutions:
 - Climate

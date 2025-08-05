@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The U.S. Agency for International Development (USAID)''s Reintegration and
   Stabilization in the East and North (RISEN) program implemented a wide range of
   conflict prevention and mitigation measures to create and promote stability. '
-contract-start-year: 2009
-contract-end-year: 2013
+start: 2009
+end: 2013
 client: U.S. Government
 solutions:
 - Fragile States

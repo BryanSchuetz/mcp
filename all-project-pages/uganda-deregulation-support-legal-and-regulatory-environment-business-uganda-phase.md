@@ -6,8 +6,8 @@ summary: From 2000 to 2003, DAI managed the Deregulation project in Uganda, desi
   to improve the regulatory environment for business growth. The second phase of the
   project (2003 to 2007) focused on creating national capacity for regulatory best
   practices in Uganda.
-contract-start-year: 2000
-contract-end-year: 2007
+start: 2000
+end: 2007
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

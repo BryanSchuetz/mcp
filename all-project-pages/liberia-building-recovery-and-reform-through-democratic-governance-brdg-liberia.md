@@ -5,8 +5,8 @@ summary: The DAI team worked with Liberia's new government to increase legitimac
   strengthen public sector management, and promote policy and institutional reforms.
   In addition, DAI built concrete and positive communication channels and relationships
   between the citizens and their state institutions.
-contract-start-year: 2006
-contract-end-year: 2007
+start: 2006
+end: 2007
 client: U.S. Government
 solutions:
 - Governance

@@ -5,8 +5,8 @@ summary: 'The Nguriza Nshore Activity worked to crowd in finance (debt and equit
   for small firms that are not yet realizing the benefits of Rwanda’s strong economic
   performance, thereby driving economic growth and fueling non-farm rural employment
   for the next generation. '
-contract-start-year: 2018
-contract-end-year: 2023
+start: 2018
+end: 2023
 client: U.S. Government
 solutions:
 - Economic Growth

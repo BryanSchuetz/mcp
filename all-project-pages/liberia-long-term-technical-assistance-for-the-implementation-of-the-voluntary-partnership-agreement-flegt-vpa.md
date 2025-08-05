@@ -6,8 +6,8 @@ summary: 'This project increases the value of traded timber products, strengthen
   law enforcement and governance, and share forest benefits more equitably through
   implementation of the Forest Law Enforcement, Governance, and Trade Voluntary Partnership
   Agreement between Liberia and the European Union. '
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: European Union
 solutions:
 - Environment

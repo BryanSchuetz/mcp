@@ -8,8 +8,8 @@ summary: Following on the enormous success of STAR I, STAR II (2006–2010) focu
   property rights, foreign direct investment, and transparency and the right to appeal.
   STAR Plus was flexible and demand-driven, and furthered Vietnam's integration into
   the global economy as it continues its transition to a market-driven system.
-contract-start-year: 2001
-contract-end-year: 2013
+start: 2001
+end: 2013
 client: U.S. Government
 solutions:
 - Governance

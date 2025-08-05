@@ -7,8 +7,8 @@ summary: 'The Support the Secretariat of the GCoM for Climate and Energy project
   through the local level, supporting the implementation of the Paris Agreement, the
   2030 Agenda and the Sustainable Development Goals, and other United Nations'' initiatives
   on climate adaptation and cities. '
-contract-start-year: 2020
-contract-end-year: 2025
+start: 2020
+end: 2025
 client: European Union
 solutions:
 - Environment

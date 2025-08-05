@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The goal of this assessment was to update World Bank understanding in Libya,
   increase the specificity of its knowledge about critical institutions and themes,
   and broaden the base of Libyan sources for future use by the bank.
-contract-start-year: 2012
-contract-end-year: 2012
+start: 2012
+end: 2012
 client: World Bank
 solutions:
 - Governance

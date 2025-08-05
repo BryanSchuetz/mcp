@@ -6,8 +6,8 @@ tags:
 - European Union
 summary: The project works to shift from individual transportation to sustainable,
   accessible, and extensive modes of public transport in Türkiye.
-contract-start-year: 2022
-contract-end-year: 2023
+start: 2022
+end: 2023
 client: European Union
 solutions:
 - Environment

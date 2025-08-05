@@ -4,8 +4,8 @@ date: 2021-12-14 02:00:00 Z
 summary: The EU REFIN Programme is part of a wider objective to strengthen public
   finance management, contributing to the improvement of the competitiveness of the
   national economy in Algeria.
-contract-start-year: 2021
-contract-end-year: 2023
+start: 2021
+end: 2023
 client: European Union
 solutions:
 - Governance

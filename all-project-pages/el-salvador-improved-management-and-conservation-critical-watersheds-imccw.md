@@ -6,8 +6,8 @@ summary: To improve the economic situation in rural areas, the Government of El 
   and generating better economic opportunities through higher-value agriculture and
   sustainable tourism, linked to improved management of El Salvador's water, land,
   and biological resources.
-contract-start-year: 2006
-contract-end-year: 2010
+start: 2006
+end: 2010
 client: U.S. Government
 solutions:
 - Environment

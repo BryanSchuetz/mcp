@@ -4,8 +4,8 @@ date: 2017-02-06 22:20:00 Z
 summary: The Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity
   supported Kosovo to improve the transparency and accountability of the municipal
   procurement process in all 38 municipalities.
-contract-start-year: 2016
-contract-end-year: 2022
+start: 2016
+end: 2022
 client: U.S. Government
 solutions:
 - Governance

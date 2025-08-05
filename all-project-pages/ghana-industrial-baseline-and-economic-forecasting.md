@@ -5,8 +5,8 @@ published: false
 summary: In 2017, the Sustainable Business Group conducted an industrial baseline
   analysis of the Ghanaian offshore petroleum industry to assess the ability of local
   suppliers to service a specific upstream investment made by the client.
-contract-start-year: 2017
-contract-end-year: 2017
+start: 2017
+end: 2017
 client: Multinational Corporation
 solutions:
 - Sustainable Business

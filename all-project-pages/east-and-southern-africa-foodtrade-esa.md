@@ -5,8 +5,8 @@ summary: From 2013 to 2018, FoodTrade worked at improving the functioning of nat
   and regional staple food market systems for beans, maize, rice, and soybeans—crops
   that are critical for low-income consumers and smallholder farmers—across nine countries
   in East Africa.
-contract-start-year: 2013
-contract-end-year: 2018
+start: 2013
+end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security

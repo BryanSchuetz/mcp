@@ -6,8 +6,8 @@ terminated: true
 summary: 'Working in the Gandaki and Karnali river basins, this activity focuses on
   improving ecosystem health, advancing environmental and social safeguards, promoting
   climate resilience, and addressing environmental crime in Nepal. '
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

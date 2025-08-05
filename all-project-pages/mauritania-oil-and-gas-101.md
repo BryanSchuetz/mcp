@@ -4,8 +4,8 @@ date: 2020-01-16 16:42:00 Z
 published: false
 summary: 'DAI’s Sustainable Business Group (SBG) provided oil and gas awareness training
   in Mauritania. '
-contract-start-year: 2018
-contract-end-year: 2019
+start: 2018
+end: 2019
 client: Multinational corporation
 solutions:
 - Sustainable Business

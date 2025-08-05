@@ -5,8 +5,8 @@ summary: To more sustainably invest in the social and economic development of th
   communities where it operates, Kosmos Energy sought the expertise of DAI in 2015
   to offer new approaches to local engagement beyond traditional models of corporate
   social responsibility.
-contract-start-year: 2015
-contract-end-year: 2020
+start: 2015
+end: 2020
 client: Kosmos Energy
 solutions:
 - Sustainable Business

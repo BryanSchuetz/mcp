@@ -6,8 +6,8 @@ summary: 'This project ensured the resilience of inland waters and terrestrial e
   in Türkiye with a specific focus on invasive alien species. It worked to get the
   species under control in targeted terrestrial areas and inland waters in line with
   European Union regulations. '
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: European Union
 solutions:
 - Environment

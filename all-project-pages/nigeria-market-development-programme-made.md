@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Market Development in the Niger Delta (MADE) project, phases I and II,
   worked in all nine Niger Delta states to promote inclusive, pro-poor growth for
   farmers and entrepreneurs. '
-contract-start-year: 2013
-contract-end-year: 2020
+start: 2013
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

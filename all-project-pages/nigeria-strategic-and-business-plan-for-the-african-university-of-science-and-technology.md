@@ -4,8 +4,8 @@ title: Nigeria—Strategic and Business Plan for the African University of Scien
 date: 2023-02-15 11:06:00 Z
 summary: This project developed a strategic and business plan for the African University
   of Science and Technology.
-contract-start-year: 2022
-contract-end-year: 2023
+start: 2022
+end: 2023
 client: The African University of Science and Technology
 solutions:
 - Governance

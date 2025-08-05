@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'Ilm Ideas in Pakistan contributed to increased enrollment rates and retention,
   improved learning outcomes, enhanced parent and student satisfaction, and better
   education governance.  '
-contract-start-year: 2012
-contract-end-year: 2015
+start: 2012
+end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Finance and Investment

@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: COMPASS II identified natural resource-based products in Malawi that had
   the potential to provide business opportunities for HIV-affected and other marginalized
   households, such as those headed by women or youth.
-contract-start-year: 2004
-contract-end-year: 2009
+start: 2004
+end: 2009
 client: U.S. Government
 solutions:
 - Environment

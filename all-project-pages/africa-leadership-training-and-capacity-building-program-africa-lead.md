@@ -3,8 +3,8 @@ title: Africa—Leadership Training and Capacity Building Program (Africa Lead)
 date: 2016-01-21 22:40:00 Z
 summary: Africa Lead built capacity among Africa's emerging food security leaders
   to devise and manage their country investment plans.
-contract-start-year: 2010
-contract-end-year: 2013
+start: 2010
+end: 2013
 client: U.S. Government
 solutions:
 - Economic Growth

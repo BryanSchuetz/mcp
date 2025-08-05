@@ -4,8 +4,8 @@ date: 2020-05-08 14:13:00 Z
 summary: 'The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
   program empowered young Nigerians to think about their futures differently and access
   the skills, social capital, and resources needed to realize their aspirations. '
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

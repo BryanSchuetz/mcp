@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: In 2004, the U.S. Agency for International Development launched a national
   plan to create meaningful alternative livelihoods and assist the Afghan people in
   developing a licit economy; this immediate needs project was its first step.
-contract-start-year: 2004
-contract-end-year: 2005
+start: 2004
+end: 2005
 client: U.S. Government
 solutions:
 - Fragile States

@@ -3,10 +3,10 @@ title: Afghanistan—Assistance to Legislative Bodies of Afghanistan (ALBA)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared
   both houses of Parliament for greater self-reliance. '
-contract-start-year: 2013
-contract-end-year: 2018
+start: 2013
+end: 2018
 client:
-- U.S. Agency for International Development
+- U.S. Government
 - Foreign, Commonwealth & Development Office
 solutions:
 - Governance

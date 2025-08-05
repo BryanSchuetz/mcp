@@ -4,8 +4,8 @@ date: 2017-05-03 18:52:00 Z
 summary: 'The Kenya Deepening Democracy Programme addressed recurring political instability
   and non-inclusive institutions in Kenya by improving electoral processes and government
   accountability. '
-contract-start-year: 2016
-contract-end-year: 2020
+start: 2016
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

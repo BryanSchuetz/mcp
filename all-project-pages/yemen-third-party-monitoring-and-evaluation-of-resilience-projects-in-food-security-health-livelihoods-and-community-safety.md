@@ -6,8 +6,8 @@ published: false
 summary: 'With this project, DAI’s team of international and local consultants conducts
   monitoring and evaluation of EU projects in Yemen covering food security, health,
   resilience, livelihoods, and community safety. '
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Stabilization

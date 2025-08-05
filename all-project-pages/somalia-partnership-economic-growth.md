@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The USAID Partnership for Economic Growth program worked with local authorities
   and private sector groups to improve the enabling environment for investment and
   generate more productive employment and incomes.
-contract-start-year: 2011
-contract-end-year: 2016
+start: 2011
+end: 2016
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

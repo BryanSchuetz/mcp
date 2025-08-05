@@ -4,8 +4,8 @@ title: Nigeria—Restructured Economic Framework for Openness, Reform, and Macro
 date: 2016-01-21 22:40:00 Z
 summary: 'The REFORMS program improved the policy environment and addressed major
   impediments to economic growth in Nigeria. '
-contract-start-year: 2005
-contract-end-year: 2009
+start: 2005
+end: 2009
 client: U.S. Government
 solutions:
 - Governance

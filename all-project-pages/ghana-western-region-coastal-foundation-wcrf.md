@@ -6,8 +6,8 @@ summary: The Western Region Coastal Foundation promotes inclusive economic growt
   build up local supply chains, in addition to providing a multi-stakeholder dialogue
   platform for government agencies, oil companies, and coastal communities to better
   share challenges and solutions.
-contract-start-year: 2014
-contract-end-year: 2019
+start: 2014
+end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business

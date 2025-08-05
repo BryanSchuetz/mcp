@@ -5,10 +5,9 @@ summary: The Promoting Integrity in the Public Sector Activity (Pro-Integrity) p
   addresses the root causes of corruption and tackles corruption risks at the national
   institutional level, at the local government level, and in issues related to Ukraine’s
   recovery and reconstruction
-contract-start-year: 2023
-contract-end-year: 2027
-client: U.K. Foreign, Commonwealth & Development Office and U.S. Agency for International
-  Development
+start: 2023
+end: 2027
+client: U.K. Foreign, Commonwealth & Development Office and U.S. Government
 solutions:
 - Governance
 - Anti-corruption, Transparency, and Accountability

@@ -6,8 +6,8 @@ summary: The Addressing Biodiversity-Social Conflict in Latin America project wo
   and Colombia. The project worked to lay a foundation for key actors to address the
   causes of this conflict and lead transformative changes that reduce negative impacts
   to both vulnerable communities and the environment.
-contract-start-year: 2013
-contract-end-year: 2016
+start: 2013
+end: 2016
 client: U.S. Government
 solutions:
 - Peace-Building and Political Transition

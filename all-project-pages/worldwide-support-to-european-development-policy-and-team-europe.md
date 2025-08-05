@@ -8,8 +8,8 @@ summary: We support the European Commission’s headquarters, EU delegations, an
   countries to deliver the Global Gateway strategy and operate a demand-driven technical
   assistance facility in close coordination with Directorate-General for International
   Partnerships and Directorate-General for Neighbourhood and Enlargement Negotiations.
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: European Union
 solutions:
 - Governance

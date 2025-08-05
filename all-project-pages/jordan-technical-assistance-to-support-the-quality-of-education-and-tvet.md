@@ -3,8 +3,8 @@ title: Jordan—Technical Assistance to Support the Quality of Education and TVE
 date: 2022-01-25 09:12:00 Z
 summary: 'We are supporting sustainable growth in Jordan through free and equitable
   access to high-quality primary and secondary education for human capital development. '
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: European Union
 solutions:
 - Governance

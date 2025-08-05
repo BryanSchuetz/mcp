@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI improved the quality, quantity, and impact of public sector auditing
   through support to the Sierra Leonean Auditor General's Office, the Public Accounts
   Committee, civil society groups, and the media.
-contract-start-year: 2004
-contract-end-year: 2008
+start: 2004
+end: 2008
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

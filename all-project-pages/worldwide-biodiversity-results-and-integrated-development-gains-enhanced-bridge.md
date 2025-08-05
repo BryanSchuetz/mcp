@@ -5,8 +5,8 @@ summary: The BRIDGE team integrated biodiversity conservation in development ini
   such as climate change adaptation and mitigation, democracy and governance, inclusive
   economic growth, food security, health, and trade, can create significant benefits
   for beneficiaries.
-contract-start-year: 2015
-contract-end-year: 2020
+start: 2015
+end: 2020
 client: U.S. Government
 solutions:
 - Natural Resource Management

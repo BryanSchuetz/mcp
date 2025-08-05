@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The FCDO created the [Business Environment Reform Facility](https://www.r4d.org/)
   (BERF) to provide its country offices with access to expert advice on program design,
   implementation, and monitoring and evaluation.
-contract-start-year: 2016
-contract-end-year: 2019
+start: 2016
+end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Business Environment Reform

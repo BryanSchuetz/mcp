@@ -4,8 +4,8 @@ date: 2017-04-27 18:11:00 Z
 summary: The Feed the Future Agricultural Innovations (FTF Inova) project partnered
   with farmers, businesses, and policymakers to explore ways to improve productivity
   and increase sales of key cash crops vital to Mozambique’s economy.
-contract-start-year: 2017
-contract-end-year: 2022
+start: 2017
+end: 2022
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

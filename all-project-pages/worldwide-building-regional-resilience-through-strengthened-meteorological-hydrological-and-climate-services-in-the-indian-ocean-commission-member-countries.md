@@ -7,8 +7,8 @@ summary: 'DAI provided technical expertise to design the Building Regional Resil
   Ocean Commission Member Countries project for consideration to the Green Climate
   Fund as part of the [Adapt’Action](https://www.afd.fr/en/adaptaction) framework
   contract. '
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: French Development Agency
 solutions:
 - Climate

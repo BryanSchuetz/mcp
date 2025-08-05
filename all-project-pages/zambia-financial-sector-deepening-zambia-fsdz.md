@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Utilizing the making markets work for the poor (M4P) approach, FSDZ worked
   to affect systemic change and facilitate linkages and coordination among consumers,
   financial service providers, government, and other key market actors in Zambia.
-contract-start-year: 2013
-contract-end-year: 2016
+start: 2013
+end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

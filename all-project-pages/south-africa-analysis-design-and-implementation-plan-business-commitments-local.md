@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Business Leadership South Africa (BLSA) commissioned DAI to conduct a study
   of a small sample of BLSA members to identify potential opportunities for increasing
   local procurement.
-contract-start-year: 2012
-contract-end-year: 2012
+start: 2012
+end: 2012
 client: Business Leadership South Africa
 solutions:
 - Business Environment Reform

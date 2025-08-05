@@ -6,8 +6,8 @@ summary: The Policy Development Facility was a flexible, rapid-response facility
   that reduce poverty in Nigeria, primarily ministers at the federal level. The Facility
   helped to build their capacity and provide a more robust evidence base to pursue
   vital pro-poor economic and social reforms.
-contract-start-year: 2010
-contract-end-year: 2015
+start: 2010
+end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

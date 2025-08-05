@@ -6,8 +6,8 @@ summary: 'EcoGov2 supported two important trends in the Philippines: the move to
   between upland and coastal resources, and the move toward decentralization, which
   empowered local governments and communities to play bigger roles in managing their
   natural resources.'
-contract-start-year: 2004
-contract-end-year: 2011
+start: 2004
+end: 2011
 client: U.S. Government
 solutions:
 - Environment

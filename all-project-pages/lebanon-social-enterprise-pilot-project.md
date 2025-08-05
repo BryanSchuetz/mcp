@@ -4,8 +4,8 @@ date: 2017-09-12 13:02:00 Z
 summary: The Lebanon Social Enterprise Pilot Project used an evidence-based approach
   to demonstrate the potential of the private sector-led social enterprise model to
   deliver economic growth and improve social cohesion in Lebanon.
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Innovation and Entrepreneurship

@@ -6,8 +6,8 @@ summary: 'The Parliamentary Development and Enhancement in Moldova (PADEM) proje
   by the Parliament Secretariat. This work includes strengthening parliamentary oversight,
   improving legal drafting, enhancing communication with citizens, and increasing
   the Secretariat’s capacity to assist Members of Parliament. '
-contract-start-year: 2025
-contract-end-year: 2029
+start: 2025
+end: 2029
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Governance

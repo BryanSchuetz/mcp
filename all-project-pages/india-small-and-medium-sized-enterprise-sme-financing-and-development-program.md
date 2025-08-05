@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: In line with the Indian government's strategy to strengthen economic growth
   and employment by developing small and medium-sized enterprises (SMEs), DAI facilitated
   linkages between SMEs and business development and finance service providers.
-contract-start-year: 2007
-contract-end-year: 2009
+start: 2007
+end: 2009
 client:
 - Foreign, Commonwealth & Development Office
 - World Bank

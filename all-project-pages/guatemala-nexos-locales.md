@@ -5,8 +5,8 @@ summary: Nexos Locales works with municipalities in Guatemala's Western Highland
   to foster more responsive, inclusive, and effective socio-economic development while
   reducing local vulnerabilities such as food insecurity and natural disasters. To
   achieve this goal, the project works at the intersection—or nexos—of good governance.
-contract-start-year: 2014
-contract-end-year: 2023
+start: 2014
+end: 2023
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

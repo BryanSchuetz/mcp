@@ -5,8 +5,8 @@ date: 2022-05-20 09:08:00 Z
 summary: DARE (Data and Research in Education) aims to improve Pakistan’s education
   data infrastructure and enhance coordination in the sector between the country’s
   federal and provincial governments.
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: World Bank
 solutions:
 - Education

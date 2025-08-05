@@ -4,8 +4,8 @@ date: 2020-09-18 14:20:00 Z
 summary: 'On behalf of Staatsolie, Suriname’s state-owned oil and gas company, DAI’s
   Sustainable Business Group (SBG) used its Industrial Baseline Study methodology
   to assess local supplier competitiveness across 45 supply chain categories. '
-contract-start-year: 2018
-contract-end-year: 2018
+start: 2018
+end: 2018
 client: 'Staatsolie '
 solutions:
 - Sustainable Business

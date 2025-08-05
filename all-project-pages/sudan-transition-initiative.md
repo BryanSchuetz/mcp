@@ -6,8 +6,8 @@ summary: 'DAI managed small grant activities to strengthen Sudan''s transition t
   and implementation of the Comprehensive Peace Agreement (CPA) of 2005.
 
 '
-contract-start-year: 2005
-contract-end-year: 2008
+start: 2005
+end: 2008
 client: U.S. Government
 solutions:
 - Fragile States

@@ -7,8 +7,8 @@ tags:
 summary: The Support Policy Dialog and Technical Assistance in Iraq project supports
   the EU’s objective to improve the overall stability of Iraq by addressing the root
   causes of the continued political and institutional fragility.
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: European Union
 solutions:
 - Governance

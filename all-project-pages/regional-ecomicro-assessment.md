@@ -5,8 +5,8 @@ summary: 'DAI’s Sustainable Business Group (SBG) prepared a presentation of an
   to support EcoMicro’s application to the Clean Technology Fund (CTF) for investment
   funds to complement EcoMicro projects that are developing and piloting mitigation
   finance for renewable energy and energy efficiency technologies. '
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Inter-American Development Bank
 solutions:
 - Sustainable Business

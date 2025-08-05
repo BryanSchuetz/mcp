@@ -4,8 +4,8 @@ date: 2024-12-19 08:10:00 Z
 summary: 'The EUIS facility strengthens Albania’s institutional capacity to manage
   EU negotiations and support the implementation of the Growth Plan, thereby accelerating
   integration. '
-contract-start-year: 2024
-contract-end-year: 2027
+start: 2024
+end: 2027
 client: European Union
 solutions:
 - Governance

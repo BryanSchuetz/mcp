@@ -6,8 +6,8 @@ summary: 'DAI began working in August 1999 to transform the National Microfinanc
   into a profitable commercial bank providing a full range of services to poor and
   middle-income customers. We focused on growing the bank''s revenue base while instituting
   operational improvements to create a foundation for institutional strength. '
-contract-start-year: 1999
-contract-end-year: 2005
+start: 1999
+end: 2005
 client:
 - World Blank
 - Government of Tanzania

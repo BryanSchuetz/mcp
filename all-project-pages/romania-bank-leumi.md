@@ -6,8 +6,8 @@ summary: DAI helped create policies and procedures for SME lending and trained B
   this lending program in at least 18 branches. Two long-term experts, permanently
   based at the bank, were supported in this task by short-term experts on marketing
   and credit scoring.
-contract-start-year: 2008
-contract-end-year: 2010
+start: 2008
+end: 2010
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

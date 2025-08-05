@@ -5,8 +5,8 @@ summary: 'The Sustainable Business Group designed a [Centre for Local Business D
   in Guyana to provide business training, mentorship, embedded technical advisors,
   industry information, and analysis to help link local suppliers with oil and gas
   supply chain opportunities. '
-contract-start-year: 2017
-contract-end-year: 2024
+start: 2017
+end: 2024
 client: Esso Exploration and Production Guyana Ltd
 solutions:
 - Sustainable Business

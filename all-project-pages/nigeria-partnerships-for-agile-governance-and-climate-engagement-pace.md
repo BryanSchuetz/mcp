@@ -6,8 +6,8 @@ summary: 'The Nigeria Governance and Climate Change program supports coalitions 
   poorest and vulnerable communities.  It facilitates new coalitions to address governance
   barriers, providing targeted, politically informed assistance to strengthen government
   systems and support citizen empowerment and accountability. '
-contract-start-year: 2024
-contract-end-year: 2028
+start: 2024
+end: 2028
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate

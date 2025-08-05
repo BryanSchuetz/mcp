@@ -6,8 +6,8 @@ summary: 'The BAYAN project (named after the Arabic word for exposition) worked 
   with leading Palestinian civil society organizations to build their capacity to
   oversee the legislature, analyze information, and lead information and advocacy
   campaigns. '
-contract-start-year: 2005
-contract-end-year: 2008
+start: 2005
+end: 2008
 client: U.S. Government
 solutions:
 - Governance

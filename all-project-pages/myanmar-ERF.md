@@ -5,8 +5,8 @@ published: false
 summary: The Economic Response Facility (ERF) works to reduce poverty in Myanmar and
   increase incomes by fostering a strong business environment conducive to the creation
   of jobs and economic opportunities.
-contract-start-year: 2016
-contract-end-year: 2022
+start: 2016
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Business Environment Reform

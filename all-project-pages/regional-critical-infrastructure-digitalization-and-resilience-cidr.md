@@ -8,8 +8,8 @@ summary: 'The Critical Infrastructure Digitalization and Resilience program assi
   experts to assess cybersecurity gaps and priorities, make recommendations, and map
   courses of action to improve the cybersecurity of critical infrastructure and key
   institutions. '
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: U.S. Government
 solutions:
 - Digital Acceleration

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: When developing-country governments and agencies requested assistance related
   to these sanitary and phytosanitary (SPS) issues, this program allowed the U.S.
   Agency for International Development and implementing agencies to respond.
-contract-start-year: 2002
-contract-end-year: 2007
+start: 2002
+end: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

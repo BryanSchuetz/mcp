@@ -5,8 +5,8 @@ summary: The Consolidating Democracy in Pakistan programme increased the capacit
   accountability, and responsiveness of Pakistan’s political institutions—particularly
   focused on engaging women, youth, people with disabilities, and ethnic and religious
   minorities.
-contract-start-year: 2016
-contract-end-year: 2020
+start: 2016
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

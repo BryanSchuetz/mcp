@@ -4,8 +4,8 @@ date: 2020-08-07 15:37:00 Z
 summary: EU-CAFE works to sustainably improve Ethiopian farmers’ access to inputs
   including coffee seed and seedlings, appropriate coffee production techniques, and
   extension and advisory services.
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

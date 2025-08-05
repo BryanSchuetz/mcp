@@ -8,8 +8,8 @@ summary: 'The Supporting the Policy Environment for Economic Development+ progra
   helped create a favorable business environment in Mozambique to attract investment
   and expand markets, contributing to inclusive economic growth and the conservation
   of natural resources. '
-contract-start-year: 2010
-contract-end-year: 2024
+start: 2010
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

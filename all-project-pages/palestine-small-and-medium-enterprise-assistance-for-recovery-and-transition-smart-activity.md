@@ -7,8 +7,8 @@ terminated: true
 summary: 'The Small and Medium Enterprise Assistance for Recovery and Transition project
   helps Palestinian SMEs and startups rapidly recover from shocks and put them on
   a path to revitalization, creating job opportunities for a growing—and young—population. '
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

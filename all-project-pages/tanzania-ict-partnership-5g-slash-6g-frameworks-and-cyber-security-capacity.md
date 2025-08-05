@@ -6,8 +6,8 @@ summary: 'The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capa
   best practices and standards that advance an open, interoperable, and secure internet;
   defend against authoritarian practices; and catalyze investments in goods and services
   related to information and communications technologies.'
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: U.S. Government
 solutions:
 - Digital Strategy

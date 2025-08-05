@@ -5,8 +5,8 @@ summary: The European Bank for Reconstruction and Development contracted DAI in 
   to establish a small and medium-sized enterprise (SME) lending program and ensure
   through an institution-building program that Raiffeisenbank Aval's commitment to
   SME lending was sustainable.
-contract-start-year: 2006
-contract-end-year: 2008
+start: 2006
+end: 2008
 client:
 - European Bank for Reconstruction and Development
 solutions:

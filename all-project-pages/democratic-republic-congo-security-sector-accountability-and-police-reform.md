@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Security Sector Accountability and Police Reform Programme worked to
   improve the Democratic Republic of the Congo's capacity to provide security, safety,
   and justice for all.
-contract-start-year: 2009
-contract-end-year: 2015
+start: 2009
+end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Peace-Building and Political Transition

@@ -4,8 +4,8 @@ date: 2019-05-08 13:11:00 Z
 summary: DAI’s Sustainable Business Group worked with the Guyana Institute for Private
   Enterprise Development to help Guyanese small and medium enterprises grow through
   innovative green finance products.
-contract-start-year: 2018
-contract-end-year: 2022
+start: 2018
+end: 2022
 client: Inter-American Development Bank
 solutions:
 - Sustainable Business

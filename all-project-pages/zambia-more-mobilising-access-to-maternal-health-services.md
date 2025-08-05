@@ -5,8 +5,8 @@ summary: The award-winning More Mobilising Access to Maternal Health Services in
   (MORE MAMaZ) programme empowered rural communities to address the household and
   community-level barriers preventing women and girls from accessing maternal and
   newborn health services.
-contract-start-year: 2014
-contract-end-year: 2016
+start: 2014
+end: 2016
 client: Comic Relief
 solutions:
 - Global Health

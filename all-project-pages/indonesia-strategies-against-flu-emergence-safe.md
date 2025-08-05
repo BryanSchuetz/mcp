@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: In recent years, the U.S. Agency for International Development (USAID) and
   DAI have helped Indonesia—the country that has suffered the most human deaths from
   H5N1 avian influenza—make great strides in reducing its vulnerability to the virus.
-contract-start-year: 2011
-contract-end-year: 2013
+start: 2011
+end: 2013
 client: U.S. Government
 solutions:
 - Global Health

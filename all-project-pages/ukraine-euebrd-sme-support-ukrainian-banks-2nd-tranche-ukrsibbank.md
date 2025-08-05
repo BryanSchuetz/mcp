@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI implemented a small and medium-sized enterprise lending scheme at UkrSibbank
   in Ukraine, with the focus on building the bank's capacity through training in credit
   analysis and portfolio management.
-contract-start-year: 2009
-contract-end-year: 2010
+start: 2009
+end: 2010
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

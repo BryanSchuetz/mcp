@@ -4,8 +4,8 @@ date: 2018-03-03 02:55:00 Z
 summary: DAI is supporting NIRAS to promote sustainable land management policies and
   practices that will improve the economic well-being of rural Ethiopians and combat
   land degradation resulting from changes in climate.
-contract-start-year: 2017
-contract-end-year: 2021
+start: 2017
+end: 2021
 client: Finnish Ministry of Foreign Affairs
 solutions:
 - Economic Growth

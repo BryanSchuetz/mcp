@@ -5,8 +5,8 @@ summary: DAI is delivering a component of the [Partnership for Learning in Niger
   (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane),
   the U.K. Foreign, Commonwealth, & Development Office’s flagship education program,
   which operates in Kano, Kaduna, and Jigawa states.
-contract-start-year: 2024
-contract-end-year: 2024
+start: 2024
+end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

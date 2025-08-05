@@ -3,8 +3,8 @@ title: Southeast Asia—Clinical Research in Southeast Asia (CRSA)
 date: 2016-01-21 22:40:00 Z
 summary: DAI helped Social & Scientific Systems (SSS) establish on-the-ground operations
   in Thailand, Indonesia, and Vietnam.
-contract-start-year: 2010
-contract-end-year: 2011
+start: 2010
+end: 2011
 client: U.S. National Institute of Allergy and Infectious Diseases
 solutions:
 - Global Health

@@ -4,8 +4,8 @@ date: 2019-07-10 08:17:00 Z
 summary: The Mexico Better Health Programme addressed the growing threat of noncommunicable
   diseases—especially obesity and diabetes—with a focus on realizing the economic
   and social benefits associated with improved health.
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

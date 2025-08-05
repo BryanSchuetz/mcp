@@ -6,8 +6,8 @@ summary: Since 2006, DAI has been called on by USAID to enhance, evaluate, and c
   Support Program (2006–2011) and Evaluation of the Impact and Effectiveness of Development
   Alliances (2007–2008)—effectively set the bar for partnership policy and practice
   at USAID and its missions worldwide.
-contract-start-year: 2006
-contract-end-year: 2011
+start: 2006
+end: 2011
 client: U.S. Government
 solutions:
 - Sustainable Business

@@ -9,8 +9,8 @@ summary: The Technical Assistance to the Sustainable Assets for Agriculture Mark
   Business and Trade (SAAMBAT) program works to reduce multidimensional poverty by
   developing a better connected, more resilient, and more equitable rural economy
   in Cambodia.
-contract-start-year: 2022
-contract-end-year: 2025
+start: 2022
+end: 2025
 client: European Investment Bank
 solutions:
 - Economic Growth

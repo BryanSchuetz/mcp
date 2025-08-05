@@ -3,8 +3,8 @@ title: Malawi—Support to the Malawian Revenue Authority (MRA)
 date: 2023-03-09 14:25:00 Z
 summary: 'This project helps the Malawian Revenue Authority improve its organizational
   leadership.  '
-contract-start-year: 2023
-contract-end-year: 2024
+start: 2023
+end: 2024
 client: Irish Aid
 solutions:
 - Governance

@@ -4,8 +4,8 @@ date: 2018-02-19 20:26:00 Z
 summary: As part of the Nigeria’s ongoing democratisation, the State and Local Government
   Programme  sought to increase and improvement the interaction between citizens and
   state governments.
-contract-start-year: 2000
-contract-end-year: 2008
+start: 2000
+end: 2008
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

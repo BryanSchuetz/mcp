@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI built the institutional capacity of the  SADC Secretariat, helping the
   regional governing body to modernize and enhance its internal administrative and
   management processes.
-contract-start-year: 2013
-contract-end-year: 2017
+start: 2013
+end: 2017
 client: European Union
 solutions:
 - Economic Growth

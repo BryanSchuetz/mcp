@@ -1,11 +1,9 @@
 
 title: Iraq—Rapid Assistance Program (IRAP); Quick Response Fund (IQRF)
 date: 2016-01-21 22:40:52.765000000 Z
-client:
-- U.S. Agency for International Development
-- U.S. Department of State
-contract-start-year: 2010
-contract-end-year: 2011
+client: U.S. Government
+start: 2010
+end: 2011
 regions:
 - Middle East and North Africa
 country:

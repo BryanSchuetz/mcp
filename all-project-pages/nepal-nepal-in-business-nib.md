@@ -5,8 +5,8 @@ summary: 'The Nepal in Business (NIB) Program works with Nepali entrepreneurs an
   policymakers to democratize access to capital in the underdeveloped small and micro-enterprises
   ecosystem. It provides finance and introduces interventions to enhance SME organizational
   capabilities and productivity.  '
-contract-start-year: 2024
-contract-end-year: 2029
+start: 2024
+end: 2029
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

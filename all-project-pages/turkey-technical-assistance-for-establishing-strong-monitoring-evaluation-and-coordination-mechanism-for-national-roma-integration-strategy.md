@@ -6,8 +6,8 @@ summary: This project—led by WYG partnered with DAI—aims to achieve measurab
   towards ending discrimination against Roma people and strengthening respect for
   fundamental rights and freedoms for all individuals, in line with the European Court
   of Human Rights.
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

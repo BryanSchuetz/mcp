@@ -6,8 +6,8 @@ summary: 'The former U.K. Department for International Development (now called F
   Commonwealth & Development Office) launched the State Partnership for Accountability,
   Responsiveness, and Capability to support the Nigerian government in better managing
   resources and providing more responsive and accountable services. '
-contract-start-year: 2008
-contract-end-year: 2016
+start: 2008
+end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

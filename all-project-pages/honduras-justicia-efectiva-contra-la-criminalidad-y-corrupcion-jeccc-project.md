@@ -6,8 +6,8 @@ terminated: true
 summary: "*Justicia Efectiva* combats impunity and corruption by targeting crime and
   promoting collaboration among justice institutions and counterparts from civil society,
   the private sector, academia, and other nonstate actors in Honduras."
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

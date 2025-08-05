@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: We worked closely with the U.S Agency for International Development to launch
   and strengthen the Middle East and North Africa Network of Water Centers of Excellence
   (MENA NWC), a regional association of research and educational institutions.
-contract-start-year: 2007
-contract-end-year: 2016
+start: 2007
+end: 2016
 client: U.S. Government
 solutions:
 - Environment

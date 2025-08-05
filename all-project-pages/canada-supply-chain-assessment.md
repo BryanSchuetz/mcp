@@ -4,8 +4,8 @@ date: 2020-01-16 17:12:00 Z
 summary: 'Nova Scotia Department of Energy and Mines and the Offshore Energy Research
   Association contracted DAI’s Sustainable Business Group (SBG) to carry out a pilot
   offshore energy and technology sector supply chain assessment. '
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Nova Scotia Department of Energy and Mines
 solutions:
 - Sustainable Business

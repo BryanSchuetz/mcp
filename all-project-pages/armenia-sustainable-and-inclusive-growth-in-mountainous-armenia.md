@@ -4,8 +4,8 @@ date: 2023-01-06 12:38:00 Z
 summary: The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project
   takes a market systems development (MSD) approach to bolster growth—primarily in
   the agricultural sector—in the poor rural regions of Armenia.
-contract-start-year: 2022
-contract-end-year: 2026
+start: 2022
+end: 2026
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth

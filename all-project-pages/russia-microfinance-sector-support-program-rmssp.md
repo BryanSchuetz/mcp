@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Starting in September 2001, the Microfinance Sector Support Program promoted
   this deepening by creating a Russian best-practice microfinance center to support
   the industry.
-contract-start-year: 2001
-contract-end-year: 2006
+start: 2001
+end: 2006
 client: U.S. Government
 solutions:
 - Economic Growth

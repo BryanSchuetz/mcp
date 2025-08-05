@@ -4,8 +4,8 @@ date: 2020-09-18 14:55:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was hired to support an international
   oil and gas company to validate and implement its education project in Sao Tome
   and Principe. '
-contract-start-year: 2016
-contract-end-year: 2016
+start: 2016
+end: 2016
 client: Multinational corporation
 solutions:
 - Sustainable Business

@@ -4,8 +4,8 @@ date: 2025-04-24 13:51:00 Z
 summary: DAI is supporting the digital acceleration of SAFCO Microfinance Company
   under the  Digital Transformation (DTX) Technical Assistance Facility so that it
   can better serve MSME customers.
-contract-start-year: 2025
-contract-end-year: 2026
+start: 2025
+end: 2026
 client: FMO
 solutions:
 - Economic Growth

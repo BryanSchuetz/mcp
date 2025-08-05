@@ -5,8 +5,8 @@ date: 2020-08-14 13:01:00 Z
 summary: 'BEST for Energy increased Türkiye''s use of alternative energy sources,
   including renewable sources. The project also supported the country''s renewable
   energy industry and services to become more internationally competitive. '
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Environment

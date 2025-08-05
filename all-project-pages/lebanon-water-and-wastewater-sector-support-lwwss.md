@@ -6,8 +6,8 @@ summary: The Lebanon Water and Wastewater Sector Support project partnered with 
   training and technical assistance related to improving operational and management
   efficiency, customer service and outreach, financial viability and cost recovery,
   and capital investment planning.
-contract-start-year: 2009
-contract-end-year: 2015
+start: 2009
+end: 2015
 client: U.S. Government
 solutions:
 - Environment

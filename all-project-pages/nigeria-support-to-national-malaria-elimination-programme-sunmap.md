@@ -4,8 +4,8 @@ date: 2017-08-29 17:59:00 Z
 summary: 'The Support to the Nigeria Malaria Elimination Program (SUNMAP) strengthened
   Nigerian government management capacity by streamlining policy development, planning
   and coordination of malaria control activities in 10 states. '
-contract-start-year: 2008
-contract-end-year: 2016
+start: 2008
+end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

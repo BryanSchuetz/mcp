@@ -4,8 +4,8 @@ title: Kenya—Technical Assistance to the Public Accountability and Service Del
 date: 2021-10-06 09:49:00 Z
 summary: Our technical assistance supports the Public Finance Management Reform Secretariat
   in Kenya.
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: European Union
 solutions:
 - Governance

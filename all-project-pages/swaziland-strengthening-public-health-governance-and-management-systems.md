@@ -3,8 +3,8 @@ title: Swaziland—Strengthening Public Health Governance and Management Systems
 date: 2018-01-16 16:54:00 Z
 summary: We supported the Swaziland Ministry of Health in the implementation of the
   government’s institutional and management reform initiatives.
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: 'World Bank and European Union '
 solutions:
 - Global Health

@@ -5,8 +5,8 @@ summary: Through PLSP, DAI worked with national and provincial legislatures to s
   parliamentary institutions and processes. The program's focus was on improving the
   capacity of the legislatures in their representation, law making, oversight/accountability,
   and infrastructure/management activities.
-contract-start-year: 2005
-contract-end-year: 2010
+start: 2005
+end: 2010
 client: U.S. Government
 solutions:
 - Governance

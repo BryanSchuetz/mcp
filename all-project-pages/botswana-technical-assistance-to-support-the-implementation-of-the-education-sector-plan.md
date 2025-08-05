@@ -6,8 +6,8 @@ summary: DAI supported the Government of Botswana, and especially the Ministry o
   Education and Skills Development, to implement the Education and Training Strategic
   Sector Plan and to undertake key system reforms, including improvements in public
   finance management.
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: European Union
 solutions:
 - Education

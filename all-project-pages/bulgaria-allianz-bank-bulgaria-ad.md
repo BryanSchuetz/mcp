@@ -2,8 +2,8 @@
 title: Bulgaria—Allianz Bank Bulgaria AD
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-contract-start-year: 2007
-contract-end-year: 2010
+start: 2007
+end: 2010
 regions:
 - Eastern Europe and Central Asia
 country:

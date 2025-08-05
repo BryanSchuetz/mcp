@@ -6,8 +6,8 @@ summary: The Republic of Macedonia has made decentralization and the promotion o
   and expand democratic practices. The goal of MMMS was to provide technical assistance
   and training to local governments to improve their ability to undertake their new
   responsibilities in school management.
-contract-start-year: 2006
-contract-end-year: 2007
+start: 2006
+end: 2007
 client: Embassy of the Kingdom of the Netherlands
 solutions:
 - Governance

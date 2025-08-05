@@ -4,8 +4,8 @@ date: 2020-01-16 15:16:00 Z
 published: false
 summary: DAI’s Sustainable Business Group (SBG) is providing oil and gas awareness
   training programs for a multinational corporation in Senegal.
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Multinational corporation
 solutions:
 - Sustainable Business

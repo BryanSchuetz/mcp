@@ -5,8 +5,8 @@ summary: 'The Advancing Reforms in the Justice Sector in Georgia project continu
   initiatives that support judicial reform and fosters security, equality, and democratic
   participation by improving human rights protection and criminal justice, reducing
   violence against women, and boosting civil society engagement. '
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: European Union
 solutions:
 - Governance

@@ -6,8 +6,8 @@ summary: DAI’s Sustainable Business Group (SBG) was contracted by an internati
   community and government relations, expand the positive impact of its oil and gas
   operations on the local workforce and  small enterprises, and drive sustainable socio-economic
   growth in Mozambique.
-contract-start-year: 2018
-contract-end-year: 2018
+start: 2018
+end: 2018
 client: Multinational corporation
 solutions:
 - Sustainable Business

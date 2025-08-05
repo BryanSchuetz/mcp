@@ -6,8 +6,8 @@ summary: CPMR-ESA supported implementation of the conflict prevention, mitigatio
   and response programs of the U.S. Agency for International Development (USAID)/East
   Africa office in Nairobi, Kenya, and the USAID/Southern Africa office in Gaborone,
   Botswana.
-contract-start-year: 2003
-contract-end-year: 2007
+start: 2003
+end: 2007
 client: U.S. Government
 solutions:
 - Fragile States

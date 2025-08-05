@@ -5,8 +5,8 @@ summary: 'This project supported the implementation of the European Union (EU)-b
   development cooperation strategy in Bhutan, with particular focus on the two ongoing
   EU budget support programs: 1) Rural Development and Climate Change, and 2) Local
   Governance and Fiscal Decentralization.'
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: European Union
 solutions:
 - Energy

@@ -4,8 +4,8 @@ date: 2020-07-01 10:45:00 Z
 summary: The Education for Employment project supported the Government of BiH to increase
   the responsiveness of its education sector to labor market needs and worked to increase
   institutional capacities and coordination within the education sector at all levels.
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Governance

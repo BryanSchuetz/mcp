@@ -6,8 +6,8 @@ tags:
 - European Union
 summary: 'The EU4Energy project aims to support Bosnia and Herzegovina in reforming
   its energy sector in alignment with the European Union energy acquis. '
-contract-start-year: 2022
-contract-end-year: 2025
+start: 2022
+end: 2025
 client: European Union
 solutions:
 - Environment

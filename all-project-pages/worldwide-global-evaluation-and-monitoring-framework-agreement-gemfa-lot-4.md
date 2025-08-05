@@ -6,8 +6,8 @@ summary: The Global Evaluation and Monitoring Framework Agreement (GEMFA) is the
   mechanism for monitoring and evaluation assignments. Lot 4 evaluates assignments
   valued at less than £600,000 and aims to improve the impact and value for money
   while supporting the effective delivery of the FCDO's strategic objectives.
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

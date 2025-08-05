@@ -5,8 +5,8 @@ summary: Land administration in Mozambique has been seriously under-resourced, a
   needed new, modern systems in place to be able to deal with the increasing demands
   being placed upon it. The principal aim of this support programme to four provinces
   was to improve the efficiency of the land rights management and registration system.
-contract-start-year: 2009
-contract-end-year: 2013
+start: 2009
+end: 2013
 client: Millennium Challenge Account
 solutions:
 - Economic Growth

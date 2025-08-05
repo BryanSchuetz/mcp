@@ -3,8 +3,8 @@ title: Worldwide—Development Credit Authority (DCA)
 date: 2016-01-21 22:40:00 Z
 summary: The DCA—catalyzing finance and facilitating new financial institution relationships—promoted
   a sustainable private-sector approach to economic development and growth.
-contract-start-year: 2004
-contract-end-year: 2007
+start: 2004
+end: 2007
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2020-04-21 10:48:00 Z
 summary: The Water Supply and Sanitation Sector Reform Programme Phase III in Nigeria
   contributed to poverty reduction, sustainable development, and to the achievement
   of the water and sanitation-related Millennium Development Goals.
-contract-start-year: 2014
-contract-end-year: 2021
+start: 2014
+end: 2021
 client: European Union
 solutions:
 - Environment

@@ -6,8 +6,8 @@ summary: The Microfinance Capacity Building Project's principal objective was to
   a permanent fixture in the Kenyan financial services marketplace, improving much-needed
   industry infrastructure for microfinance institutions while helping to increase
   client outreach and business performance.
-contract-start-year: 2004
-contract-end-year: 2008
+start: 2004
+end: 2008
 client: U.S. Government
 solutions:
 - Economic Growth

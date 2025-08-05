@@ -4,8 +4,8 @@ date: 2023-08-30 12:27:00 Z
 summary: DAI’s Climate Just Communities (CJC) Malawi project uses a participatory
   approach to developing and delivering climate justice interventions that build community
   resilience to the material and social effects of climate change.
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: The Scottish Government
 solutions:
 - Economic Growth

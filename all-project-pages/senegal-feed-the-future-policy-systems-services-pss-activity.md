@@ -7,8 +7,8 @@ summary: 'The Feed the Future Senegal Policy Systems Services (PSS) Activity wor
   to advance Senegal''s self-reliance, decrease poverty, improve nutritional outcomes,
   build resilience, improve water security, and accelerate inclusive agricultural
   growth and transformation. '
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

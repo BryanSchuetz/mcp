@@ -6,8 +6,8 @@ summary: 'DAI was part of a team working with the Walmart Foundation to evaluate
   Initiative.
 
 '
-contract-start-year: 2012
-contract-end-year: 2014
+start: 2012
+end: 2014
 client: Walmart Foundation
 solutions:
 - Sustainable Business

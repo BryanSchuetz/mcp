@@ -5,8 +5,8 @@ date: 2020-04-29 11:08:00 Z
 summary: Our team works to consolidate past reforms in the areas of electoral support,
   parliamentary strengthening, and civil service reform within the new electoral cycle
   in Sierra Leone.
-contract-start-year: 2018
-contract-end-year: 2025
+start: 2018
+end: 2025
 client: European Union
 solutions:
 - Legislative Strengthening

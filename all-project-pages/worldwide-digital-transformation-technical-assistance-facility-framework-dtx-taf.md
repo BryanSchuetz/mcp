@@ -6,8 +6,8 @@ summary: 'The Digital Transformation Technical Assistance Facility Framework (DT
   TAF) supports financial institutions and agribusiness companies in their digital
   transformation journey by addressing knowledge opportunities and limitations of
   their current IT systems, product offerings, and corporate strategy. '
-contract-start-year: 2024
-contract-end-year: 2027
+start: 2024
+end: 2027
 client: FMO (Dutch Development Bank)
 solutions:
 - Economic Growth

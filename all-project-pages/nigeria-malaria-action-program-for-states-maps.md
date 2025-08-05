@@ -5,8 +5,8 @@ summary: 'The Malaria Action Program for States (MAPS) program in Nigeria was a 
   program that increased coverage and use of life-saving malaria interventions in
   support of the Nigeria National Malaria Strategic Plan and the National Malaria
   Elimination Program. '
-contract-start-year: 2010
-contract-end-year: 2016
+start: 2010
+end: 2016
 client: U.S. Government
 solutions:
 - Global Health

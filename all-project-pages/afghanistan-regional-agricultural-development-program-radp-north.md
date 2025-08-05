@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Regional Agricultural Development Program–North (RADP-North) facilitated
   investments and worked to improve the productivity and profitability of select agricultural
   value chains, increasing the food and economic security of rural Afghans.
-contract-start-year: 2014
-contract-end-year: 2019
+start: 2014
+end: 2019
 client: U.S. Government
 solutions:
 - Economic Growth

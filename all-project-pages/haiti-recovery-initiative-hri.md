@@ -2,8 +2,8 @@
 title: Haiti—Recovery Initiative (HRI)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Government
-contract-start-year: 2010
-contract-end-year: 2011
+start: 2010
+end: 2011
 regions:
 - Latin America and the Caribbean
 country:

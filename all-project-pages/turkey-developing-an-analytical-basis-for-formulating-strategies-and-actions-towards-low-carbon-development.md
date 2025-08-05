@@ -6,8 +6,8 @@ summary: The Developing an Analytical Basis for Formulating Strategies and Actio
   Towards Low Carbon Development programme worked to reduce manmade greenhouse gas
   emissions by increasing Türkiye's national and local capacity to prepare for medium
   and long-term action toward climate-resilient low-carbon development.
-contract-start-year: 2017
-contract-end-year: 2020
+start: 2017
+end: 2020
 client: European Union
 solutions:
 - Environment

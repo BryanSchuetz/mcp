@@ -7,8 +7,8 @@ summary: WCP assisted forward-looking Nigerian states and utilities in improving
   security governance and service delivery. DAI supported Development Innovations
   Group in the implementation of WCP through data collection and analysis, monitoring
   and evaluation, and institutional capacity building.
-contract-start-year: 2016
-contract-end-year: 2018
+start: 2016
+end: 2018
 client: U.S. Government
 solutions:
 - Water Security, Sanitation, and Hygiene

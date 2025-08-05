@@ -4,8 +4,8 @@ date: 2020-09-18 15:23:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was hired by an international oil
   and gas company active in Senegal to develop a comprehensive approach to integrating
   local content into the company’s tendering process for major contracts. '
-contract-start-year: 2018
-contract-end-year: 2018
+start: 2018
+end: 2018
 client: Multinational corporation
 solutions:
 - Sustainable Business

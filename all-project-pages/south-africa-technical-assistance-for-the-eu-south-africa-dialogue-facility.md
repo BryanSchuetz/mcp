@@ -4,8 +4,8 @@ date: 2020-08-07 09:44:00 Z
 summary: 'The Technical Assistance for the EU-South Africa Dialogue Facility works
   to enable the strategic partnership that has existed between the European Union
   and South Africa since 2007. '
-contract-start-year: 2016
-contract-end-year: 2023
+start: 2016
+end: 2023
 client: European Union
 solutions:
 - Governance

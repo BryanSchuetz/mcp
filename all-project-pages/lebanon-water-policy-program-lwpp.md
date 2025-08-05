@@ -5,8 +5,8 @@ summary: Under the LWPP, DAI supported the Ministry of Energy and Water and the 
   Establishments in Lebanon, guiding Lebanese ministry and water establishments' officials
   through the complicated process of identifying and implementing sustainable financing
   and privatization techniques.
-contract-start-year: 2002
-contract-end-year: 2008
+start: 2002
+end: 2008
 client: U.S. Government
 solutions:
 - Water Security, Sanitation, and Hygiene

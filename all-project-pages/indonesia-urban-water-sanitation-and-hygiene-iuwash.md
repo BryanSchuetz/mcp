@@ -8,8 +8,8 @@ summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (
   IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders,
   data platforms, and finance mechanisms to achieve healthy, productive, and resilient
   cities.
-contract-start-year: 2016
-contract-end-year: 2024
+start: 2016
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

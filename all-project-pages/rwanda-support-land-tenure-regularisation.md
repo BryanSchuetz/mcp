@@ -6,8 +6,8 @@ summary: The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal 
   we had laid the groundwork for an innovative approach to registration. Between 2005
   and 2009, we developed and tested a feasible approach to LTR, which lead to the
   Strategic Road Map for Land Tenure Reform.
-contract-start-year: 2010
-contract-end-year: 2013
+start: 2010
+end: 2013
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

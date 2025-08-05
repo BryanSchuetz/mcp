@@ -3,8 +3,8 @@ title: Nigeria—Landscape Analysis of Technical Assistance Providers
 date: 2020-06-09 10:29:00 Z
 summary: On behalf of the Gates Foundation, DAI built a database of competent organizations
   providing services in primary healthcare and policy advocacy and communications.
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Bill and Melinda Gates Foundation
 solutions:
 - Governance

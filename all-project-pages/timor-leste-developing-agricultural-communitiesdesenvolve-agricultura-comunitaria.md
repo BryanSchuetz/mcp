@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Developing Agricultural Communities (DAC) and its predecessor, the Dezenvolve
   Setor Privadu project (2006–2010), engaged more than 450 farmers in greenhouse and
   outdoor vegetable production and helped build a stronger fresh produce value chain.
-contract-start-year: 2010
-contract-end-year: 2015
+start: 2010
+end: 2015
 client: U.S. Government
 solutions:
 - Economic Growth

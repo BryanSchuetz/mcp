@@ -5,8 +5,8 @@ summary: The Haiti Finance Inclusive project supported the development of the en
   environment to increase the usage of basic financial services by undeserved and
   unserved households and micro, small, and medium enterprises in rural and agricultural
   areas in Haiti.
-contract-start-year: 2017
-contract-end-year: 2019
+start: 2017
+end: 2019
 client: U.S. Government
 solutions:
 - Economic Growth

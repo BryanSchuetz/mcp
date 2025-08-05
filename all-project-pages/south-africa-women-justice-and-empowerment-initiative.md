@@ -7,8 +7,8 @@ summary: 'Under a subcontract to an RTI International project funded by the U.S.
   to justice in four African countries.
 
 '
-contract-start-year: 2011
-contract-end-year: 2012
+start: 2011
+end: 2012
 client: U.S. Government
 solutions:
 - Gender and Social Inclusion

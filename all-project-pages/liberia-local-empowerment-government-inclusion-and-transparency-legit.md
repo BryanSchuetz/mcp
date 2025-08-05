@@ -5,8 +5,8 @@ summary: 'The Local Empowerment for Government Inclusion and Transparency progra
   helped solidify decentralization reforms by facilitating the transfer of authority
   from the national government to counties and cities, enhancing citizen participation
   in governance, and building capacity for government officials. '
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: U.S. Government
 solutions:
 - Decentralization and Local Government Management

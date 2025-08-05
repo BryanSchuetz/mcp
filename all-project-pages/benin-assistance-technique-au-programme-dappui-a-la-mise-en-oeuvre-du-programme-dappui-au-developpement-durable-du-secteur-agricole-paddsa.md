@@ -6,8 +6,8 @@ summary: The project provided technical assistance to the Ministry of Agricultur
   Livestock, and Fisheries for the implementation of the Programme d’Appui au Développement
   Durable du Secteur Agricole, a €70 million initiative to reform Benin’s agricultural
   sector.
-contract-start-year: 2018
-contract-end-year: 2022
+start: 2018
+end: 2022
 client: European Union
 solutions:
 - Economic Growth

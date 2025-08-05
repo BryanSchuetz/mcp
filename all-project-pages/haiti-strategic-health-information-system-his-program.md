@@ -4,8 +4,8 @@ date: 2017-06-27 16:40:00 Z
 summary: The Haiti Strategic Health Information System Program team consolidated and
   integrated Haiti’s disconnected health information assets to create a comprehensive
   national system.
-contract-start-year: 2017
-contract-end-year: 2021
+start: 2017
+end: 2021
 client: U.S. Government
 solutions:
 - Global Health

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI provided professional management services to the U.S. Agency for International
   Development's Center for Development Innovation, supporting the utilization of three
   core principles across the Lab’s activities.
-contract-start-year: 2014
-contract-end-year: 2018
+start: 2014
+end: 2018
 client: U.S. Government
 solutions:
 - Innovation and Entrepreneurship

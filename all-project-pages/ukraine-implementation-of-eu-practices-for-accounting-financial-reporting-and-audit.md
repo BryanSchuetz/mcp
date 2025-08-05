@@ -5,8 +5,8 @@ date: 2020-05-06 13:08:00 Z
 summary: This EU-funded project aims to enhance Ukraine's transparency and business
   climate, facilitating domestic and foreign direct investment in the private sector
   and more closely integrating Ukraine into the European and global economies.
-contract-start-year: 2019
-contract-end-year: 2025
+start: 2019
+end: 2025
 client: European Union
 solutions:
 - Institutional and Policy Reform

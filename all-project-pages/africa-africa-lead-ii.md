@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Following on the original Africa Lead project, Africa Lead II built the capacity
   of local leaders to develop, manage, and lead programs aimed at increasing agricultural
   productivity and food security.
-contract-start-year: 2013
-contract-end-year: 2019
+start: 2013
+end: 2019
 client: U.S. Government
 solutions:
 - Economic Growth

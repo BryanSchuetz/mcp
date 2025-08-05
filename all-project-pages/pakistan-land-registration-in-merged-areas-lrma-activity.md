@@ -7,8 +7,8 @@ summary: 'The Land Registration in Merged Areas Activity is establishing a land 
   and registration system in seven districts of northwestern Pakistan so that citizens,
   families, landowners, investors, banks, and government actors have access to accurate,
   understandable, and current records of their land rights. '
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

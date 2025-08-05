@@ -6,8 +6,8 @@ summary: The Technical Assistance Programme to Support Lending Operations to the
   Entrepreneurship Development Project (WEDP) works to reduce unemployment in Ethiopia
   by offering women improved access to a diverse and responsible range of financial
   products aimed at encouraging income generation and business growth.
-contract-start-year: 2021
-contract-end-year: 2023
+start: 2021
+end: 2023
 client: European Investment Bank
 solutions:
 - Economic Growth

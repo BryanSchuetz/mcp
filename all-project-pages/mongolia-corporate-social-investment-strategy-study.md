@@ -5,8 +5,8 @@ summary: DAI’s Sustainable Business Group (SBG) was selected in 2019 by an int
   mining company to conduct a study of innovative development models being implemented
   by corporations interested in having a real impact on socioeconomic and development
   outcomes of the countries in which they operate.
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Multinational corporation
 solutions:
 - Sustainable Business

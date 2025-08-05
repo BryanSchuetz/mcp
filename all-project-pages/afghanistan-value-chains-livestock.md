@@ -6,8 +6,8 @@ terminated: true
 summary: The Afghanistan Value Chains Program helps farmers and related agribusinesses
   to increase productivity and create jobs by expanding into new markets, attracting
   investors, and improving efficiency.
-contract-start-year: 2018
-contract-end-year: 2024
+start: 2018
+end: 2024
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

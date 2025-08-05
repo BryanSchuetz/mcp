@@ -6,8 +6,8 @@ summary: The project promoted environmentally friendly industrial production and
   to policy development, leading to a Draft National Action Plan for Determining Türkiye's
   Emission Strategy that serves as a roadmap for a green transition and zero pollution
   by 2053.
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Environment

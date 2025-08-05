@@ -4,8 +4,8 @@ date: 2020-09-18 14:18:00 Z
 summary: In 2019 DAI’s Sustainable Business Group (SBG) conducted a five-month in-country
   value (ICV) assessment to inform an international oil and gas company’s early-stage
   planning for their proposed petrochemical plant in Oman.
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Multinational corporation
 solutions:
 - Sustainable Business

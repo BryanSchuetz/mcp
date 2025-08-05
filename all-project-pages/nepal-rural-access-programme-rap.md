@@ -5,8 +5,8 @@ published: false
 summary: 'The Rural Access Programme addresses lack of access and social exclusion
   through rural road construction that targets the poorest and most disadvantaged
   groups in Nepal. '
-contract-start-year: 2013
-contract-end-year: 2020
+start: 2013
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Decentralization and Local Government Management

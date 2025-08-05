@@ -5,8 +5,8 @@ published: false
 summary: 'In Thailand, DAI’s Sustainable Business Group (SBG) is conducting an industrial
   baseline study (IBS) that will include an analysis of local content policy, a local
   content forecast, and a workforce assessment. '
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Multinational corporation
 solutions:
 - Sustainable Business

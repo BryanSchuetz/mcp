@@ -4,8 +4,8 @@ date: 2020-05-11 09:22:00 Z
 summary: The Enterprise and Innovation Programme increased innovation and growth in
   startups and small firms and provided support and training through the establishment
   of business innovation centres in Tajikistan and Kyrgyzstan.
-contract-start-year: 2019
-contract-end-year: 2023
+start: 2019
+end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

@@ -3,8 +3,8 @@ title: Peru—Prevent activity
 date: 2019-10-03 13:57:00 Z
 summary: Peru Prevent helped Peruvian institutions and actors more effectively manage
   the country’s natural resources for future generations.
-contract-start-year: 2019
-contract-end-year: 2024
+start: 2019
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

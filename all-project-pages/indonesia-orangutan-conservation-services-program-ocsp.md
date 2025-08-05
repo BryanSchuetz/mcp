@@ -7,8 +7,8 @@ summary: 'OCSP addressed the major threats driving orangutan extinction: forest 
   sector partners, government institutions, and communities, which together supported
   the design and establishment of best management practices for key habitat conservation
   of wild orangutan populations.'
-contract-start-year: 2007
-contract-end-year: 2010
+start: 2007
+end: 2010
 client: U.S. Government
 solutions:
 - Environment

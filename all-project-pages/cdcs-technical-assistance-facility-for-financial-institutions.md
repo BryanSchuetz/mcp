@@ -4,8 +4,8 @@ date: 2021-09-21 13:13:00 Z
 summary: 'FSG Plus supports BII in addressing two pressing priorities—i) inclusion
   and ii) climate and environmental sustainability—by catalyzing sustainable practice
   change in financial institutions. '
-contract-start-year: 2021
-contract-end-year: 2026
+start: 2021
+end: 2026
 client: British International Investment (BII)
 solutions:
 - Economic Growth

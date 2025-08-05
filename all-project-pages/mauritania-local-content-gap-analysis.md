@@ -10,8 +10,8 @@ tags:
 summary: 'DAI’s Sustainable Business Group (SBG) worked with a multinational mining
   company to assess the company’s Local Business Integration (LBI) program and conducted
   a gap analysis to inform recommendations for optimizing supplier development. '
-contract-start-year: 2018
-contract-end-year: 2018
+start: 2018
+end: 2018
 client: Multinational Corporation
 solutions:
 - Sustainable Business

@@ -7,8 +7,8 @@ summary: The Advancing Capacity for the Environment (ACE) program facilitates th
   U.S. Agency for International Development’s work to address weather-related events,
   conserve biodiversity and manage natural resources, improve land governance, and
   expand access to secure, modern energy and resilient infrastructure.
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

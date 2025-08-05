@@ -6,8 +6,8 @@ terminated: true
 summary: The Youth Resilience, Inclusion & Empowerment in the Caribbean Activity—in
   Grenada, Guyana, and Saint Lucia—supports young people to build more safe, prosperous,
   and resilient societies.
-contract-start-year: 2022
-contract-end-year: 2027
+start: 2022
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

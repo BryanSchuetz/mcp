@@ -5,8 +5,8 @@ summary: 'The U.K. Foreign, Commonwealth and Development Office (FCDO) Climate a
   Ocean Adaptation and Sustainable Transition (COAST) program works to improve vulnerable
   coastal communities’ resilience to changes in climate and prosperity from a more
   sustainable use of their marine environment. '
-contract-start-year: 2024
-contract-end-year: 2029
+start: 2024
+end: 2029
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate

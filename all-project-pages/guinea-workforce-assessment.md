@@ -4,8 +4,8 @@ date: 2020-09-18 13:21:00 Z
 summary: 'DAI’s Sustainable Business Group provided high-level analysis of the labor
   force in Guinea, with some observations of regional actors including Cote d’Ivoire,
   Ghana, Liberia, Nigeria, Senegal, and Sierra Leone. '
-contract-start-year: 2014
-contract-end-year: 2014
+start: 2014
+end: 2014
 client: Multinational corporation
 solutions:
 - Sustainable Business

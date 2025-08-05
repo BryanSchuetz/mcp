@@ -7,8 +7,8 @@ tags:
 summary: The Technical Assistance Facility contributed to the expansion and diversification
   of Lebanon’s economy through the modernization of the private sector and the promotion
   of trade, entrepreneurship, and innovation.
-contract-start-year: 2020
-contract-end-year: 2022
+start: 2020
+end: 2022
 client: European Union
 solutions:
 - Economic Growth

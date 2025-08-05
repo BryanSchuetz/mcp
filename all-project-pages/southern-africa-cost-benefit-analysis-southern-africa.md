@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Swiss Agency for Development and Cooperation (SDC) commissioned DAI to
   advise on how to integrate cost-benefit analysis into the SDC's programming in Southern
   Africa.
-contract-start-year: 2013
-contract-end-year: 2013
+start: 2013
+end: 2013
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth

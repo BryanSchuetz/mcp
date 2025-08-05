@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the European Bank for Reconstruction and Development
   to support Armenian partner banks in establishing adequate lending practices and
   supporting them in loan appraisal and credit approval processes.
-contract-start-year: 2008
-contract-end-year: 2012
+start: 2008
+end: 2012
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

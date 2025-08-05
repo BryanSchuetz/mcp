@@ -2,8 +2,8 @@
 title: Bulgaria—Eurobank EFG
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-contract-start-year: 2009
-contract-end-year: 2011
+start: 2009
+end: 2011
 regions:
 - Eastern Europe and Central Asia
 country:

@@ -4,8 +4,8 @@ date: 2020-12-09 10:20:00 Z
 summary: We supported the Ombudsperson Institution of Kosovo to effectively protect
   and promote the rights and fundamental freedoms of citizens by enforcement of institutional
   capacities and the introduction of new tools and methods.
-contract-start-year: 2019
-contract-end-year: 2023
+start: 2019
+end: 2023
 client: European Union
 solutions:
 - Governance

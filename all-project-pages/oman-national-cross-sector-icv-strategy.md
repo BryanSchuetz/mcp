@@ -3,8 +3,8 @@ title: Oman—National Cross-Sector ICV Strategy
 date: 2020-09-18 13:08:00 Z
 summary: DAI’s Sustainable Business Group (SBG) led Petroleum Development Oman’s (PDO)
   effort to develop a National Cross-Sector ICV Strategy.
-contract-start-year: 2019
-contract-end-year: 2019
+start: 2019
+end: 2019
 client: Petroleum Development Oman
 solutions:
 - Sustainable Business

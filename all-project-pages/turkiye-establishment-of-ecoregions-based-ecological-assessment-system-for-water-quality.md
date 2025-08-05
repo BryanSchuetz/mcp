@@ -6,8 +6,8 @@ summary: Türkiye’s water sector faces mounting pressures due to population gr
   climate change, and increased pollution from agricultural, domestic, and industrial
   sources. With 25 hydrological basins and limited economically usable water resources,
   the country is on track to become water-stressed beyond 2030 if current trends continue.
-contract-start-year: 2025
-contract-end-year: 2028
+start: 2025
+end: 2028
 client: European Union
 solutions:
 - Environment

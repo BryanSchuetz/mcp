@@ -4,8 +4,8 @@ date: 2017-08-24 17:05:00 Z
 summary: DAI’s Sustainable Business Group (SBG) provided recommendations for the Kingdom
   of Saudi Arabia’s National Industrial Development and Logistics Program implementation
   of local content key performance indicators and definition.
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: National Government
 solutions:
 - Sustainable Business

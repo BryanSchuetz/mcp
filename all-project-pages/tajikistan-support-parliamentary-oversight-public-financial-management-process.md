@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'SPFM strengthened the Tajikistan Parliament’s ability to fulfil its oversight
   responsibilities more effectively, efficiently, and accountably with regard to the
   management of public finances. '
-contract-start-year: 2015
-contract-end-year: 2020
+start: 2015
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

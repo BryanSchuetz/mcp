@@ -4,8 +4,8 @@ date: 2018-05-14 18:52:00 Z
 summary: The Macro-Economic Stabilization and Reform (MESR) project addresses Egypt’s
   macroeconomic challenges and assists with reforms expected by the International
   Monetary Fund.
-contract-start-year: 2018
-contract-end-year: 2024
+start: 2018
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

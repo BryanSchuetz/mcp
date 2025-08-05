@@ -4,8 +4,8 @@ date: 2021-06-28 15:21:00 Z
 summary: 'DAI provides capacity-building services, such as support in financial management,
   to ensure that First Consult is operating with compliant, effective processes conducive
   to good management on the BRIDGES programme in Ethiopia. '
-contract-start-year: 2021
-contract-end-year: 2025
+start: 2021
+end: 2025
 client: First Consult/Mastercard Foundation
 solutions:
 - Economic Growth

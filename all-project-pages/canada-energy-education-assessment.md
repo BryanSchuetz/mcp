@@ -5,8 +5,8 @@ summary: On behalf of a Canadian association, DAI’s Sustainable Business Group
   analyzed the technical and vocational education and training institutions and tertiary
   educational service providers in the energy sector across Nova Scotia to establish
   a series of recommendations to promote these activities regionally and internationally.
-contract-start-year: 2018
-contract-end-year: 2018
+start: 2018
+end: 2018
 client: 'Multinational corporation '
 solutions:
 - Sustainable Business

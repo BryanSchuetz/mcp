@@ -7,8 +7,8 @@ summary: The program improves the productivity and economic competitiveness of G
   enterprises in the tourism, light manufacturing, digital, and solid waste management
   sectors, while strengthening Georgia’s economic ecosystem to support further growth
   in these areas.
-contract-start-year: 2024
-contract-end-year: 2024
+start: 2024
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

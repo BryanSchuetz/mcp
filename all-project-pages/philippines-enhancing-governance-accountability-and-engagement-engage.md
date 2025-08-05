@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'This project assisted six conflict-affected areas in Mindanao, Philippines:
   Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,
   and surrounding environs.'
-contract-start-year: 2013
-contract-end-year: 2019
+start: 2013
+end: 2019
 client: U.S. Government
 solutions:
 - Governance

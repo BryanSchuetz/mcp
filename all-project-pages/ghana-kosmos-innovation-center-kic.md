@@ -4,8 +4,8 @@ date: 2017-05-19 17:58:00 Z
 summary: 'DAI helped Kosmos Energy to design, launch, and implement the Kosmos Innovation
   Center (KIC) program as part of the oil and gas company''s corporate social investment
   strategy in Ghana. '
-contract-start-year: 2015
-contract-end-year: 2020
+start: 2015
+end: 2020
 client: Kosmos Energy
 solutions:
 - Sustainable Business
@@ -29,7 +29,7 @@ promos:
   link: https://www.dai.com/uploads/kic-27672d.pdf
 - title: Commercializing Agricultural Innovations in the Age of COVID-19
   link: https://dai-global-developments.com/articles/commercializing-agricultural-innovations-in-the-age-of-covid-19
-contract-end-year:
+End:
 
 
 ![KIC article.png](/uploads/KIC%20article.png)

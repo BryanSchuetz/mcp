@@ -7,8 +7,8 @@ summary: 'DAI assisted the NSG in fulfilling its mandate. Our intervention stren
   Barriers to Entry, Compulsory Induction, and Reorientation), and strengthened the
   network and collaborations of the NSG to create new opportunities for the school
   and its beneficiaries. '
-contract-start-year: 2019
-contract-end-year: 2022
+start: 2019
+end: 2022
 client: European Union
 solutions:
 - Governance

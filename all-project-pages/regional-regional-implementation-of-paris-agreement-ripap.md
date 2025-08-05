@@ -6,8 +6,8 @@ summary: Our project contributed to climate change mitigation and adaptation and
   development of a resource-efficient, low-emissions, and climate-resilient economy
   in Albania, Bosnia and Herzegovina, the former Yugoslav Republic of Macedonia, Kosovo,
   Montenegro, Serbia, and Türkiye.
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: European Union
 solutions:
 - Environment

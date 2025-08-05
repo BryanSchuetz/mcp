@@ -4,8 +4,8 @@ date: 2024-09-16 08:38:00 Z
 summary: The Teaching and Leading the Next Generation of Timorese (TALENT) project
   works to improve the quality of teaching and school leadership in Timor-Leste’s
   secondary schools.
-contract-start-year: 2024
-contract-end-year: 2030
+start: 2024
+end: 2030
 client: Millennium Challenge Corporation
 solutions:
 - Education

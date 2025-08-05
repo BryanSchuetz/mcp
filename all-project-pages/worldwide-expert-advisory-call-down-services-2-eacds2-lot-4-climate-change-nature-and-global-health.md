@@ -10,8 +10,8 @@ tags:
 summary: 'The Expert Advisory Call Down Services (EACDS) Lot 4: Climate Change, Nature,
   and Global Health provides rapid, quality-assured, short-term technical expertise
   to support the development of U.K. Aid programs.'
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate

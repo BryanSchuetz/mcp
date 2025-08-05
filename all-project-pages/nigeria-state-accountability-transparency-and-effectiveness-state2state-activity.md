@@ -6,8 +6,8 @@ published: false
 terminated: true
 summary: The Nigeria State Accountability, Transparency, and Effectiveness (State2State)
   Activity supports strengthened governance structures in six states.
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

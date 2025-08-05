@@ -3,8 +3,8 @@ title: Jordan—Technical Assistance to European Union Support to Green Economy
 date: 2024-09-20 07:32:00 Z
 summary: The EU's Green Economy program in Jordan supports the country’s green transition
   by promoting climate resilience, energy efficiency, and environmental sustainability.
-contract-start-year: 2024
-contract-end-year: 2027
+start: 2024
+end: 2027
 client: European Union
 solutions:
 - Climate

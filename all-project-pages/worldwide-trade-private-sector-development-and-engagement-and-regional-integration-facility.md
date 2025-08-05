@@ -4,8 +4,8 @@ title: Worldwide—Trade, Private Sector Development, and Engagement (TPSD/E) Fa
 date: 2017-02-21 01:44:00 Z
 summary: The Trade, Private Sector Development, and Engagement Facility helps shape
   and implement new policies related to Aid for Trade and regional integration programmes.
-contract-start-year: 2017
-contract-end-year: 2025
+start: 2017
+end: 2025
 client: European Union
 solutions:
 - Economic Growth

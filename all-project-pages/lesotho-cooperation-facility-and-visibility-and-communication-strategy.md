@@ -4,8 +4,8 @@ date: 2023-07-19 07:54:00 Z
 summary: The project's focus is to promote financial inclusion, assist in Lesotho’s
   transformation into a greener and more resilient economy, and foster good governance
   for a peaceful and just society.
-contract-start-year: 2023
-contract-end-year: 2026
+start: 2023
+end: 2026
 client: European Union
 solutions:
 - Economic Growth

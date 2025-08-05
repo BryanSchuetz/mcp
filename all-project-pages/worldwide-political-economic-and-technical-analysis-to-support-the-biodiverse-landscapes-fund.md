@@ -5,8 +5,8 @@ date: 2021-07-08 18:08:00 Z
 summary: 'DAI carried out a political economy analysis and technical assessment of
   five transboundary landscapes on behalf of the U.K. Department for Environment,
   Food & Rural Affairs (DEFRA). '
-contract-start-year: 2021
-contract-end-year: 2021
+start: 2021
+end: 2021
 client: 'U.K. Department for Environment, Food & Rural Affairs  '
 solutions:
 - Environment

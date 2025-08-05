@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The East Africa Trade and Investment Hub was the U.S. Government''s flagship
   project under the presidential Trade Africa initiative, which works to increase
   U.S.-Africa trade and investment, regional integration, and competitiveness. '
-contract-start-year: 2014
-contract-end-year: 2019
+start: 2014
+end: 2019
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

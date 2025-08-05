@@ -4,8 +4,8 @@ date: 2020-07-17 09:16:00 Z
 summary: 'The Technical Assistance for Improving Job and Vocational Counselling Services
   project supported the Turkish Employment Agency (İŞKUR) to fulfil its mandate as
   the lead provider of public employment services in Türkiye. '
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: European Union
 solutions:
 - Economic Growth

@@ -8,8 +8,8 @@ tags:
 summary: Our work focuses on the transport sector by supporting actors managing or
   implementing EU cooperation programmes at the global, regional, and country levels
   to assess, design, monitor, and evaluate infrastructure interventions.
-contract-start-year: 2023
-contract-end-year: 2027
+start: 2023
+end: 2027
 client: European Union
 solutions:
 - Environment

@@ -6,8 +6,8 @@ summary: DAI and our partners, Michigan State University and Save the Children, 
   plant and consume, acknowledging that smallholders operate under short horizons
   with limited assets and coping strategies for handling fluctuations in food and
   income.
-contract-start-year: 2012
-contract-end-year: 2016
+start: 2012
+end: 2016
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -5,8 +5,8 @@ summary: 'JCP stimulated about $70 million in new Jordanian exports, facilitated
   than $100 million in investment opportunities, contributed to the creation of nearly
   1,000 jobs, and assisted in securing new or better work opportunities for nearly
   30,000 individuals. '
-contract-start-year: 2013
-contract-end-year: 2019
+start: 2013
+end: 2019
 client: U.S. Government
 solutions:
 - Business Environment Reform

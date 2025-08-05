@@ -4,8 +4,8 @@ date: 2019-05-08 12:09:00 Z
 summary: The USAID Economic Security Program assisted Georgian firms in taking advantage
   of the country’s market access and location to exploit regional economic opportunities
   and compete with international competitors for the domestic market.
-contract-start-year: 2019
-contract-end-year: 2024
+start: 2019
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2020-05-20 13:02:00 Z
 summary: DAI is supporting a regional approach to support the transition towards sustainable,
   low-carbon, and climate-resilient development in the Southern Mediterranean, specifically
   Algeria, Egypt, Israel, Jordan, Lebanon, Morocco, Palestine, and Tunisia.
-contract-start-year: 2018
-contract-end-year: 2025
+start: 2018
+end: 2025
 client: European Union
 solutions:
 - Climate

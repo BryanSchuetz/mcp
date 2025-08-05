@@ -5,8 +5,8 @@ summary: 'The Promoting Inclusive Markets in Somalia programme addressed critica
   market constraints in Somalia largely through co-investment with Somali firms, stimulated
   the creation of long-term jobs, increased smallholder incomes, and leveraged private
   sector investment. '
-contract-start-year: 2015
-contract-end-year: 2019
+start: 2015
+end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security

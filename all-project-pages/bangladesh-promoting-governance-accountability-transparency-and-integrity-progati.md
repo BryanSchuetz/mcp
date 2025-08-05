@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: In Bangladesh, we worked with government and citizens, with media and watchdog
   organizations, and with public officials and elected representatives to foster partnerships
   and new incentives for anticorruption reform.
-contract-start-year: 2007
-contract-end-year: 2012
+start: 2007
+end: 2012
 client: U.S. Government
 solutions:
 - Governance

@@ -8,8 +8,8 @@ summary: The Justice, Human Rights, and Security Strengthening Activity (Unidos 
   la Justicia) works with local partners to improve citizen engagement with the security
   and justice sectors; enhance the efficiency of the judicial system; and increase
   the effectiveness of community police.
-contract-start-year: 2016
-contract-end-year: 2024
+start: 2016
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

@@ -3,8 +3,8 @@ title: Palestine—Innovative Private Sector Development (IPSD) project
 date: 2019-10-14 07:56:00 Z
 summary: The Innovative Private Sector Development (IPSD) project develops entrepreneurship
   and expands economic opportunity in the Palestinian Territories.
-contract-start-year: 2019
-contract-end-year: 2028
+start: 2019
+end: 2028
 client: World Bank
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2020-01-16 15:30:00 Z
 summary: In July 2019, DAI’s Sustainable Business Group was selected to develop a
   10-year Operational Business Plan for Senegal’s recently created Institut National
   du Pétrole et du Gaz (INPG).
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Multinational corporation
 solutions:
 - Sustainable Business

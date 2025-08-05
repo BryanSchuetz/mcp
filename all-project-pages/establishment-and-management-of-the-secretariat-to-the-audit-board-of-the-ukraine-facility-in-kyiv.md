@@ -3,8 +3,8 @@ title: Ukraine—Establishment and Management of the Secretariat to the Audit Bo
 date: 2024-12-20 10:32:00 Z
 summary: 'DAI provides technical assistance to the European Union to ensure the effective,
   efficient, and transparent management of funds for Ukraine''s reconstruction. '
-contract-start-year: 2024
-contract-end-year: 2027
+start: 2024
+end: 2027
 client: European Union
 solutions:
 - Governance

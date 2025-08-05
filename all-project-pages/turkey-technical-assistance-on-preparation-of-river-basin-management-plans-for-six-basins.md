@@ -4,8 +4,8 @@ title: Türkiye—Technical Assistance on Preparation of River Basin Management 
 date: 2021-10-29 08:48:00 Z
 summary: DAI is strengthening Türkiye’s capacity to prepare European Union-required
   river basin management plans for six out of the 25 river basins in the country.
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: European Union
 solutions:
 - Environment

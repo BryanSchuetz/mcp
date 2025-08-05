@@ -5,8 +5,8 @@ summary: 'DAI’s Sustainable Business Group (SBG) provided expert advisory serv
   to support an international oil and gas company’s local content initiatives in Senegal’s
   oil and gas sector through an industrial baseline study, strategic planning, and
   the development of procurement strategies. '
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: Multinational corporation
 solutions:
 - Sustainable Business

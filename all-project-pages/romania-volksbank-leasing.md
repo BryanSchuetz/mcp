@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the European Bank for Reconstruction and Development
   to help Volksbank Leasing in Romania expand its leasing operations for the small-
   and medium-sized enterprise segment.
-contract-start-year: 2006
-contract-end-year: 2008
+start: 2006
+end: 2008
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth

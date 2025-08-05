@@ -6,8 +6,8 @@ summary: DAI provides technical assistance for Institutional Strengthening of Na
   Entities for Environmental and Forestry Governance in Paraguay. This initiative
   aims to enhance sustainable forest management and promote a green and resilient
   economy.
-contract-start-year: 2024
-contract-end-year: 2028
+start: 2024
+end: 2028
 client: European Union
 solutions:
 - Environment

@@ -8,8 +8,8 @@ tags:
 summary: E4E supports the South African government’s efforts in improving the quality
   of basic education, vocational training, and job placement services from early childhood
   through teenage years.
-contract-start-year: 2020
-contract-end-year: 2025
+start: 2020
+end: 2025
 client: European Union
 solutions:
 - Governance

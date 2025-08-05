@@ -4,8 +4,8 @@ date: 2017-06-09 18:31:00 Z
 summary: Using DAI’s Local Content Optimization Model, the SBG team assessed 10 commercial
   sectors in Guinea, including construction services, equipment manufacturing, logistics,
   machine maintenance and repair, and food catering.
-contract-start-year: 2017
-contract-end-year: 2018
+start: 2017
+end: 2018
 client: World Bank
 solutions:
 - Sustainable Business

@@ -5,8 +5,8 @@ summary: Implemented on behalf of the Palestinian Ministry of Finance and Planni
   the Finance for Jobs series of projects address constraints to job growth in the
   West Bank and Gaza by developing financing instruments to promote business investment
   and job creation.
-contract-start-year: 2016
-contract-end-year: 2028
+start: 2016
+end: 2028
 client: World Bank
 solutions:
 - Innovation and Entrepreneurship

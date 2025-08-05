@@ -6,8 +6,8 @@ summary: The Clima East programme helped integrate the countries' climate change
   greenhouse gases mitigation plans, and adaptation approaches. The programme was
   part of a larger Clima East package, supporting the development of ecosystems-based
   approaches to climate change.
-contract-start-year: 2012
-contract-end-year: 2017
+start: 2012
+end: 2017
 client: European Union
 solutions:
 - Energy

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The Liberia Accountability and Voice Initiative improved the citizen-state
   relationship in Liberia by supporting coalitions and advocacy campaigns that promote
   public sector accountability.
-contract-start-year: 2015
-contract-end-year: 2021
+start: 2015
+end: 2021
 client: U.S. Government
 solutions:
 - Governance

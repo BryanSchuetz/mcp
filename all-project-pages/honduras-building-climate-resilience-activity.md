@@ -6,8 +6,8 @@ terminated: true
 summary: 'The Building Climate Resilience Activity strengthens the capacity of Honduran
   systems to respond to climate variability and change, thereby helping address underlying
   factors that contribute to irregular migration.  '
-contract-start-year: 2022
-contract-end-year: 2024
+start: 2022
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

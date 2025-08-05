@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: By 2009, years of organic and poorly planned growth in the Kingdom of Jordan
   had produced a large and unwieldy government bureaucracy accounting for 13 percent
   of the national workforce.
-contract-start-year: 2009
-contract-end-year: 2017
+start: 2009
+end: 2017
 client: U.S. Government
 solutions:
 - Governance

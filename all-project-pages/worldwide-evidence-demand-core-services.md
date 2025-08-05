@@ -5,8 +5,8 @@ summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) w
   a resource service providing high-quality information in the fields of climate,
   environment, infrastructure, and livelihoods. The information hub provided access
   to a broad range of documents, learning resources and technical expertise."
-contract-start-year: 2012
-contract-end-year: 2016
+start: 2012
+end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate

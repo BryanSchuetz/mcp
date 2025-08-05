@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: Feed the Future AVANSE worked with farmers and vendors to address key constraints
   within production and value chains, from improved watershed stability and irrigation
   infrastructure, to increased access to financial products and produce buyers.
-contract-start-year: 2013
-contract-end-year: 2020
+start: 2013
+end: 2020
 client: U.S. Government
 solutions:
 - Agriculture and Food Security

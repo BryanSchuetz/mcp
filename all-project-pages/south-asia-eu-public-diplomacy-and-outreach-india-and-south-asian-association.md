@@ -6,8 +6,8 @@ summary: The EU Public Diplomacy and Outreach project worked to deepen the polit
   economic, and cultural relationships of the European Union with the SAARC region,
   which includes Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan,
   and Sri Lanka.
-contract-start-year: 2013
-contract-end-year: 2017
+start: 2013
+end: 2017
 client: European Union
 solutions:
 - Governance

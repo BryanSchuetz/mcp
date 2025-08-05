@@ -5,8 +5,8 @@ summary: The Municipal Waste Recycling Project worked in the Philippines, Sri La
   and Vietnam and provided grants and technical assistance to waste recycling programs,
   with a particular focus on improving waste management practices and reducing plastics
   pollution in marine environments.
-contract-start-year: 2016
-contract-end-year: 2020
+start: 2016
+end: 2020
 client: U.S. Government
 solutions:
 - Decentralization and Local Government Management

@@ -5,8 +5,8 @@ summary: The Integrated Approach to Neglected Tropical Diseases Programme suppor
   the Nigerian government in controlling seven neglected tropical diseases—blinding
   trachoma, bilharzia, elephantiasis, river blindness, hookworm, whipworm, and roundworm.
   DAI Global Health was responsible for the health systems strengthening workstream.
-contract-start-year: 2013
-contract-end-year: 2019
+start: 2013
+end: 2019
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Health Governance

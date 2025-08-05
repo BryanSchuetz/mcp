@@ -3,8 +3,8 @@ title: Indonesia—Agribusiness Market and Support Activity (AMARTA)
 date: 2016-01-21 22:40:00 Z
 summary: 'AMARTA focused on improving productivity and quality, the keys to upgrading
   agribusiness value chains in Indonesia. '
-contract-start-year: 2006
-contract-end-year: 2009
+start: 2006
+end: 2009
 client: U.S. Government
 solutions:
 - Economic Growth

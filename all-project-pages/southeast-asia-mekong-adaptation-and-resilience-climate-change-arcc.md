@@ -6,8 +6,8 @@ summary: The Mekong ARCC project bridged the knowledge gap between high-level sc
   rural communities to strengthen their adaptation capacity in the face of climate
   change risks to water resources, agricultural systems, biodiversity, ecosystems,
   and livelihood opportunities.
-contract-start-year: 2011
-contract-end-year: 2016
+start: 2011
+end: 2016
 client: U.S. Government
 solutions:
 - Climate

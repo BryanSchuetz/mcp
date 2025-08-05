@@ -3,8 +3,8 @@ title: Ukraine—Financial Sector Transformation (FST)
 date: 2017-02-27 05:31:00 Z
 summary: The Financial Sector Transformation Activity supported efforts to reform
   Ukraine’s nonbank financial institutions.
-contract-start-year: 2016
-contract-end-year: 2021
+start: 2016
+end: 2021
 client: U.S. Government
 solutions:
 - Economic Growth

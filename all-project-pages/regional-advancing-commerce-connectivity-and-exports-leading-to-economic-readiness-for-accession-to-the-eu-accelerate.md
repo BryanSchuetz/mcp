@@ -8,8 +8,8 @@ summary: 'The Advancing Commerce Connectivity and Exports Leading to Economic Re
   for Accession to the EU (ACCELERATE) program is a regional buy-in mechanism is designed
   to advance EU market integration and support the EU accession of up to 12 countries,
   including Ukraine, Moldova, and countries across the Western Balkans and the Caucasus. '
-contract-start-year: 2024
-contract-end-year: 2024
+start: 2024
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

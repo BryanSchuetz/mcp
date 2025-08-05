@@ -7,8 +7,8 @@ summary: DAI increased access to capital and financial resources for underserved
   of the issues specific to small firm lending, introducing the best lending and advisory
   practices, helping to design and roll out a programme that includes nonfinancial
   services aiming to improve financial literacy among final beneficiaries.
-contract-start-year: 2021
-contract-end-year: 2022
+start: 2021
+end: 2022
 client: 'European Investment Bank '
 solutions:
 - Economic Growth

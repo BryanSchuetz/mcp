@@ -7,8 +7,8 @@ tags:
 - climate
 summary: Our project promotes a transition to a circular economy—contributing to a
   more efficient resource and waste management across Türkiye.
-contract-start-year: 2022
-contract-end-year: 2025
+start: 2022
+end: 2025
 client: European Union
 solutions:
 - Environment

@@ -4,8 +4,8 @@ date: 2020-09-18 13:25:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was contracted by a leading U.K.-based
   retailer of premium foods to develop a digital needs assessment that could be used
   by their supply chain partners to inform on community needs. '
-contract-start-year: 2018
-contract-end-year: 2020
+start: 2018
+end: 2020
 client: Multinational Corporation
 solutions:
 - Sustainable Business

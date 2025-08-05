@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: GEMA worked in western Honduras to further improve natural conservation policies;
   developed opportunities for inclusive, environmentally sustainable economic growth;
   and promoted a more informed and resilient civil society in Honduras.
-contract-start-year: 2016
-contract-end-year: 2020
+start: 2016
+end: 2020
 client: U.S. Government
 solutions:
 - Climate

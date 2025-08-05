@@ -6,8 +6,8 @@ terminated: true
 summary: The Creando Mi Futuro Aquí (Creating My Future Here) Activity in Honduras
   works to increase the employment of young people at risk of irregular migration
   to the United States by increasing their educational and income-generating opportunities.
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: U.S. Government
 solutions:
 - Education

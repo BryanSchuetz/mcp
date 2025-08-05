@@ -6,8 +6,8 @@ terminated: true
 summary: The Resilience through Agriculture in South Sudan (RASS) Activity improves
   food security and community household recovery and resilience in 13 target counties
   in South Sudan, reducing their long-term reliance on humanitarian assistance.
-contract-start-year: 2021
-contract-end-year: 2024
+start: 2021
+end: 2024
 client: U.S. Government
 solutions:
 - Economic Growth

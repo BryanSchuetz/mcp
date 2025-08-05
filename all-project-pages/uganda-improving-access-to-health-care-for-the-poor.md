@@ -4,8 +4,8 @@ date: 2018-01-18 18:40:00 Z
 summary: 'DAI Global Health and Montrose International implemented multiple studies
   to assess the costs and benefits of Results-Based Financing relative to Input-Based
   Financing in Northern Uganda. '
-contract-start-year: 2011
-contract-end-year: 2015
+start: 2011
+end: 2015
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

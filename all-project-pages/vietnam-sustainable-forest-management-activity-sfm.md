@@ -6,8 +6,8 @@ terminated: true
 summary: 'The Vietnam Sustainable Forest Management project helps the Government of
   Vietnam reduce carbon emissions associated with deforestation, the degradation of
   natural forests, and poor plantation management. '
-contract-start-year: 2020
-contract-end-year: 2024
+start: 2020
+end: 2024
 client: U.S. Government
 solutions:
 - Environment

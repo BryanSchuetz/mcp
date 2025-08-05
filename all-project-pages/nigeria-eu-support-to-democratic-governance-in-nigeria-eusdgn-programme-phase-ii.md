@@ -7,8 +7,8 @@ tags:
 summary: DAI supports the Independent National Electoral Commission (INEC) in Nigeria—which
   works to enhance the credibility of the elections and seeks to boost citizen participation
   across the country.
-contract-start-year: 2022
-contract-end-year: 2027
+start: 2022
+end: 2027
 client: European Union
 solutions:
 - Governance

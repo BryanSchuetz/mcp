@@ -5,8 +5,8 @@ summary: 'DAI established and operates an Enterprise Development Center in Mozam
   The center collaborates with the government of Mozambique and the private sector
   to provide Mozambican enterprises with skills to participate in a variety of growth
   industries in the country. '
-contract-start-year: 2019
-contract-end-year: 2025
+start: 2019
+end: 2025
 client: ExxonMobil Moçambique, Limitada, on behalf of Mozambique Rovuma Venture and
   the Rovuma  LNG Area 4 partners
 solutions:

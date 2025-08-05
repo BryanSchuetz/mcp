@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The Albanian Agriculture Competitiveness (AAC) program worked with producers,
   suppliers, and processors along promising value chains to increase productivity,
   improve quality, and access better markets in Albania. '
-contract-start-year: 2007
-contract-end-year: 2013
+start: 2007
+end: 2013
 client: U.S. Government
 solutions:
 - Economic Growth

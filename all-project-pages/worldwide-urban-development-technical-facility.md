@@ -3,8 +3,8 @@ title: Worldwide—Urban Development Technical Facility
 date: 2022-11-11 11:18:00 Z
 summary: 'The first-ever EU Urban Development Technical Facility focuses on supporting
   partner countries in their urban development challenges. '
-contract-start-year: 2022
-contract-end-year: 2026
+start: 2022
+end: 2026
 client: European Union
 solutions:
 - Climate

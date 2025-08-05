@@ -5,8 +5,8 @@ summary: 'Our goals for this project in water-constrained Morocco were simple: r
   poverty, create jobs, and upgrade the workforce. Cutting across the project''s three
   main components were women and youth considerations—an effort to mainstream citizens
   marginalized despite Morocco''s economic growth.'
-contract-start-year: 2009
-contract-end-year: 2013
+start: 2009
+end: 2013
 client: U.S. Government
 solutions:
 - Governance

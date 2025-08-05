@@ -5,8 +5,8 @@ summary: DAI helped to improve the performance of Mongolia's financial sector in
   small and medium-sized enterprises (SMEs), particularly those that contribute to
   the mining value chain but whose owners do not have the substantial collateral required
   to finance their businesses' growth.
-contract-start-year: 2015
-contract-end-year: 2015
+start: 2015
+end: 2015
 client: European Bank for Reconstruction and Development
 solutions:
 - Business Environment Reform

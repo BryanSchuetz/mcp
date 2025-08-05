@@ -5,8 +5,8 @@ date: 2020-08-14 11:26:00 Z
 summary: This project supported Türkiye's Training and Research Centre for Labour
   and Social Security, medical, and rehabilitation professionals by developing new
   learning modules on occupational health and safety.
-contract-start-year: 2020
-contract-end-year: 2023
+start: 2020
+end: 2023
 client: European Union
 solutions:
 - Economic Growth

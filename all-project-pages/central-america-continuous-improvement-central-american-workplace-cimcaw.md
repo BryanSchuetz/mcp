@@ -5,8 +5,8 @@ summary: Funded by the U.S. Agency for International Development (USAID) and mul
   apparel companies, DAI worked with international and local nongovernmental organizations
   recognized for their workplace training approaches, and with unions and local governments
   to achieve sustainable change in workplace conditions.
-contract-start-year: 2004
-contract-end-year: 2008
+start: 2004
+end: 2008
 client: U.S. Government
 solutions:
 - Sustainable Business

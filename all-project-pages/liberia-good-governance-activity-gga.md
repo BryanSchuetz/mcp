@@ -7,8 +7,8 @@ summary: 'The Local Empowerment for Accountability and Decentralization Activity
   works to improve the capacities of select Government of Liberia ministries, agencies,
   and commissions to formulate and administer sound tax policies, improve budget transparency,
   deepen decentralization, and improve service delivery at the sub-national level. '
-contract-start-year: 2023
-contract-end-year: 2024
+start: 2023
+end: 2024
 client: U.S. Government
 solutions:
 - Governance

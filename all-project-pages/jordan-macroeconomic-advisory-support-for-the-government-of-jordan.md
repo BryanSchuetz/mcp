@@ -5,8 +5,8 @@ summary: The Macroeconomic Advisory Support to the Government of Jordan project 
   to deliver demand-led technical assistance supporting macroeconomic management,
   especially financing strategies and debt management, and support to the energy and
   water sectors on financial sustainability.
-contract-start-year: 2023
-contract-end-year: 2025
+start: 2023
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: The programme helps local governments in Nigeria develop and implement policy
   by assisting them in tracking and accounting for how policies, plans, and budgets
   are used in delivering public goods and services to promote growth and reduce poverty.
-contract-start-year: 2016
-contract-end-year: 2024
+start: 2016
+end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance

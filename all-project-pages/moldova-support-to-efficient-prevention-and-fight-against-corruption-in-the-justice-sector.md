@@ -5,8 +5,8 @@ date: 2021-03-09 11:37:00 Z
 summary: This project accelerated the sustainable reform of the justice sector by
   supporting the implementation of the legislation to prevent and combat corruption
   in the justice sector in the Republic of Moldova.
-contract-start-year: 2018
-contract-end-year: 2021
+start: 2018
+end: 2021
 client: European Union
 solutions:
 - Governance

@@ -3,8 +3,8 @@ title: Mauritania—Kosmos Innovation Center (KIC)
 date: 2020-01-16 16:12:00 Z
 summary: Since 2016, DAI’s Sustainable Business Group has provided support to the
   KIC, which got its start in Ghana and expanded its work to Mauritania in 2018.
-contract-start-year: 2018
-contract-end-year: 2026
+start: 2018
+end: 2026
 client: Kosmos Energy
 solutions:
 - Sustainable Business

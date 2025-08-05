@@ -4,8 +4,8 @@ date: 2019-07-17 08:16:00 Z
 summary: The Technical Assistance Facility supported the development and implementation
   of a long-term strategy to build up a sustainable national system of social protection
   in Somalia.
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: European Union
 solutions:
 - Governance

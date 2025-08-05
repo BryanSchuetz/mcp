@@ -5,8 +5,8 @@ date: 2016-01-21 22:40:00 Z
 summary: 'PRIME/West used three approaches to bring biodiversity conservation/natural
   resource management, and economic development together into a practical and sustainable
   model: landscape analysis, community-based natural resource management, and competitiveness. '
-contract-start-year: 2003
-contract-end-year: 2008
+start: 2003
+end: 2008
 client: U.S. Government
 solutions:
 - Environment

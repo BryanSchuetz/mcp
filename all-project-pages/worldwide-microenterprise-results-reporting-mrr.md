@@ -5,8 +5,8 @@ summary: DAI managed Microenterprise Results Reporting (MRR) for the U.S. Agency
   International Development. With a partner web development firm, we maintained the
   MRR website, an integrated web-based database to collect and process accurate, timely
   information from missions and partners on funding, results, and other requirements.
-contract-start-year: 2010
-contract-end-year: 2013
+start: 2010
+end: 2013
 client: U.S. Government
 solutions:
 - Economic Growth

@@ -3,8 +3,8 @@ title: Worldwide—Social Protection Approaches to COVID-19 Expert Advice Servic
 date: 2022-01-20 10:10:00 Z
 summary: SPACE supported governments and other decision-makers in the use or adaptation
   of social protection systems and programs to respond to the COVID-19 crisis worldwide.
-contract-start-year: 2020
-contract-end-year: 2021
+start: 2020
+end: 2021
 client:
 - Foreign, Commonwealth & Development Office
 - Gesellschaft für Internationale Zusammenarbeit (GIZ)

@@ -4,8 +4,8 @@ date: 2017-08-28 17:43:00 Z
 summary: 'The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project improved
   maternal newborn and child health by protecting children and their mothers from
   preventable diseases. '
-contract-start-year: 2014
-contract-end-year: 2019
+start: 2014
+end: 2019
 client: European Union
 solutions:
 - Health Governance

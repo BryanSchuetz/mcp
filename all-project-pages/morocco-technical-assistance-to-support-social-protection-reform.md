@@ -6,8 +6,8 @@ summary: The Technical Assistance to Support Social Protection Reform project in
   assistance, social insurance, social protection, and health; produced studies to
   improve the monitoring and evaluation of the reforms; and implemented communication
   and visibility activities.
-contract-start-year: 2019
-contract-end-year: 2021
+start: 2019
+end: 2021
 client: European Union
 solutions:
 - Economic Growth

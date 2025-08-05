@@ -4,8 +4,8 @@ date: 2017-08-25 14:16:00 Z
 summary: DAI’s Sustainable Business Group (SBG) created an innovative five-year strategy
   to deliver economic and social impact beyond project revenue, to create positive
   outcomes for government, commercial opportunities for suppliers, and direct employment.
-contract-start-year: 2019
-contract-end-year: 2020
+start: 2019
+end: 2020
 client: Multinational Corporation
 solutions:
 - Sustainable Business

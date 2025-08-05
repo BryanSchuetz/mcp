@@ -5,8 +5,8 @@ summary: By working with national and local governments to improve their systems
   collecting and spending revenue, the El Salvador Domestic Resource Mobilization
   Program increased public funding to support social programs, generate employment,
   and reduce inequality.
-contract-start-year: 2017
-contract-end-year: 2023
+start: 2017
+end: 2023
 client: U.S. Government
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization

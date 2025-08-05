@@ -4,8 +4,8 @@ date: 2019-10-03 11:20:00 Z
 summary: 'The Strengthening Host and Refugees Populations in Ethiopia program works
   to strengthen the economies of target populations in three regions in Ethiopia;
   Dollo Ado, Gambella, and Jijiga. '
-contract-start-year: 2019
-contract-end-year: 2025
+start: 2019
+end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States
