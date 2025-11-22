@@ -1,4 +1,4 @@
-
+---
 title: Jordan—Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)
 date: 2016-01-21 22:40:00 Z
 summary: By 2009, years of organic and poorly planned growth in the Kingdom of Jordan
@@ -6,7 +6,7 @@ summary: By 2009, years of organic and poorly planned growth in the Kingdom of J
   of the national workforce.
 start: 2009
 end: 2017
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
@@ -15,7 +15,7 @@ regions:
 country:
 - Jordan
 layout: project
-
+---
 
 By 2009, years of organic and poorly planned growth in the Kingdom of Jordan had produced a large and unwieldy government bureaucracy accounting for 13 percent of the national workforce. Institutions had confusing and overlapping mandates. Public spending was rising on services that did not necessarily fall under the mandate of the public sector. At the same time, citizens struggled to find the appropriate government agencies to address their everyday needs.
 

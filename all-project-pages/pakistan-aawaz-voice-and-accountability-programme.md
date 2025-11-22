@@ -1,4 +1,4 @@
-
+---
 title: Pakistan—AAWAZ Voice and Accountability Programme
 date: 2016-01-21 22:40:00 Z
 summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts across
@@ -26,13 +26,13 @@ promos:
 - title: 'Donor Action in Pakistan: A Comparative Case Study of CDIP and AAWAZ'
   link: https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/16456
 layout: project
-
+---
 
 [AAWAZ](http://aawaz.org.pk/index.php?action=home) brought together some of the most important civil society development organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan, Strengthening Participatory Organization, and Sungi Development Foundation. Together, they formed an integrated network—managed by DAI—to strengthen Pakistani citizens' capacity to collectively voice their priorities, bring about reform, and hold the government accountable.
 
 <iframe src="https://player.vimeo.com/video/257543586" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[AAWAZ](http://aawaz.org.pk/index.php) worked from the community to the national level to enhance women's safe political participation, strengthen community cohesion and nonviolent dispute resolution, and build citizens' capacity, particularly women and other disadvantaged groups, to influence the quality of government service delivery. AAWAZ improved women’s effective public and political participation; tackled violence against women and girls and religion-based conflict; and supported citizens to access information about their rights, prevent conflict and work effectively with duty-bearers to remedy gaps in essential services. It aimed to ensure that democratic processes are more open, inclusive, and accountable to citizens in Pakistan. AAWAZ operated in 4,500 villages and settlements in 45 Districts across Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which 8 million benefited directly from improved services, reduced violence, and increased political participation.
+[AAWAZ](http://aawaz.org.pk/index.php) worked from the community to the national level to enhance women's safe political participation, strengthen community cohesion and nonviolent dispute resolution, and build citizens' capacity, particularly women and other disadvantaged groups, to influence the quality of government service delivery. AAWAZ improved women’s effective public and political participation; tackled violence against women and girls and religion-based conflict; and supported citizens to access information about their rights, prevent conflict and work effectively with duty-bearers to remedy gaps in essential services. It aimed to ensure that democratic processes are more open, inclusive, and accountable to citizens in Pakistan. AAWAZ operated in 4,500 villages and settlements in 45 Districts across Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which 8 million benefited directly from improved services, reduced violence, and increased political participation.  
 
 ### Sample Activities
 

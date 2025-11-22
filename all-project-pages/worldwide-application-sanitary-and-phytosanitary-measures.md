@@ -1,4 +1,4 @@
-
+---
 title: Worldwide—Application of Sanitary and Phytosanitary Measures
 date: 2016-01-21 22:40:00 Z
 summary: When developing-country governments and agencies requested assistance related
@@ -6,7 +6,7 @@ summary: When developing-country governments and agencies requested assistance r
   Agency for International Development and implementing agencies to respond.
 start: 2002
 end: 2007
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Global Health Security and Pandemic Preparedness
@@ -16,7 +16,7 @@ regions:
 country:
 - Regional
 layout: project
-
+---
 
 Agricultural health and food safety are important to developing countries for many reasons. Apart from their obvious health benefits, sanitary conditions during field, processing, and shipping operations—and the international standards associated with these conditions—enable agricultural and processed foods to be exported to developed-country markets. Agricultural products crossing borders must also adhere to internationally accepted phytosanitary (plant health) standards so that the risk associated with the possible transport of agricultural pests and diseases is minimized for the importing country. When developing-country governments and agencies requested assistance related to these sanitary and phytosanitary (SPS) issues, this program allowed the U.S. Agency for International Development (USAID) and implementing agencies to respond.
 

@@ -1,4 +1,4 @@
-
+---
 title: Philippines—Facilitating Public Investment (FPI)
 date: 2016-01-21 22:40:00 Z
 summary: This project promoted optimization of public expenditures through results-oriented
@@ -7,7 +7,7 @@ summary: This project promoted optimization of public expenditures through resul
   and other areas.
 start: 2013
 end: 2018
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Governance
@@ -23,7 +23,7 @@ promos:
 - title: Philippines Experiences Nearly Seven-Fold Increase in Electronic Tax Filing
   link: https://dai-global-developments.com/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates
 layout: project
-
+---
 
 With [reform-minded leadership](http://dai-global-developments.com/articles/philippines-new-tax-bill-promises-more-revenue-for-social-programs-infrastructure) and the commitment of the United States and Philippine governments to transformational change—embodied in their joint Partnership for Growth—the Philippines has a rare opportunity to address some critical fiscal issues. FPI helped the government of the Philippines [increase its fiscal space](http://dai-global-developments.com/articles/how-tax-assistance-from-usaid-dfid-helps-developing-countries-to-manage-money-and-help-themselves?utm_source=daidotcom) to enable inclusive economic growth as well as identify synergies between increasing revenue collection and improving the business environment.
 
@@ -33,7 +33,7 @@ The project promoted optimization of public expenditures through results-oriente
 
 ### Sample Activities
 
-* Partner with government agencies to improve electronic tax filing IT system and promote use by taxpayers.
+* Partner with government agencies to improve electronic tax filing IT system and promote use by taxpayers. 
 * Work with mobile payment providers and local banks to expand channels and locations for tax payment.
 * Build revenue forecasting capacity of government agencies.
 * Build capacity of government officials in budgeting, program evaluation, and cost-benefit analysis.

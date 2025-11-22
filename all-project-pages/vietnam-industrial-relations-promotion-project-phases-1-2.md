@@ -1,4 +1,4 @@
-
+---
 title: Vietnam—Industrial Relations Promotion Project Phases 1-2
 date: 2016-01-21 22:40:00 Z
 summary: This partnership between the U.S. Department Of Labor and Vietnamese government—a
@@ -7,7 +7,7 @@ summary: This partnership between the U.S. Department Of Labor and Vietnamese go
   implementation of labor laws and promoting sound industrial relations.
 start: 2009
 end: 2013
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Governance
@@ -16,7 +16,7 @@ regions:
 country:
 - Vietnam
 layout: project
-
+---
 
 Vietnam has dramatically modernized its economy and supporting legal framework over the past decade, including a new Labor Code as of May 2013. But the framework for labor relations has not kept pace, leading to problems in implementing labor laws and poor communication between management and labor. As a result, each year has seen strikes and other labor disruptions that have hurt industry and workflow.
 

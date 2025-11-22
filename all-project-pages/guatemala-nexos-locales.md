@@ -1,4 +1,4 @@
-
+---
 title: Guatemala—Nexos Locales
 date: 2016-01-21 22:40:00 Z
 summary: Nexos Locales works with municipalities in Guatemala's Western Highlands
@@ -7,7 +7,7 @@ summary: Nexos Locales works with municipalities in Guatemala's Western Highland
   achieve this goal, the project works at the intersection—or nexos—of good governance.
 start: 2014
 end: 2023
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Climate
@@ -39,7 +39,7 @@ promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
-
+---
 
 Nexos Locales works with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 
@@ -58,7 +58,7 @@ Nexos Locales also increases the capacity of the National Association of Municip
 
 ### Select Results
 
-* Partnered with the Guatemalan Ministry of Finance on an [innovative water metering and billing](https://spark.adobe.com/page/FZdYuRsrp6AqO/) mobile application to provide citizens with a transparent and effective means to pay their water bills.
+* Partnered with the Guatemalan Ministry of Finance on an [innovative water metering and billing](https://spark.adobe.com/page/FZdYuRsrp6AqO/) mobile application to provide citizens with a transparent and effective means to pay their water bills. 
 * Supported the municipality of Chiantla, Huehuetenango, with the development, launch, and end-user evaluation of a smartphone transparency app called [#SomosChiantla](https://dai-global-digital.com/governance-app-guatemala.html) to provide citizens with a user-friendly interface for finding information about local government public expenditures. In 2018, the project replicated the app in San Rafael Pie de la Cuesta, San Marcos, and Sacapulas, Quiché.
 * Provided assistance and disseminated easy-to-use tools developed by the project for municipal governments’ to expand their revenue sources; as a result, 37 municipalities increased their revenues by an average of 53 percent in 2018.
 * Strengthened municipal water and sanitation offices, resulting in a tripling of the number of municipalities providing safe water to citizens.

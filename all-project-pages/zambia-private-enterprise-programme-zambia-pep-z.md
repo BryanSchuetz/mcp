@@ -1,4 +1,4 @@
-
+---
 title: Zambia—Private Enterprise Programme–Zambia (PEP-Z)
 date: 2016-01-21 22:40:00 Z
 summary: PEP-Z tackled low productivity and increasing competitiveness in Zambia's
@@ -15,7 +15,7 @@ regions:
 country:
 - Zambia
 layout: project
-
+---
 
 DAI is the contract holder, but our partner Nathan Associates is implementing this program. Our goal is to deliver outputs, outcome, and impact while ensuring value for money is achieved by building in appropriate programme and financial management systems.
 

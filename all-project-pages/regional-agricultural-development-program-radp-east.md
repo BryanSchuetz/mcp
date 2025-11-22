@@ -1,4 +1,4 @@
-
+---
 title: Afghanistan—Regional Agricultural Development Program (RADP–East)
 date: 2016-01-21 22:40:00 Z
 summary: RADP-East addressed issues of unreliable irrigation, poor agricultural cultivation
@@ -8,7 +8,7 @@ summary: RADP-East addressed issues of unreliable irrigation, poor agricultural 
   security of the region.
 start: 2016
 end: 2021
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -19,7 +19,7 @@ regions:
 country:
 - Afghanistan
 layout: project
-
+---
 
 The Regional Agricultural Development Program-East (RADP-East), funded by the U.S. Agency for International Development, addressed issues of unreliable irrigation, poor agricultural cultivation techniques, and a lack of knowledge about accessing new markets, by using a value chain facilitation strategy to improve crop yields and find new outlets for rural Afghan farmers to sell their harvests, thereby increasing the food and economic security of the region.
 
@@ -39,10 +39,10 @@ More than 13,300 households benefited from agriculture and alternative developme
 
 ## Select Results
 
-* Co-financed grants to improve business processes at selected firms, awards for which have amounted to $3.7 million since the beginning of the project in 2016. By the end of 2019, those firms that received co-financing grants were producing a total of $33.4 million in sales.
+* Co-financed grants to improve business processes at selected firms, awards for which have amounted to $3.7 million since the beginning of the project in 2016. By the end of 2019, those firms that received co-financing grants were producing a total of $33.4 million in sales. 
 * Created more than 1,600 full-time jobs.
 * Referred 58 agribusinesses to various lending institutions for credit. Thus far, five loans have been successfully disbursed to the referred agribusinesses, for a total value of more than $250,000—enabling the companies to expand operations, upgrade facilities and equipment, and expand their market.
-* Facilitated 20 business-to-business matchmaking meetings, recording $241,200 worth of potential deals for supported entrepreneurs who also earned $3,000 from on-the-spot sales of their agricultural products at an October 2019 tradeshow.
-* Conceptualized an awareness program focusing on how to recognize hemorrhagic fever, what to do during livestock farming and slaughtering to reduce the risk of human infection, and how to limit the viral spread and impact on the people dealing with livestock. By mid-October 2019, awareness training was delivered to 800 dairy farmers and butchers, of whom 160 were women.
-* Supported the 2018 production of a Borrower’s Guide to provide potential borrowers information on financial products and services available in financial institutions in Afghanistan.
+* Facilitated 20 business-to-business matchmaking meetings, recording $241,200 worth of potential deals for supported entrepreneurs who also earned $3,000 from on-the-spot sales of their agricultural products at an October 2019 tradeshow. 
+* Conceptualized an awareness program focusing on how to recognize hemorrhagic fever, what to do during livestock farming and slaughtering to reduce the risk of human infection, and how to limit the viral spread and impact on the people dealing with livestock. By mid-October 2019, awareness training was delivered to 800 dairy farmers and butchers, of whom 160 were women. 
+* Supported the 2018 production of a Borrower’s Guide to provide potential borrowers information on financial products and services available in financial institutions in Afghanistan. 
 * Exported about $2.1 million of processed and fresh apricots.

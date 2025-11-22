@@ -1,4 +1,4 @@
-
+---
 title: Kyrgyzstan—Parliamentary Strengthening Program (KPSP)
 date: 2016-01-21 22:40:00 Z
 summary: 'To effect reform and stability, the Kyrgyzstan Parliament must work toward
@@ -7,7 +7,7 @@ summary: 'To effect reform and stability, the Kyrgyzstan Parliament must work to
   supported the Parliament (*Jogorku Kenesh*) in that effort.'
 start: 2010
 end: 2015
-client: U.S. Government, U.K. Foreign, Commonwealth & Development
+client: U.S. Agency for International Development, U.K. Foreign, Commonwealth & Development
   Office
 solutions:
 - Governance
@@ -16,7 +16,7 @@ regions:
 country:
 - Kyrgyzstan
 layout: project
-
+---
 
 In April 2010, the Government of Kyrgyzstan and its president were brought down amid protests over corruption, abuse of power, and increasing utility prices. Within days a new Government assumed power, followed in June 2010 by a new constitution and parliamentary centric system. The elections to the new Parliament—the Jogorku Kenesh, or Supreme Council—were held on October 10, 2010. Challenges abound for the new parliamentarians; they face deep cynicism about state structures because both of Kyrgyzstan's post-Soviet Presidents fell into corruption and authoritarianism and were deposed after widespread protests. Tensions continue to simmer in the country's south between ethnic Uzbeks and Kyrgyz.
 

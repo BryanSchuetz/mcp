@@ -1,4 +1,4 @@
-
+---
 title: Honduras—ProParque; Gobernanza en Ecosistemas, Medios de Vida, y Agua (GEMA)
 date: 2016-01-21 22:40:00 Z
 summary: GEMA worked in western Honduras to further improve natural conservation policies;
@@ -6,7 +6,7 @@ summary: GEMA worked in western Honduras to further improve natural conservation
   and promoted a more informed and resilient civil society in Honduras.
 start: 2016
 end: 2020
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Climate
 - Environment
@@ -20,7 +20,7 @@ promos:
 - title: Six Ways to Mitigate Instability in Central America
   link: http://dai-global-developments.com/articles/mitigating-instability-in-central-america
 layout: project
-
+---
 
 Honduras and its Bay Islands offer unparalleled natural wonders—stunning coral reefs, mangroves, rainforests, cloud forests, mountain ranges, and an abundance of endemic plant and animal species. However, insufficient environmental protection and unchecked deterioration of natural resources threaten the future of these important and fragile ecosystems. Many of the sustainable business opportunities in tourism and agriculture that could help to preserve the country’s rich biodiversity and provide income for rural populations have yet to be fully developed. In addition, the communities around these valuable ecosystems face significant and growing risks from climate-induced natural disasters.
 

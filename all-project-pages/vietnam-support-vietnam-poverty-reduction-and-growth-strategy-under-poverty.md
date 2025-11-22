@@ -1,4 +1,4 @@
-
+---
 title: 'Vietnam—Support to Vietnam’s Poverty Reduction and Growth Strategy under Poverty
   Reduction Support Credit III: Support to State Audit of Vietnam (SAV)'
 date: 2016-01-21 22:40:00 Z
@@ -15,7 +15,7 @@ regions:
 country:
 - Vietnam
 layout: project
-
+---
 
 Vietnam's economy is on the right path, but numerous aspects of public administration require further development to promote conditions for sustainable economic growth. Through the State Audit of Vietnam (SAV), DAI and the U.K. National Audit Office provided support to the SAV to build capacity in public sector auditing and helped to implement the new State Audit Law.
 

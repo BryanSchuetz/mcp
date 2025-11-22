@@ -1,4 +1,4 @@
-
+---
 title: Western Balkans—Sustainable Energy Finance Facility (WeBSEFF I & II)
 date: 2016-01-21 22:40:00 Z
 summary: 'WeBSEFF I and II provided debt financing to businesses, municipalities,
@@ -16,7 +16,7 @@ regions:
 country:
 - Regional
 layout: project
-
+---
 
 Significant potential for sustainable energy investments remains untapped in the Western Balkans while improvement in sustainable energy still faces many barriers. WeBSEFF I and II continued the European Bank for Reconstruction and Development's support to the region by providing debt financing to businesses, municipalities, and energy service companies for energy projects undertaken in Bosnia-Herzegovina, Macedonia, Former Yugoslav Republic of Montenegro, and Serbia. The goal: reduce energy intensity and promote diverse sources of green energy in a region where rising energy prices remain a challenge.
 

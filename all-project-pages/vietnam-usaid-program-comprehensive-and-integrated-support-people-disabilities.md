@@ -1,4 +1,4 @@
-
+---
 title: Vietnam—USAID Program of Comprehensive and Integrated Support to People with
   Disabilities (Disability Support Program)
 date: 2016-01-21 22:40:00 Z
@@ -7,7 +7,7 @@ summary: An estimated 12 million people and families in Vietnam are affected by 
   assistance to people with disabilities.
 start: 2012
 end: 2016
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Global Health
 regions:
@@ -20,7 +20,7 @@ promos:
 - title: In Vietnam, Creating Opportunities for Children with Disabilities
   link: https://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities?utm_source=daidotcom
 layout: project
-
+---
 
 An estimated 12 million people and families in Vietnam are [affected by disabilities][1], with the resulting human, social, and economic costs to society often exacerbating the poverty that causes or accompanies disability.
 

@@ -1,4 +1,4 @@
-
+---
 title: Tanzania—Economic Strengthening for Households Affected by AIDS (IMARISHA)
 date: 2016-01-21 22:40:00 Z
 summary: IMARISHA, which means "strengthening" in Swahili, was a four-year program
@@ -6,7 +6,7 @@ summary: IMARISHA, which means "strengthening" in Swahili, was a four-year progr
   Emergency Plan for AIDS Relief (PEPFAR) to strengthen economic activities.
 start: 2011
 end: 2015
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Global Health
 - Health and Livelihoods
@@ -19,7 +19,7 @@ promos:
 - title: Using Hard Data to Inform HIV/AIDS Interventions for Economic Strengthening
   link: https://dai-global-developments.com/articles/using-hard-data-to-inform-hivaids-interventions-for-economic-strengthening
 layout: project
-
+---
 
 As the AIDS epidemic in Tanzania spread, treatment and care expanded and people started living longer. As a result, programs increasingly wrestled with how to mitigate the huge economic costs faced by individuals and families coping with HIV/AIDS and how to build better household safety nets. Many programs intervened to build resiliency among the affected households and mitigate AIDS' economic impact. Intent, however, has not always translated into outcomes as economic strengthening activities undertaken by the health community have had mixed results. IMARISHA, which means "strengthening" in Swahili, was a four-year program funded by the U.S. Agency for International Development (USAID) and the U.S. President's Emergency Plan for AIDS Relief (PEPFAR) to strengthen these economic activities. IMARISHA forged a common language between the health and economic-strengthening communities to foster more effective programming, innovation, smart partnerships, and appropriate services, as well as a common set of indicators to measure impact.
 

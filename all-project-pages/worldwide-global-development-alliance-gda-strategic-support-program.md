@@ -1,4 +1,4 @@
-
+---
 title: Worldwide—Global Development Alliance (GDA) Strategic Support Program
 date: 2016-01-21 22:40:00 Z
 summary: Since 2006, DAI has been called on by USAID to enhance, evaluate, and create
@@ -8,7 +8,7 @@ summary: Since 2006, DAI has been called on by USAID to enhance, evaluate, and c
   at USAID and its missions worldwide.
 start: 2006
 end: 2011
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Sustainable Business
 - Economic Growth
@@ -17,7 +17,7 @@ regions:
 country:
 - Regional
 layout: project
-
+---
 
 Public-private partnerships leverage external funds from corporations, foundations, and other entities to achieve development objectives. They are an increasingly important component of global development assistance. Since 2006, the U.S. Agency for International Development's (USAID)'s Office of Global Development Alliances—now known as the Global Partnerships Office—has forged more than 1,000 alliances with more than 3,000 partners. Since 2006, DAI has been called on by USAID to enhance, evaluate, and [create public-private partnerships][1]. Two of our projects—Global Development Alliance Strategic Support Program (2006–2011) and Evaluation of the Impact and Effectiveness of Development Alliances (2007–2008)—effectively set the bar for partnership policy and practice at USAID and its missions worldwide. For more information about the GDA's work, click [here][2].
 

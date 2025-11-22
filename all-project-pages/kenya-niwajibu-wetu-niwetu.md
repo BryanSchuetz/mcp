@@ -1,4 +1,4 @@
-
+---
 title: Kenya—NiWajibu Wetu (NIWETU)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Kenya NiWajibu Wetu (NIWETU) program, funded by the U.S. Agency for
@@ -6,7 +6,7 @@ summary: 'The Kenya NiWajibu Wetu (NIWETU) program, funded by the U.S. Agency fo
   and communities in hotspots in Kenya. '
 start: 2016
 end: 2020
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Fragile States
 - Countering Extremism
@@ -20,7 +20,7 @@ promos:
 - title: A Systems-based Approach to CVE
   link: "/uploads/NIWETU%20-%20Systems-Based%20Approach_Final.pdf"
 layout: project
-
+---
 
 Kenya is one of Africa’s longest-running democracies, a regional economic powerhouse, and a critical ally in the fight against violent extremism. After Kenyan troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”), the terrorist group al-Shabaab and its Kenyan affiliate al-Hijra reacted by carrying out attacks on public spaces in Kenya. The violent extremist groups have also attempted to create a schism between communities and manipulate underdevelopment and perceptions of marginalization to fuel their victimization narratives and recruit disenfranchised individuals to their cause.
 
@@ -39,10 +39,10 @@ NIWETU [supported](https://pdf.usaid.gov/pdf_docs/PA00XB8G.pdf?utm_medium=email&
 
 ### Select Results
 
-* Supported 41 counties across Kenya to develop inclusive, locally informed CVE County Action Plans. Each plan was developed through coordination between the national government, county government, religious figures, civil society organizations, and activists, ensuring that diverse voices informed each county’s CVE plan.
+* Supported 41 counties across Kenya to develop inclusive, locally informed CVE County Action Plans. Each plan was developed through coordination between the national government, county government, religious figures, civil society organizations, and activists, ensuring that diverse voices informed each county’s CVE plan. 
 * Trained 860 county and national officials in CVE skills and knowledge.
 * Supported 52 CVE Champions for Change to develop and implement locally specific CVE action plans across NIWETU’s five core counties. In addition to providing technical assistance to these champions, NIWETU supported the establishment of a Champions for Change Network, for stakeholders to develop partnerships to share lessons learned and collaborate on future activities.
 * Developed a CVE Facilitation Guide used to train 63 local facilitators, who in turn have led CVE sessions with more than 1,200 community members across NIWETU’s five core counties. These facilitators report using their new skills and knowledge to conduct additional CVE conversations and training without USAID support.
-* Utilized a robust Complexity Aware Planning Cycle Framework, which aids strategic and implementation decision making. For example, NIWETU completed research on the “10 Essential Ingredients” for the successful development and implementation of a CVE County Action Plan and shared its findings with Kenya’s National Counter Terrorism Center (NCTC). NCTC has since incorporated these recommendations into its CAP implementation efforts across Kenya.
+* Utilized a robust Complexity Aware Planning Cycle Framework, which aids strategic and implementation decision making. For example, NIWETU completed research on the “10 Essential Ingredients” for the successful development and implementation of a CVE County Action Plan and shared its findings with Kenya’s National Counter Terrorism Center (NCTC). NCTC has since incorporated these recommendations into its CAP implementation efforts across Kenya. 
 
 ![Garissa3 page.jpg](/uploads/Garissa3%20page.jpg)`A chief from Garissa Township, at right, dances with community members at the launch of the Garissa County Action Plan to Counter Violent Extremism.`

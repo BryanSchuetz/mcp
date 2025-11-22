@@ -1,4 +1,4 @@
-
+---
 title: Worldwide—SERVIR Program Demand Activity
 date: 2016-01-21 22:40:00 Z
 summary: Satellites photograph the world, providing a world of information. DAI helped
@@ -6,7 +6,7 @@ summary: Satellites photograph the world, providing a world of information. DAI 
   change and natural and manmade disasters.
 start: 2012
 end: 2015
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Climate
 - Environment
@@ -15,7 +15,7 @@ regions:
 country:
 - Worldwide
 layout: project
-
+---
 
 Satellites photograph the world, providing a world of information. DAI helped use this information to help countries prepare for and mitigate the effects of changes to climate and natural and manmade disasters.
 

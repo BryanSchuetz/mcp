@@ -1,4 +1,4 @@
-
+---
 title: Africa—Trans-Sahara Security Symposium (TSS)
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and DAI
@@ -6,7 +6,7 @@ summary: The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and
   to support the interagency Trans-Sahara Counter Terrorism Partnership.
 start: 2008
 end: 2012
-client: U.S. Government
+client: U.S. Department of Defense
 solutions:
 - Fragile States
 - Security and Justice
@@ -22,7 +22,7 @@ promos:
     Security
   link: https://dai-global-developments.com/articles/linking-soldiers-civilians-across-west-central-africa-to-increase-stability-security
 layout: project
-
+---
 
 The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and DAI conducted this innovative civil-military operations/relations (CMO/R) education program to support the interagency Trans-Sahara Counter Terrorism Partnership (TSCTP). This multiyear U.S. Department of Defense training series supported the U.S. Agency for International Development and U.S. Department of State's joint effort to build civil-military capacity and enhance regional security and cooperation.
 

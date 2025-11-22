@@ -1,4 +1,4 @@
-
+---
 title: Poland—Residential Energy Efficiency Financing Facility (Poland REFF)
 date: 2016-01-21 22:40:00 Z
 summary: Poland REFF created a program of targeted loans to incentivize borrowing
@@ -15,7 +15,7 @@ regions:
 country:
 - Poland
 layout: project
-
+---
 
 Poland is one of the most energy-intensive economies in Europe and the Polish government identified increased energy efficiency as one of its top priorities when developing the country's long-term energy policy. The European Bank for Reconstruction and Development (ERBD) [Polish Residential Energy Efficiency Financing Facility](http://www.polreff.org/?sLanguage=en) (Poland REFF) addressed this goal through a program of targeted loans to incentivize borrowing for household improvements that increase efficiency and reduce energy consumption.
 
@@ -34,8 +34,8 @@ The project facilitated the disbursement of €128 million in sub-loans through 
 
 ### Select Results
 
-* Created a €200 million credit facility to build the market for investments in sustainable energy in the residential sector in Poland.
-* Ensured that financial institutions became familiar with appraising and financing energy efficiency and renewable energy investments in the sector.
-* Increased awareness of potential borrowers of energy and resource-saving benefits.
-* Developed an innovative List of Eligible Materials and Equipment to easily find energy-efficient products and materials, and giving materials suppliers the opportunity to register, bolstering demand for their businesses.
+* Created a €200 million credit facility to build the market for investments in sustainable energy in the residential sector in Poland.  
+* Ensured that financial institutions became familiar with appraising and financing energy efficiency and renewable energy investments in the sector.  
+* Increased awareness of potential borrowers of energy and resource-saving benefits. 
+* Developed an innovative List of Eligible Materials and Equipment to easily find energy-efficient products and materials, and giving materials suppliers the opportunity to register, bolstering demand for their businesses.  
 * Won “Deal of the Year” at the Central and Eastern European Clean Energy Awards.

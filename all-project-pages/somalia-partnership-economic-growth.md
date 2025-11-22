@@ -1,4 +1,4 @@
-
+---
 title: Somalia—Partnership for Economic Growth
 date: 2016-01-21 22:40:00 Z
 summary: The USAID Partnership for Economic Growth program worked with local authorities
@@ -6,7 +6,7 @@ summary: The USAID Partnership for Economic Growth program worked with local aut
   generate more productive employment and incomes.
 start: 2011
 end: 2016
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -19,7 +19,7 @@ promos:
 - title: The Partnership Fund
   link: https://dai-global-developments.com/articles/to-the-partnership-fund
 layout: project
-
+---
 
 A number of the Somali areas that enjoy relative peace and stability have established functioning governance structures and favorable business environments that have facilitated investment in sectors including livestock, import and export, telecommunications, remittances, and more. These areas are now ripe for support to private sector development, investment, and economic policy development. The USAID Partnership for Economic Growth program worked with local authorities and private sector groups to improve the enabling environment for investment and generate more [productive employment][1] and incomes.
 

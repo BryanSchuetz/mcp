@@ -1,4 +1,4 @@
-
+---
 title: Palestine—Palestinian Market Development Programme (PMDP)
 date: 2016-01-21 22:40:00 Z
 summary: PMDP improved market systems and the competitiveness of the Palestinian private
@@ -18,10 +18,10 @@ country:
 promos:
 - title: Getting Back to Business in Post-Conflict Gaza
   link: https://dai-global-developments.com/articles/getting-back-to-business-in-post-conflict-gaza
-- title:
-  link:
+- title: 
+  link: 
 layout: project
-
+---
 
 The Palestinian Market Development Programme (PMDP) worked to improve market systems and improve the competitiveness of the Palestinian private sector. We did so by improving private sector skills and innovation through technical assistance and matching grants; addressing market system failures in specific sectors through market analysis and facilitation; and strengthening trade and investment linkages with international markets in collaboration with key commercial representatives. DAI mobilized the Palestinian diaspora to explore opportunities to transfer knowledge and improve linkages on trade and investment.
 

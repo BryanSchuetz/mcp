@@ -1,4 +1,4 @@
-
+---
 title: Somalia—Somali Business Catalytic Fund (SBCF)
 date: 2016-11-18 19:02:00 Z
 summary: To help address barriers and boost economic growth, the World Bank launched
@@ -17,7 +17,7 @@ country: Somalia
 promos:
 - title: New Somali Business Fund Creates Jobs
   link: https://www.worldbank.org/en/news/feature/2018/05/30/new-somali-business-fund-creates-jobs
-
+---
 
 Over the past 20 years, violent conflicts in various areas of the Somalia Peninsula have hindered lasting economic growth and stability in the entire region, with more than 70 percent of the population living below the poverty line today. Despite these difficult conditions, the Somali private sector has shown remarkable resiliency, with a variety of small businesses managing to prosper and create an environment for potential investment. However, key constraints such as weak infrastructure, limited access to finance, a lack of market information, and low levels of human capital impede the private-sector expansion crucial to reducing the country’s widespread poverty.
 

@@ -1,4 +1,4 @@
-
+---
 title: Uzbekistan—USAID Agricultural Value Chains Activity (Uzbekistan AVC)
 date: 2016-01-21 22:40:00 Z
 summary: The USAID Agricultural Value Chains Activity in Uzbekistan [improved the
@@ -7,7 +7,7 @@ summary: The USAID Agricultural Value Chains Activity in Uzbekistan [improved th
   and linked educational institutions with private sector demand.
 start: 2015
 end: 2020
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Market Systems and Value Chain
@@ -32,7 +32,7 @@ promos:
 - title: 'TRADE FOR TOMORROW VIDEO: One Man''s Transformation from Farmhand to Entrepreneur'
   link: https://www.usaid.gov/stories/trade-for-tomorrow
 layout: project
-
+---
 
 The USAID Agricultural Value Chains Activity in Uzbekistan (Uzbekistan AVC) capitalized on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We scaled up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC co-invested with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan)—to ensure scalability and sustainability.
 
@@ -56,10 +56,10 @@ Uzbekistan AVC provided more than 100,000 training hours to its partners. These 
 
 ### Select Results
 
-* Incentivized more than 10,000 horticultural producers and processors to adopt new technologies and practices, [improving agricultural practices](https://www.youtube.com/watch?v=utcQNbBd_2g) on 15,600 hectares of horticultural farms.
+* Incentivized more than 10,000 horticultural producers and processors to adopt new technologies and practices, [improving agricultural practices](https://www.youtube.com/watch?v=utcQNbBd_2g) on 15,600 hectares of horticultural farms. 
 * Published studies in the *International Journal of Advanced Science and Technology* on the "[Qualitative Organizing of Storage Process of Table Grape Varieties by Using Grape Guard Sheets in Cold Storage](http://sersc.org/journals/index.php/IJAST/article/view/21857)" and the *Journal of Advanced Research in Dynamical and Control Systems* on the "[Effect of Different Grape Guard Sheets for the Storage of 'Toyfi' Variety of Grape](https://www.jardcs.org/abstract.php?id=5769)."
 * Leveraged $23 million in private sector investment in the establishment of new orchards, installation of water-saving technologies, expansion of the cold chain network, and upgrades in product packaging, marketing, and branding to meet international standards.
-* Provided 100,000 hours of training and facilitated the emergence of 75 new consulting service providers, contributing to a 67 percent increase in farm yields, increasing income among targeted farmers by 107 percent.
+* Provided 100,000 hours of training and facilitated the emergence of 75 new consulting service providers, contributing to a 67 percent increase in farm yields, increasing income among targeted farmers by 107 percent. 
 
 <iframe src="https://player.vimeo.com/video/387504205" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

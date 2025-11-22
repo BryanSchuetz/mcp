@@ -1,4 +1,4 @@
-
+---
 title: Zambia—Study of Nontraditional Exports
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Growth Centre
@@ -20,7 +20,7 @@ summary: 'Zambia''s future development will depend significantly on the diversif
   income distribution in the sugar, cotton, and coffee sectors.
 
 '
-
+---
 
 Zambia's future development will depend significantly on the diversification of the economy. To that end, DAI was commissioned to assess the potential for the diversification of Zambia's agricultural economy into nontraditional export markets by determining prospects for growth, employment creation, and equitable wealth and income distribution in the sugar, cotton, and coffee sectors.
 

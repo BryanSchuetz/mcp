@@ -1,4 +1,4 @@
-
+---
 title: Central America—Programa Regional de Cambio Climatico—PRCC
 date: 2016-01-21 22:40:00 Z
 summary: This regional initiative identified solutions and action plans to permit
@@ -6,7 +6,7 @@ summary: This regional initiative identified solutions and action plans to permi
   to the effects of climate change.
 start: 2013
 end: 2018
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Climate
 - Environment
@@ -17,7 +17,7 @@ regions:
 country:
 - Regional
 layout: project
-
+---
 
 This regional initiative is [identifying solutions](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) and action plans to permit the countries and territories of Central America and the Dominican Republic to respond to the effects of severe weather related events. The program is implemented by five organizations: Centro Agronómico Tropical de Investigación y Enseñanza (CATIE), International Union for Conservation of Nature, CARE, Terra Global Capital LLC, and DAI—and implements activities related to adaptation.
 

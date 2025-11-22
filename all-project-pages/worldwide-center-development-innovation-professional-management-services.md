@@ -1,4 +1,4 @@
-
+---
 title: Worldwide—Center for Development Innovation Professional Management Services
 date: 2016-01-21 22:40:00 Z
 summary: DAI provided professional management services to the U.S. Agency for International
@@ -6,7 +6,7 @@ summary: DAI provided professional management services to the U.S. Agency for In
   core principles across the Lab’s activities.
 start: 2014
 end: 2018
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Innovation and Entrepreneurship
 regions:
@@ -14,7 +14,7 @@ regions:
 country:
 - Worldwide
 layout: project
-
+---
 
 The [U.S. Global Development Lab](https://www.usaid.gov/globaldevlab) serves as an innovation hub within the U.S. Agency for International Development (USAID) by bringing together diverse partners to develop and scale up innovations to improve lives and reduce poverty around the world. The Lab’s [Center for Development Innovation](https://www.usaid.gov/GlobalDevLab/about/innovation) (CDI) advances this culture of creative problem solving by supporting innovators, inventers, and entrepreneurs in tackling important global development challenges.
 

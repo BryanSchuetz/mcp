@@ -1,4 +1,4 @@
-
+---
 title: Afghanistan—Assistance to Legislative Bodies of Afghanistan (ALBA)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared
@@ -6,7 +6,7 @@ summary: 'The Assistance to Legislative Bodies of Afghanistan (ALBA) project pre
 start: 2013
 end: 2018
 client:
-- U.S. Government
+- U.S. Agency for International Development
 - Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -19,7 +19,7 @@ regions:
 country:
 - Afghanistan
 layout: project
-
+---
 
 The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared both houses of Parliament for greater self-reliance. The program provided issue-based assistance that focused training and capacity building on actual bills or policies that Members of Parliament (MPs) and staff were addressing at the time. By the end of the program, parliamentary committees were actively reviewing legislation and conducting policy oversight as MPs increased dialogue with citizens, civil society, and media. The Parliament created a cadre of staff able to provide regular, topical research, and legislative and budget analysis to MPs.
 

@@ -1,4 +1,4 @@
-
+---
 title: Bangladesh—Agricultural Value Chains (AVC) Program
 date: 2016-01-21 22:40:00 Z
 summary: 'Funded under the Feed the Future initiative, this project improved food
@@ -6,7 +6,7 @@ summary: 'Funded under the Feed the Future initiative, this project improved foo
   419 households. '
 start: 2013
 end: 2019
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -30,13 +30,13 @@ promos:
     Culture
   link: https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture
 layout: project
-
+---
 
 DAI applied a [market systems approach](http://dai.com/news-publications/news/new-primer-market-systems-development-available) to agricultural value chains in Bangladesh’s Southern Delta, home to 30 million people where poverty and under-nutrition are acute and persistent, agricultural productivity is low, and farmers are not typically linked to markets.
 
 Funded under the Feed the Future initiative, this project strengthened 10 agricultural value chains through a [range](http://dai-global-developments.com/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta?utm_source=daidotcom) of tools, platforms, and agreements to implement large-scale, systemic interventions. We forged agreements with 25 of the most influential private sector firms and organizations in the agricultural sector; through these agreements, [AVC](http://avcbd.net/) leveraged private sector interests and investment opportunities to drive more inclusive growth.
 
-[AVC’s work resulted](https://www.marketlinks.org/sites/marketlinks.org/files/resources/bavc_systemic_change_cla_case_study_july_2018_3.pdf) in increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and contributed significantly to improving food security in the Southern Delta. The project helped facilitate $19.4 million in new private sector investment and [ultimately benefitted](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project) 307,419 rural households. [Read a summary of AVC's overall impact](https://dai-global-developments.com/articles/all-systems-go-usaids-private-sector-led-approach-pays-dividends-in-bangladesh).
+[AVC’s work resulted](https://www.marketlinks.org/sites/marketlinks.org/files/resources/bavc_systemic_change_cla_case_study_july_2018_3.pdf) in increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and contributed significantly to improving food security in the Southern Delta. The project helped facilitate $19.4 million in new private sector investment and [ultimately benefitted](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project) 307,419 rural households. [Read a summary of AVC's overall impact](https://dai-global-developments.com/articles/all-systems-go-usaids-private-sector-led-approach-pays-dividends-in-bangladesh). 
 
 ![Groundnut 08_Md Rashedur Rahman_01720041552.jpg](/uploads/Groundnut%2008_Md%20Rashedur%20Rahman_01720041552.jpg)
 

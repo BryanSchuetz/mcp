@@ -1,4 +1,4 @@
-
+---
 title: Serbia—Preparedness, Planning, and Economic Security Program (PPES)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Preparedness, Planning, and Economic Security project increased stability
@@ -7,7 +7,7 @@ summary: 'The Preparedness, Planning, and Economic Security project increased st
   new markets within and beyond Serbia, and working to empower Serbian youth.'
 start: 2006
 end: 2013
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Fragile States
 - Security and Justice
@@ -22,7 +22,7 @@ promos:
     Down Economy
   link: https://dai-global-developments.com/articles/three-things-that-really-mattered-to-developing-the-youth-workforce-in-serbias-down-economyhtml
 layout: project
-
+---
 
 Only a half-generation removed from civil war, Serbia has also been prone to flooding, including devastating floods in 2006 and 2010 that wrecked communities and small businesses and threatened the fragile social order. The Preparedness, Planning, and Economic Security (PPES) project increased stability by working on three fronts: building the capacity of vulnerable communities to prepare for crises and natural disasters, helping small businesses grow and expand into new markets within and beyond Serbia, and working to empower Serbian youth.
 

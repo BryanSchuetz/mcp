@@ -1,7 +1,7 @@
-
+---
 title: Croatia—Enhancing Small and Medium Enterprise Performance (ESP)
 date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Government
+client: U.S. Agency for International Development
 start: 2004
 end: 2008
 regions:
@@ -17,7 +17,7 @@ summary: 'In 2003, with an unemployment rate as high as 20 percent, job growth w
   to higher levels of investment and sustainable economic growth.
 
 '
-
+---
 
 In 2003, with an unemployment rate as high as 20 percent, job growth was a primary imperative for Croatia. The ESP project worked to create lasting private sector jobs in economic sectors where Croatia is internationally competitive—leading to higher levels of investment and sustainable economic growth. ESP's strategy was to create 20,000 new jobs by improving the business performance of small and medium-sized enterprises (SMEs) in growth sectors by providing technical assistance through industry associations, economic development organizations, and business and financial services firms. ESP sought to improve the business environment for all SMEs through technical assistance to the Croatian government, national organizations, and educational institutions. The project worked through partner organizations to build capacity in delivering services, advocating policy and institutional change, and improving business performance.
 

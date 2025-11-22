@@ -1,4 +1,4 @@
-
+---
 title: South Africa—Analysis, Design, and Implementation Plan for Business Commitments
   in Local Procurement Accord
 date: 2016-01-21 22:40:00 Z
@@ -16,7 +16,7 @@ regions:
 country:
 - South Africa
 layout: project
-
+---
 
 The South African business community, in a 2011 Local Procurement Accord, committed to "promote measures that will enhance the level of localization in private sector supply chains." Signed by constituents of the business, labor, and government sectors, the accord ultimately aims to create 5 million jobs by 2020.
 

@@ -1,4 +1,4 @@
-
+---
 title: Zimbabwe—Transparency, Responsiveness, Accountability, and Citizen Engagement
   (TRACE)
 date: 2016-01-21 22:40:00 Z
@@ -18,7 +18,7 @@ regions:
 country:
 - Zimbabwe
 layout: project
-
+---
 
 Now might be the time for Zimbabwe to improve on its record of access to justice, human rights, and responsiveness to citizens' needs. A constitution approved by referendum and parliament in 2013 provides a framework around which civil society can advocate for change. It includes a Bill of Rights and elements so the country can decentralize through the establishment of provincial councils. Similarly, the stated aim of Zimbabwe's new Economic Development Plan (ZIMASET, 2013-2018) is "towards an empowered society and growing economy."
 

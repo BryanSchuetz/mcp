@@ -1,4 +1,4 @@
-
+---
 title: 'Botswana—Technical Assistance to the SADC Secretariat: Institutional Capacity
   Development Programme'
 date: 2016-01-21 22:40:00 Z
@@ -15,7 +15,7 @@ regions:
 country:
 - Botswana
 layout: project
-
+---
 
 The Southern African Development Community (SADC)—comprised of 16 countries—is led by an Executive Secretariat based in Gaborone, Botswana, that fosters regional integration, boosts economic growth, and ensures stability among its member states.
 

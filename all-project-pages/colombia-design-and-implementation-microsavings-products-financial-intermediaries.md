@@ -1,4 +1,4 @@
-
+---
 title: Colombia—Design and Implementation of Microsavings Products for Financial Intermediaries
   (MICROAHORRO)
 date: 2016-01-21 22:40:00 Z
@@ -15,7 +15,7 @@ regions:
 country:
 - Colombia
 layout: project
-
+---
 
 While certain areas in Colombia have acceptable levels of banking, many Colombians are still excluded from basic services such as a savings account. In addition to geographic isolation, there are other, more subtle barriers to financial inclusion: local informal economies, low levels of financial education, transaction costs, fees, and many realities and expectations not well understood by the country's financial institutions.
 

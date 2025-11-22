@@ -1,4 +1,4 @@
-
+---
 title: Jordan—Competitiveness Program (JCP)
 date: 2016-01-21 22:40:00 Z
 summary: 'JCP stimulated about $70 million in new Jordanian exports, facilitated more
@@ -7,7 +7,7 @@ summary: 'JCP stimulated about $70 million in new Jordanian exports, facilitated
   30,000 individuals. '
 start: 2013
 end: 2019
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Business Environment Reform
 - Economic Growth
@@ -24,11 +24,11 @@ promos:
     Change'
   link: https://dai-global-developments.com/articles/how-an-approach-to-crisis-in-jordan-transformed-into-sustained-institutional-change/
 layout: project
+---
 
+The Jordan Competitiveness Program (JCP) operated for nearly six years to boost the competitiveness of the Jordanian economy by working with policymakers, business associations, and the private sector to: 1) draft and advocate for business-enabling legislation and regulation; 2) support firms and intermediaries in the private sector to stimulate exports and attract foreign direct investment (FDI); and 3) ensure that these investments result in employment opportunities for Jordanians and, where appropriate, other residents of the Kingdom. 
 
-The Jordan Competitiveness Program (JCP) operated for nearly six years to boost the competitiveness of the Jordanian economy by working with policymakers, business associations, and the private sector to: 1) draft and advocate for business-enabling legislation and regulation; 2) support firms and intermediaries in the private sector to stimulate exports and attract foreign direct investment (FDI); and 3) ensure that these investments result in employment opportunities for Jordanians and, where appropriate, other residents of the Kingdom.
-
-From its impact on key sectors of the economy to its work strengthening Jordan’s business-enabling policy environment, JCP worked at all levels of the economy, training hundreds of young professionals, building the capacity of local firms, strengthening sector associations, and assisting in the enactment of dozens of forward-thinking laws and regulations that made possible tens of millions of dollars in new investment and exports while creating thousands of jobs. All told, JCP had an outsized impact on Jordan’s economy—stimulating about $70 million in new Jordanian exports, facilitating more than $100 million in investment opportunities, contributing to the creation of nearly 1,000 jobs, and assisting in securing new or better work opportunities for nearly 30,000 individuals.
+From its impact on key sectors of the economy to its work strengthening Jordan’s business-enabling policy environment, JCP worked at all levels of the economy, training hundreds of young professionals, building the capacity of local firms, strengthening sector associations, and assisting in the enactment of dozens of forward-thinking laws and regulations that made possible tens of millions of dollars in new investment and exports while creating thousands of jobs. All told, JCP had an outsized impact on Jordan’s economy—stimulating about $70 million in new Jordanian exports, facilitating more than $100 million in investment opportunities, contributing to the creation of nearly 1,000 jobs, and assisting in securing new or better work opportunities for nearly 30,000 individuals. 
 
 ![Devs -- JCP Pharma 1.jpg](/uploads/Devs%20--%20JCP%20Pharma%201.jpg)
 
@@ -44,7 +44,7 @@ In 2016, DAI was additionally hired to lead the Project Management Unit of the J
 
 * Streamlined process for participating in the Jordan-EU Trade Agreement, which designated 18 development zones throughout the country to participate in the trade-facilitation program.
 * Published Arabic version of a comprehensive Export Guide aimed at Jordanian small- and medium-sized enterprises to encourage Jordanian exports to the European Union. 
-* Supported iPARK in creating a national network of incubators in Amman, Irbid, and Aqaba, incubating 77 new companies and creating 327 new jobs.
+* Supported iPARK in creating a national network of incubators in Amman, Irbid, and Aqaba, incubating 77 new companies and creating 327 new jobs. 
 * Launched Jordanian Medical Tourism Initiative to boost Jordan’s competitiveness in the sector and increase investment and export opportunities—with an eye to creating jobs.
 * Launched [National Home Care Initiative](https://dai-global-developments.com/articles/supporting-a-human-centered-home-health-system-in-jordan) with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector [pharmaceutical manufacturers](https://www.youtube.com/watch?v=uOibo0juvbA&feature=youtu.be) to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.

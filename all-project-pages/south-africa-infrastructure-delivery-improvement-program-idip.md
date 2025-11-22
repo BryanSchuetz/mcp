@@ -1,4 +1,4 @@
-
+---
 title: South Africa—Infrastructure Delivery Improvement Program (IDIP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: National Treasury
@@ -21,7 +21,7 @@ summary: 'Following a 2001 review of provincial service delivery systems and rea
   delivery. DAI was involved in the design and initial implementation of the program.
 
 '
-
+---
 
 Following a 2001 review of provincial service delivery systems and realizing the challenges related to the planning and management of public sector infrastructure delivery, the South African government introduced the Infrastructure Delivery Improvement Programme (IDIP), a capacity-building program designed to enhance infrastructure delivery. DAI was involved in the design and initial implementation of the program.
 

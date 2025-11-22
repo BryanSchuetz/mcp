@@ -1,4 +1,4 @@
-
+---
 title: South Africa—Establishment of the Office of Health Standards Compliance
 date: 2016-01-21 22:40:00 Z
 summary: 'We assisted the South Africa National Department of Health as it transformed
@@ -15,7 +15,7 @@ regions:
 country:
 - South Africa
 layout: project
-
+---
 
 We assisting the South Africa National Department of Health (NDoH) as it transformed its Office of Standards Compliance into an independent public agency, the Office of Health Standards and Compliance (OHSC). The OHSC monitors public health services and address complaints of non-compliance, while developing guidelines and providing information on the implementation of set health service standards.
 

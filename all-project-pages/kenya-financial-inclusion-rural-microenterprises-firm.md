@@ -1,4 +1,4 @@
-
+---
 title: Kenya—Financial Inclusion for Rural Microenterprises (FIRM)
 date: 2016-01-21 22:40:00 Z
 summary: " Kenya FIRM built the capacity of the commercial sector to deliver customized
@@ -6,7 +6,7 @@ summary: " Kenya FIRM built the capacity of the commercial sector to deliver cus
   areas."
 start: 2011
 end: 2016
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -16,7 +16,7 @@ regions:
 country:
 - Kenya
 layout: project
-
+---
 
 Kenya's microfinance sector is internationally recognized due largely to consistent and strategic investment by the U.S. Agency for International Development (USAID) and projects led by DAI, including our Kenya Access to Rural Finance (KARF) project (2007–2010). FIRM built on this work by expanding and innovating financial services in five areas key to Kenyans' economic well-being: agriculture, renewable and clean energy, information and communication technology, women and youth, and policy reform. We [built the capacity of the commercial sector](http://dai-global-developments.com/articles/unlocking-capital-across-kenya-how-usaid-firm-pushed-the-frontier-of-financial-services-and-built-a-foundation-for-economic-growth?utm_source=daidotcom) to deliver customized financial products and services for entrepreneurs and busi­nesses—primarily in rural areas—now starved of the capital they need to grow.
 

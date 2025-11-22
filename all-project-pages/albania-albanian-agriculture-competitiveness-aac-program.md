@@ -1,4 +1,4 @@
-
+---
 title: Albania—Albanian Agriculture Competitiveness (AAC) Program
 date: 2016-01-21 22:40:00 Z
 summary: 'The Albanian Agriculture Competitiveness (AAC) program worked with producers,
@@ -6,7 +6,7 @@ summary: 'The Albanian Agriculture Competitiveness (AAC) program worked with pro
   improve quality, and access better markets in Albania. '
 start: 2007
 end: 2013
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 regions:
@@ -14,7 +14,7 @@ regions:
 country:
 - Albania
 layout: project
-
+---
 
 Agriculture in the Albanian economy provides income for nearly two-thirds of the rural population and accounts for close to a quarter of the country's gross domestic product. The Albanian Agriculture Competitiveness (AAC) program worked with producers, suppliers, and processors along promising value chains to increase productivity, improve quality, and access better markets in Albania. The program's value chain approach assessed constraints to competitiveness and provides long- and short-term technical assistance, training, linkages to financing, and targeted performance grants to address these constraints. AAC expanded the number of postharvest handling facilities and collection points in the country and developed the export of watermelons and cabbages. The market information system developed by AAC addressed information constraints by providing daily price reports on 22 market commodities in Tirana and four regional markets. A major project focus was the transition of the management of the system to the Albanian Ministry of Agriculture, ensuring its sustained availability.
 

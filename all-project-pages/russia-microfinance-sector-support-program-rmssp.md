@@ -1,4 +1,4 @@
-
+---
 title: Russia—Microfinance Sector Support Program (RMSSP)
 date: 2016-01-21 22:40:00 Z
 summary: Starting in September 2001, the Microfinance Sector Support Program promoted
@@ -6,7 +6,7 @@ summary: Starting in September 2001, the Microfinance Sector Support Program pro
   the industry.
 start: 2001
 end: 2006
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -15,7 +15,7 @@ regions:
 country:
 - Russia
 layout: project
-
+---
 
 In the early 2000s, the Russian financial sector was overregulated and served primarily large enterprises. Financial sector deepening had only begun to take place with the expansion of microfinance, which allowed for the creation of new financial institutions catering to small entrepreneurs and individual consumers. Starting in September 2001, the Microfinance Sector Support Program (RMSSP) promoted this deepening by creating a Russian best-practice microfinance center to support the industry. Now an established part of the Russian financial landscape, the Russian Microfinance Center (RMC) provides training, consulting, information, benchmarking, and policy support services to Russian microfinance institutions.
 

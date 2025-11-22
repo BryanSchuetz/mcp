@@ -1,4 +1,4 @@
-
+---
 title: Kenya—Transition Initiative Program (KTI)
 date: 2016-01-21 22:40:00 Z
 summary: Through assistance in reducing tensions and by enabling economic, political,
@@ -7,7 +7,7 @@ summary: Through assistance in reducing tensions and by enabling economic, polit
   and violence.
 start: 2007
 end: 2012
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Fragile States
 - Countering Extremism
@@ -18,7 +18,7 @@ regions:
 country:
 - Kenya
 layout: project
-
+---
 
 Adopted in the wake of flawed national elections and resulting interethnic violence in 2007, Kenya's February 2008 peace accord and power-sharing agreement afford Kenyans the political framework around which they can begin to rebuild their country. The U.S. Agency for International Development (USAID)'s Office of Transition Initiatives (OTI) worked to help Kenya restore its position as an anchor of stability in the Greater Horn of Africa region. Through assistance in reducing tensions and by enabling economic, political, and social recovery, the Kenya Transition Initiative Program (KTI) helped to renew the nation's confidence and capacity in addressing instability, political marginalization, and violence.
 

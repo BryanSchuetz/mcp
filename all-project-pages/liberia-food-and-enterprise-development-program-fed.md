@@ -1,4 +1,4 @@
-
+---
 title: Liberia—Food and Enterprise Development Program (FED)
 date: 2016-01-21 22:40:00 Z
 summary: The Food and Enterprise Development Program helped Liberia achieve increased
@@ -6,7 +6,7 @@ summary: The Food and Enterprise Development Program helped Liberia achieve incr
   incentive structures that assisted local stakeholders to adopt a commercial approach.
 start: 2011
 end: 2016
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -16,7 +16,7 @@ regions:
 country:
 - Liberia
 layout: project
-
+---
 
 Half of all Liberians generate their income through agriculture, yet agriculture previously was not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, the Food and Enterprise Development Program (FED) helped Liberia achieve increased food security—in terms of food availability, utilization, and affordability—by building incentive structures that assisted local stakeholders to adopt a commercial approach.
 

@@ -1,4 +1,4 @@
-
+---
 title: Uganda—Governance, Accountability, Participation, and Performance Program (GAPP)
 date: 2016-01-21 22:40:00 Z
 summary: GAPP worked to improve the legal, policy, regulatory, and institutional environment
@@ -6,11 +6,11 @@ summary: GAPP worked to improve the legal, policy, regulatory, and institutional
   local governments.
 start: 2012
 end: 2019
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Governance
 - Fragile States
--
+- 
 regions:
 - Sub-Saharan Africa
 country:
@@ -19,7 +19,7 @@ promos:
 - title: In Uganda, Local Hearings Show Accountability in Action
   link: https://dai-global-developments.com/articles/in-uganda-local-hearings-show-accountability-in-action
 layout: project
-
+---
 
 Funded by the U.S. Agency for International Development and the U.K. Department for International Development, the Governance, Accountability, Participation, and Performance Program (GAPP) worked to improve the legal, policy, regulatory, and institutional environment in Uganda to [enhance democratic governance](https://dai-global-developments.com/articles/in-uganda-local-hearings-show-accountability-in-action) and the engagement of citizens with their local governments.
 

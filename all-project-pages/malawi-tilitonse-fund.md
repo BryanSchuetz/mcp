@@ -1,4 +1,4 @@
-
+---
 title: Malawi—Tilitonse Fund
 date: 2016-01-21 22:40:00 Z
 summary: The Tilitonse Fund was a multi-donor grants facility that supported Malawian-based
@@ -16,7 +16,7 @@ regions:
 country:
 - Malawi
 layout: project
-
+---
 
 Almost two decades since multi-party democracy replaced single party rule in Malawi, many people were still unused to holding government to account for providing public services or protecting their basic rights. The general public, and poor communities in particular, lacked the ability to effectively advocate to elected officials and fight back against the negative impacts of corruption.
 

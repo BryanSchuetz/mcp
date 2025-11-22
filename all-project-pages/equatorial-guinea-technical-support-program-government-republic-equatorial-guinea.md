@@ -1,4 +1,4 @@
-
+---
 title: Equatorial Guinea—Technical Support Program to the Government of the Republic
   of Equatorial Guinea (EGTSP)
 date: 2016-01-21 22:40:00 Z
@@ -8,7 +8,7 @@ summary: Through the U.S. Agency for International Development (USAID)'s Technic
   social planning and investments.
 start: 2006
 end: 2009
-client: U.S. Government
+client: U.S. Agency for International Development
 solutions:
 - Governance
 regions:
@@ -16,7 +16,7 @@ regions:
 country:
 - Equatorial Guinea
 layout: project
-
+---
 
 Most Equatoguineans live in poverty, lack education, and suffer from poor health. Although the financial resources to address these challenges are available, there is no adequate mechanism to disburse them and, because of insufficient education and professional training, there are too few skilled professionals to thoughtfully design programs, execute activities, and manage projects. To overcome these problems, President Teodoro Obiang Nguema Mbasogo decreed the establishment of the Social Needs Fund in 2006 to ensure equitable distribution of resources and improved services for Equatoguineans. Through the U.S. Agency for International Development (USAID)'s Technical Support Program, DAI assisted the Government of the Republic of Equatorial Guinea to achieve its goal by improving efficiency, transparency, and accountability in social planning and investments.
 

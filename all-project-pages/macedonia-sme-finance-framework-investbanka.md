@@ -1,4 +1,4 @@
-
+---
 title: Macedonia—SME Finance Framework—Investbanka
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
@@ -16,7 +16,7 @@ summary: 'DAI was contracted by the European Bank for Reconstruction and Develop
   (SME) lending activities.
 
 '
-
+---
 
 DAI was contracted by the European Bank for Reconstruction and Development to help Investbanka substantially increase its small and medium-sized enterprise (SME) lending activities.
 
