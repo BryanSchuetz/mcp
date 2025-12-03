@@ -1,6 +1,8 @@
+
 ---
 title: India—Water Analysis, Innovations, and Systems Program (WAISP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the U.S. Agency for International Development to analyze
   its comparative advantage for delivering innovative solutions to India's water challenges.

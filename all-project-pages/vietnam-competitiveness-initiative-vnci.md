@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Competitiveness Initiative (VNCI)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Vietnam Competitiveness Initiative was an economic growth project designed
   to increase the competitiveness of small and medium-sized enterprises in Vietnam.

@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Fragile Waters
 ---
+
 date: 2023-10-03 13:24:00 Z
 published: false
 summary: The Fragile Waters mechanism provides U.S. Agency for International Development

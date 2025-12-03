@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Policy Development Facility Bridge (PDF Bridge)
 ---
+
 date: 2020-03-04 10:26:00 Z
 summary: The Policy Development Facility Bridge programme provided near-term technical
   assistance to champions of reform in Nigeria’s government—supporting accelerated

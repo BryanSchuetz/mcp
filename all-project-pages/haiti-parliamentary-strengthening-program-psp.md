@@ -1,6 +1,8 @@
+
 ---
 title: Haiti—Parliamentary Strengthening Program (PSP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development (USAID)-funded Parliamentary
   Strengthening Program (PSP) program helped to develop Haiti's parliamentary institutional

@@ -1,7 +1,9 @@
+
 ---
 title: Africa—Conflict Prevention, Mitigation, and Response Programs in East and Southern
-  Africa (CPMR-ESA)
 ---
+  Africa (CPMR-ESA)
+
 date: 2016-01-21 22:40:00 Z
 summary: CPMR-ESA supported implementation of the conflict prevention, mitigation,
   and response programs of the U.S. Agency for International Development (USAID)/East

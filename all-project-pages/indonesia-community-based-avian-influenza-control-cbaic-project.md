@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Community-Based Avian Influenza Control (CBAIC) Project
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: CBAIC worked with the Government of Indonesia and local partners to expand
   community-level capacity in animal and human surveillance and response to 27,000

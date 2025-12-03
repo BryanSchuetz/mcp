@@ -1,6 +1,8 @@
+
 ---
 title: Jamaica—Local Content Analysis
 ---
+
 date: 2020-09-18 14:06:00 Z
 summary: 'In 2018 DAI’s Sustainable Business Group was hired by an international oil
   and gas company and on behalf of the Petroleum Corporation of Jamaica (PCJ) to conduct

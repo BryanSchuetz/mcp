@@ -1,6 +1,8 @@
+
 ---
 title: Senegal—Industrial Baseline Analysis
 ---
+
 date: 2017-08-24 17:16:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) provided expert advisory services
   to support an international oil and gas company’s local content initiatives in Senegal’s

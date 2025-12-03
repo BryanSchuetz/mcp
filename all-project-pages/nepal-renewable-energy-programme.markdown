@@ -1,6 +1,8 @@
+
 ---
 title: Nepal—Renewable Energy Programme (NREP)
 ---
+
 date: 2019-01-22 21:16:00 Z
 summary: Along with key partner Winrock International, DAI is building the capacity
   of the Government of Nepal to lead and manage the National Small-Scale Renewable

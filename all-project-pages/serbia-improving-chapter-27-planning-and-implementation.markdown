@@ -1,6 +1,8 @@
+
 ---
 title: Serbia—Improving Chapter 27 Planning and Implementation
 ---
+
 date: 2023-10-11 09:58:00 Z
 summary: Aligning the legal and administrative systems of candidate countries with
   EU law is a complex. The primary objective of this initiative is to assist Serbia

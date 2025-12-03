@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Support for Human Capital Development (HCD) 2.0
 ---
+
 date: 2025-10-29 15:29:00 Z
 summary: HCD 2.0 was approved by the National Economic Council in 2024, with the ambitious
   goal of positioning the country among the top 80 nations in the Human Capital Index

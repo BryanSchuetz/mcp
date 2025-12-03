@@ -1,6 +1,8 @@
+
 ---
 title: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Land Tenure Assistance activity pioneered a low-cost, participatory land
   registration system that works at the local level, enabling smallholder landowners

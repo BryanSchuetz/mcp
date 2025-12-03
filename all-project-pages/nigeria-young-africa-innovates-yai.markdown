@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Young Africa Innovates (YAI)
 ---
+
 date: 2025-10-03 13:48:00 Z
 summary: The Young Africa Innovates (YAI) Programme is designed to empower young Nigerians
 as solution providers and changemakers, driving socio-economic development through

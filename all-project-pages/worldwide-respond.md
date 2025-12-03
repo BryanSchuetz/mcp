@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—RESPOND
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Diseases of serious concern are emerging from wildlife populations in regions
   of the world where humans, wildlife, and livestock are increasingly in contact.

@@ -1,6 +1,8 @@
+
 ---
 title: Canada—Offshore Growth Strategy
 ---
+
 date: 2020-09-18 13:02:00 Z
 summary: DAI’s Sustainable Business Group (SBG) undertook extensive analysis of legal,
   regulatory, policy, and contractual documents to identify new opportunities to improve

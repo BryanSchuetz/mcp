@@ -1,6 +1,8 @@
+
 ---
 title: Palestine—West Bank/Gaza Accountable Local Governance (ALG)
 ---
+
 date: 2024-10-18 07:08:00 Z
 published: false
 summary: The Accountable Local Governance (ALG) Activity improves the delivery of

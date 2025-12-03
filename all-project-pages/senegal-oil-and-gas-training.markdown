@@ -1,6 +1,8 @@
+
 ---
 title: Senegal—Oil and Gas Training
 ---
+
 date: 2020-01-16 15:16:00 Z
 published: false
 summary: DAI’s Sustainable Business Group (SBG) is providing oil and gas awareness

@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Assistance to Legislative Bodies of Afghanistan (ALBA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared
   both houses of Parliament for greater self-reliance. '

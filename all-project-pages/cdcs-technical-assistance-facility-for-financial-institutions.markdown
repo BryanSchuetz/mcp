@@ -1,6 +1,8 @@
+
 ---
 title: Regional—Financial Services Group (FSG Plus)
 ---
+
 date: 2021-09-21 13:13:00 Z
 summary: 'FSG Plus supports BII in addressing two pressing priorities—i) inclusion
 and ii) climate and environmental sustainability—by catalyzing sustainable practice

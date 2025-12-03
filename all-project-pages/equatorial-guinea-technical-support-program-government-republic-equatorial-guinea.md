@@ -1,7 +1,9 @@
+
 ---
 title: Equatorial Guinea—Technical Support Program to the Government of the Republic
-  of Equatorial Guinea (EGTSP)
 ---
+  of Equatorial Guinea (EGTSP)
+
 date: 2016-01-21 22:40:00 Z
 summary: Through the U.S. Agency for International Development (USAID)'s Technical
   Support Program, DAI assisted the Government of the Republic of Equatorial Guinea

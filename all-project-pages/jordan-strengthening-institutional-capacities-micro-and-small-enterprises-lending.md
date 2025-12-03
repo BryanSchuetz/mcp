@@ -1,7 +1,9 @@
+
 ---
 title: Jordan—Strengthening of Institutional Capacities for Micro and Small Enterprises
-  Lending (FINCA Jordan)
 ---
+  Lending (FINCA Jordan)
+
 date: 2016-01-21 22:40:00 Z
 summary: As part of a European Reconstruction and Development Bank-funded project,
   DAI supported FINCA Jordan in achieving its long-term goal of becoming a leading

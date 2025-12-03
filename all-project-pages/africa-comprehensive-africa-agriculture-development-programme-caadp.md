@@ -1,6 +1,8 @@
+
 ---
 title: Africa—Comprehensive Africa Agriculture Development Programme (CAADP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Comprehensive Africa Agriculture Development Programme (CAADP) is the
   agricultural programme of the New Partnership for Africa's Development, an African

@@ -1,7 +1,9 @@
+
 ---
 title: Oman—Corporate Social Investment Science, Technology, Engineering, Arts, and
-  Mathematics (CSR STEAM) Program
 ---
+  Mathematics (CSR STEAM) Program
+
 date: 2020-01-10 19:25:00 Z
 summary: 'DAI’s Sustainable Business Group designed and implemented a flagship social
   investment initiative for a large Omani conglomerate. '

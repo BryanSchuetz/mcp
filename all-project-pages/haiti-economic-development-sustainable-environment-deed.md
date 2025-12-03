@@ -1,6 +1,8 @@
+
 ---
 title: Haiti—Economic Development for a Sustainable Environment (DEED)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Environmental degradation in Haiti is the worst in the Western Hemisphere—a
   cause and result of the country's economic decline. DEED focused on promoting environmentally

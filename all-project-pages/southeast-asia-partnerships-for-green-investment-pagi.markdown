@@ -1,6 +1,8 @@
+
 ---
 title: Southeast Asia—USAID Partnerships for Green Investment
 ---
+
 date: 2024-07-12 13:30:00 Z
 published: false
 summary: The USAID Partnerships for Green Investment program employs nature-based

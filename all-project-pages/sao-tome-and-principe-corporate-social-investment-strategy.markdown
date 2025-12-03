@@ -1,6 +1,8 @@
+
 ---
 title: Sao Tome and Principe—Corporate Social Investment Strategy
 ---
+
 date: 2020-09-18 13:14:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) worked with an international oil
   and gas company to collaboratively scope and design a major social investment program

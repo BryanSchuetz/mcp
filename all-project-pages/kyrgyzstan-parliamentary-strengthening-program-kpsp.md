@@ -1,6 +1,8 @@
+
 ---
 title: Kyrgyzstan—Parliamentary Strengthening Program (KPSP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'To effect reform and stability, the Kyrgyzstan Parliament must work toward
   three intertwined objectives: being a more constructive actor in the Kyrgyz state

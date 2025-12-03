@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Grand Challenges for Development Implementation Services
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Grand Challenges for Development gave people around the world a way to apply
   their scientific and technological know-how to solving global development problems

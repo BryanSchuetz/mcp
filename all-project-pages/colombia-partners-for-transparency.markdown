@@ -1,6 +1,8 @@
+
 ---
 title: Colombia—Partners for Transparency (PfT)
 ---
+
 date: 2020-08-10 10:28:00 Z
 published: false
 summary: The Partners for Transparency program supports locally driven solutions that

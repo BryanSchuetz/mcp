@@ -1,6 +1,8 @@
+
 ---
 title: Honduras—Banco Ficohsa Phase I
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Working with Banco Ficohsa in Honduras, DAI studied the segmentation of the
 enterprise and residential mortgage markets, and assessed Banco Ficohsa's capacity

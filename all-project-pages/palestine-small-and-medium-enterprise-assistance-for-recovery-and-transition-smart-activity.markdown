@@ -1,7 +1,9 @@
+
 ---
 title: Palestine—Small and Medium Enterprise Assistance for Recovery and Transition
-  (SMART)
 ---
+  (SMART)
+
 date: 2021-09-10 15:54:00 Z
 published: false
 summary: 'The Small and Medium Enterprise Assistance for Recovery and Transition project

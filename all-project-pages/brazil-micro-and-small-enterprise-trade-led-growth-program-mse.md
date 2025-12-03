@@ -1,6 +1,8 @@
+
 ---
 title: Brazil—Micro and Small Enterprise Trade-Led Growth Program (MSE)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development (USAID) Brazil Micro and Small
   Enterprise Trade-Led Growth Program was a pilot project, aimed at enhancing job

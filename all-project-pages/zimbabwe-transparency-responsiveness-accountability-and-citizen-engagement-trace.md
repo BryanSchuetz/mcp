@@ -1,7 +1,9 @@
+
 ---
 title: Zimbabwe—Transparency, Responsiveness, Accountability, and Citizen Engagement
-  (TRACE)
 ---
+  (TRACE)
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Zimbabwe TRACE seeks to design, build, and implement a civil society support
   programme where the civil society organisations look at government in a less adversarial

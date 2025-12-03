@@ -1,6 +1,8 @@
+
 ---
 title: Ghana—Industrial Baseline and Economic Forecasting
 ---
+
 date: 2017-08-24 16:38:00 Z
 published: false
 summary: In 2017, the Sustainable Business Group conducted an industrial baseline

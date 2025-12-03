@@ -1,7 +1,9 @@
+
 ---
 title: Mozambique—Supporting the Policy Enabling Environment for Development (SPEED,
-  SPEED+, III)
 ---
+  SPEED+, III)
+
 date: 2016-01-21 22:40:00 Z
 published: false
 summary: 'The Supporting the Policy Environment for Economic Development+ program

@@ -1,6 +1,8 @@
+
 ---
 title: Peru—Addressing Biodiversity-Social Conflict in Latin America (ABC-LA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Addressing Biodiversity-Social Conflict in Latin America project worked
   to create conditions that enable local people to drive conflict resolution in Peru

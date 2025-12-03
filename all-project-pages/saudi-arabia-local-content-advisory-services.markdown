@@ -1,6 +1,8 @@
+
 ---
 title: Saudi Arabia—Local Content Advisory Services
 ---
+
 date: 2017-08-24 17:05:00 Z
 summary: DAI’s Sustainable Business Group (SBG) provided recommendations for the Kingdom
   of Saudi Arabia’s National Industrial Development and Logistics Program implementation

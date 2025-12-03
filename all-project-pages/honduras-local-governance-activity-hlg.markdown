@@ -1,6 +1,8 @@
+
 ---
 title: Honduras—Local Governance Activity (HLG)
 ---
+
 date: 2016-11-19 00:25:00 Z
 published: false
 summary: 'HLG works to strengthen the essential capacity of civil society groups,

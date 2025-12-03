@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Technical Assistance to Strengthen Capabilities (TASC)
 ---
+
 date: 2020-12-07 08:54:00 Z
 summary: The Technical Assistance to Strengthen Capabilities (TASC) Project contributed
   to improved nutritional outcomes as part of the UKaid-funded Technical Assistance

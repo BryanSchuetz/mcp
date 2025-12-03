@@ -1,6 +1,8 @@
+
 ---
 title: Romania—Bank Leumi
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI helped create policies and procedures for SME lending and trained Bank
   Leumi Romania staff in SME lending methodology and supported management in implementing

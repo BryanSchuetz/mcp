@@ -1,6 +1,8 @@
+
 ---
 title: Tanzania—Green and Smart Cities SASA
 ---
+
 date: 2023-05-31 17:07:00 Z
 summary: The Green and Smart Cities SASA project is a Team Europe Initiative that
   enhances the quality of life for Tanzanians by supporting green infrastructure investments,

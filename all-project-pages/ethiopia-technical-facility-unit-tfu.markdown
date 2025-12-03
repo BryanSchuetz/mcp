@@ -1,6 +1,8 @@
+
 ---
 title: Ethiopia—Technical Facility Unit (TFU)
 ---
+
 date: 2023-07-03 16:21:00 Z
 summary: 'The European Union is supporting the Government of Ethiopia through public
   financial management (PFM) projects and through the new Technical Facility Unit

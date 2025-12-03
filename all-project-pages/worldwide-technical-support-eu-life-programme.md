@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Technical Support to the EU LIFE Programme
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: As part of the Astrale group of nine European partners, we supported the
 LIFE III Environment Programme from 2001 to 2005 and we have been supporting the

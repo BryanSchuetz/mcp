@@ -1,7 +1,9 @@
+
 ---
 title: Nigeria—Strategic and Business Plan for the African University of Science and
-  Technology
 ---
+  Technology
+
 date: 2023-02-15 11:06:00 Z
 summary: This project developed a strategic and business plan for the African University
   of Science and Technology.

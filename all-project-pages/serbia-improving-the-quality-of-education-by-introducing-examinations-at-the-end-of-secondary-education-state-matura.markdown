@@ -1,7 +1,9 @@
+
 ---
 title: Serbia—Improving the Quality of Education by Introducing Examinations at the
-  End of Secondary Education (State Matura)
 ---
+  End of Secondary Education (State Matura)
+
 date: 2020-10-22 10:46:00 Z
 summary: The State Matura Project prepared the education system and the Ministry of
   Education, Science, and Technological Development to implement new final examinations

@@ -1,7 +1,9 @@
+
 ---
 title: 'Botswana—Technical Assistance to the SADC Secretariat: Institutional Capacity
-  Development Programme'
 ---
+  Development Programme'
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI built the institutional capacity of the  SADC Secretariat, helping the
   regional governing body to modernize and enhance its internal administrative and

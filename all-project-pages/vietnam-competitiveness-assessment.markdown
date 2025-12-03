@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Competitiveness Assessment
 ---
+
 date: 2017-10-05 23:23:00 Z
 published: false
 summary: DAI’s Sustainable Business Group conducted an industrial baseline analysis

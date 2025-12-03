@@ -1,6 +1,8 @@
+
 ---
 title: Malawi—Justice and Accountability Programme (Chilungamo)
 ---
+
 date: 2020-04-21 14:52:00 Z
 summary: Chilungamo contributed to increased levels of governance, accountability,
   compliance with the rule of law, and respect, promotion, and protection of human

@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Alternative Development Program/Eastern Region (ADP/E)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: In 2004, the eastern provinces of Afghanistan cultivated approximately one-third
   of Afghanistan's opium poppy. Nangarhar alone had 28,000 hectares—a 44 percent increase

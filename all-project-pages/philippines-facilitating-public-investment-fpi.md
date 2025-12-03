@@ -1,6 +1,8 @@
+
 ---
 title: Philippines—Facilitating Public Investment (FPI)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: This project promoted optimization of public expenditures through results-oriented
   budgeting and fiscal transparency, eliminating ineffective spending in favor of

@@ -1,7 +1,9 @@
+
 ---
 title: Sierra Leone—Technical Assistance in Support of the Governance Sector in Civil
-  Service Reform, Parliament, and the Electoral Cycle
 ---
+  Service Reform, Parliament, and the Electoral Cycle
+
 date: 2020-04-29 11:08:00 Z
 summary: Our team works to consolidate past reforms in the areas of electoral support,
   parliamentary strengthening, and civil service reform within the new electoral cycle

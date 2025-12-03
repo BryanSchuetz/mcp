@@ -1,6 +1,8 @@
+
 ---
 title: Ukraine—Aval Raiffeisen Bank
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The European Bank for Reconstruction and Development contracted DAI in Ukraine
     to establish a small and medium-sized enterprise (SME) lending program and ensure

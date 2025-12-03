@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—EU Global Support Facility for Nationally Determined Contributions
-  (NDCs)
 ---
+  (NDCs)
+
 date: 2021-09-29 11:44:00 Z
 summary: The Global NDC Support Facility contributes to the acceleration of the transition
   towards low-carbon, resource-efficient, and resilient economies in line with the

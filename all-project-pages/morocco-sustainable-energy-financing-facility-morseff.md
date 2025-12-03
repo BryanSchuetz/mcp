@@ -1,6 +1,8 @@
+
 ---
 title: Morocco—Sustainable Energy Financing Facility (MorSEFF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Like with its successful [PolSEFF](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)
   and [WebSEFF](/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii)

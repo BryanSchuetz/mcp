@@ -1,6 +1,8 @@
+
 ---
 title: East and Southern Africa—FoodTrade ESA
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: From 2013 to 2018, FoodTrade worked at improving the functioning of national
   and regional staple food market systems for beans, maize, rice, and soybeans—crops

@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Global Connect Training
 ---
+
 date: 2020-09-18 14:02:00 Z
 summary: Shell invited DAI’s Sustainable Business Group (SBG) local content experts
   [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) and [Dorival

@@ -1,7 +1,9 @@
+
 ---
 title: Bangladesh—Promoting Governance, Accountability, Transparency, and Integrity
-  (PROGATI)
 ---
+  (PROGATI)
+
 date: 2016-01-21 22:40:00 Z
 summary: In Bangladesh, we worked with government and citizens, with media and watchdog
   organizations, and with public officials and elected representatives to foster partnerships

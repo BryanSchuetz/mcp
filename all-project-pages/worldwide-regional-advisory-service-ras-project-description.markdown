@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Regional Advisory Service (RAS)
 ---
+
 date: 2017-07-31 17:41:00 Z
 summary: The Regional Advisory Service provided expert advice on strategic planning,
   monitoring and evaluation, audit and risk management, and governance to five regional

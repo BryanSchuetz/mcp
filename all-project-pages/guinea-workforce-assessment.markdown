@@ -1,6 +1,8 @@
+
 ---
 title: Guinea—Workforce Assessment
 ---
+
 date: 2020-09-18 13:21:00 Z
 summary: 'DAI’s Sustainable Business Group provided high-level analysis of the labor
   force in Guinea, with some observations of regional actors including Cote d’Ivoire,

@@ -1,6 +1,8 @@
+
 ---
 title: Hungary—Deutsche Leasing
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by EBRD to assist Deutsche Leasing Hungary, certain aspects
   of which were also applied to Deutsche Leasing's operations in Czech Republic and

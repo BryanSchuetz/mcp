@@ -1,7 +1,9 @@
+
 ---
 title: Nigeria—State Partnership for Accountability, Responsiveness, and Capability
-  (SPARC)
 ---
+  (SPARC)
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The former U.K. Department for International Development (now called Foreign,
   Commonwealth & Development Office) launched the State Partnership for Accountability,

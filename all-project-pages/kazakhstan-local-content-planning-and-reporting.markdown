@@ -1,6 +1,8 @@
+
 ---
 title: Kazakhstan—Local Content Planning and Reporting
 ---
+
 date: 2020-09-18 14:08:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) is providing a software as a service
   solution to enable efficient reporting of local workforce, procurement, and capacity

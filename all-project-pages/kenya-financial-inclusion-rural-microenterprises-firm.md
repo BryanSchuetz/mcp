@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Financial Inclusion for Rural Microenterprises (FIRM)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: " Kenya FIRM built the capacity of the commercial sector to deliver customized
 financial products and services for entrepreneurs and busi­nesses—primarily in rural

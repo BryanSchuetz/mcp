@@ -1,6 +1,8 @@
+
 ---
 title: Malawi—Climate Just Communities
 ---
+
 date: 2023-08-30 12:27:00 Z
 summary: DAI’s Climate Just Communities (CJC) Malawi project uses a participatory
   approach to developing and delivering climate justice interventions that build community

@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Market Development in the Niger Delta (MADE I and II)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The Market Development in the Niger Delta (MADE) project, phases I and II,
   worked in all nine Niger Delta states to promote inclusive, pro-poor growth for

@@ -1,6 +1,8 @@
+
 ---
 title: Honduras—ProParque; Gobernanza en Ecosistemas, Medios de Vida, y Agua (GEMA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: GEMA worked in western Honduras to further improve natural conservation policies;
   developed opportunities for inclusive, environmentally sustainable economic growth;

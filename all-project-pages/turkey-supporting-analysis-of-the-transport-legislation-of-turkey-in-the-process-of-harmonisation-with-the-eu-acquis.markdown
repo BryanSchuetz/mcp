@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Supporting Analysis of the Transport Legislation of Türkiye in the
-  Process of Harmonisation with the EU Acquis
 ---
+  Process of Harmonisation with the EU Acquis
+
 date: 2021-07-26 16:20:00 Z
 summary: 'DAI worked to improve the legislative and institutional capacities of Türkiye
   to facilitate the Acquis alignment process in transportation. '

@@ -1,7 +1,9 @@
+
 ---
 title: South Asia—EU Public Diplomacy and Outreach in India and the South Asian Association
-  for Regional Cooperation (SAARC)
 ---
+  for Regional Cooperation (SAARC)
+
 date: 2016-01-21 22:40:00 Z
 summary: The EU Public Diplomacy and Outreach project worked to deepen the political,
   economic, and cultural relationships of the European Union with the SAARC region,

@@ -1,7 +1,9 @@
+
 ---
 title: Malawi—Community Partnerships for Sustainable Resource Management (COMPASS
-  II)
 ---
+  II)
+
 date: 2016-01-21 22:40:00 Z
 summary: COMPASS II identified natural resource-based products in Malawi that had
   the potential to provide business opportunities for HIV-affected and other marginalized

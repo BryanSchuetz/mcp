@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Policy Development Facility Phase II (PDF II)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Policy Development Facility II was a flexible, rapid-response facility
   that supported “champions of change”—primarily federal ministers, but also other

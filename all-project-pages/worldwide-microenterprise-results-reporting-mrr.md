@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Microenterprise Results Reporting (MRR)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI managed Microenterprise Results Reporting (MRR) for the U.S. Agency for
   International Development. With a partner web development firm, we maintained the

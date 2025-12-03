@@ -1,6 +1,8 @@
+
 ---
 title: Morocco—Decarbonisation and Climate Resilience Framework
 ---
+
 date: 2025-07-22 17:20:00 Z
 summary: As the climate changes, Morocco faces increased risks of drought, desertification,
   and rising sea levels, which in turn raise the likelihood of food insecurity, water

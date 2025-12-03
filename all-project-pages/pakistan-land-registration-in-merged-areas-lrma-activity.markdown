@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Land Registration in Merged Areas (LRMA) Activity
 ---
+
 date: 2021-05-19 14:06:00 Z
 published: false
 summary: 'The Land Registration in Merged Areas Activity is establishing a land record

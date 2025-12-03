@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Social Protection Technical Assistance, Advice, and Resources (STAAR)
-  Facility
 ---
+  Facility
+
 date: 2022-04-19 08:32:00 Z
 summary: 'The Social Protection Technical Assistance, Advice, and Resources (STAAR)
   Facility is dedicated to expanding and improving the effectiveness of investments

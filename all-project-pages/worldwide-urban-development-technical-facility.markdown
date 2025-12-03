@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Urban Development Technical Facility
 ---
+
 date: 2022-11-11 11:18:00 Z
 summary: 'The first-ever EU Urban Development Technical Facility focuses on supporting
 partner countries in their urban development challenges. '

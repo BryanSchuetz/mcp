@@ -1,6 +1,8 @@
+
 ---
 title: Haiti—Finance Inclusive
 ---
+
 date: 2017-06-26 16:18:00 Z
 summary: The Haiti Finance Inclusive project supported the development of the enabling
   environment to increase the usage of basic financial services by undeserved and

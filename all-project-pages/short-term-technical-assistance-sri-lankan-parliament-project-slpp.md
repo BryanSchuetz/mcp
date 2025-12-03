@@ -1,6 +1,8 @@
+
 ---
 title: Short-Term Technical Assistance to the Sri Lankan Parliament Project (SLPP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 published: false
 summary: SLPP supports Sri Lanka's newly elected parliament to change the Standing

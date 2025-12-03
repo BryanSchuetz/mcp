@@ -1,7 +1,9 @@
+
 ---
 title: Bangladesh—Strengthening Public Financial Management for Social Protection
-  (SPFMSP)
 ---
+  (SPFMSP)
+
 date: 2021-06-17 15:09:00 Z
 summary: 'DAI managed the final year of the Strengthening Public Financial Management
   for Social Protection project implementation and provided information technology,

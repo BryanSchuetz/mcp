@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Helping a Global Apparel Company Safely Re-Open Factories During COVID-19
 ---
+
 date: 2022-03-23 12:01:00 Z
 summary: 'DAI assisted VF Corporation—one of the world’s largest apparel, footwear
   and accessories companies—to reduce COVID transmission and safely re-open key supplier

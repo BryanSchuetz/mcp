@@ -1,6 +1,8 @@
+
 ---
 title: African, Caribbean, and Pacific—European Union Microfinance Programme
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'This program supported efficiency and transparency in local markets and
   the training of microfinance policymakers and practitioners in the African, Caribbean,

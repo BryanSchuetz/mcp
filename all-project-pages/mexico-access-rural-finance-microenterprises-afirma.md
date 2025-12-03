@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Access to Rural Finance for Microenterprises (AFIRMA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Access to Rural Finance for Microenterprises project built an inclusive,
   sustainable microfinance sector in Mexico as a means to increase access to a range

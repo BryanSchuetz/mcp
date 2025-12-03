@@ -1,6 +1,8 @@
+
 ---
 title: Ukraine—Support to Strategic Communications
 ---
+
 date: 2022-01-27 08:25:00 Z
 summary: DAI's project worked to increase the strategic communications capacity of
   the Ukrainian Government, with an overall objective of ensuring the public's awareness

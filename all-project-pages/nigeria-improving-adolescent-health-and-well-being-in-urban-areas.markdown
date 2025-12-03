@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Youth-Powered Ecosystem to Advance Urban Adolescent Health
 ---
+
 date: 2020-05-08 14:13:00 Z
 summary: 'The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
   program empowered young Nigerians to think about their futures differently and access

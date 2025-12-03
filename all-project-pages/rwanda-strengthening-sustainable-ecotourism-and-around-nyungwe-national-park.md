@@ -1,7 +1,9 @@
+
 ---
 title: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
-  Park (SSENNP)
 ---
+  Park (SSENNP)
+
 date: 2016-01-21 22:40:00 Z
 summary: The project supported the Rwanda Development Board’s efforts to improve overall
   management of the National Park and helped local communities and the private sector

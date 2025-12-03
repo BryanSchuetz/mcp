@@ -1,6 +1,8 @@
+
 ---
 title: Tanzania—Developing Local Industries Connected to Tanzania’s Natural Gas Discoveries
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked in the Mtwara region of Tanzania to analyze the demand and supply
   for local suppliers in key supply chains in the gas industry, partnering with ExxonMobil,

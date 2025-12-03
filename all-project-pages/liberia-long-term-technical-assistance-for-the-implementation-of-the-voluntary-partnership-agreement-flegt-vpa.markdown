@@ -1,7 +1,9 @@
+
 ---
 title: Liberia—Long-Term Technical Assistance for the Implementation of the Voluntary
-  Partnership Agreement (FLEGT-VPA
 ---
+  Partnership Agreement (FLEGT-VPA
+
 date: 2019-03-26 21:26:00 Z
 summary: 'This project increases the value of traded timber products, strengthen forest
   law enforcement and governance, and share forest benefits more equitably through

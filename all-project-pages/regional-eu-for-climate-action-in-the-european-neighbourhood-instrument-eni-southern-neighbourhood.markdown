@@ -1,6 +1,8 @@
+
 ---
 title: Regional—Acting for Climate in South Mediterranean (Clima-Med)
 ---
+
 date: 2020-05-20 13:02:00 Z
 summary: DAI is supporting a regional approach to support the transition towards sustainable,
   low-carbon, and climate-resilient development in the Southern Mediterranean, specifically

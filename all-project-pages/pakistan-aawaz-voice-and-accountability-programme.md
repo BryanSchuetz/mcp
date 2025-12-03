@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—AAWAZ Voice and Accountability Programme
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts across
   Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which

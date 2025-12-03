@@ -1,6 +1,8 @@
+
 ---
 title: Peru—Prevent activity
 ---
+
 date: 2019-10-03 13:57:00 Z
 summary: Peru Prevent helped Peruvian institutions and actors more effectively manage
   the country’s natural resources for future generations.

@@ -1,7 +1,9 @@
+
 ---
 title: Paraguay—Technical Assistance for Institutional Strengthening of National Entities
-  for Environmental and Forestry Governance
 ---
+  for Environmental and Forestry Governance
+
 date: 2024-05-10 13:16:00 Z
 summary: DAI provides technical assistance for Institutional Strengthening of National
   Entities for Environmental and Forestry Governance in Paraguay. This initiative

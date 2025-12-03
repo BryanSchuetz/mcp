@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Technical Assistance for Capacity Enhancement for Development and Implementation
-  of Smart Specialization Strategies
 ---
+  of Smart Specialization Strategies
+
 date: 2023-08-08 09:18:00 Z
 summary: The Technical Assistance for Capacity Enhancement for Development and Implementation
   of Smart Specialization Strategies in Türkiye’s Regions (CEDIS3) will strengthen

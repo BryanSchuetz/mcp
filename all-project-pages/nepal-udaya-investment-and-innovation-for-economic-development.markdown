@@ -1,6 +1,8 @@
+
 ---
 title: 'Nepal—Udaya: Investment and Innovation for Economic Development'
 ---
+
 date: 2024-02-06 15:46:00 Z
 summary: Udaya leverages innovative financing mechanisms to improve access by small
   and medium-sized enterprises (SMEs) to growth capital and business development services

@@ -1,7 +1,9 @@
+
 ---
 title: Democratic Republic of the Congo—Feed the Future Strengthening Livelihoods
-  and Resilience (SLR) Activity
 ---
+  and Resilience (SLR) Activity
+
 date: 2020-10-02 13:42:00 Z
 published: false
 summary: The DRC Strengthening Livelihoods and Resilience Activity assists the government

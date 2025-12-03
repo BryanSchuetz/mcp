@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Global Development Alliance (GDA) Strategic Support Program
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Since 2006, DAI has been called on by USAID to enhance, evaluate, and create
   public-private partnerships. Two of our projects—Global Development Alliance Strategic

@@ -1,6 +1,8 @@
+
 ---
 title: Kazakhstan—Development of Standards for the Civil Service Provision (KCSP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI worked with the government of Kazakhstan to develop performance standards
   and indicators for the civil service in pilot ministries and oblasts; the standards

@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Consolidating Democracy in Pakistan (CDIP)
 ---
+
 date: 2017-06-30 21:08:00 Z
 summary: The Consolidating Democracy in Pakistan programme increased the capacity,
   accountability, and responsiveness of Pakistan’s political institutions—particularly

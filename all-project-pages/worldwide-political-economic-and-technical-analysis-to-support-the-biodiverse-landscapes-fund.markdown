@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Political, Economic & Technical Analysis to Support the Biodiverse
-  Landscapes Fund
 ---
+  Landscapes Fund
+
 date: 2021-07-08 18:08:00 Z
 summary: 'DAI carried out a political economy analysis and technical assessment of
   five transboundary landscapes on behalf of the U.K. Department for Environment,

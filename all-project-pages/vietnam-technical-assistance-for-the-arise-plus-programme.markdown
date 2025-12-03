@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Technical Assistance for the ARISE+ Programme
 ---
+
 date: 2020-05-06 13:32:00 Z
 summary: 'The EuropeAid project Technical Assistance for the ARISE+ Programme aims
   to provide technical assistance to the Vietnamese Government to maximise Vietnam’s

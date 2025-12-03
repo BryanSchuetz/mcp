@@ -1,6 +1,8 @@
+
 ---
 title: Canada—Marine Renewables Supply Chain Assessment
 ---
+
 date: 2020-09-18 13:34:00 Z
 summary: 'Marine Renewables Canada commissioned a study to further assess how to expand
   its small and medium enterprise members’ access to domestic and international markets. '

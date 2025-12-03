@@ -1,7 +1,9 @@
+
 ---
 title: Tajikistan—In-Service Teacher Training, Learning Assessment, Planning, Budgeting,
-  and Monitoring
 ---
+  and Monitoring
+
 date: 2021-03-09 11:25:00 Z
 summary: We supported the Ministry of Education and Science in Tajikistan in improving
   services related to teacher training, learning assessment, financial planning, and

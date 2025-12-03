@@ -1,6 +1,8 @@
+
 ---
 title: Türkiye—Assessment of Türkiye’s Potential on Transition to Circular Economy
 ---
+
 date: 2022-02-14 11:45:00 Z
 tags:
 - Europe

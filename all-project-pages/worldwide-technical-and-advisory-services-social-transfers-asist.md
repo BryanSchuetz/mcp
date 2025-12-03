@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Advisory Service Social Transfers (ASiST III) Programme
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI helped the European Union to increase the impact, quality, coverage,
   and sustainability of social transfer schemes that target food and nutrition security.

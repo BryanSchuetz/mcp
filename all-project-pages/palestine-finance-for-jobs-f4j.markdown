@@ -1,6 +1,8 @@
+
 ---
 title: Palestine—Finance for Jobs (F4J)
 ---
+
 date: 2016-12-01 21:19:00 Z
 summary: Implemented on behalf of the Palestinian Ministry of Finance and Planning,
   the Finance for Jobs series of projects address constraints to job growth in the

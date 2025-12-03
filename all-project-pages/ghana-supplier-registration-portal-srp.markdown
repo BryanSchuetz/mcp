@@ -1,6 +1,8 @@
+
 ---
 title: Ghana—Supplier Registration Portal (SRP)
 ---
+
 date: 2020-01-16 16:58:00 Z
 published: false
 summary: DAI’s Sustainable Business Group (SBG) provided a Supplier Registration Portal

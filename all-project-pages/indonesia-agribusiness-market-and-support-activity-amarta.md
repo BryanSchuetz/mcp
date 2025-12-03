@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Agribusiness Market and Support Activity (AMARTA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'AMARTA focused on improving productivity and quality, the keys to upgrading
   agribusiness value chains in Indonesia. '

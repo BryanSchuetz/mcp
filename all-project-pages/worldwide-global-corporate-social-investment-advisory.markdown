@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Global Corporate Social Investment Advisory
 ---
+
 date: 2020-09-18 13:55:00 Z
 summary: To more sustainably invest in the social and economic development of the
   communities where it operates, Kosmos Energy sought the expertise of DAI in 2015

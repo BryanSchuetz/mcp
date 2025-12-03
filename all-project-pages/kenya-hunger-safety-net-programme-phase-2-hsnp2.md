@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Hunger Safety Net Programme Phase 2 (HSNP2)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Through the Hunger Safety Net Programme (HSNP), more than 600,000 of Kenya’s
   most vulnerable people had access to cash transfers on a regular basis and up to

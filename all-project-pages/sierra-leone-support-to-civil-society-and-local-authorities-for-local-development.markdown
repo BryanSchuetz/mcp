@@ -1,6 +1,8 @@
+
 ---
 title: Sierra Leone—Support to Civil Society and Local Authorities for Local Development
 ---
+
 date: 2021-03-09 11:45:00 Z
 summary: We are supporting decentralization in Sierra Leone by empowering local authorities
   as well as local and rural civil society groups in selected districts to plan and

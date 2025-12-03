@@ -1,6 +1,8 @@
+
 ---
 title: Central America—Continuous Improvement in the Central American Workplace (CIMCAW)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Funded by the U.S. Agency for International Development (USAID) and multinational
   apparel companies, DAI worked with international and local nongovernmental organizations

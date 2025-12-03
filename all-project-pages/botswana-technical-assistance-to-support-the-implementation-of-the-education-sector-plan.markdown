@@ -1,7 +1,9 @@
+
 ---
 title: Botswana—Technical Assistance to Support the Implementation of the Education
-  Sector Plan
 ---
+  Sector Plan
+
 date: 2021-07-27 13:08:00 Z
 summary: DAI supported the Government of Botswana, and especially the Ministry of
   Education and Skills Development, to implement the Education and Training Strategic

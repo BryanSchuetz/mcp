@@ -1,6 +1,8 @@
+
 ---
 title: "Regional—Critical Infrastructure Digitalization and Resilience (CIDR)"
 ---
+
 date: 2021-09-29 15:48:00 Z
 published: false
 summary: 'The Critical Infrastructure Digitalization and Resilience program assists

@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Determination of Industrial Emissions Strategy in Accordance with Integrated
-  Pollution Prevention and Control
 ---
+  Pollution Prevention and Control
+
 date: 2020-04-14 15:02:00 Z
 summary: The project promoted environmentally friendly industrial production and contributed
   to policy development, leading to a Draft National Action Plan for Determining Türkiye's

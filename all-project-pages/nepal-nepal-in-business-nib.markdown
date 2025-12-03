@@ -1,6 +1,8 @@
+
 ---
 title: Nepal—Nepal in Business (NIB)
 ---
+
 date: 2024-07-23 09:18:00 Z
 summary: 'The Nepal in Business (NIB) Program works with Nepali entrepreneurs and
   policymakers to democratize access to capital in the underdeveloped small and micro-enterprises

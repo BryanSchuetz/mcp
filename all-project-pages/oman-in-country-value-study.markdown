@@ -1,6 +1,8 @@
+
 ---
 title: Oman—In-Country Value Study
 ---
+
 date: 2020-09-18 14:18:00 Z
 summary: In 2019 DAI’s Sustainable Business Group (SBG) conducted a five-month in-country
   value (ICV) assessment to inform an international oil and gas company’s early-stage

@@ -1,6 +1,8 @@
+
 ---
 title: Nepal—Nutrition Collaborative Research Support Program
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Preparing food for children ages 6-24 months takes a lot of mothers'' time,
   which is often limited by other responsibilities. In low-income neighborhoods of

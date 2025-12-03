@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Clean Energy Programme (MCEP)
 ---
+
 date: 2019-03-14 20:59:00 Z
 summary: 'DAI implemented the Mexico Clean Energy Programme, which developed the skills
   of small and medium enterprises and government institutions to support Mexico''s

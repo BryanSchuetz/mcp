@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Policy Development Facility I
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Policy Development Facility was a flexible, rapid-response facility designed
   to support those “champions of change” who are driving economic and social policies

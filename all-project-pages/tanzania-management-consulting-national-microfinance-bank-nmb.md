@@ -1,6 +1,8 @@
+
 ---
 title: Tanzania—Management Consulting to the National Microfinance Bank (NMB)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI began working in August 1999 to transform the National Microfinance
   Bank (NMB), a troubled state-owned savings bank in one of the world''s poorest countries,

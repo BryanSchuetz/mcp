@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Short-Term Technical Assistance In Biotechnology (STTAB)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI provided technical assistance primarily to developing-country governments
 to help them make informed decisions and draft national biosafety frameworks in

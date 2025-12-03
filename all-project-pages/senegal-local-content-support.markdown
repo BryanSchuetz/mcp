@@ -1,6 +1,8 @@
+
 ---
 title: Senegal—Local Content Support
 ---
+
 date: 2020-09-18 15:23:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was hired by an international oil
   and gas company active in Senegal to develop a comprehensive approach to integrating

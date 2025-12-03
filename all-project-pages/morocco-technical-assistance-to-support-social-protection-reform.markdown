@@ -1,6 +1,8 @@
+
 ---
 title: Morocco—Technical Assistance to Support Social Protection Reform
 ---
+
 date: 2019-05-13 10:00:00 Z
 summary: The Technical Assistance to Support Social Protection Reform project in Morocco
   coordinated and monitored social protection reforms; strengthened capacity in social

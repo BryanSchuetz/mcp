@@ -1,6 +1,8 @@
+
 ---
 title: Palestine—The Compete Project
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked with key Palestinian sectors  to better compete in regional and
   global markets. Targeted sectors in the West Bank and Gaza included agribusiness,

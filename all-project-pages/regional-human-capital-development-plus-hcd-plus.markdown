@@ -1,6 +1,8 @@
+
 ---
 title: Regional—Human Capital Development Plus (HCD+)
 ---
+
 date: 2022-10-31 11:00:00 Z
 summary: DAI is training staff at HDC+, a regional advocacy and technical assistance
   hub that contributes to increasing government commitment, funding, and accountability

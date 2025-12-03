@@ -1,6 +1,8 @@
+
 ---
 title: Ukraine—EU/EBRD SME Support to Ukrainian Banks, 2nd Tranche UkrSibbank
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI implemented a small and medium-sized enterprise lending scheme at UkrSibbank
 in Ukraine, with the focus on building the bank's capacity through training in credit

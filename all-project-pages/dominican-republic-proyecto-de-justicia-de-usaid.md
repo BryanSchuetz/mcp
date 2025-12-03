@@ -1,6 +1,8 @@
+
 ---
 title: Dominican Republic—Proyecto de Justicia de USAID
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Through Proyecto de Justicia de USAID, DAI helped the Dominican Republic’s
   justice institutions implement the new code by providing assistance in policy making,

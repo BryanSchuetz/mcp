@@ -1,6 +1,8 @@
+
 ---
 title: Mozambique—Feed the Future Agricultural Innovations (FTF Inova)
 ---
+
 date: 2017-04-27 18:11:00 Z
 summary: The Feed the Future Agricultural Innovations (FTF Inova) project partnered
   with farmers, businesses, and policymakers to explore ways to improve productivity

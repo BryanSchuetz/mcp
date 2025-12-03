@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—NiWajibu Wetu (NIWETU)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The Kenya NiWajibu Wetu (NIWETU) program, funded by the U.S. Agency for
   International Development, worked to reduce violent extremism among at-risk individuals

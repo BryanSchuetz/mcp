@@ -1,6 +1,8 @@
+
 ---
 title: Kyrgyzstan and Tajikistan—Enterprise and Innovation Programme (EIP)
 ---
+
 date: 2020-05-11 09:22:00 Z
 summary: The Enterprise and Innovation Programme increased innovation and growth in
 startups and small firms and provided support and training through the establishment

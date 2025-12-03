@@ -1,7 +1,9 @@
+
 ---
 title: Regional—Strengthening Regional Peace and Stability in West Africa Program
-  (SRPS)
 ---
+  (SRPS)
+
 date: 2023-08-03 13:48:00 Z
 published: false
 summary: The Strengthening Regional Peace and Stability in West Africa program builds

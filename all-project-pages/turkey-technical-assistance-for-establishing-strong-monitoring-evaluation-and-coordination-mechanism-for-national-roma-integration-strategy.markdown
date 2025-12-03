@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Technical Assistance for Establishing Strong Monitoring, Evaluation,
-  and Coordination Mechanism for National Roma Integration Strategy
 ---
+  and Coordination Mechanism for National Roma Integration Strategy
+
 date: 2020-05-06 11:33:00 Z
 summary: This project—led by WYG partnered with DAI—aims to achieve measurable progress
   towards ending discrimination against Roma people and strengthening respect for

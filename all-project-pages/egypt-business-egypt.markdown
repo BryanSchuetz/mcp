@@ -1,6 +1,8 @@
+
 ---
 title: Egypt—Business Egypt
 ---
+
 date: 2021-11-17 15:27:00 Z
 published: false
 summary: 'Business Egypt is building a robust ecosystem of market-led institutions—incubators,

@@ -1,6 +1,8 @@
+
 ---
 title: Canada—Energy Education Assessment
 ---
+
 date: 2020-09-18 13:51:00 Z
 summary: On behalf of a Canadian association, DAI’s Sustainable Business Group (SBG)
   analyzed the technical and vocational education and training institutions and tertiary

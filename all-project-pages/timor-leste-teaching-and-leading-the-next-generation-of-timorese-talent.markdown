@@ -1,6 +1,8 @@
+
 ---
 title: Timor-Leste—Teaching and Leading the Next Generation of Timorese (TALENT)
 ---
+
 date: 2024-09-16 08:38:00 Z
 summary: The Teaching and Leading the Next Generation of Timorese (TALENT) project
   works to improve the quality of teaching and school leadership in Timor-Leste’s

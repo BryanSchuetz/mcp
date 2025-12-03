@@ -1,7 +1,9 @@
+
 ---
 title: Georgia—Support to the Independence, Accountability, and Efficiency of the
-  Judiciary
 ---
+  Judiciary
+
 date: 2020-06-08 11:23:00 Z
 summary: The project Support to the Independence, Accountability, and Efficiency of
   the Judiciary assisted with ensuring the impartiality and professionalism of the

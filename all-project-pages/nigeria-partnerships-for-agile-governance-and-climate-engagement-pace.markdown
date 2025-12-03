@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Partnership for Agile Governance & Climate Engagement (PACE)
 ---
+
 date: 2024-06-28 09:48:00 Z
 summary: 'The Nigeria Governance and Climate Change program supports coalitions to
 influence governments in resolving climate and governance problems affecting the

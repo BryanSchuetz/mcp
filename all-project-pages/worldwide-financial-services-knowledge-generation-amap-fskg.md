@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Financial Services Knowledge Generation (AMAP-FSKG)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Research and knowledge conducted under FSKG increased the capacity of donors
   and U.S. Agency for International Development missions to design and strengthen

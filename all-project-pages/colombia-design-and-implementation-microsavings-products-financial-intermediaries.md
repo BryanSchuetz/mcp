@@ -1,7 +1,9 @@
+
 ---
 title: Colombia—Design and Implementation of Microsavings Products for Financial Intermediaries
-  (MICROAHORRO)
 ---
+  (MICROAHORRO)
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked to expand the frontier of quality banking services to benefit
   geographically isolated poor people and micro-entrepreneurs in Colombia.

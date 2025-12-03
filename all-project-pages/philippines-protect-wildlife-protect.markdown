@@ -1,6 +1,8 @@
+
 ---
 title: Philippines—Protect Wildlife
 ---
+
 date: 2017-02-16 20:47:00 Z
 summary: 'Protect was a multi-pronged program in the Philippines that worked to conserve
   biodiversity, protect wildlife, and sustain ecosystem services in ways that also

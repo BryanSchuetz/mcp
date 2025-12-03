@@ -1,7 +1,9 @@
+
 ---
 title: Morocco—Greening the Mohammed VI Fund for Investment–Innovation and Investment
-  Fund (I2F)
 ---
+  Fund (I2F)
+
 date: 2022-05-23 11:15:00 Z
 summary: DAI worked with the Moroccan Ministry of Economy and Finance to support the
   design and structuring of the Mohammed VI Fund for Investment (M6FI), embedding

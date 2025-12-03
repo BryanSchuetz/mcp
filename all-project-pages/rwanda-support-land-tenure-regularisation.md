@@ -1,6 +1,8 @@
+
 ---
 title: Rwanda—Support for Land Tenure Regularisation
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the
   issuance of registered title to every landholder in the country. Prior to the project,

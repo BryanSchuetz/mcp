@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Women for Health (W4H)
 ---
+
 date: 2017-07-28 14:56:00 Z
 summary: The Women for Health (W4H) programme empowered women as service providers
   in five states in northern Nigeria.

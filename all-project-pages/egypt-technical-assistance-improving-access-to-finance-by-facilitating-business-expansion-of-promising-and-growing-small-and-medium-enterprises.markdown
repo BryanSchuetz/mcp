@@ -1,7 +1,9 @@
+
 ---
 title: Egypt—Technical Assistance Improving Access to Finance by Facilitating Business
-  Expansion of Promising and Growing Small and Medium Enterprises
 ---
+  Expansion of Promising and Growing Small and Medium Enterprises
+
 date: 2021-02-05 09:13:00 Z
 summary: DAI increased access to capital and financial resources for underserved groups
   of small firms by working with the Bank of Alexandria in enhancing understanding

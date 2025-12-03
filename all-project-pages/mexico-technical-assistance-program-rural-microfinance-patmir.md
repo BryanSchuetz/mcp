@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Technical Assistance Program for Rural Microfinance (PATMIR)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: We worked with an alliance of regulated financial institutions to expand
   access to basic financial services to the poor. This included applying new approaches

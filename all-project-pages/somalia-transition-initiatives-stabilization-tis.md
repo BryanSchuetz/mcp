@@ -1,6 +1,8 @@
+
 ---
 title: Somalia—Transition Initiatives for Stabilization (TIS)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: This U.S. Agency for International Development-funded program worked to increase
   the visibility of, and confidence in, the government of Somalia by improving government

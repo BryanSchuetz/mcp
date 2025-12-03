@@ -1,6 +1,8 @@
+
 ---
 title: Regional—MED Dialogue For Rights and Equality II, Civil Society Facility South
 ---
+
 date: 2023-01-05 12:57:00 Z
 summary: The MED Dialogue For Rights and Equality II, Civil Society Facility South
   project works to increase the capacity of young civil society actors as key partners

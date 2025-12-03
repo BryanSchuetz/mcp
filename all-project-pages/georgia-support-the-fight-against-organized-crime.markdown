@@ -1,6 +1,8 @@
+
 ---
 title: Georgia—Support the Fight Against Organized Crime
 ---
+
 date: 2021-02-12 08:39:00 Z
 summary: We supported the Georgia Ministry of Internal Affairs, and its relevant departments,
   law enforcement, and State Security Services in the fight against organized crime.

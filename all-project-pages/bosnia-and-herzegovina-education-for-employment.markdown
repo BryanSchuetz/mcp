@@ -1,6 +1,8 @@
+
 ---
 title: Bosnia and Herzegovina—Education for Employment
 ---
+
 date: 2020-07-01 10:45:00 Z
 summary: The Education for Employment project supported the Government of BiH to increase
   the responsiveness of its education sector to labor market needs and worked to increase

@@ -1,6 +1,8 @@
+
 ---
 title: Russia—Microfinance Sector Support Program (RMSSP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Starting in September 2001, the Microfinance Sector Support Program promoted
   this deepening by creating a Russian best-practice microfinance center to support

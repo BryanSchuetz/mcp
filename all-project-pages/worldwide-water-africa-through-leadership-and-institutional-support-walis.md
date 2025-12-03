@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Water for Africa through Leadership and Institutional Support (WALIS)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The WALIS program provides technical, programmatic, administrative, and
   logistical support to USAID in improving the capacity of African water sectors. '

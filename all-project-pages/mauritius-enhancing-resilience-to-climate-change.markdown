@@ -1,6 +1,8 @@
+
 ---
 title: Mauritius—Enhancing Resilience to Climate Changes
 ---
+
 date: 2019-03-08 20:40:00 Z
 summary: DAI worked with the Government of Mauritius to improve capacity and coordination
 across key institutions dealing with climate change.

@@ -1,6 +1,8 @@
+
 ---
 title: Mozambique—Promoting Sustainable Agricultural Market System (PROMAS)
 ---
+
 date: 2023-01-23 14:25:00 Z
 summary: The Promoting Sustainable Agricultural Market System (PROMAS) project is
   creating a more competitive, inclusive, climate-resilient market in northern Mozambique.

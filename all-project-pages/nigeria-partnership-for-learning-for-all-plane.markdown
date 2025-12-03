@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Partnership for Learning for All (PLANE)
 ---
+
 date: 2021-09-08 11:18:00 Z
 summary: 'The Partnership for Learning for All in Nigeria (PLANE) project is delivering
   a more inclusive and effective education system and improving learning outcomes

@@ -1,7 +1,9 @@
+
 ---
 title: Pakistan—Khyber Pakhtunkhwa District Governance and Community Development Programme
-  (KP-CDLD)
 ---
+  (KP-CDLD)
+
 date: 2020-05-20 13:11:00 Z
 summary: The Community Driven Local Development Programme worked to restore community
   trust in the local government and build government responsiveness in the Khyber

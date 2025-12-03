@@ -1,6 +1,8 @@
+
 ---
 title: Liberia—Building Recovery and Reform Through Democratic Governance (BRDG-Liberia)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The DAI team worked with Liberia's new government to increase legitimacy,
   strengthen public sector management, and promote policy and institutional reforms.

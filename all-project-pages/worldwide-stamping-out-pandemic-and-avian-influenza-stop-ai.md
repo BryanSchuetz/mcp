@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Stamping Out Pandemic and Avian Influenza (STOP AI)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The STOP AI project provided technical resources and support services in
   preparedness planning, surveillance, and prevention; outbreak response; and re-infection

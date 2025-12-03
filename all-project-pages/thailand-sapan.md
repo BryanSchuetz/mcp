@@ -1,6 +1,8 @@
+
 ---
 title: Thailand—Sapan
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Our team promoted cooperation between civil society and agencies of the
 Royal Thai Government to strengthen the role of community organizations, facilitate

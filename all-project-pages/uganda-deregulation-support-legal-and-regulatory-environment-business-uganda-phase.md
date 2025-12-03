@@ -1,7 +1,9 @@
+
 ---
 title: Uganda—Deregulation—Support to the Legal and Regulatory Environment for Business
-  in Uganda (Phase I, II)
 ---
+  in Uganda (Phase I, II)
+
 date: 2016-01-21 22:40:00 Z
 summary: From 2000 to 2003, DAI managed the Deregulation project in Uganda, designed
   to improve the regulatory environment for business growth. The second phase of the

@@ -1,6 +1,8 @@
+
 ---
 title: Mozambique—Democratic Governance Support Programme (DIÁLOGO)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Local para
   a Boa Governação in Portuguese, contributed to improved governance and accountability

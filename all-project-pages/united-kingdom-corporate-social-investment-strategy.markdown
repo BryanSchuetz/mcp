@@ -1,6 +1,8 @@
+
 ---
 title: United Kingdom—Corporate Social Investment Strategy
 ---
+
 date: 2020-09-18 13:30:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was engaged by a leading U.K.-based
   retailer of premium foods to be an advisor to its Corporate Social Responsibility

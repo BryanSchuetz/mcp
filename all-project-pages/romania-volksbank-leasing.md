@@ -1,6 +1,8 @@
+
 ---
 title: Romania—Volksbank Leasing (VBL)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the European Bank for Reconstruction and Development
   to help Volksbank Leasing in Romania expand its leasing operations for the small-

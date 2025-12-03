@@ -1,6 +1,8 @@
+
 ---
 title: Democratic Republic of the Congo—Capacity Building at Rawbank
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Complementing other International Finance Corporation interventions to improve
   the enabling environment for private sector growth and investment, the capacity

@@ -1,6 +1,8 @@
+
 ---
 title: Ethiopia—Strengthening Host and Refugee Populations (SHARPE)
 ---
+
 date: 2019-10-03 11:20:00 Z
 summary: 'The Strengthening Host and Refugees Populations in Ethiopia program works
   to strengthen the economies of target populations in three regions in Ethiopia;

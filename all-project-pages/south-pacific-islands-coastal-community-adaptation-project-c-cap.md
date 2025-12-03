@@ -1,6 +1,8 @@
+
 ---
 title: South Pacific Islands—Coastal Community Adaptation Project (C-CAP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: C-CAP built the resilience of vulnerable coastal communities to withstand
   more intense and frequent weather events and ecosystem degradation in the short

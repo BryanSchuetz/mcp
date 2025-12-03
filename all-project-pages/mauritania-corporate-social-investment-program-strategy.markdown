@@ -1,6 +1,8 @@
+
 ---
 title: Mauritania—Corporate Social Investment Program Strategy
 ---
+
 date: 2017-08-25 14:16:00 Z
 summary: DAI’s Sustainable Business Group (SBG) created an innovative five-year strategy
   to deliver economic and social impact beyond project revenue, to create positive

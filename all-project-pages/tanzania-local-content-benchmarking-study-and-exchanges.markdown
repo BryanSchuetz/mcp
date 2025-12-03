@@ -1,6 +1,8 @@
+
 ---
 title: Tanzania—Local Content Benchmarking Study and Exchanges
 ---
+
 date: 2017-08-24 16:56:00 Z
 summary: DAI’s Sustainable Business Group (SBG) was contracted by the Oil and Gas
   Association of Tanzania (OGAT) to complete a Local Content Benchmarking Study and

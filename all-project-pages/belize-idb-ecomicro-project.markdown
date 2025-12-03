@@ -1,6 +1,8 @@
+
 ---
 title: Belize—IDB EcoMicro Project
 ---
+
 date: 2021-02-09 08:09:00 Z
 summary: Funded by the Inter-American Development Bank, DAI's Sustainable Business
   Group worked with the Belize Credit Union League to help Belizean small and medium

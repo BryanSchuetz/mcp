@@ -1,6 +1,8 @@
+
 ---
 title: Ethiopia—BRIDGES
 ---
+
 date: 2021-06-28 15:21:00 Z
 summary: 'DAI provides capacity-building services, such as support in financial management,
   to ensure that First Consult is operating with compliant, effective processes conducive

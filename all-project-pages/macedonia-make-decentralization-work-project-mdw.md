@@ -1,6 +1,8 @@
+
 ---
 title: Macedonia—Make Decentralization Work Project (MDW)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Decentralization is an important component of lasting democratic development
   in countries such as Macedonia that are accustomed to a centralized autocracy. The

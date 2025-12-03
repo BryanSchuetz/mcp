@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Transition Initiative Program (KTI)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Through assistance in reducing tensions and by enabling economic, political,
   and social recovery, the Kenya Transition Initiative Program (KTI) helped to renew

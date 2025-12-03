@@ -1,6 +1,8 @@
+
 ---
 title: Türkiye—Technical Assistance for Improving Job and Vocational Counselling Services
 ---
+
 date: 2020-07-17 09:16:00 Z
 summary: 'The Technical Assistance for Improving Job and Vocational Counselling Services
   project supported the Turkish Employment Agency (İŞKUR) to fulfil its mandate as

@@ -1,6 +1,8 @@
+
 ---
 title: Papua New Guinea—National Content Workshop
 ---
+
 date: 2020-01-16 17:54:00 Z
 published: false
 summary: DAI’s Sustainable Business Group (SBG) is helping facilitate a series of

@@ -1,6 +1,8 @@
+
 ---
 title: Slovakia—SME Finance Facility—OTP Banka Slovensko
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: OTP Banka Slovensko is an institution that has historically focused on corporate
 lending. In 2005, the bank looked to diversify its portfolio and decided to incorporate

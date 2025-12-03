@@ -1,7 +1,9 @@
+
 ---
 title: Democratic Republic of the Congo—Security Sector Accountability and Police
-  Reform Programme (SSAPR)
 ---
+  Reform Programme (SSAPR)
+
 date: 2016-01-21 22:40:00 Z
 summary: The Security Sector Accountability and Police Reform Programme worked to
   improve the Democratic Republic of the Congo's capacity to provide security, safety,

@@ -1,7 +1,9 @@
+
 ---
 title: Peru—Policy and Institutional Development Component (PIDC) of the Alternative
-  Development Program
 ---
+  Development Program
+
 date: 2016-01-21 22:40:00 Z
 summary: This project strengthened control of the licit coca market, strengthened
   control of precursor chemicals used in processing coca into coca paste and cocaine,

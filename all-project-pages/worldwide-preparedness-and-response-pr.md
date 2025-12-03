@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Preparedness and Response (P&R)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The P&R project addressed the practical issues confronting national governments
   as they coped with the human, financial, and logistical constraints associated with

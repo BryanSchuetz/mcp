@@ -1,6 +1,8 @@
+
 ---
 title: Mongolia—SME Leasing Policy Initiative
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI helped to improve the performance of Mongolia's financial sector in serving
   small and medium-sized enterprises (SMEs), particularly those that contribute to

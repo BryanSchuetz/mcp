@@ -1,6 +1,8 @@
+
 ---
 title: Philippines—Safe Water
 ---
+
 date: 2019-11-25 09:15:00 Z
 summary: 'The Philippines Safe Water activity provides local government units, water
   service providers, and watershed councils with the information, incentives, and

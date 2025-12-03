@@ -1,6 +1,8 @@
+
 ---
 title: India—Small and Medium-Sized Enterprise Financing and Development Program
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: In line with the Indian government's strategy to strengthen economic growth
   and employment by developing small and medium-sized enterprises (SMEs), DAI facilitated

@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Integrated Approach to Neglected Tropical Diseases (UNITED)
 ---
+
 date: 2017-08-24 14:39:00 Z
 summary: The Integrated Approach to Neglected Tropical Diseases Programme supported
   the Nigerian government in controlling seven neglected tropical diseases—blinding
@@ -24,7 +26,7 @@ Led by Sightsavers, the consortium also comprises Helen Keller International, CB
 
 DAI Global Health was responsible for the health systems strengthening work stream, which involved budget advocacy to ensure political commitment and spending for NTDs. UNITED successfully built capacities at national and sub-national levels on resource mobilization for NTDs programmes. In collaboration with partners, the program contributed to the government's decision to allocate budget lines for NTDs in UNITED-supported states. UNITED also helped integrate of some NTDs intervention areas into the overall health sector agenda to maximize available resources from other disease interventions.
 
-![Devs----Nigeria-UNITED-5.jpg](/uploads/Devs----Nigeria-UNITED-5.jpg)`Presenting the master plan for Kaduna State, Nigeria, to address neglected tropical diseases.`
+![Devs-Nigeria-UNITED-5.jpg](/uploads/Devs-Nigeria-UNITED-5.jpg)`Presenting the master plan for Kaduna State, Nigeria, to address neglected tropical diseases.`
 
 ### Sample Activities
 

@@ -1,6 +1,8 @@
+
 ---
 title: Poland—Residential Energy Efficiency Financing Facility (Poland REFF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Poland REFF created a program of targeted loans to incentivize borrowing
 for household improvements that increase efficiency and reduce energy consumption.

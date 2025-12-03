@@ -1,6 +1,8 @@
+
 ---
 title: Mozambique—Local Content Strategy and Industrial Baseline Study
 ---
+
 date: 2020-09-18 13:57:00 Z
 summary: DAI’s Sustainable Business Group (SBG) was contracted by an international
   oil and gas company to transform its local content approach in Mozambique to improve

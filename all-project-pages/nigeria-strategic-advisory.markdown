@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Strategic Advisory
 ---
+
 date: 2020-09-18 13:26:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) provided strategic advisory services
   to Chevron’s Partnerships Initiative in the Niger Delta (PIND) Foundation to support

@@ -1,6 +1,8 @@
+
 ---
 title: 'Worldwide—Green Gateway: Greening Financial Systems Technical Assistance Programme'
 ---
+
 date: 2023-02-07 12:58:00 Z
 tags:
 - Europe

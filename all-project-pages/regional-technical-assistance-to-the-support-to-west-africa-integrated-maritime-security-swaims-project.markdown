@@ -1,7 +1,9 @@
+
 ---
 title: Regional—Technical Assistance to the  Support to West  Africa Integrated Maritime  Security
-  (SWAIMS) Project
 ---
+  (SWAIMS) Project
+
 date: 2021-01-18 13:41:00 Z
 summary: 'Our project supported the SWAIMS programme to improve maritime security
   and safety in the Gulf of Guinea. We strengthened governance and law enforcement

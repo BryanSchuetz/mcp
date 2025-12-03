@@ -1,6 +1,8 @@
+
 ---
 title: Montenegro—Renewable Energies and Energy Efficiency Facility (RE-EE)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI established a facility to promote renewable energies and energy-efficiency
   related investments in Montenegro.

@@ -1,6 +1,8 @@
+
 ---
 title: Mozambique—Financial Sector Deepening (FSDMoç)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Financial Sector Deepening Mozambique (FSDMoç) was a financial inclusion
   facilitation unit. FSDMoç targeted increased access and improved quality of financial
@@ -24,7 +26,7 @@ While Mozambique’s economy is emerging—notably through the extractives secto
 
 In July 2017, [FSDMoç](http://fsdmoc.com/) received an additional 39 million Swedish Krona (£3.5 million) from the Swedish International Development Cooperation Agency. These additional funds enabled FSDMoç to adapt to emerging opportunities in the digital finance, inclusive insurance, and housing finance sectors.
 
-![Devs----FSDMoz-1.jpg](/uploads/Devs----FSDMoz-1.jpg)
+![Devs-FSDMoz-1.jpg](/uploads/Devs-FSDMoz-1.jpg)
 
 ###  Sample Activities
 

@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Small and Medium Enterprise Development (ASMED)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'ASMED supported small and medium-sized enterprises (SMEs), the major drivers
   of Afghanistan''s economic development. Through support for investment, technology,

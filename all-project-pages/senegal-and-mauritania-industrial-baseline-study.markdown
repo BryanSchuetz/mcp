@@ -1,6 +1,8 @@
+
 ---
 title: Senegal and Mauritania—Industrial Baseline Study
 ---
+
 date: 2020-09-18 13:06:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was contracted by an international
   oil and gas company to conduct an industrial baseline study across Senegal and Mauritania. '

@@ -1,6 +1,8 @@
+
 ---
 title: Bosnia and Herzegovina—Governance Accountability Project (GAP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Since the Dayton Peace Accords of 1995, Bosnia and Herzegovina has been consolidating
   its emerging multiethnic and representative government. To improve the chances for

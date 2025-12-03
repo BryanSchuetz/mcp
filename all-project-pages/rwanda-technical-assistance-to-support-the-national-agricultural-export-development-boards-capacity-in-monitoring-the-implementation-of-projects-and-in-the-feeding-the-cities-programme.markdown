@@ -1,8 +1,10 @@
+
 ---
 title: Rwanda—Technical Assistance to Support the National Agricultural Export Development
+---
   Board’s Capacity in Monitoring the Implementation of Projects and in the ‘Feeding
   the Cities’ Programme
----
+
 date: 2021-02-05 10:43:00 Z
 summary: 'The European Union is supporting the Government of Rwanda to modernize agriculture
   through a number of projects and funding models. DAI provides project monitoring

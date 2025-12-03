@@ -1,6 +1,8 @@
+
 ---
 title: South Africa—Women’s Justice and Empowerment Initiative
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Under a subcontract to an RTI International project funded by the U.S. Agency
   for International Development (USAID), DAI worked on the Women''s Justice and Empowerment

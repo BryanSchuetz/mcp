@@ -1,6 +1,8 @@
+
 ---
 title: Colombia—Responsive Governance (RG) Activity
 ---
+
 date: 2020-10-20 15:33:00 Z
 summary: The Responsive Governance (RG) Activity enhances good governance, public
   financial management, and effective public service delivery in conflict-affected

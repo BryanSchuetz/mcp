@@ -1,7 +1,9 @@
+
 ---
 title: Palestine—Strengthening the Accountability and Transparency of the Legislative
-  Process (BAYAN)
 ---
+  Process (BAYAN)
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The BAYAN project (named after the Arabic word for exposition) worked closely
   with leading Palestinian civil society organizations to build their capacity to

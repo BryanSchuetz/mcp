@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Environmental Services Program (ESP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: In Indonesia, 100 million people lack access to clean water, and many households
   in densely populated areas are not served by existing piped water. This project

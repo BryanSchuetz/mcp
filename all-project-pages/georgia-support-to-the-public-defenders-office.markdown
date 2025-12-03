@@ -1,6 +1,8 @@
+
 ---
 title: Georgia—Support to the Public Defender’s Office
 ---
+
 date: 2023-03-28 15:58:00 Z
 summary: Our project supports the Georgia Public Defender’s Office to improve its
   ability to implement and monitor human rights policies and actions and raise human

@@ -1,6 +1,8 @@
+
 ---
 title: Sierra Leone—Local Content Planning and Reporting
 ---
+
 date: 2017-08-24 15:56:00 Z
 summary: DAI's Sustainable Business Group works with the Sierra Leone Local Content
 Agency on an online portal and scorecard system to simplify and assure standardization

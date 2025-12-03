@@ -1,6 +1,8 @@
+
 ---
 title: Ghana—Western Region Coastal Foundation (WRCF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Western Region Coastal Foundation promotes inclusive economic growth
   for communities affected by Ghana's burgeoning oil and gas industry by helping to

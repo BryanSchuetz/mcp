@@ -1,6 +1,8 @@
+
 ---
 title: Bulgaria—Société Générale Expressbank
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI assisted Société Générale Expressbank, one of Bulgaria's leading banks
   in the consumer finance market, in expanding its small and medium enterprise loan

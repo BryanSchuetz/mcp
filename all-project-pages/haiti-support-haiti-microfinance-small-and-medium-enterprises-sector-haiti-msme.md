@@ -1,7 +1,9 @@
+
 ---
 title: Haiti—Support to Haiti’s Microfinance, Small and Medium Enterprises Sector
-  (Haiti MSME)
 ---
+  (Haiti MSME)
+
 date: 2016-01-21 22:40:00 Z
 summary: Haiti MSME was launched by the U.S. Agency for International Development
   (USAID) to improve livelihoods and create employment through broader access to financial

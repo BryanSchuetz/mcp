@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Value Chain Analysis of Energy Sector
 ---
+
 date: 2017-08-24 16:14:00 Z
 summary: The Niger Delta Partnership Initiative Foundation (NDPI)’s 2016 Electricity
   Value Chain Study is the culmination of three years of work between DAI and NDPI/Foundation

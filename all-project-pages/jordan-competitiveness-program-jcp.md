@@ -1,6 +1,8 @@
+
 ---
 title: Jordan—Competitiveness Program (JCP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'JCP stimulated about $70 million in new Jordanian exports, facilitated more
   than $100 million in investment opportunities, contributed to the creation of nearly

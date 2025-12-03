@@ -1,7 +1,9 @@
+
 ---
 title: Ukraine—Implementation of EU Practices for Accounting, Financial Reporting,
-  and Audit
 ---
+  and Audit
+
 date: 2020-05-06 13:08:00 Z
 summary: This EU-funded project aims to enhance Ukraine's transparency and business
   climate, facilitating domestic and foreign direct investment in the private sector

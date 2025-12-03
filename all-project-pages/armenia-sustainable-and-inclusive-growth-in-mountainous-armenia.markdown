@@ -1,6 +1,8 @@
+
 ---
 title: Armenia—Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA)
 ---
+
 date: 2023-01-06 12:38:00 Z
 summary: The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project
   takes a market systems development (MSD) approach to bolster growth—primarily in

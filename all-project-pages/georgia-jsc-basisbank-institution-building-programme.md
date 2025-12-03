@@ -1,6 +1,8 @@
+
 ---
 title: Georgia—JSC BasisBank Institution-Building Programme
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported BasisBank in the implementation of a comprehensive institution-building
   programme. The objective of the programme was to strengthen the bank to allow it

@@ -1,7 +1,9 @@
+
 ---
 title: Nigeria—Partnership for Reviving Routine Immunization in Northern Nigeria /
-  Maternal Newborn and Child Health (PRRINN/MNCH)
 ---
+  Maternal Newborn and Child Health (PRRINN/MNCH)
+
 date: 2017-08-29 18:48:00 Z
 summary: Covering a population of approximately 19 million in four states of Northern
   Nigeria, the Partnership for Reviving Routine Immunization in Northern Nigeria /

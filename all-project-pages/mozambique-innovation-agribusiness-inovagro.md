@@ -1,6 +1,8 @@
+
 ---
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II, III)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Innovation for Agribusiness increased revenue for small farmers in northern
   Mozambique by promoting the development of inclusive and sustainable market systems.

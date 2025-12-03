@@ -1,6 +1,8 @@
+
 ---
 title: Madagascar—Improving the Business Environment and Investment Climate (CLIM-INVEST)
 ---
+
 date: 2022-02-17 19:18:00 Z
 summary: CLIM-INVEST supports Madagascar by stimulating investments in the country,
   creating high-quality jobs, fostering sustainable and inclusive growth, and encouraging

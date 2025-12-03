@@ -1,6 +1,8 @@
+
 ---
 title: Regional—EcoMicro Assessment
 ---
+
 date: 2020-09-18 14:15:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) prepared a presentation of analysis
   to support EcoMicro’s application to the Clean Technology Fund (CTF) for investment

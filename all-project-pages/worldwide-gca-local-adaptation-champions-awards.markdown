@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—GCA Local Adaptation Champions Awards
 ---
+
 date: 2022-06-13 16:06:00 Z
 summary: DAI supported the delivery of the Local Adaptation Champions Awards
 start: 2022

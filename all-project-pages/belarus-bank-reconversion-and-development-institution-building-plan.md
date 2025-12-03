@@ -1,6 +1,8 @@
+
 ---
 title: Belarus—Bank for Reconversion and Development–Institution Building Plan
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI led a consortium that provided technical assistance in parallel to an
   equity investment by the European Bank for Reconstruction and Development for the

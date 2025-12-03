@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—INVEST
 ---
+
 date: 2017-10-06 19:20:00 Z
 summary: 'INVEST was a flexible, efficient buy-in mechanism that helped the U.S. Agency
   for International Development (USAID) mobilize private capital for development results. '

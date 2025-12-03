@@ -1,6 +1,8 @@
+
 ---
 title: Kosovo—Transparent, Effective, and Accountable Municipalities (USAID TEAM)
 ---
+
 date: 2017-02-06 22:20:00 Z
 summary: The Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity
   supported Kosovo to improve the transparency and accountability of the municipal

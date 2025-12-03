@@ -1,7 +1,9 @@
+
 ---
 title: Democratic Republic of the Congo—Integrated Governance Activity (IGA); Good
-  Governance Activity (GGA)
 ---
+  Governance Activity (GGA)
+
 date: 2017-02-23 21:19:00 Z
 published: false
 summary: 'The Good Governance Activity seeks to improve the transparency and accountability

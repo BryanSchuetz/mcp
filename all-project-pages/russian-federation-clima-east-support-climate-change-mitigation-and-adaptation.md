@@ -1,7 +1,9 @@
+
 ---
 title: 'European Neighbourhood Policy East Countries—Clima East: Support to Climate
-  Adaptation'
 ---
+  Adaptation'
+
 date: 2016-01-21 22:40:00 Z
 summary: The Clima East programme helped integrate the countries' climate change strategies,
   greenhouse gases mitigation plans, and adaptation approaches. The programme was
@@ -26,7 +28,7 @@ promos:
 layout: project
 The Clima East program worked with the countries of the ENP East region—Armenia, Azerbaijan, Belarus, Georgia, Moldova, and Ukraine to help integrate the countries’ climate strategies, mitigation plans, and adaptation approaches with activities carried out across the region. The program was part of a larger Clima East package that supported the development of ecosystems-based approaches to changes in climate.
 
-![Devs----Clima-East-2.jpg](/uploads/Devs----Clima-East-2.jpg)
+![Devs-Clima-East-2.jpg](/uploads/Devs-Clima-East-2.jpg)
 
 ### Sample Activities
 

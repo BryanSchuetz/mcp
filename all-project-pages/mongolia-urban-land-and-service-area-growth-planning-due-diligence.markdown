@@ -1,6 +1,8 @@
+
 ---
 title: Mongolia—Urban Land and Service Area Growth Planning Due Diligence
 ---
+
 date: 2017-10-26 21:35:00 Z
 summary: DAI supported the Millennium Challenge Corporation in Mongolia by developing
 policy and planning solutions to address constraints to water access and supply

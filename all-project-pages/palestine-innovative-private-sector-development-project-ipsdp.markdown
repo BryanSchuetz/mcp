@@ -1,6 +1,8 @@
+
 ---
 title: Palestine—Innovative Private Sector Development (IPSD) project
 ---
+
 date: 2019-10-14 07:56:00 Z
 summary: The Innovative Private Sector Development (IPSD) project develops entrepreneurship
 and expands economic opportunity in the Palestinian Territories.

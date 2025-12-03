@@ -1,6 +1,8 @@
+
 ---
 title: Jordan—Workforce Development (WFD) Project
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Jordan Workforce Development Project worked to create a competitive,
   demand-driven workforce development system that leads to increased private sector

@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—John Odigie Oyegun Public Service Academy (JOOPSA), Phases I, II
 ---
+
 date: 2022-10-05 08:49:00 Z
 summary: DAI is helping the John Odigie Oyegun Public Service Academy (JOOPSA) to
   train its public service to deliver high-value services to citizens and accelerate

@@ -1,6 +1,8 @@
+
 ---
 title: Rwanda—Nguriza Nshore
 ---
+
 date: 2018-05-14 17:58:00 Z
 summary: 'The Nguriza Nshore Activity worked to crowd in finance (debt and equity)
   for small firms that are not yet realizing the benefits of Rwanda’s strong economic

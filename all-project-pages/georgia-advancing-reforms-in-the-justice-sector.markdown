@@ -1,6 +1,8 @@
+
 ---
 title: Georgia—Advancing Reforms in the Justice Sector
 ---
+
 date: 2023-10-11 09:48:00 Z
 summary: 'The Advancing Reforms in the Justice Sector in Georgia project continues
   initiatives that support judicial reform and fosters security, equality, and democratic

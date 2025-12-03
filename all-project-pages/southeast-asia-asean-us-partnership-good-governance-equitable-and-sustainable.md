@@ -1,7 +1,9 @@
+
 ---
 title: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable
-  Development and Security (U.S.-ASEAN PROGRESS)
 ---
+  Development and Security (U.S.-ASEAN PROGRESS)
+
 date: 2016-01-21 22:40:00 Z
 summary: The Association of Southeast Asian Nations (ASEAN) sought to promote equitable
   and sustainable human development in Southeast Asia through improved governance

@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Public Procurement Initiative
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI and lead partner Everis provided European Union negotiators with quantitative
   tools to assess the government procurement markets in Australia, Brazil, China,

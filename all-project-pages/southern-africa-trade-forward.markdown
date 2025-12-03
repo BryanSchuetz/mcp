@@ -1,6 +1,8 @@
+
 ---
 title: Southern Africa—Trade Forward Southern Africa (TFSA)
 ---
+
 date: 2020-02-21 11:49:00 Z
 summary: The Trade Forward Southern Africa programme supported trade growth, improved
   gender equality in the trade arena, and alleviated poverty across Botswana, Eswatini,

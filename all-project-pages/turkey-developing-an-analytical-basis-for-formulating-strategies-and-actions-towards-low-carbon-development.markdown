@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Developing an Analytical Basis for Formulating Strategies and Actions
-  Towards Low Carbon Development
 ---
+  Towards Low Carbon Development
+
 date: 2020-04-21 13:56:00 Z
 summary: The Developing an Analytical Basis for Formulating Strategies and Actions
   Towards Low Carbon Development programme worked to reduce manmade greenhouse gas

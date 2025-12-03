@@ -1,7 +1,9 @@
+
 ---
 title: Uganda—Productive Resource Investments for Managing the Environment—Western
-  Region (PRIME/West)
 ---
+  Region (PRIME/West)
+
 date: 2016-01-21 22:40:00 Z
 summary: 'PRIME/West used three approaches to bring biodiversity conservation/natural
   resource management, and economic development together into a practical and sustainable

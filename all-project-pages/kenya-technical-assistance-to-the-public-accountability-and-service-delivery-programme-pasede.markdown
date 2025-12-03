@@ -1,7 +1,9 @@
+
 ---
 title: Kenya—Technical Assistance to the Public Accountability and Service Delivery
-  Programme (PASEDE)
 ---
+  Programme (PASEDE)
+
 date: 2021-10-06 09:49:00 Z
 summary: Our technical assistance supports the Public Finance Management Reform Secretariat
   in Kenya.

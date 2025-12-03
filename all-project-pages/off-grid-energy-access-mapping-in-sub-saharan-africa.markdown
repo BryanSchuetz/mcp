@@ -1,6 +1,8 @@
+
 ---
 title: Africa–Off-Grid Energy Access Mapping in Sub-Saharan Africa
 ---
+
 date: 2017-03-17 18:09:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was sub-contracted by Development
   Seed to support this project by providing guidance and expertise on energy demand

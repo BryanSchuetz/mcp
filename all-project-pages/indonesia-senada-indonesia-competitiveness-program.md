@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—SENADA Indonesia Competitiveness Program
 ---
+
 client: U.S. Agency for International Development
 start: 2005
 end: 2009

@@ -1,6 +1,8 @@
+
 ---
 title: Myanmar—Economic Response Facility (ERF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 published: false
 summary: The Economic Response Facility (ERF) works to reduce poverty in Myanmar and

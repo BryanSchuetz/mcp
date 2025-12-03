@@ -1,6 +1,8 @@
+
 ---
 title: Brazil—Paying for Nature Scoping Activity
 ---
+
 date: 2022-04-07 16:07:00 Z
 summary: Defra commissioned DAI to conduct research and analysis of the current state
   of play in the Legal Amazon region in Brazil to inform the next round of climate

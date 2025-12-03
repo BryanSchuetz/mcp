@@ -1,7 +1,9 @@
+
 ---
 title: Bulgaria—Energy Efficiency and Renewable Energy Credit Line Support – Rational
-  Energy Utilisation and Financing Plans
 ---
+  Energy Utilisation and Financing Plans
+
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
 start: 2004

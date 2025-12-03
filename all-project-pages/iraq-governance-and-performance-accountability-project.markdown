@@ -1,6 +1,8 @@
+
 ---
 title: Iraq—Governance and Performance Accountability (IGPA)/Takamul
 ---
+
 date: 2017-06-29 19:58:00 Z
 summary: 'The Iraq Governance and Performance Accountability (IGPA)/Takamul project
   supports the Iraqi Government to shore up fiscal stability while rapidly and visibly

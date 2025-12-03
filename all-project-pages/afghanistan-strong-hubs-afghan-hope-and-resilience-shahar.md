@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Strong Hubs for Afghan Hope and Resilience (SHAHAR)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: SHAHAR helped create well-governed, fiscally sustainable Afghan municipalities
   capable of meeting the needs of growing urban populations.

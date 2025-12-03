@@ -1,7 +1,9 @@
+
 ---
 title: Ethiopia—GCCA+/Climate Smart Mainstreaming into the Productive Safety Net Program
-  (Climate-Smart PSNP)
 ---
+  (Climate-Smart PSNP)
+
 date: 2019-01-17 13:10:00 Z
 summary: The Climate-Smart PSNP project is enhancing the design and planning capacities
   of Ethiopia’s Public Works Coordination Unit and Food Security Coordination Directorate.

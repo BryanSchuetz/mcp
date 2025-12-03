@@ -1,7 +1,9 @@
+
 ---
 title: Regional—Technical Assistance for the Implementation of the Support Programme
-  to the Maritime Security Strategy in Central Africa (PASSMAR)
 ---
+  to the Maritime Security Strategy in Central Africa (PASSMAR)
+
 date: 2021-07-27 15:20:00 Z
 summary: 'DAI''s work aims to reinforce the safety and security in the maritime domain
   in the Gulf of Guinea in the Economic Community of Central African States (ECCAS)

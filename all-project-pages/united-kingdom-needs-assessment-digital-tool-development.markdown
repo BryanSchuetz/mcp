@@ -1,6 +1,8 @@
+
 ---
 title: United Kingdom—Needs Assessment Digital Tool Development
 ---
+
 date: 2020-09-18 13:25:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was contracted by a leading U.K.-based
   retailer of premium foods to develop a digital needs assessment that could be used

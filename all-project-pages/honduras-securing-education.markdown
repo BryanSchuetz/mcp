@@ -1,6 +1,8 @@
+
 ---
 title: Honduras—Asegurando la Educación (Securing Education)
 ---
+
 date: 2017-04-20 18:11:00 Z
 summary: 'Asegurando la Educación worked to improve schools’ ability to prevent violence,
   strengthened local networks that increase school safety, and built the capacity

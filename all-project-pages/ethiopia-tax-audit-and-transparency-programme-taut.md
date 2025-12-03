@@ -1,6 +1,8 @@
+
 ---
 title: Ethiopia—Tax, Audit, and Transparency Programme (TAUT)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Tax, Audit, and Transparency Programme supported the Government of Ethiopia
   in progressively expanding the tax base and ensuring more effective tax administration.

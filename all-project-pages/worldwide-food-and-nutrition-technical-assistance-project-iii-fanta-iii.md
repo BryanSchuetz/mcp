@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Food and Nutrition Technical Assistance Project III (FANTA III)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'FANTA worked to improve and strengthening nutrition and food security policies,
   strategies, programs, and systems in Asian, African, and Central American countries. '

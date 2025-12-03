@@ -1,6 +1,8 @@
+
 ---
 title: Lebanon—Industry Value Chain Development (LIVCD)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Lebanon Industry Value Chain Development (LIVCD) project improved Lebanon's
   economic stability and provided income-generating opportunities for small business

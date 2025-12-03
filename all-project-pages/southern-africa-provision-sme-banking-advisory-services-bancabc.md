@@ -1,6 +1,8 @@
+
 ---
 title: Southern Africa—Provision of SME Banking Advisory Services to BancABC
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'BancABC is a pan-African financial services group that operates in five
   countries: Botswana, Mozambique, Tanzania, Zambia, and Zimbabwe. DAI helped BancABC

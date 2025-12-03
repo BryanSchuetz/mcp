@@ -1,7 +1,9 @@
+
 ---
 title: Caribbean—COVID-19 Recovery and Resiliency Through Digitization of Caribbean
-  Financial Institutions and their MSME Clients
 ---
+  Financial Institutions and their MSME Clients
+
 date: 2021-04-28 14:45:00 Z
 published: false
 summary: 'DAI is working to increase the adoption of digital innovations that promote

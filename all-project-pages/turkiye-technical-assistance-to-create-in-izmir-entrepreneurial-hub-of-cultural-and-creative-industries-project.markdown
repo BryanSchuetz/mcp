@@ -1,7 +1,9 @@
+
 ---
 title: 'Türkiye—Technical Assistance to Create in Izmir: Entrepreneurial Hub of Cultural
-  and Creative Industries Project'
 ---
+  and Creative Industries Project'
+
 date: 2022-09-09 08:15:00 Z
 tags:
 - European Union

@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Center for Development Innovation Professional Management Services
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI provided professional management services to the U.S. Agency for International
   Development's Center for Development Innovation, supporting the utilization of three

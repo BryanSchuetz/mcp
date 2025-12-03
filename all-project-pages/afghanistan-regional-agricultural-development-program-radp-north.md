@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Regional Agricultural Development Program (RADP–North)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Regional Agricultural Development Program–North (RADP-North) facilitated
   investments and worked to improve the productivity and profitability of select agricultural

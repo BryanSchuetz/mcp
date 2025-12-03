@@ -1,6 +1,8 @@
+
 ---
 title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund (AWEF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Arab Women’s Enterprise Fund (AWEF) focused on market system change and
   women’s economic empowerment in Egypt, Jordan, and until March 2018, the occupied

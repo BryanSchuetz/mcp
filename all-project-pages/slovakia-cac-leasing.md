@@ -1,6 +1,8 @@
+
 ---
 title: Slovakia—CAC Leasing
 ---
+
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
 start: 2005

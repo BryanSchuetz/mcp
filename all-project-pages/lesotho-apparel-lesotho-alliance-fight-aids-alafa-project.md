@@ -1,6 +1,8 @@
+
 ---
 title: Lesotho—Apparel Lesotho Alliance to Fight Aids (ALAFA) Project
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Apparel Lesotho Alliance to Fight AIDS (ALAFA) project was tasked with
   designing a strategy to address HIV/AIDS in the apparel industry and found that

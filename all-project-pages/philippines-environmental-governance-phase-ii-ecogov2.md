@@ -1,6 +1,8 @@
+
 ---
 title: Philippines—Environmental Governance Phase II (ECOGOV2)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'EcoGov2 supported two important trends in the Philippines: the move toward
   integrated resource management, which addressed linkages and resolved conflicts

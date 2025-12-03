@@ -1,6 +1,8 @@
+
 ---
 title: Somalia—Partnership for Economic Growth
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The USAID Partnership for Economic Growth program worked with local authorities
   and private sector groups to improve the enabling environment for investment and

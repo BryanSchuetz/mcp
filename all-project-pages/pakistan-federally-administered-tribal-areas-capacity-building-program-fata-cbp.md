@@ -1,7 +1,9 @@
+
 ---
 title: Pakistan—Federally Administered Tribal Areas Capacity Building Program (FATA
-  CBP)
 ---
+  CBP)
+
 date: 2016-01-21 22:40:00 Z
 summary: FATA CBP supported efforts to build civilian-military cooperation in the
   tribal areas of Pakistan.

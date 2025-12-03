@@ -1,7 +1,9 @@
+
 ---
 title: Democratic Republic of the Congo—Building Recovery and Reform through Democratic
-  Governance in the DRC (BRDG-DRC)
 ---
+  Governance in the DRC (BRDG-DRC)
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Working at national and provincial levels, the Building Recovery and Reform
   through Democratic Governance in the DRC (BRDG-DRC) project provided long- and short-term

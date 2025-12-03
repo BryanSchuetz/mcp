@@ -1,6 +1,8 @@
+
 ---
 title: The Gambia—State Building Contract 1 Complementary Support (SBC1 CS)
 ---
+
 date: 2018-10-04 15:05:00 Z
 summary: Through the State Building Contract 1 Complementary Support programme, DAI
 promoted inclusive growth and improved governance in The Gambia.

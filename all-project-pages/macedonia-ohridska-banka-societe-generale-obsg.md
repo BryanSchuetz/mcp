@@ -1,6 +1,8 @@
+
 ---
 title: Macedonia—Ohridska Banka Société Générale (OBSG)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Ohridska Banka Société Générale (OBSG) became an affiliate of Société Générale
 in 2007. One of 10 companies in the Macedonian Stock Exchange Index, OBSG signed

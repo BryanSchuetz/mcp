@@ -1,6 +1,8 @@
+
 ---
 title: East Africa—Trade and Investment Hub
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The East Africa Trade and Investment Hub was the U.S. Government's flagship
   project under the presidential Trade Africa initiative, which works to increase

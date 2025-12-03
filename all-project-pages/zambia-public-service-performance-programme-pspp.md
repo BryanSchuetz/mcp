@@ -1,6 +1,8 @@
+
 ---
 title: Zambia—Public Service Performance Programme (PSPP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported a Zambian-led process, built sustained capacity in the Cabinet
   Office, which has a central role in driving up efficiency and holding line ministries

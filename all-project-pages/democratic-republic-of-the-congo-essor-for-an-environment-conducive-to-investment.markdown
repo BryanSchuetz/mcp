@@ -1,6 +1,8 @@
+
 ---
 title: 'Democratic Republic of the Congo—Essor: For an Environment Conducive to Investment'
 ---
+
 date: 2018-07-25 22:15:00 Z
 summary: Essor acted at meso (business associations) and macro (government) levels
   to improve the incomes of the poor through the development of micro, small, and

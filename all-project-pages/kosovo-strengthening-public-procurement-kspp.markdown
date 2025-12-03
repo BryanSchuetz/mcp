@@ -1,6 +1,8 @@
+
 ---
 title: Kosovo—Strengthening Public Procurement (KSPP)
 ---
+
 date: 2020-12-15 11:16:00 Z
 summary: The Kosovo Strengthening Public Procurement (KSPP) project strengthened the
   public procurement system and reduced incidents of malfeasance and corruption.

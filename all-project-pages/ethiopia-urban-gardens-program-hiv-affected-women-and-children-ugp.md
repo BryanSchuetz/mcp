@@ -1,6 +1,8 @@
+
 ---
 title: Ethiopia—Urban Gardens Program for HIV-Affected Women and Children (UGP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'As part of an effort to provide healthier, more empowered lifestyles for
   people with HIV/AIDS and their families, we were tasked with increasing access to

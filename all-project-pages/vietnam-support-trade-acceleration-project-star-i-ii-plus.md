@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Support for Trade Acceleration Project (STAR I, II, Plus)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Following on the enormous success of STAR I, STAR II (2006–2010) focused
   on supporting the development of institutional and administrative systems needed

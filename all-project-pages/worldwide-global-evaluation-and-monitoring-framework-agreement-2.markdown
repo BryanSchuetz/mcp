@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Global Evaluation and Monitoring Framework Agreement 2
 ---
+
 date: 2025-10-16 18:53:00 Z
 summary: The Global Evaluation and Monitoring Framework Agreement 2 (GEMFA2) is a
   framework contract through which the U.K. Foreign, Commonwealth & Development Office

@@ -1,6 +1,8 @@
+
 ---
 title: Central America—Programa Regional de Cambio Climatico—PRCC
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: This regional initiative identified solutions and action plans to permit
   the countries and territories of Central America and the Dominican Republic to respond

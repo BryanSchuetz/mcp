@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Malaria Action Program for States (MAPS)
 ---
+
 date: 2017-08-21 18:13:00 Z
 summary: 'The Malaria Action Program for States (MAPS) program in Nigeria was a comprehensive
   program that increased coverage and use of life-saving malaria interventions in

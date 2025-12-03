@@ -1,6 +1,8 @@
+
 ---
 title: Guyana—Centre for Local Business Development
 ---
+
 date: 2017-08-24 16:43:00 Z
 summary: 'The Sustainable Business Group designed a [Centre for Local Business Development](https://www.dai.com/news/dai-to-collaborate-with-exxonmobil-on-centre-for-local-business-development-in-guyana)
   in Guyana to provide business training, mentorship, embedded technical advisors,

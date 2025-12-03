@@ -1,7 +1,9 @@
+
 ---
 title: Egypt—Technical and Financial Sustainability of the Renewable Energy and Energy
-  Efficiency Sectors
 ---
+  Efficiency Sectors
+
 date: 2020-04-21 16:07:00 Z
 summary: DAI created the Cairo Energy Efficiency Centre to promote the use of renewable
   energy and spread awareness of energy saving. The team also supported reforms in

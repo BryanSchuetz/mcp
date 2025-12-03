@@ -1,6 +1,8 @@
+
 ---
 title: Liberia—Local Empowerment for Government Inclusion and Transparency (LEGIT)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The Local Empowerment for Government Inclusion and Transparency program
   helped solidify decentralization reforms by facilitating the transfer of authority

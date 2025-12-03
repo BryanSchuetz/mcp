@@ -1,6 +1,8 @@
+
 ---
 title: Philippines, Sri Lanka, and Vietnam—Municipal Waste Recycling Project (MWRP)
 ---
+
 date: 2016-11-14 20:46:00 Z
 summary: The Municipal Waste Recycling Project worked in the Philippines, Sri Lanka,
   and Vietnam and provided grants and technical assistance to waste recycling programs,

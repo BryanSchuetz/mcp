@@ -1,7 +1,9 @@
+
 ---
 title: South Africa—Technical Expertise and Implementation Support Services for the
-  National School of Government (NSG)
 ---
+  National School of Government (NSG)
+
 date: 2020-08-07 18:04:00 Z
 summary: 'DAI assisted the NSG in fulfilling its mandate. Our intervention strengthened
   the NSG as a training institution, rolled out three training programmes (Breaking

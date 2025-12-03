@@ -1,6 +1,8 @@
+
 ---
 title: Jordan—Technical Assistance to Support the Quality of Education and TVET
 ---
+
 date: 2022-01-25 09:12:00 Z
 summary: 'We are supporting sustainable growth in Jordan through free and equitable access to high-quality primary and secondary education for human capital development. '
 start: 2022

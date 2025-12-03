@@ -1,7 +1,9 @@
+
 ---
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
-  Command East (RAMP UP East)
 ---
+  Command East (RAMP UP East)
+
 date: 2016-01-21 22:40:00 Z
 summary: The Regional Afghan Municipalities Program for Urban Populations, Regional
   Command East (RAMP UP East) supported 14 provincial capitals. Its primary customers

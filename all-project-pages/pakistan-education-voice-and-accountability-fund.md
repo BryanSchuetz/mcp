@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Education Voice and Accountability Fund (Ilm Ideas)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Ilm Ideas in Pakistan contributed to increased enrollment rates and retention,
   improved learning outcomes, enhanced parent and student satisfaction, and better

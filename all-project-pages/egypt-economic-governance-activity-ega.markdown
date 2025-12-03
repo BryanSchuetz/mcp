@@ -1,6 +1,8 @@
+
 ---
 title: Egypt—Economic Governance Activity (EGA)
 ---
+
 date: 2020-08-14 15:34:00 Z
 published: false
 summary: The Egypt Economic Governance Activity (EGA) works with the Government of

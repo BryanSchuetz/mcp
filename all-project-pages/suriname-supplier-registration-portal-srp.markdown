@@ -1,6 +1,8 @@
+
 ---
 title: Suriname—Supplier Registration Portal (SRP)
 ---
+
 date: 2020-01-16 16:51:00 Z
 published: false
 summary: DAI’s Sustainable Business Group (SBG) provided a Supplier Registration Portal

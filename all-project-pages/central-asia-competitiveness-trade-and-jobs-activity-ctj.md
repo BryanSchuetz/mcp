@@ -1,7 +1,9 @@
+
 ---
 title: Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ); Trade Central
-  Asia (TCA)
 ---
+  Asia (TCA)
+
 date: 2016-01-21 22:40:00 Z
 published: false
 summary: 'DAI is working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and

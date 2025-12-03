@@ -1,7 +1,9 @@
+
 ---
 title: Bosnia and Herzegovina—Technical Assistance for Vocational Education and Training
-  (VET) Education
 ---
+  (VET) Education
+
 date: 2023-12-08 16:27:00 Z
 summary: The Technical Assistance for Vocational Education and Training (VET) Education
   project aims to address critical challenges within Bosnia and Herzegovina's education

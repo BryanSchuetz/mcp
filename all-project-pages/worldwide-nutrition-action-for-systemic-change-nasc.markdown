@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Nutrition Action for Systemic Change (NASC)
 ---
+
 date: 2024-04-10 14:14:00 Z
 summary: Nutrition Action for Systemic Change (NASC) provides technical expertise
   on nutrition and food systems, building on previous achievements funded by the U.K.

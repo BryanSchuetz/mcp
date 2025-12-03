@@ -1,7 +1,9 @@
+
 ---
 title: Nigeria—Restructured Economic Framework for Openness, Reform, and Macroeconomic
-  Stability (REFORMS)
 ---
+  Stability (REFORMS)
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The REFORMS program improved the policy environment and addressed major
   impediments to economic growth in Nigeria. '

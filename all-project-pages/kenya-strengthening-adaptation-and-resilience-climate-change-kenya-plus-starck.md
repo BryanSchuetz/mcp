@@ -1,7 +1,9 @@
+
 ---
 title: Kenya—Strengthening Adaptation and Resilience to Changes to Climate in Kenya
-  Plus (StARCK+)
 ---
+  Plus (StARCK+)
+
 date: 2016-01-21 22:40:00 Z
 summary: StARCK+ achieved transformational change by helping Kenya to scale up private
   sector innovation and investment in low carbon and adaptation products, services,

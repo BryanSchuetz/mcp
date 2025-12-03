@@ -1,6 +1,8 @@
+
 ---
 title: Hungary—Unicredit (HVB) Leasing Hungary
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported Unicredit Leasing Hungary to strengthen its small and medium
   enterprise leasing practices.

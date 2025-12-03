@@ -1,6 +1,8 @@
+
 ---
 title: Jordan—Instituting Water Demand Management (IDARA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Instituting Water Demand Management (IDARA) project helped Jordan manage
   its water demand to more effectively use the current water supply, and embrace water-use

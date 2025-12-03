@@ -1,6 +1,8 @@
+
 ---
 title: El Salvador—Skills for Employment Project (Proyecto Habilidades para el Empleo)
 ---
+
 date: 2023-03-15 13:41:00 Z
 published: false
 summary: Our assistance enhances local Salvadoran partners' ability to improve human

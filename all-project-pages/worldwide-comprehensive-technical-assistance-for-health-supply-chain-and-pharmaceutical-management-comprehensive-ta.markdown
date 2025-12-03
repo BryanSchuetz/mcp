@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Comprehensive Technical Assistance for Health Supply Chain and Pharmaceutical
-  Management (Comprehensive TA)
 ---
+  Management (Comprehensive TA)
+
 date: 2024-02-06 11:14:00 Z
 published: false
 summary: 'DAI is a lead partner on the indefinite delivery, indefinite quantity (IDIQ)

@@ -1,6 +1,8 @@
+
 ---
 title: Oman—In-Country Value Industrial Baseline Study
 ---
+
 date: 2020-09-18 13:27:00 Z
 summary: DAI’s Sustainable Business Group (SBG) created an in-country value (ICV)
   demand and supply analysis for an oil and gas project in Oman using both qualitative

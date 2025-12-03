@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Financial Services Programme
 ---
+
 date: 2019-02-15 19:04:00 Z
 summary: 'This programme aims to create a more inclusive and competitive financial
   services sector accessible to all segments of Mexican society and new market entrants. '
@@ -21,7 +23,7 @@ promos:
   link: https://dai-global-developments.com/articles/empowering-women-lessons-from-covid-19-and-beyond
 There is considerable appetite in Mexico to modernize the country’s financial sector and develop its economic potential. This program aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants. Expanding and opening this sector will help to reduce poverty, increase productivity, and promote inclusive social and economic development.
 
-![Mexico----Prosperity-Fund-Finance.jpg](/uploads/Mexico----Prosperity-Fund-Finance.jpg)
+![Mexico-Prosperity-Fund-Finance.jpg](/uploads/Mexico-Prosperity-Fund-Finance.jpg)
 
 ### Sample Activities
 

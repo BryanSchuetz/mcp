@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Digital Transformation Technical Assistance Facility Framework (DTX
-  TAF)
 ---
+  TAF)
+
 date: 2024-06-06 09:38:00 Z
 summary: 'The Digital Transformation Technical Assistance Facility Framework (DTX
   TAF) supports financial institutions and agribusiness companies in their digital

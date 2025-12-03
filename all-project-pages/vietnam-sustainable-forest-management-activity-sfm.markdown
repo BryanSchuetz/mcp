@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Sustainable Forest Management (SFM)
 ---
+
 date: 2020-06-16 15:15:00 Z
 published: false
 summary: 'The Vietnam Sustainable Forest Management project helps the Government of

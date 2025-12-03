@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Mitra Kunci Initiative
 ---
+
 date: 2017-10-13 16:09:00 Z
 summary: 'The Mitra Kunci Initiative provided Indonesia’s poorest and most vulnerable
   with skills needed to be productive members of the workforce through training, information,

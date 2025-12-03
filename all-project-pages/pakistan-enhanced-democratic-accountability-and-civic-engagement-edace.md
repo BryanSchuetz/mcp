@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Enhanced Democratic Accountability and Civic Engagement (EDACE)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Enhanced Democratic Accountability and Civic Engagement (EDACE) programme
   made short-term, high-impact grants to improve rights awareness, citizen engagement,

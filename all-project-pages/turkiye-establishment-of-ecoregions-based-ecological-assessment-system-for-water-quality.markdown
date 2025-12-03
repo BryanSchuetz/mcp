@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Establishment of Ecoregions-Based Ecological Assessment System for
-  Water Quality
 ---
+  Water Quality
+
 date: 2025-05-15 15:35:00 Z
 summary: Türkiye’s water sector faces mounting pressures due to population growth,
   climate change, and increased pollution from agricultural, domestic, and industrial

@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Khyber Pakhtunkhwa Governance Program (KPG)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The Khyber Pakhtunkhwa Governance Program assisted the provincial government
   and civil society organizations to improve local government service and better serve

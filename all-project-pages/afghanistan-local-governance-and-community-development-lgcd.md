@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Local Governance and Community Development (LGCD)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'When this project launched in 2006, the insurgency was intensifying in Afghanistan
   and would soon escalate into violence. Our mission on behalf of the U.S. Agency

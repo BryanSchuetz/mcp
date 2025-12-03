@@ -1,7 +1,9 @@
+
 ---
 title: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization with the Political-Security
-  and Socio-Cultural Communities (PROSPECT)
 ---
+  and Socio-Cultural Communities (PROSPECT)
+
 date: 2019-07-25 20:20:00 Z
 summary: 'PROSPECT helped the Association of Southeast Asian Nations (ASEAN) define
   joint measures to address transnational challenges, strengthened ASEAN’s people-to-people

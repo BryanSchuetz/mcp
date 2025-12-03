@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The programme helps local governments in Nigeria develop and implement policy
   by assisting them in tracking and accounting for how policies, plans, and budgets

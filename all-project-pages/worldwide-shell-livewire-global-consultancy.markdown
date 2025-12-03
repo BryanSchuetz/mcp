@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Shell LiveWIRE Global Consultancy
 ---
+
 date: 2019-02-06 09:10:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) supported Shell with strengthening
   existing LiveWIRE programs, designing and launching new country LiveWIRE programs,

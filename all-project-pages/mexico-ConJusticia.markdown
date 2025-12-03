@@ -1,7 +1,9 @@
+
 ---
 title: Mexico—Programa para el Fortalecimiento de Instituciones de Justicia Penal
-  Estatal (ConJusticia)
 ---
+  Estatal (ConJusticia)
+
 date: 2020-07-27 09:54:00 Z
 published: false
 summary: ConJusticia in Mexico consolidates and sustains recent justice system reforms

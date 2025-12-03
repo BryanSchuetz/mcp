@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Transforming Education in Pakistan (TEP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Transforming Education in Pakistan (TEP) programme managed a public advocacy
   campaign in Pakistan to ensure that parents and civil society groups support quality

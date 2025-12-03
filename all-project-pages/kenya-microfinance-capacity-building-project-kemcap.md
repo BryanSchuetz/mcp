@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Microfinance Capacity Building Project (KEMCAP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Microfinance Capacity Building Project's principal objective was to build
   and strengthen the Association of Microfinance Institutions so that it could become

@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—SAFCO Digital Transformation
 ---
+
 date: 2025-04-24 13:51:00 Z
 summary: DAI is supporting the digital acceleration of SAFCO Microfinance Company
   under the  Digital Transformation (DTX) Technical Assistance Facility so that it

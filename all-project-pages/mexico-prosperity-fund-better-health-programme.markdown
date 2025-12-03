@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Better Health Programme (BHPMx)
 ---
+
 date: 2019-07-10 08:17:00 Z
 summary: The Mexico Better Health Programme addressed the growing threat of noncommunicable
   diseases—especially obesity and diabetes—with a focus on realizing the economic

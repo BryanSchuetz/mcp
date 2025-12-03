@@ -1,7 +1,9 @@
+
 ---
 title: Madagascar—Eco-Regional Initiatives to Promote Alternatives to Slash and Burn
-  Practices (ERI)
 ---
+  Practices (ERI)
+
 date: 2016-01-21 22:40:00 Z
 summary: Through the Eco-Regional Initiatives to Promote Alternatives to Slash and
   Burn Practices project, DAI created an innovative form of eco-regional conservation

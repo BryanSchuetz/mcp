@@ -1,6 +1,8 @@
+
 ---
 title: Canada—Supply Chain Assessment
 ---
+
 date: 2020-01-16 17:12:00 Z
 summary: 'Nova Scotia Department of Energy and Mines and the Offshore Energy Research
   Association contracted DAI’s Sustainable Business Group (SBG) to carry out a pilot

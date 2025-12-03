@@ -1,6 +1,8 @@
+
 ---
 title: Ethiopia—Land Investment for Transformation (LIFT)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Land Investment for Transformation programme raised incomes for the rural
   poor and vulnerable populations in Ethiopia and enhanced economic growth through

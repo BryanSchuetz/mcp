@@ -1,6 +1,8 @@
+
 ---
 title: Colombia—Sustainable Economic Transformation (SET)
 ---
+
 date: 2024-02-02 12:57:00 Z
 published: false
 summary: The Sustainable Economic Transformation (SET) project supports sustainable

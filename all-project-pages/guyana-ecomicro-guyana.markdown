@@ -1,6 +1,8 @@
+
 ---
 title: Guyana—EcoMicro Guyana
 ---
+
 date: 2019-05-08 13:11:00 Z
 summary: DAI’s Sustainable Business Group worked with the Guyana Institute for Private
   Enterprise Development to help Guyanese small and medium enterprises grow through

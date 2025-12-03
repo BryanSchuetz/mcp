@@ -1,6 +1,8 @@
+
 ---
 title: Suriname–Industrial Baseline Study
 ---
+
 date: 2020-09-18 14:20:00 Z
 summary: 'On behalf of Staatsolie, Suriname’s state-owned oil and gas company, DAI’s
   Sustainable Business Group (SBG) used its Industrial Baseline Study methodology

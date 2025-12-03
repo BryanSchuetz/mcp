@@ -1,6 +1,8 @@
+
 ---
 title: Somalia—Promoting Inclusive Markets in Somalia (PIMS)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'The Promoting Inclusive Markets in Somalia programme addressed critical
   market constraints in Somalia largely through co-investment with Somali firms, stimulated

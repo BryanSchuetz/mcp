@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Local Content Study
 ---
+
 date: 2018-06-21 21:40:00 Z
 tags:
 - Mexico

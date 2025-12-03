@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Global Evaluation and Monitoring Framework Agreement (GEMFA) - Lot
-  4
 ---
+  4
+
 date: 2023-04-13 09:24:00 Z
 summary: The Global Evaluation and Monitoring Framework Agreement (GEMFA) is the primary  FCDO
   mechanism for monitoring and evaluation assignments. Lot 4 evaluates assignments

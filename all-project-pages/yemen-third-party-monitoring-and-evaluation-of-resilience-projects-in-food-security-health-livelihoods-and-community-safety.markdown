@@ -1,7 +1,9 @@
+
 ---
 title: Yemen—Third-Party Monitoring and Evaluation of Resilience Projects in Food
-  Security, Health, Livelihoods, and Community Safety
 ---
+  Security, Health, Livelihoods, and Community Safety
+
 date: 2021-02-05 10:26:00 Z
 published: false
 summary: 'With this project, DAI’s team of international and local consultants conducts

@@ -1,7 +1,9 @@
+
 ---
 title: Regional—Advancing Commerce Connectivity and Exports Leading to Economic Readiness
-  for Accession to the EU (ACCELERATE)
 ---
+  for Accession to the EU (ACCELERATE)
+
 date: 2024-08-26 13:26:00 Z
 published: false
 summary: 'The Advancing Commerce Connectivity and Exports Leading to Economic Readiness

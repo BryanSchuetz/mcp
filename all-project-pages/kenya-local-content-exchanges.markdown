@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Local Content Exchanges
 ---
+
 date: 2017-08-24 17:01:00 Z
 summary: 'DAI’s Sustainable Business Group was contracted by the World Bank to develop,
   plan, and deliver The Kenya Local Content Exchanges project, an initiative of the

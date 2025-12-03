@@ -1,6 +1,8 @@
+
 ---
 title: Southern Africa—Trade and Investment Hub (USAID TradeHub)
 ---
+
 date: 2016-11-17 15:08:00 Z
 summary: The USAID Southern Africa Trade and Investment Hub engaged with partners
   across Southern Africa to deepen regional economic integration, promote two-way

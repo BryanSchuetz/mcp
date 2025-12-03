@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—An Binh SME Banking Project
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted to provide An Binh Commercial Joint Stock Bank (ABB) with
   a client-driven small and medium enterprise (SME) banking strategy, with a clear

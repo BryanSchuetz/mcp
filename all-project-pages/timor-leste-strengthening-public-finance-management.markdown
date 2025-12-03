@@ -1,6 +1,8 @@
+
 ---
 title: Timor-Leste—Strengthening Public Finance Management
 ---
+
 date: 2025-09-24 20:06:00 Z
 summary: Since restoring its independence in 2002, Timor-Leste has made significant
   progress in key development areas, including infrastructure, institutional frameworks,

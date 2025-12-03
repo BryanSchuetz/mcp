@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Business Environment Reform Facility (BERF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The FCDO created the [Business Environment Reform Facility](https://www.r4d.org/)
   (BERF) to provide its country offices with access to expert advice on program design,

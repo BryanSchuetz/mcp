@@ -1,7 +1,9 @@
+
 ---
 title: Iraq—Support to Iraq’s Federal Board of Supreme Audit’s Strategic Development
-  Plan
 ---
+  Plan
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI managed this grant in Iraq, implemented by a team of expert advisors
   in financial and performance audit, petroleum accounting, fraud detection and prevention,

@@ -1,7 +1,9 @@
+
 ---
 title: Vietnam—USAID Program of Comprehensive and Integrated Support to People with
-  Disabilities (Disability Support Program)
 ---
+  Disabilities (Disability Support Program)
+
 date: 2016-01-21 22:40:00 Z
 summary: An estimated 12 million people and families in Vietnam are affected by disabilities.
   We assisted the Vietnamese to provide more comprehensive care, treatment, and specialized

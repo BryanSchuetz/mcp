@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Deepening Democracy Programme (DDP)
 ---
+
 date: 2017-05-03 18:52:00 Z
 summary: 'The Kenya Deepening Democracy Programme addressed recurring political instability
   and non-inclusive institutions in Kenya by improving electoral processes and government

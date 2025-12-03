@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Industrial Relations Promotion Project Phases 1-2
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: This partnership between the U.S. Department Of Labor and Vietnamese government—a
   follow-on to Phase 1 that was funded by the U.S. Agency for International Development—provided

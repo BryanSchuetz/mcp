@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Adaptasi Perubahan Iklim dan Ketangguhan (APIK)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development’s first project focused exclusively
   on climate change adaptation in Indonesia helped 8,000 community members and 334

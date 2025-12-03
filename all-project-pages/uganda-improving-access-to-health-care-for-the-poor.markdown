@@ -1,6 +1,8 @@
+
 ---
 title: Uganda—Improving Access to Health Care for the Poor
 ---
+
 date: 2018-01-18 18:40:00 Z
 summary: 'DAI Global Health and Montrose International implemented multiple studies
   to assess the costs and benefits of Results-Based Financing relative to Input-Based

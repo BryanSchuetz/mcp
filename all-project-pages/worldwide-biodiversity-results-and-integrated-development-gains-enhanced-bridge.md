@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The BRIDGE team integrated biodiversity conservation in development initiatives
   such as climate change adaptation and mitigation, democracy and governance, inclusive

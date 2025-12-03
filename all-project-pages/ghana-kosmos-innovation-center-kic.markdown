@@ -1,6 +1,8 @@
+
 ---
 title: Ghana—Kosmos Innovation Center (KIC)
 ---
+
 date: 2017-05-19 17:58:00 Z
 summary: 'DAI helped Kosmos Energy to design, launch, and implement the Kosmos Innovation
   Center (KIC) program as part of the oil and gas company''s corporate social investment

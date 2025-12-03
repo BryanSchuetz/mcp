@@ -1,6 +1,8 @@
+
 ---
 title: Sudan—Transition Initiative
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI managed small grant activities to strengthen Sudan''s transition to
   democratic and civilian rule, and and worked to improve stakeholder understanding

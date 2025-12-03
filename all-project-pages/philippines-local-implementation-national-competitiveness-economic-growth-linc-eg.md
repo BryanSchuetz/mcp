@@ -1,7 +1,9 @@
+
 ---
 title: Philippines—Local Implementation of National Competitiveness for Economic Growth
-  (LINC-EG)
 ---
+  (LINC-EG)
+
 date: 2016-01-21 22:40:00 Z
 summary: Implemented by the DAI/Nathan Group, the Local Implementation of National
   Competitiveness for Economic Growth (LINC-EG) project promoted local and national

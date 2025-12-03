@@ -1,6 +1,8 @@
+
 ---
 title: Thailand—Industrial Baseline Study (IBS)
 ---
+
 date: 2020-01-16 17:47:00 Z
 published: false
 summary: 'In Thailand, DAI’s Sustainable Business Group (SBG) is conducting an industrial

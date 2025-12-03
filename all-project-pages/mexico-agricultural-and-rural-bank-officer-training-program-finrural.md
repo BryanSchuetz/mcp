@@ -1,6 +1,8 @@
+
 ---
 title: Mexico—Agricultural and Rural Bank Officer Training Program (FINRURAL)
 ---
+
 date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Trade and Development Agency

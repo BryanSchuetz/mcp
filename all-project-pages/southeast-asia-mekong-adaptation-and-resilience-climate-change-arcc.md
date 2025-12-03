@@ -1,6 +1,8 @@
+
 ---
 title: Southeast Asia—Mekong Adaptation and Resilience to Changes in Climate (ARCC)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Mekong ARCC project bridged the knowledge gap between high-level science
   and local responses to help communities become more resilient. We assisted select

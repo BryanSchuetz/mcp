@@ -1,6 +1,8 @@
+
 ---
 title: 'Egypt—National Bank of Egypt: MSME Lending Capacity Building'
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: With a nationwide network of more than 300 banking units and dedicated small
   and medium-sized enterprises (SME) department with nearly 1,000 employees, the bank

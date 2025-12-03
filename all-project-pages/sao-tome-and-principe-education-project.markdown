@@ -1,6 +1,8 @@
+
 ---
 title: Sao Tome and Principe—Education Project
 ---
+
 date: 2020-09-18 14:55:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was hired to support an international
   oil and gas company to validate and implement its education project in Sao Tome

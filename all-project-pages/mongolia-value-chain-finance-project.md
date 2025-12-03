@@ -1,6 +1,8 @@
+
 ---
 title: Mongolia—Value Chain Finance Project
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: We devised a strategy to expand and improve financial services in Mongolia
   that would facilitate the strengthening of select value chains, including in mining,

@@ -1,6 +1,8 @@
+
 ---
 title: Egypt—Transforming Financial Systems for Climate (TFSC)
 ---
+
 date: 2022-12-13 11:48:00 Z
 summary: The Transforming Financial Systems for Climate (TFSC) program is part of
   a global €653 million effort of the Agence Française de Développement Group and

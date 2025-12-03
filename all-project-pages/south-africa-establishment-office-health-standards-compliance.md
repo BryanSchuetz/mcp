@@ -1,6 +1,8 @@
+
 ---
 title: South Africa—Establishment of the Office of Health Standards Compliance
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'We assisted the South Africa National Department of Health as it transformed
   its Office of Standards Compliance into an independent public agency, the Office

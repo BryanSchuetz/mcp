@@ -1,6 +1,8 @@
+
 ---
 title: Guyana—Corporate Social Investment Strategy
 ---
+
 date: 2020-09-18 14:18:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was contracted by an international
 energy company to design its internal strategy for corporate social investment (CSI)

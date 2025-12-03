@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Immediate Needs Project Nangarhar (AINP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: In 2004, the U.S. Agency for International Development launched a national
   plan to create meaningful alternative livelihoods and assist the Afghan people in

@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Development Credit Authority (DCA)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The DCA—catalyzing finance and facilitating new financial institution relationships—promoted
   a sustainable private-sector approach to economic development and growth.

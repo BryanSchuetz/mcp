@@ -1,6 +1,8 @@
+
 ---
 title: Dominican Republic—Climate Adaptation
 ---
+
 date: 2020-12-07 10:07:00 Z
 summary: DAI developed a feasibility study and final designs for a climate change
   adaptation programme for the Yaque del Sur River Basin in the Dominican Republic.

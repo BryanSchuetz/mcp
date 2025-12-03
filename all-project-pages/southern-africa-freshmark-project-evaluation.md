@@ -1,6 +1,8 @@
+
 ---
 title: Southern Africa—Freshmark Project Evaluation
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI was commissioned by TradeMark Southern Africa to conduct an independent
 evaluation of retailer Freshmark's project helping 200 small-scale farmers in Southern

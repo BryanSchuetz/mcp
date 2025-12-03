@@ -1,6 +1,8 @@
+
 ---
 title: Zambia—Market Access, Trade, and Enabling Policies Program (MATEP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development (USAID)-funded Market Access,
   Trade, and Enabling Policies (MATEP) project was designed to increase Zambia's exports

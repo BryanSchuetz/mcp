@@ -1,7 +1,9 @@
+
 ---
 title: Middle East and North Africa—Further Advancing the Blue Revolution Initiative
-  (FABRI)
 ---
+  (FABRI)
+
 date: 2016-01-21 22:40:00 Z
 summary: We worked closely with the U.S Agency for International Development to launch
   and strengthen the Middle East and North Africa Network of Water Centers of Excellence

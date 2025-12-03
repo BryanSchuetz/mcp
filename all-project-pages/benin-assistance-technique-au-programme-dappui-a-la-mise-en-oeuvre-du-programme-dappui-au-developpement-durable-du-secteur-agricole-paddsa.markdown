@@ -1,7 +1,9 @@
+
 ---
 title: Benin—Assistance Technique au Programme d’Appui à la Mise en Oeuvre du Programme
-  d’Appui au Développement Durable du Secteur Agricole (PADDSA)
 ---
+  d’Appui au Développement Durable du Secteur Agricole (PADDSA)
+
 date: 2021-01-07 11:18:00 Z
 summary: The project provided technical assistance to the Ministry of Agriculture,
   Livestock, and Fisheries for the implementation of the Programme d’Appui au Développement

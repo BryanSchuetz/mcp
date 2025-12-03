@@ -1,6 +1,8 @@
+
 ---
 title: Democratic Republic of the Congo—Programme De Bonne Gouvernance (PBG)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Programme de Bonne Gouvernance (PBG), or Good Governance Program, improved
   the management capacity and accountability of select legislatures and local governments

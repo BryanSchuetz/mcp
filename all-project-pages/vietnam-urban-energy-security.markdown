@@ -1,6 +1,8 @@
+
 ---
 title: Vietnam—Urban Energy Security (VUES)
 ---
+
 date: 2019-10-07 17:10:00 Z
 summary: The Vietnam Urban Energy Security project promotes the deployment in urban
   centers of 400 megawatts worth of advanced distributed energy technologies, ranging

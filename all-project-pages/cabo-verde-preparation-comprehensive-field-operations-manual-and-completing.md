@@ -1,6 +1,8 @@
+
 ---
 title: Cabo Verde—Land
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Cabo Verde Land project provided direct support for public outreach,
   adjudication, parcel mapping, data capture, processing of information and records

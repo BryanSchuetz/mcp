@@ -1,6 +1,8 @@
+
 ---
 title: Philippines—Water Revolving Fund Support Program (PWRF)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Philippines Water Revolving Fund, the only water revolving fund outside
   the United States and Europe, leveraged overseas development assistance with local

@@ -1,6 +1,8 @@
+
 ---
 title: Kyrgyzstan—Community and Municipal Governance Initiative (CAMI)
 ---
+
 date: 2016-12-21 15:55:00 Z
 summary: 'CAMI improved service delivery and strengthened government legitimacy across
   50 local municipalities in Kyrgyzstan, which resulted in 15,636 residents with improved

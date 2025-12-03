@@ -1,6 +1,8 @@
+
 ---
 title: Kenya—Drivers of Accountability Programme (DAP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The Drivers of Accountability Programme worked to address the issues of impunity
   and lack of accountability that fed into the post-election violence of 2007–2008
@@ -23,7 +25,7 @@ Following the post-election violence of 2007–2008 in Kenya, the need for an ov
 
 DAP supported key reforms and built on efforts to strengthen oversight and increase the demand for accountability and better governance, helping Kenya to become a more stable democracy. The project supported a wide range of civil society groups, media, oversight bodies, and independent commissions to influence and deliver governance reforms in Kenya.
 
-![](https://assetify-dai.com/projects/Kenya----Drivers-of-Accountability-Programme.jpg)
+![](https://assetify-dai.com/projects/Kenya-Drivers-of-Accountability-Programme.jpg)
 
 ### Sample Activities
 

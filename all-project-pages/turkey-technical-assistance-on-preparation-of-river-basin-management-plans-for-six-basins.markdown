@@ -1,7 +1,9 @@
+
 ---
 title: Türkiye—Technical Assistance on Preparation of River Basin Management Plans
-  for Six Basins
 ---
+  for Six Basins
+
 date: 2021-10-29 08:48:00 Z
 summary: DAI is strengthening Türkiye’s capacity to prepare European Union-required
   river basin management plans for six out of the 25 river basins in the country.

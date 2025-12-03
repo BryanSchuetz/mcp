@@ -1,7 +1,9 @@
+
 ---
 title: Malawi—Technical Cooperation to Strengthen National Capacity in Implementing
-  Land Policies and Laws Efficiently and Effectively (Land Governance)
 ---
+  Land Policies and Laws Efficiently and Effectively (Land Governance)
+
 date: 2017-03-13 17:17:00 Z
 summary: The Malawi Land Governance programme enhanced people’s livelihoods and food
   security through sustainable agricultural development, with an emphasis on reaching

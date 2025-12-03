@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Knowledge Hub Jobs & Growth (Part I)—Global Gateway Support Mechanism
-  (GGSM)
 ---
+  (GGSM)
+
 date: 2023-01-09 16:30:00 Z
 tags:
 - Europe

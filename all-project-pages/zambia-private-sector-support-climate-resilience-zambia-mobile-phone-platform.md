@@ -1,7 +1,9 @@
+
 ---
 title: 'Zambia—Private Sector Support to Climate Resilience in Zambia: Mobile Phone
-  Platform for Disseminating Market and Climate Information'
 ---
+  Platform for Disseminating Market and Climate Information'
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported a World Bank pilot program by assessing and making recommendations
   for investment and design of a mobile platform for disseminating market and climate

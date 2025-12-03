@@ -1,6 +1,8 @@
+
 ---
 title: Pakistan—Climate Finance Accelerator (CFA)
 ---
+
 date: 2022-06-09 12:03:00 Z
 tags:
 - climate

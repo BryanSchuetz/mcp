@@ -1,6 +1,8 @@
+
 ---
 title: 'Tanzania—ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity'
 ---
+
 date: 2022-10-03 11:46:00 Z
 summary: 'The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity
   project supported the U.S. Embassy in building Tanzania’s capacity to embrace international

@@ -1,6 +1,8 @@
+
 ---
 title: Guatemala—Nexos Locales
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: Nexos Locales works with municipalities in Guatemala's Western Highlands
   to foster more responsive, inclusive, and effective socio-economic development while

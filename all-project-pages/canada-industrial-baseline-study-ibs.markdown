@@ -1,6 +1,8 @@
+
 ---
 title: Canada—Industrial Baseline Study
 ---
+
 date: 2020-01-16 17:20:00 Z
 summary: 'The Newfoundland and Labrador Oil and Gas Industries Association commissioned
   DAI’s Sustainable Business Group (SBG) to conduct a local content forecasting study

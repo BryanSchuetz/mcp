@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Value Chains-Crops (AVC)
 ---
+
 date: 2018-09-06 18:50:00 Z
 summary: 'The Afghanistan Value Chains–Crops (AVC) project promoted rapid, inclusive,
   and lasting growth in the agriculture sector. '

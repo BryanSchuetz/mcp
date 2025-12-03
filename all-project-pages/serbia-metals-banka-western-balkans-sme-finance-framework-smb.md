@@ -1,6 +1,8 @@
+
 ---
 title: Serbia—Metals Banka—Western Balkans SME Finance Framework (SMB)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked with Metals Banka to incorporate high-quality lending as an integral
   part of its ongoing business activities.

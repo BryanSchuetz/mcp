@@ -1,6 +1,8 @@
+
 ---
 title: Poland—Polish Sustainable Energy Financing Facility (PolSEFF I & II)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: We created a perpetual market for investments in efficient energy by Poland's
   local businesses by training financial institutions on how to appraise and finance

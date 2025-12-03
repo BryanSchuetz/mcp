@@ -1,6 +1,8 @@
+
 ---
 title: Guinea—Assessing Sector Capacity for Foreign Direct Investment Linkages
 ---
+
 date: 2017-06-09 18:31:00 Z
 summary: Using DAI’s Local Content Optimization Model, the SBG team assessed 10 commercial
   sectors in Guinea, including construction services, equipment manufacturing, logistics,

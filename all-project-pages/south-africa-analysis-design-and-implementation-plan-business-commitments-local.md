@@ -1,7 +1,9 @@
+
 ---
 title: South Africa—Analysis, Design, and Implementation Plan for Business Commitments
-  in Local Procurement Accord
 ---
+  in Local Procurement Accord
+
 date: 2016-01-21 22:40:00 Z
 summary: Business Leadership South Africa (BLSA) commissioned DAI to conduct a study
   of a small sample of BLSA members to identify potential opportunities for increasing

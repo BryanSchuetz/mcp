@@ -1,6 +1,8 @@
+
 ---
 title: Georgia—USAID Economic Security Program
 ---
+
 date: 2019-05-08 12:09:00 Z
 summary: The USAID Economic Security Program assisted Georgian firms in taking advantage
   of the country’s market access and location to exploit regional economic opportunities

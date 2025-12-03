@@ -1,6 +1,8 @@
+
 ---
 title: Afghanistan—Stability in Key Areas-North (SIKA-North)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'SIKA-North worked to create more resilient communities in Afghanistan that
   see their government officials as delivering public services and responsive to local

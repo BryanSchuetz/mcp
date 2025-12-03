@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Social Protection Approaches to COVID-19 Expert Advice Service (SPACE)
 ---
+
 date: 2022-01-20 10:10:00 Z
 summary: SPACE supported governments and other decision-makers in the use or adaptation
   of social protection systems and programs to respond to the COVID-19 crisis worldwide.

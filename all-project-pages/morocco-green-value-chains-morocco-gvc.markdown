@@ -1,6 +1,8 @@
+
 ---
 title: Morocco—Green Value Chains (Morocco GVC)
 ---
+
 date: 2021-09-15 11:29:00 Z
 summary: The Morocco Green Value Chains project combines small firm competitiveness
 concepts with the green economy.

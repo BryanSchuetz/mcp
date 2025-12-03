@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Orangutan Conservation Services Program (OCSP)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: 'OCSP addressed the major threats driving orangutan extinction: forest conversion,
   unsustainable logging, and wildlife trafficking. To do so, the project formed and

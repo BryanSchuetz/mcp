@@ -1,7 +1,9 @@
+
 ---
 title: Ethiopia—Technical Assistance Programme to Support Lending Operations to the
-  Women’s Entrepreneurship Development Project (WEDP)
 ---
+  Women’s Entrepreneurship Development Project (WEDP)
+
 date: 2021-01-29 09:55:00 Z
 summary: The Technical Assistance Programme to Support Lending Operations to the Women’s
   Entrepreneurship Development Project (WEDP) works to reduce unemployment in Ethiopia

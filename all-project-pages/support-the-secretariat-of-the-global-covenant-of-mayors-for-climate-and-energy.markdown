@@ -1,7 +1,9 @@
+
 ---
 title: Worldwide—Support the Secretariat of the Global Covenant of Mayors for Climate
-  and Energy
 ---
+  and Energy
+
 date: 2020-10-09 09:26:00 Z
 summary: 'The Support the Secretariat of the GCoM for Climate and Energy project develops,
   monitors, and leads climate and sustainable energy action and diplomacy globally

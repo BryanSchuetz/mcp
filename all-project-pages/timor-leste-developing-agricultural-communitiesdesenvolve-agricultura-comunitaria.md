@@ -1,7 +1,9 @@
+
 ---
 title: Timor-Leste—Developing Agricultural Communities/Desenvolve Agricultura Comunitaria
-  (DAC)
 ---
+  (DAC)
+
 date: 2016-01-21 22:40:00 Z
 summary: Developing Agricultural Communities (DAC) and its predecessor, the Dezenvolve
   Setor Privadu project (2006–2010), engaged more than 450 farmers in greenhouse and

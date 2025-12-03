@@ -1,6 +1,8 @@
+
 ---
 title: Worldwide—Ending Preventable Deaths (EPD) Support Programme
 ---
+
 date: 2025-10-21 16:22:00 Z
 summary: The Ending Preventable Deaths (EPD) Support Programme supports the U.K. Foreign,
   Commonwealth & Development Office’s strategy for Contributing to Ending the Preventable

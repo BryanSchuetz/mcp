@@ -1,6 +1,8 @@
+
 ---
 title: Ghana—Political Economy Analysis
 ---
+
 date: 2020-09-18 14:13:00 Z
 summary: 'In service to its evaluation of migrating a logistics base to a port in
   Ghana, an international oil and gas company contracted DAI’s Sustainable Business

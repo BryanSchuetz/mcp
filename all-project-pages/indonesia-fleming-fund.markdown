@@ -1,6 +1,8 @@
+
 ---
 title: Indonesia—Fleming Fund Phases I and II
 ---
+
 date: 2020-10-19 09:50:00 Z
 summary: DAI’s Fleming Fund programme in Indonesia is a collaboration with the Indonesian
   government to strengthen systems using a “One Health” approach—a multisectoral approach

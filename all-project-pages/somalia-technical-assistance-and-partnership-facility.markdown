@@ -1,6 +1,8 @@
+
 ---
 title: Somalia—Technical Assistance and Partnership Facility
 ---
+
 date: 2024-02-23 13:40:00 Z
 summary: Through the Technical Assistance and Partnership Facility, the EU seeks to
   lay the foundation for sustainable development and stability, in alignment with

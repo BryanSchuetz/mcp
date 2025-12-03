@@ -1,6 +1,8 @@
+
 ---
 title: Nigeria—Kano State Education Recovery Conference
 ---
+
 date: 2024-09-18 13:33:00 Z
 summary: DAI is delivering a component of the [Partnership for Learning in Nigeria
   (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane),

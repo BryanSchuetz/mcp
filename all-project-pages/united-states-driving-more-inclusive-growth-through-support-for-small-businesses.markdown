@@ -1,6 +1,8 @@
+
 ---
 title: United States—Driving More Inclusive Growth Through Support for Small Businesses
 ---
+
 date: 2023-11-21 10:27:00 Z
 summary: The Mastercard Center for Inclusive Growth commissioned DAI to help shape,
   manage, and grow one of its signature initiatives focused on small businesses in

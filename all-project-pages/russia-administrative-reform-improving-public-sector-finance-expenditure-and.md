@@ -1,7 +1,9 @@
+
 ---
 title: 'Russia—Administrative Reform: Improving Public Sector Finance, Expenditure,
-  and Delivery of Services'
 ---
+  and Delivery of Services'
+
 date: 2016-01-21 22:40:00 Z
 summary: 'Working for the Technical Assistance to the Commonwealth of Independent
   States program, three DAI projects helped Russia improve public sector operations. '

@@ -1,6 +1,8 @@
+
 ---
 title: Colombia—Destination Nature Activity (DNA)
 ---
+
 date: 2022-11-17 13:46:00 Z
 published: false
 summary: 'The Destination Nature Activity conserves biodiversity and reduces greenhouse

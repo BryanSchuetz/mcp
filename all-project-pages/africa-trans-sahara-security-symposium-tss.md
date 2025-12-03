@@ -1,6 +1,8 @@
+
 ---
 title: Africa—Trans-Sahara Security Symposium (TSS)
 ---
+
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and DAI
   conducted this innovative civil-military operations/relations education program

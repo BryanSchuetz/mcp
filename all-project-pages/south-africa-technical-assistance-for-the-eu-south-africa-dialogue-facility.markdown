@@ -1,6 +1,8 @@
+
 ---
 title: South Africa—Technical Assistance for the EU-South Africa Dialogue Facility
 ---
+
 date: 2020-08-07 09:44:00 Z
 summary: 'The Technical Assistance for the EU-South Africa Dialogue Facility works
   to enable the strategic partnership that has existed between the European Union
