@@ -1,5 +1,6 @@
 ---
 title: Jordan—Himaya Activity
+---
 date: 2024-04-03 13:10:00 Z
 summary: The Himaya Activity works to improve—and expand access to—essential services
   and protections for women who are survivors of violence in Jordan.
@@ -11,8 +12,6 @@ solutions:
 - Gender and Social Inclusion
 regions: Middle East and North Africa
 country: Jordan
----
-
 Female Jordanian survivors of violence face a multitude of challenges when going through the protection system. Survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department due to fear of familial disapproval and social repercussions. Those who have gone through the system have faced questioning and little protection, leading to revictimization and uncertainty about seeking resolutions. 
 
 Service providers and stakeholders from across the Jordanian protection system require improved survivor-centered service delivery methods, better infrastructure, and innovation in violence-against-women response systems. 
@@ -27,4 +26,4 @@ The *Himaya* (Arabic for protection) Activity, funded by the U.S. Agency for Int
 * Improve the capacity of Ministry of Social Development units, shelters, and civil society actors to refer cases and provide essential services.
 * Bolster the institutional capacity of healthcare service providers and the health system to identify cases and refer or provide essential, safe, and confidential health services related to violence. 
 * Strengthen the institutional capacity of judicial institutions to manage and prosecute cases of violence.
-* Improve the infrastructure of violence-against-women survivors’ journey by improving the availability of services and supporting the legislative framework. 
+* Improve the infrastructure of violence-against-women survivors’ journey by improving the availability of services and supporting the legislative framework.

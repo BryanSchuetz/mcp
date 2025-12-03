@@ -1,5 +1,6 @@
 ---
 title: Tunisia—Fiscal and Accounting System of Tunisia (FAST)
+---
 date: 2019-10-22 11:47:00 Z
 published: false
 summary: FAST supports the systems and procedures necessary to operationalize and
@@ -14,8 +15,6 @@ solutions:
 - Institutions Building and Policy Reform
 regions: Middle East and North Africa
 country: Tunisia
----
-
 While the Tunisian economy remains fragile in the aftermath of the COVID-19 pandemic, improving economic conditions over the last two years are revitalizing the climate for business and investment. Despite these improvements, public finances remain precarious, limiting government investments, growth of the economy, and equitable economic opportunities in the private sector.
 
 FAST supports the systems and procedures necessary to operationalize and accelerate Government of Tunisia reforms to modernize the management of public revenues and expenditures. FAST complements other activities implemented by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving public financial management. 
@@ -42,4 +41,4 @@ Finally, FAST works to strengthen communication between policymakers and the pub
 * With Tunisia’s National Business Registry, launched an online business registration system in December 2021 to shift from manual processing to full electronic processing for business registration by the end of 2024. The system provides the following e-services: (1) business registration for legal entities, (2) business registration for individuals, (3) trade name reservation, (4) electronic signature functionality, (5) electronic generation of company extracts, and (6) online confirmation of business registration and tax filing compliance.
 * Upgraded the national tax information system and developed the new withholding tax system and tax debt scoring application and, subsequently, supported the launch of the upgraded/new systems in collaboration with the Ministry of Finance tax management units and Data Center. 
 * Developed a comprehensive tax information website [JIBAYA](https://jibaya.tn/) that consolidated tax information in one location for the Department of Tax, Department of Accounting and Collection, and Department of Tax Legislation, thus providing more comprehensive, accurate, and timely information to taxpayers. 
-* As part of a broader training plan, delivered a three-part business intelligence course that complements the implementation of the budgeting solution, debt management system, and upgraded new tax systems by improving data management and extending access to management reporting. 
+* As part of a broader training plan, delivered a three-part business intelligence course that complements the implementation of the budgeting solution, debt management system, and upgraded new tax systems by improving data management and extending access to management reporting.

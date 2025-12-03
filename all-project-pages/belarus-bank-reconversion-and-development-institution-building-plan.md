@@ -1,5 +1,6 @@
 ---
 title: Belarus—Bank for Reconversion and Development–Institution Building Plan
+---
 date: 2016-01-21 22:40:00 Z
 summary: DAI led a consortium that provided technical assistance in parallel to an
   equity investment by the European Bank for Reconstruction and Development for the
@@ -16,8 +17,6 @@ regions:
 country:
 - Belarus
 layout: project
----
-
 By March 2009, the Reconversion and Development Bank (RDB) had become the 18th largest bank in Belarus in terms of total assets. With a focus on retail lending, the bank was one of the most profitable in the country and wanted to grow its micro and small business portfolio to become a more universal bank. DAI led a consortium that provided technical assistance in parallel to an equity investment by the European Bank for Reconstruction and Development in RDB of $3.36 million in 2008, followed by a further increase in 2010. EBRD's support to RDB emphasized the need to increase access to financial services in the country from a privately owned financial institution and particularly for micro, small, and medium enterprises through improving vital business processes at the bank.
 
 ### Sample Activities

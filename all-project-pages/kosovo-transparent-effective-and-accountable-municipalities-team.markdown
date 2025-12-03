@@ -1,5 +1,6 @@
 ---
 title: Kosovo—Transparent, Effective, and Accountable Municipalities (USAID TEAM)
+---
 date: 2017-02-06 22:20:00 Z
 summary: The Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity
   supported Kosovo to improve the transparency and accountability of the municipal
@@ -27,8 +28,6 @@ promos:
   link: https://www.usaid.gov/kosovo/news-information/news/local-government-and-private-sector-collaboration-results-higher-quality
 - title: Social Audit Leads to Improvements in Infrastructure
   link: https://www.usaid.gov/kosovo/news/may-24-2021-social-audit-leads-improvements-infastructure
----
-
 Public procurement is a government tool used to deliver goods and services such as fixing roads, building schools, or buying medical equipment for citizens. Fair competition, a level playing field, and transparency are essential to ensuring public money is spent responsibly and leads to the best value for citizens in terms of high-quality goods and services.
 
 However, in Kosovo, citizens, civil society organizations, and private sector economic operators report that public procurement had been compromised by political patronage, nepotism, fraud, and other forms of corruption. This problem reduces public resources available for service delivery to citizens, undermines public confidence in government, and deters foreign investment. It is critically important for the Government of Kosovo to address these weaknesses or gaps in the procurement system, especially at the municipal level, to safeguard public money spent through public procurement.
@@ -52,4 +51,4 @@ To assist the Government of Kosovo in strengthening systems and limit opportunit
 * Supported the National Audit Office (NAO) in 2018 to launch an Anti-Fraud Unit to handle procurement cases with suspected fraud elements and forward them to the State Prosecutor’s Office for further investigation. By the end of December 2020, the NAO reported 141 cases with suspected fraud elements to the Kosovo State Prosecutor. In addition, the NAO achieved a great milestone in developing the Audit Management IT System, which is a precondition for expanding audit coverage and quality.
 * Supported the creation of the [Open Procurement Transparency Portal (OPTP)](www.prokurimihapur.org), a civil society-led web portal that automatically pulls data from the Government’s e-procurement platform and presents it in a user-friendly manner, allowing researchers to explore interactive linkages between public money, government agencies, and private sector contractors, and to identify unusual patterns that may indicate fraud or corruption. As of December 2020, there were 43,768 users. Civil society, investigative journalists, businesses, and even Government of Kosovo officials report using the OPTP as a starting point for investigations or for business intelligence.
 * Seeking accountability and more transparency, 31 partner civil society groups, in 2020, published 38 infographics, posted/aired 22 videos, drafted 29 reports, sent 13 cases to the state prosecutor, established 12 social audit teams; prepared 3 guidelines for watchdog practitioners, broadcasted 3 radio debates, and aired 2 televised debates in national broadcasters.  
-* Supported 23 municipal civil society groups to prepare monitoring reports for local procurements. 
+* Supported 23 municipal civil society groups to prepare monitoring reports for local procurements.

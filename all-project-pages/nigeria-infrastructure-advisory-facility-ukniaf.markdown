@@ -1,5 +1,6 @@
 ---
 title: Nigeria—Infrastructure Advisory Facility (UKNIAF)
+---
 date: 2020-09-28 09:43:00 Z
 summary: The U.K. Nigeria Infrastructure Advisory Facility enhances the management
   of Nigeria’s infrastructure development towards power sector reform, public-private
@@ -13,8 +14,6 @@ solutions:
 - Climate
 regions: Sub-Saharan Africa
 country: Nigeria
----
-
 The U.K. Nigeria Infrastructure Advisory Facility (UKNIAF) enhances the management of Nigeria’s infrastructure development towards power sector reform, public-private partnerships (PPP), capital spending, and repair and maintenance of federal roads. This work is expected to result in increased economic growth, job creation, and contribute towards the United Nations' Global Goals by reducing poverty for the majority of the Nigeria populace.
  
 Designed to be flexible and demand-driven, UKNIAF consults with government ministries and agencies that plan and deliver infrastructure or develop mechanisms or transactions involving private sector financing of infrastructure. The project’s technical assistance focuses on the power sector, federal roads, and infrastructure finance. As a subcontractor to TetraTech, DAI contributes mainly to the infrastructure finance component, along with some crosscutting inputs across the project.

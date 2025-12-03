@@ -1,6 +1,7 @@
 ---
 title: Uganda—Deregulation—Support to the Legal and Regulatory Environment for Business
   in Uganda (Phase I, II)
+---
 date: 2016-01-21 22:40:00 Z
 summary: From 2000 to 2003, DAI managed the Deregulation project in Uganda, designed
   to improve the regulatory environment for business growth. The second phase of the
@@ -19,8 +20,6 @@ regions:
 country:
 - Uganda
 layout: project
----
-
 Significant achievements have been made in the past decade in revitalizing the Ugandan economy, but poverty levels remain high. The formal private sector has grown, but still comprises a low proportion of the total economy, and its capacity to grow further and faster is held back by weaknesses in the regulatory environment. 
 
 From 2000 to 2003, DAI managed the former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office)-funded  Deregulation project in Uganda, designed to improve the regulatory environment for business growth. The second phase of the project (2003 to 2007) focused on creating national capacity for regulatory best practices in Uganda. The project team worked closely with senior civil servants, Members of Parliament, business leaders, and civil society organizations. The project developed a holistic and inclusive approach to better regulation: blending the team's experience in economic impact appraisal with social cost-benefit analysis and environmental impact assessment, and bringing a wider range of stakeholders into the consultation and public debate process.

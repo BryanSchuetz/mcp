@@ -1,5 +1,6 @@
 ---
 title: Southern Africa—Trade Forward Southern Africa (TFSA)
+---
 date: 2020-02-21 11:49:00 Z
 summary: The Trade Forward Southern Africa programme supported trade growth, improved
   gender equality in the trade arena, and alleviated poverty across Botswana, Eswatini,
@@ -29,8 +30,6 @@ promos:
   link: "/uploads/Roadmap-towards-European-Union-EU-Compliance_South-Africa.pdf"
 - title: Trade in the Time of COVID-19—Risk or Opportunity?
   link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
----
-
 [Trade Forward Southern Africa](https://tfsouthernafrica.org/) (TFSA) was a program designed to alleviate poverty across the Southern African Customs Union and Mozambique (SACU+M) by increasing the scale and quality of trade within the union as well as with the United Kingdom.
 
 The program helped businesses meet the standards required for exporting to regional and international markets. It worked primarily with and through business support organisations, such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It focused on providing technical cooperation to export and near-export businesses, particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.

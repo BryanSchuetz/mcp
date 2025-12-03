@@ -1,6 +1,7 @@
 ---
 title: Montenegro—Capacity Building and Improved Legal Harmonization, Performance
   and Efficiency within the Transport Sector
+---
 date: 2025-01-21 04:25:00 Z
 tags:
 - European Union
@@ -15,8 +16,6 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Montenegro
----
-
 Montenegro has made significant progress in the transport sector as part of its European Union (EU) accession process, achieving a satisfactory level of preparedness in strategic development aligned with the [Trans-European Transport Network (TEN-T)](https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en) framework. However, challenges persist in legislative alignment, infrastructure project maturity, and administrative capacity, which require targeted reforms and capacity-building to ensure compliance with EU standards and effective implementation of transport policies.
 
 Our project strengthens Montenegro's transport sector by enhancing institutional capacity, aligning national legislation with EU transport acquis, and advancing the preparation and implementation of priority transport projects. 

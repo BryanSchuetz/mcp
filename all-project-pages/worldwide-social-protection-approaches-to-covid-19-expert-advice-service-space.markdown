@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Social Protection Approaches to COVID-19 Expert Advice Service (SPACE)
+---
 date: 2022-01-20 10:10:00 Z
 summary: SPACE supported governments and other decision-makers in the use or adaptation
   of social protection systems and programs to respond to the COVID-19 crisis worldwide.
@@ -18,8 +19,6 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
----
-
 Countries across the globe are using or adapting social protection systems and programs, as well as humanitarian cash assistance, to respond to the COVID-19 crisis. Getting support quickly to those in need is helping them to meet unexpected costs and compensate for the loss of income—both in the immediate and longer term as countries enter periods of COVID-driven recession.
 
 Between April 2020 and November 2021, the Social Protection Approaches to COVID-19 Expert Advice Service (SPACE) supported decision-makers across national governments, donors, and implementing partners in more than 40 countries with independent, evidence-based, timely, and actionable advice to meet growing needs. Direct support was responsive to the unique requirements of specific actors and contexts and broadly addressed the following themes: 
@@ -59,4 +58,4 @@ The program was managed by DAI through the FCDO framework agreement [Expert Advi
 
 * Independent advice provided through more than 120 engagements, in more than 40 countries, to more than 25 actors (donors, implementing partners, and governments). 
 * Monitoring data provides evidence that SPACE engagements: 1. facilitated users to influence partners; 2. supported in convening and coordinating among actors; 3. aligned and amplified ongoing and planned work in the sector; 4. directly informed program and response designs; and 5. brokered access and uptake of knowledge and evidence in the sector.
-* More than 50 online resources made available to guide the effective design and delivery of social protection and humanitarian systems in response to COVID-19; documents have been accessed more than 21,000 times. 
+* More than 50 online resources made available to guide the effective design and delivery of social protection and humanitarian systems in response to COVID-19; documents have been accessed more than 21,000 times.

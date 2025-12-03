@@ -1,10 +1,11 @@
 ---
 title: Zambia—Private Enterprise Programme–Zambia (PEP-Z)
+---
 date: 2016-01-21 22:40:00 Z
 summary: PEP-Z tackled low productivity and increasing competitiveness in Zambia's
-  private sector by strengthening the capacity of micro, small, and medium-sized enterprises
-  (MSMEs). We targeted enterprises with the potential to grow, create jobs, and contribute
-  to the diversification of the Zambian economy.
+private sector by strengthening the capacity of micro, small, and medium-sized enterprises
+(MSMEs). We targeted enterprises with the potential to grow, create jobs, and contribute
+to the diversification of the Zambian economy.
 start: 2014
 end: 2019
 client: Foreign, Commonwealth & Development Office
@@ -15,8 +16,6 @@ regions:
 country:
 - Zambia
 layout: project
----
-
 DAI is the contract holder, but our partner Nathan Associates is implementing this program. Our goal is to deliver outputs, outcome, and impact while ensuring value for money is achieved by building in appropriate programme and financial management systems.
 
 ![][1]

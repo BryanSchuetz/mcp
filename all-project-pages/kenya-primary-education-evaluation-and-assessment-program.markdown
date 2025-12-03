@@ -1,5 +1,6 @@
 ---
 title: Kenya—Primary Education Evaluation and Assessment Program
+---
 date: 2024-10-22 13:22:00 Z
 published: false
 summary: The Kenya Primary Education Evaluation and Assessment Program strengthens
@@ -13,8 +14,6 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Kenya
----
-
 Mastering early grade reading is essential for a child’s future success in education and life. Children who fail to develop literacy skills early in their lives face increasing challenges in their academic progress, which can limit their economic opportunities as adults. The Kenya Primary Education Evaluation and Assessment Program, funded by the U.S. Agency for International Development (USAID), will build out a more effective and sustainable early grade reading assessment system, strengthen and integrate the Ministry of Education's data management systems, and strengthen capacity across Kenyan schools and education officials to monitor and support student progress.
 
 The project strengthens accountability and resilience across Kenya’s Ministry of Education and relevant semi-autonomous government agencies.

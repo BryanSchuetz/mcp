@@ -1,5 +1,6 @@
 ---
 title: Somalia—EU Support to Policy Dialogue on Investment Climate
+---
 date: 2020-12-08 09:03:00 Z
 summary: 'The EU Support to Policy Dialogue on Investment Climate in Somalia project
   enhanced the investment climate and business environment by improving access to
@@ -28,8 +29,6 @@ promos:
 - title: "**Priority Sector Investment Study:** Agribusiness Opportunities in Somalia's
     Food Production Sector  "
   link: "/uploads/Priority-Sector-Investment-Study-Somalia.pdf"
----
-
 The European Union (EU) Support to Policy Dialogue on Investment Climate in Somalia project enhanced the investment climate and business environment by improving access to finance, markets, and essential services for medium, small, and micro enterprises (MSMEs).
 
 Our team provided support to reinforce the capacities of key public institutions and the private sector to strengthen public-private dialogue; supported Somalia’s exports and access to regional markets; and promoted responsible business conduct across the private sector.

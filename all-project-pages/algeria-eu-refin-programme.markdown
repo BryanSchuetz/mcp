@@ -1,5 +1,6 @@
 ---
 title: Algeria—EU REFIN Programme
+---
 date: 2021-12-14 02:00:00 Z
 summary: The EU REFIN Programme is part of a wider objective to strengthen public
   finance management, contributing to the improvement of the competitiveness of the
@@ -12,8 +13,6 @@ solutions:
 - Public Financial Management
 regions: Middle East and North Africa
 country: Algeria
----
-
 The modernisation of public finance management in Algeria has been a topical subject since the early 2000s, in the wake of the economic reforms of the 1990s and the lessons learned from a serious economic crisis linked to the fall in oil prices. The reform efforts have taken shape through several initiatives and projects carried out in collaboration with international organisations or through cooperation actions.  
 
 While Algeria has seen its reserves gradually decrease for many years, the EU REFIN Programme aims to contribute to a better allocation of budgetary resources by improving the performance of public finance management. 

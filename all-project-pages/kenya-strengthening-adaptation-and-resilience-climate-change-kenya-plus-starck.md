@@ -1,6 +1,7 @@
 ---
 title: Kenya—Strengthening Adaptation and Resilience to Changes to Climate in Kenya
   Plus (StARCK+)
+---
 date: 2016-01-21 22:40:00 Z
 summary: StARCK+ achieved transformational change by helping Kenya to scale up private
   sector innovation and investment in low carbon and adaptation products, services,
@@ -17,8 +18,6 @@ regions:
 country:
 - Kenya
 layout: project
----
-
 Much of Kenya's economy is based around sectors that are highly climate vulnerable, particularly tourism, arable agriculture, horticulture, floriculture, and livestock. Minor industries that employ significant numbers, such as forestry and coastal and freshwater fisheries, are also sensitive to changes in climate. Kenya's energy sector is highly dependent on hydropower, and therefore, along with the industry and manufacturing that it powers, is also climate-vulnerable.
 
 StARCK+ was designed to achieve transformational change by helping Kenya to scale up private sector innovation and investment in low carbon and adaptation products, services, and assets such as clean energy, sustainable agriculture, water management, and weather forecasting. We targeted support to critical aspects of governance and the stimulation of civil society demand.

@@ -1,5 +1,6 @@
 ---
 title: Ethiopia—BRIDGES
+---
 date: 2021-06-28 15:21:00 Z
 summary: 'DAI provides capacity-building services, such as support in financial management,
   to ensure that First Consult is operating with compliant, effective processes conducive
@@ -12,8 +13,6 @@ solutions:
 - Workforce Development and Youth
 regions: Sub-Saharan Africa
 country: Ethiopia
----
-
 Ethiopia aspires to reach middle-income status by 2025 and is investing heavily in building industrial parks to help drive structural transformation and export-led economic growth. The country’s labor force is expanding by 2 million each year, which means it’s vital to both invest in existing business growth and spur the development of new micro, small, and medium enterprises (MSME’s) for job creation. 
 
 The BRIDGES project, funded by the Mastercard Foundation, and implemented by First Consult and DAI, aims to support industrial park job creation and market linkage between these parks and MSMEs. The project focuses on enhancing the competitiveness of the industrial sector to attract qualified workers and will offer support to existing MSMEs.
@@ -32,5 +31,3 @@ DAI’s role is to provide capacity building services, such as support in financ
 * Provide support for recruitment, compliance, project management software, health and safety/safeguarding, and human resources, to develop bespoke BRIDGES policies and processes. 
 
 * Provide technical input in the implementation of the BRIDGES contract, including review and support on the design of key strategies and implementation modalities of interventions.
-
- 

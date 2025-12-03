@@ -1,6 +1,7 @@
 ---
 title: Haiti—Feed the Future Resilience and Agriculture Sector Advancement (HRASA)
   Activity
+---
 date: 2021-10-06 09:22:00 Z
 published: false
 summary: The Haiti Resilience and Agriculture Sector Advancement Activity improves
@@ -17,8 +18,6 @@ solutions:
 - Sustainable Livelihoods
 regions: Latin America and the Caribbean
 country: Haiti
----
-
 Once called the Pearl of the Antilles because of its natural beauty, rich resources, and enviable agricultural production, following decades of recurrent shocks and stresses, Haiti now struggles to adequately feed its population. Almost 60 percent of the population lives below the national poverty line, with 25 percent in extreme poverty. 
 
 The Feed the Future Haiti Resilience and Agriculture Sector Advancement (HRASA) Activity capitalizes on existing opportunities and catalyzes others to improve the competitiveness, inclusion, and resilience of agricultural market systems—ensuring that benefits from strengthened market systems accrue to the most vulnerable and ultimately advance Haiti’s food security and Journey to Self-Reliance.  

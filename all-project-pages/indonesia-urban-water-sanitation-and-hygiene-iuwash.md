@@ -1,6 +1,7 @@
 ---
 title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS, USAID
   IUWASH Tangguh)
+---
 date: 2016-01-21 22:40:00 Z
 published: false
 summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (USAID
@@ -33,8 +34,6 @@ promos:
     and Hygiene (IUWASH Tangguh) Project'
   link: https://iuwashtangguh.or.id/en/expert-qa-water-security-sanitation-and-hygiene-wssh-alifah-lestari-chief-of-party-cop-indonesia-urban-water-sanitation-and-hygiene-iuwash-tangguh-project/
 layout: project
----
-
 Better management of urban growth will be crucial to guarantee sustainable cities. It is not uncommon for citizens in and around Indonesia’s major cities for residents to spend up to two hours a day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas leads to tainted ground and surface water, creating serious health risks from waterborne diseases.
 
 The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (USAID IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders, data platforms, and finance mechanisms to achieve healthy, productive, and resilient cities. USAID IUWASH Tangguh is expected to reach at least 1.5 million people with improved access to safely managed drinking water and at least 1 million people with improved access to safe sanitation services. To achieve these ambitious targets and ensure sustainability, we will develop at least 50 public-private partnerships and mobilize at least $310 million for Indonesia’s WASH and WRM sectors.

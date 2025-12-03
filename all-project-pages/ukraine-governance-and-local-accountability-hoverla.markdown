@@ -1,5 +1,6 @@
 ---
 title: Ukraine—Governance and Local Accountability (HOVERLA)
+---
 date: 2021-03-24 09:46:00 Z
 published: false
 summary: The Ukraine Governance and Local Accountability (HOVERLA) program is completing
@@ -22,8 +23,6 @@ promos:
   link: https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine
 - title: HOVERLA Emergency Response Support
   link: "/uploads/HOVERLA%20Emergency%20Response%20Support.pdf"
----
-
 *[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 
 Ukraine continues along the path of decentralization, but there is an urgent need to secure the gains of the past six years of reform. Stakeholders in Ukraine, including the current administration, understand that the expansion of the institutions of democratic local governance is critical to raising local living standards and reducing out-migration, achieving more balanced regional economic development, improving accountability, and enhancing citizen confidence. 
@@ -55,4 +54,4 @@ HOVERLA fosters citizen participation and engagement in local governance process
 * Supported 32 civil society organizations in conducting advocacy initiatives, including participatory budgeting, social services, and inclusive governance.
 * Facilitated hands-on community engagement for youths and youth leaders through various programs such as internships and youth councils.
 * Hosted [historic forum](https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine) with more than 300 participants to set the legislative agenda for 2022. 
-* [Provided fire extinguishers, chainsaws, extension cords, and other tools](https://daiglobal.exposure.co/pivoting-in-war-time) to partner municipalities and the Military Administration in Poltava Oblast, which will help local authorities maintain the civil protection system and serve citizens, including internally displaced people. 
+* [Provided fire extinguishers, chainsaws, extension cords, and other tools](https://daiglobal.exposure.co/pivoting-in-war-time) to partner municipalities and the Military Administration in Poltava Oblast, which will help local authorities maintain the civil protection system and serve citizens, including internally displaced people.

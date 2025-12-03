@@ -1,5 +1,6 @@
 ---
 title: Africa—USAID Africa Trade and Investment activity
+---
 date: 2021-10-07 15:40:00 Z
 summary: 'The U.S. Agency for International Development (USAID) Africa Trade and Investment
   activity bolsters the Agency’s ability to boost trade and investment to, from, and
@@ -13,8 +14,6 @@ solutions:
 - Finance and Investment
 regions: Sub-Saharan Africa
 country: Sub-Saharan Africa, North Africa
----
-
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 The U.S. Agency for International Development (USAID) Africa Trade and Investment activity (ATI) was designed to bolster the Agency’s ability to boost trade and investment to, from, and within the African continent. As USAID’s flagship effort under the Prosper Africa initiative, the continent-wide program expanded two-way trade and investment between African nations and the United States, strengthening supply chains in areas such as critical minerals while reducing the region’s dependence on China for trade and financing.

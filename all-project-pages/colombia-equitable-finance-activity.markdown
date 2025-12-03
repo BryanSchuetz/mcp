@@ -1,5 +1,6 @@
 ---
 title: Colombia—Equitable Finance Activity
+---
 date: 2022-10-03 17:50:00 Z
 published: false
 summary: The Colombia Equitable Finance Activity (EFA) partners with underserved populations,
@@ -18,8 +19,6 @@ country: Colombia
 promos:
 - title: Colombia Equitable Finance Fact Sheet
   link: "/uploads/Equitable%20Finance__FactSheet_01.02.23_USAID.pdf"
----
-
 Colombia is a financial inclusion and innovation leader in Latin America and, at the national level, boasts financial access rates comparable to many developed economies. However, there remains a stark divide between prosperous urban centers and rural municipalities. Decades of armed conflict have devastated the economy of rural Colombia, and rural municipalities remain on the fringe of financial sector innovation, separated by poor physical infrastructure, limited connectivity, and pervasive security challenges.
 
 The [Colombia Equitable Finance Activity](https://www.bancadelasoportunidades.gov.co/es/actividad-finanzas-para-la-equidad-de-USAID) partners with these underserved populations, the financial services sector, and the Government of Colombia to address the demand, supply, and enabling environment constraints that limit access to formal financial services for rural and conflict-affected Colombians.

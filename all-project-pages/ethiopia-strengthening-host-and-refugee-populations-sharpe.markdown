@@ -1,5 +1,6 @@
 ---
 title: Ethiopia—Strengthening Host and Refugee Populations (SHARPE)
+---
 date: 2019-10-03 11:20:00 Z
 summary: 'The Strengthening Host and Refugees Populations in Ethiopia program works
   to strengthen the economies of target populations in three regions in Ethiopia;
@@ -76,8 +77,6 @@ promos:
     #1'
   link: "/uploads/applying-msd-approach.pdf"
 Field name: 
----
-
 Through the innovative application of the “Markets for Resilience” approach, the Strengthening Host and Refugee Populations in Ethiopia program (SHARPE) is focused on enhancing the economies of target populations across three key regions in Ethiopia: Dollo Ado, Gambella, and Jijiga.
 
 SHARPE drives increased self-reliance among refugees and creates economic opportunities for host communities by piloting and scaling impactful interventions. This approach is rooted in a deep understanding of the economic challenges faced by refugee and host communities. It involves close collaboration with key stakeholders—businesses, government agencies, and service providers—to make markets work better for these populations.

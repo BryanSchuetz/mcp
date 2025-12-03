@@ -1,5 +1,6 @@
 ---
 title: Morocco—Green Economy Financing Facility II (GEFF Morocco II)
+---
 date: 2021-09-15 11:49:00 Z
 summary: 'The Green Economy Financing Facility Morocco II provides financing in the
   form of senior unsecured loans to participating financial institutions, including
@@ -14,8 +15,6 @@ solutions:
 - Finance and Investment
 regions: Middle East and North Africa
 country: Morocco
----
-
 The Green Economy Financing Facility (GEFF Morocco II) is a European Bank for Reconstruction and Development (EBRD)-funded €150 million facility within the GEFF Morocco framework for Green Economy Transition investments in line with the EBRD methodology and approach to intermediated financing of sustainable energy, resource efficiency, and climate resilience technologies.
 
 GEFF Morocco II provides financing in the form of senior unsecured loans to participating financial institutions, including banks, microfinance, and leasing companies. These loans shall be dedicated to finance private sector sub-borrowers (small firms, corporates, and households) in Morocco for investments in green technologies and services supporting green economy concepts.

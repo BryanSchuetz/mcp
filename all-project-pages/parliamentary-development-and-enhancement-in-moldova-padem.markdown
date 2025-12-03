@@ -1,5 +1,6 @@
 ---
 title: Parliamentary Development and Enhancement in Moldova (PADEM)
+---
 date: 2025-04-07 12:57:00 Z
 summary: 'The Parliamentary Development and Enhancement in Moldova (PADEM) project
   aims to support Moldova’s Parliament in advancing reforms across key areas identified
@@ -13,8 +14,6 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Moldova
----
-
 As Moldova seeks European Union membership, it faces social, political, and economic pressures, including political fragmentation and frequent electoral law changes. The 2025 parliamentary elections will be crucial in shaping the country’s political future.
 
 The Parliamentary Development and Enhancement in Moldova (PADEM) project aims to support Moldova’s Parliament in advancing reforms across key areas identified by the Parliament Secretariat. This work includes strengthening parliamentary oversight, improving legal drafting, enhancing communication with citizens, and increasing the Secretariat’s capacity to assist Members of Parliament. Through this initiative, the Swiss Agency for Development and Cooperation is supporting Moldova to improve the Parliament’s effectiveness, accountability, and representative function.

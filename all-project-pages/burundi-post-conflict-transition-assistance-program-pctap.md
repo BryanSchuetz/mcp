@@ -1,5 +1,6 @@
 ---
 title: Burundi—Post-Conflict Transition Assistance Program (PCTAP)
+---
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start: 2005
@@ -19,8 +20,6 @@ summary: 'Established to assist Burundi''s post-transition national government a
   manner.
 
 '
----
-
 Established to assist Burundi's post-transition national government and civil society organizations, PCTAP increased the government's ability to develop policies and deliver essential services in a transparent, inclusive, and conflict-sensitive manner. In addition, DAI worked with civil society organizations to promote peace and reconciliation on a grassroots level.
 
 ![][1]

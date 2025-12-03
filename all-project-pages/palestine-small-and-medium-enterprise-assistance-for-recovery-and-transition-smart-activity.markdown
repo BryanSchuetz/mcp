@@ -1,6 +1,7 @@
 ---
 title: Palestine—Small and Medium Enterprise Assistance for Recovery and Transition
   (SMART)
+---
 date: 2021-09-10 15:54:00 Z
 published: false
 summary: 'The Small and Medium Enterprise Assistance for Recovery and Transition project
@@ -18,8 +19,6 @@ promos:
 - title: USAID Launches Private Sector Support Project in Palestine, with Congressional
     Leaders in Attendance
   link: https://www.dai.com/news/usaid-launches-private-sector-support-project-in-palestine-with-congressional-leaders-in-attendance
----
-
 Micro, small, and medium enterprises (MSMEs) are the bedrock of the Palestinian economy, accounting for approximately 96 percent of Palestinian firms in the West Bank, East Jerusalem, and the Gaza Strip. Their resilience to economic shocks and their export capacity are essential to Palestinians’ stability, livelihoods, and futures. 
 
 However, Palestinian MSMEs and startups have long experienced barriers to growth. These include a local market with limited purchasing power, restrictions on the movement of goods and people, and limited access to export markets, among others. 

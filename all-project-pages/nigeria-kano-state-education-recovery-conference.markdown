@@ -1,5 +1,6 @@
 ---
 title: Nigeria—Kano State Education Recovery Conference
+---
 date: 2024-09-18 13:33:00 Z
 summary: DAI is delivering a component of the [Partnership for Learning in Nigeria
   (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane),
@@ -13,8 +14,6 @@ solutions:
 - Education
 regions: Sub-Saharan Africa
 country: Nigeria
----
-
 DAI is delivering a component of the [Partnership for Learning in Nigeria (PLANE)](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane), the U.K. Foreign, Commonwealth, & Development Office’s flagship education program, which operates in Kano, Kaduna, and Jigawa states. Of the 20 million Nigerian children out of school, Kano accounts for some 2 million. 
 
 Several factors account for Kano’s poor education indicators, including poor infrastructure, lack of training for teachers and other personnel, lack of basic materials such as books, and poor service quality, as reflected in low completion rates and inadequate enrolment of girls. Addressing these challenges requires concerted efforts across government, civil society, and relevant stakeholders; a conference was designed to bring these stakeholders together to identify the most important gaps in Kano’s education sector and develop a roadmap to sustainably address them.

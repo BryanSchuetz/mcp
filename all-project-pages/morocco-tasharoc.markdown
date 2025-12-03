@@ -1,5 +1,6 @@
 ---
 title: Morocco—TASHAROC
+---
 date: 2018-11-16 15:03:00 Z
 summary: 'TASHAROC supported inclusive development and reduced political and economic
   disenfranchisement in the Northern Moroccan region. '
@@ -15,8 +16,6 @@ country: Morocco
 promos:
 - title: TASHAROC Fact Sheet
   link: "/uploads/TASHAROC-Fact%20Sheet.pdf"
----
-
 The Tangier-Tétouan-Al Hoceima (TTAH) in Northern Morocco has historically been a marginalised region, not benefitting from the nationwide growth Morocco has experienced over the past two decades. As a result, a burgeoning sense of disenchantment with political processes and heightened social tensions have developed throughout the region.
 
 In the years leading up to and following King Mohammed VI’s constitutional reforms in 2011, the Kingdom of Morocco has demonstrated a commitment to decentralisation, local participation, and enhanced service delivery. Under Morocco’s Advanced Regionalisation agenda, the government aims to decentralise administrative structures, devolve policy making to locally elected governments, and incentivise active civic participation. 
@@ -44,4 +43,4 @@ TASHAROC supported inclusive development and reduced political and economic dise
 * Developed a communications strategy, guidelines, job descriptions, and standard operating procedure manuals for the Regional Council.
 * Organised a study visit for the Regional Council’s elected and staff to local government institutions in Cornwall, Manchester, and London, with a partnership with Cornwall Council underway.
 * Established a monitoring, evaluation, and learning system for the Regional Council to better manage and monitor the implementation of the Regional Development Plan.
-* Trained more than 270 civil society groups in key technical areas such as the petition process, project cycle management, public policy, and proposal writing. 
+* Trained more than 270 civil society groups in key technical areas such as the petition process, project cycle management, public policy, and proposal writing.

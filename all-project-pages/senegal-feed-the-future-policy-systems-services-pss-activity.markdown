@@ -1,9 +1,10 @@
 ---
 title: Senegal—Feed the Future Policy Systems Services (PSS) Activity
+---
 date: 2020-09-29 15:10:00 Z
 published: false
 summary: 'The Feed the Future Senegal Policy Systems Services (PSS) Activity works
-  to advance Senegal''s self-reliance, decrease poverty, improve nutritional outcomes,
+  to advance Senegal's self-reliance, decrease poverty, improve nutritional outcomes,
   build resilience, improve water security, and accelerate inclusive agricultural
   growth and transformation. '
 start: 2020
@@ -18,8 +19,6 @@ promos:
 - title: New U.S. Government Activity to Boost Sustainable Private Investment and
     Domestic Resource Mobilization in Senegal’s Agriculture Sector
   link: https://www.dai.com/news/new-us-government-activity-to-boost-sustainable-private-investment-and-domestic-resource-mobilization-in-senegals-agriculture-sector
----
-
 Since the spike in world food prices in 2008, a widespread consensus has emerged that the historical model of Senegalese agricultural development—one based on large-scale public investments and market interventions concentrated in the groundnut and irrigated rice value chains—is outmoded and needs to be replaced by a more dynamic, private sector-led model focused on a broader range of value chains, such as dry cereals, horticulture, and livestock. Under the Feed the Future Senegal Policy Systems Services (PSS) Activity, we collaborate with the U.S. Agency for International Development and Senegalese actors to strengthen the country's agricultural and food policy system.
  
 Implemented with Initiative Prospective Agricole et Rurale (IPAR), PSS works to advance Senegal's self-reliance, decrease poverty, improve nutritional outcomes, build resilience, improve water security, and accelerate inclusive agricultural growth and transformation. 

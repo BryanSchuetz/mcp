@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Advancing Capacity for the Environment (ACE)
+---
 date: 2022-07-20 10:30:00 Z
 published: false
 summary: The Advancing Capacity for the Environment (ACE) program facilitates the
@@ -18,8 +19,6 @@ country: Worldwide
 promos:
 - title: ACE Fact Sheet
   link: "/uploads/USAID-ACE-Program-Fact-Sheet%20(1).pdf"
----
-
 The Advancing Capacity for the Environment (ACE) program facilitates the U.S. Agency for International Development (USAID)’s work to address weather-related changes, conserve biodiversity and manage natural resources, improve land governance, and expand access to secure, modern energy and resilient infrastructure. [ACE](https://www.climatelinks.org/resources/advancing-capacity-environment-ace-program-fact-sheet) strengthens capacities for technical leadership and effective programming through integrated support in four areas: communications, knowledge management, training, and organizational development.
 
 The intensity and complexity of today’s environmental challenges—from ocean plastic pollution to natural resource degradation and biodiversity loss—threaten to reverse decades of progress in global development. To sustain improvements in human welfare, USAID is taking bold action to address these challenges through investments that cut across all technical sectors.
@@ -45,4 +44,4 @@ By enhancing USAID's effectiveness, the ACE program contributes to positive, sus
 * Introduced CommsConnect, a one-stop shop for USAID program information, fact sheets, statistics, and success stories to provide up-to-date communications and knowledge management resources to USAID’s geographically dispersed workforce across more than 90 countries.
 * Managed all aspects of six “Links” websites that capture and share information to ensure that USAID’s audiences can apply lessons, experience, and evidence to improve the effectiveness of their programs. ACE has supported the development or posting of more than 1,600 resources, attracting more than 1,039,000 views and 148,000 downloads.  USAID staff (89 percent) report that awareness of USAID’s weather-related and environmental work has increased among their key audiences with ACE’s support. 
 * Supported 11 communities of practice among USAID staff and implementing partners to build capacity, disseminate best practices, sharpen messaging, and evaluate programming. Nearly 900 people have attended sessions.  
-* Supported USAID’s integrated, whole-of-agency approach to weather-related and environmental work through a robust suite of training, including Biodiversity Programing and Cross-Sectoral Integration. 
+* Supported USAID’s integrated, whole-of-agency approach to weather-related and environmental work through a robust suite of training, including Biodiversity Programing and Cross-Sectoral Integration.

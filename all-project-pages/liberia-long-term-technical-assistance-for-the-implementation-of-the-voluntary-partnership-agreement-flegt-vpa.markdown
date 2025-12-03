@@ -1,6 +1,7 @@
 ---
 title: Liberia—Long-Term Technical Assistance for the Implementation of the Voluntary
-  Partnership Agreement (FLEGT-VPA)
+  Partnership Agreement (FLEGT-VPA
+---
 date: 2019-03-26 21:26:00 Z
 summary: 'This project increases the value of traded timber products, strengthen forest
   law enforcement and governance, and share forest benefits more equitably through
@@ -20,8 +21,6 @@ promos:
 - title: EU Forest Project in Liberia Tackles Deforestation and Paves the Way for
     Stability
   link: https://dai-global-developments.com/articles/eu-forest-project-in-liberia-tackles-deforestation-and-paves-the-way-for-stability
----
-
 This project works to increase the value of traded timber products, strengthen forest law enforcement and governance, and share forest benefits more equitably through implementation of the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement (FLEGT-VPA) between Liberia and the European Union (EU). 
 
 The forest sector plays a key role in Liberia’s sustainable socioeconomic development, poverty reduction, and economic growth. FLEGT-VPA aims to reduce the risk of civil conflict through improvements in forest governance and sustainable forest management.

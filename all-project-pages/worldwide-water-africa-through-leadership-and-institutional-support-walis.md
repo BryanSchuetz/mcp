@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Water for Africa through Leadership and Institutional Support (WALIS)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'The WALIS program provides technical, programmatic, administrative, and
   logistical support to USAID in improving the capacity of African water sectors. '
@@ -38,8 +39,6 @@ promos:
 redirect_from:
 - "/walis"
 layout: project
----
-
 Despite significant progress made through donor and nongovernmental organization investments over the past 30 years, a large percentage of Africans still lack access to clean water and proper sanitation. To help address the lack of access to water and sanitation services and facilities from a regional perspective, the U.S. Agency for International Development created the Water for Africa through Leadership and Institutional Support (WALIS) program. [WALIS](https://www.globalwaters.org/walis) [builds the capacity](https://www.youtube.com/playlist?list=PL6ps-GXU9LQpxzSHNREGMfoE8WOPU4Zp6) of national and regional leaders to capture and apply evidence to deliver improved access to safely managed water and sanitation for all. 
 
 WALIS strengthened the ability of [African leaders](https://www.globalwaters.org/resources/assets/snapshot-stockholm-building-africa%E2%80%99s-leadership-sanitation-recap), institutions, and stakeholders to use data and analyses to shape water, sanitation, and hygiene (WASH) policies, plans, and budgets. In [its final year](https://www.globalwaters.org/resources/assets/walis-final-summary-report), WALIS worked to reinforce core program activities while strengthening the integration of WASH into COVID-19 response and research efforts. The COVID-19 pandemic demonstrated the critical importance of sanitation, hygiene, and adequate access to clean water for preventing and containing diseases. 

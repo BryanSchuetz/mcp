@@ -1,6 +1,7 @@
 ---
 title: Afghanistan—Incentives Driving Economic Alternatives for the North, East, and
   West (IDEA-NEW)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Incentives Driving Economic Alternatives for the North, East, and West
   (IDEA-NEW) program dissuaded Afghans from growing poppy by increasing access to
@@ -16,7 +17,6 @@ country:
 - Afghanistan
 layout: project
 ---
-
 The Incentives Driving Economic Alternatives for the North, East, and West (IDEA-NEW) program dissuaded Afghans from growing poppy by increasing access to licit, commercially viable, alternative sources of income.
 
 ![][1]

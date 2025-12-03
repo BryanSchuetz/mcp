@@ -1,5 +1,6 @@
 ---
 title: Haiti—Projet Paysages Résilients-Nord (PPR-Nord)
+---
 date: 2022-10-27 09:59:00 Z
 published: false
 summary: The Haiti *Projet Paysages Résilients-Nord* (PPR-Nord) activity build communities’
@@ -14,8 +15,6 @@ solutions:
 - Natural Resource Management
 regions: Latin America and the Caribbean
 country: Haiti
----
-
 In Northern Haiti, the Bahon, Joli Trou-Cormier, and Les Perches sub-watersheds provide critical environmental benefits to local communities. Water availability, erosion control, and forested watersheds are particularly important for the sustainability of crop and livestock production on which these communities rely on for income and food.
 
 While many households in these sub-watersheds are aware of natural resource management (NRM) practices, a majority live in poverty and lack the time and money to put these practices to use. With drought and intense natural disasters brought on by climate change, prioritizing the ecological health of the sub-watersheds is an imperative.

@@ -1,6 +1,7 @@
 ---
 title: Türkiye—Establishment of Ecoregions-Based Ecological Assessment System for
   Water Quality
+---
 date: 2025-05-15 15:35:00 Z
 summary: Türkiye’s water sector faces mounting pressures due to population growth,
   climate change, and increased pollution from agricultural, domestic, and industrial
@@ -13,8 +14,6 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
-
 Türkiye’s water sector faces mounting pressures due to population growth, climate change, and increased pollution from agricultural, domestic, and industrial sources. With 25 hydrological basins and limited economically usable water resources, the country is on track to become water-stressed beyond 2030 if current trends continue.
 
 ![Ecoregions_TK.jpg](/uploads/Ecoregions_TK.jpg)
@@ -33,5 +32,3 @@ Our team supports the Directorate General for Water Management in setting up a c
 * Conduct a climate change impact assessment to identify risks and integrate findings into the ecological classification system.
 * Create software tools and 14 guidance documents to support long-term ecological assessment and reporting in line with the WFD.
 * Facilitate coordination between national stakeholders and ensure real-time information sharing through a dynamic file-sharing system.
-
-

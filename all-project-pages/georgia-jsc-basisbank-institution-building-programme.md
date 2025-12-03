@@ -1,5 +1,6 @@
 ---
 title: Georgia—JSC BasisBank Institution-Building Programme
+---
 date: 2016-01-21 22:40:00 Z
 summary: DAI supported BasisBank in the implementation of a comprehensive institution-building
   programme. The objective of the programme was to strengthen the bank to allow it
@@ -17,8 +18,6 @@ regions:
 country:
 - Georgia
 layout: project
----
-
 DAI supported BasisBank in the implementation of a comprehensive institution-building programme. The objective of the programme was to strengthen the bank to allow it to compete effectively in Georgia and the region and thereby contribute to increased competition and a more balanced distribution of financial power. The programme spanned a large area of the bank's activities, from corporate governance and strategic review to risk management and internal systems, with extensive work being done on the streamlining of corporate and retail lending.
 
 ### Sample Activities

@@ -1,5 +1,6 @@
 ---
 title: Mozambique—Democratic Governance Support Programme (DIÁLOGO)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Local para
   a Boa Governação in Portuguese, contributed to improved governance and accountability
@@ -19,8 +20,6 @@ promos:
     DIÁLOGO'
   link: https://dai-global-digital.com/icts-for-citizen-engagement-and-advocacy-lessons-learned-from-mozambique-dialogo.html
 layout: project
----
-
 The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Local para a Boa Governação in Portuguese, improved governance and accountability for Mozambican citizens in urban municipalities, so that citizens—particularly women and youth—know more, engage more, and vote with confidence in their cities. DIÁLOGO worked at the municipal level in the cities of Beira, Maputo, Quelimane, Nampula, and Tete to bring community, media, and political, legislative, executive, and civil society actors together to solve their most immediate governance challenges. DIÁLOGO engaged with national policymakers, municipal assemblies, and local governments to improve accountability and responsiveness, while it worked to create realistic demand for local governance and greater engagement in the democratic process. DIÁLOGO also linked communities and their priorities into constructive national policy debates, policy analysis and research, and investigative journalism. We implemented DIÁLOGO with partners such as Cowi A/S, the Institute of Development Studies, the Electoral Institute for Sustainable Democracy in Africa, IREX, and the Civil Society Learning and Capacity Building Centre in Mozambique.
 
 ![][1]

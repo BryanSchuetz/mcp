@@ -1,5 +1,6 @@
 ---
 title: Mexico—Skills for Prosperity Mexico (SFPMx)
+---
 date: 2019-12-18 15:14:00 Z
 summary: The Skills for Prosperity Mexico project works to prepare learners to go
   from the classroom to the workforce with the right skills for the marketplace.
@@ -17,8 +18,6 @@ promos:
   link: https://www.youtube.com/channel/UCSJTczpbfeXMEPu_3Hbr5Ng
 - title: Skills for Prosperity Mexico Program Results and Success Stories
   link: "/uploads/SFPMx%20-%20Program%20Results%20and%20Success%20Stories-bdb786.pdf"
----
-
 The Skills for Prosperity Mexico (SFPMx) Programme worked to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
  
 Achieving inclusive economic growth and poverty reduction required changing the way government, private sector, and training providers work together. The U.K. is a leader in these kinds of Education-to-Employment (E2E) partnerships. Through SFPMx, DAI drew on best practices both from Britain’s experience and from promising Mexican models of public-private collaboration to strengthen E2E partnerships nationwide.
@@ -45,4 +44,4 @@ Skills for Prosperity aimed to ensure more marginalized people have opportunitie
 * Launched a mentorship program for female students in higher education in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace.
 * Co-financed STEM Academy Labs for use by Mechatronics students from the Metropolitan Technological University Mexico.
 * Trained higher-education professors in Oaxaca to manage robotics and programming labs that offer young TVET students, especially women,  their first practical experience of STEM career options. 
-* Completed a teacher training program to prepare teachers to teach Python skills to students in technical and vocational upper secondary schools in the Mexican state of Jalisco. 
+* Completed a teacher training program to prepare teachers to teach Python skills to students in technical and vocational upper secondary schools in the Mexican state of Jalisco.

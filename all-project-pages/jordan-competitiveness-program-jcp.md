@@ -1,5 +1,6 @@
 ---
 title: Jordan—Competitiveness Program (JCP)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'JCP stimulated about $70 million in new Jordanian exports, facilitated more
   than $100 million in investment opportunities, contributed to the creation of nearly
@@ -24,8 +25,6 @@ promos:
     Change'
   link: https://dai-global-developments.com/articles/how-an-approach-to-crisis-in-jordan-transformed-into-sustained-institutional-change/
 layout: project
----
-
 The Jordan Competitiveness Program (JCP) operated for nearly six years to boost the competitiveness of the Jordanian economy by working with policymakers, business associations, and the private sector to: 1) draft and advocate for business-enabling legislation and regulation; 2) support firms and intermediaries in the private sector to stimulate exports and attract foreign direct investment (FDI); and 3) ensure that these investments result in employment opportunities for Jordanians and, where appropriate, other residents of the Kingdom. 
 
 From its impact on key sectors of the economy to its work strengthening Jordan’s business-enabling policy environment, JCP worked at all levels of the economy, training hundreds of young professionals, building the capacity of local firms, strengthening sector associations, and assisting in the enactment of dozens of forward-thinking laws and regulations that made possible tens of millions of dollars in new investment and exports while creating thousands of jobs. All told, JCP had an outsized impact on Jordan’s economy—stimulating about $70 million in new Jordanian exports, facilitating more than $100 million in investment opportunities, contributing to the creation of nearly 1,000 jobs, and assisting in securing new or better work opportunities for nearly 30,000 individuals. 

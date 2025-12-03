@@ -1,8 +1,9 @@
 ---
 title: Poland—Residential Energy Efficiency Financing Facility (Poland REFF)
+---
 date: 2016-01-21 22:40:00 Z
 summary: Poland REFF created a program of targeted loans to incentivize borrowing
-  for household improvements that increase efficiency and reduce energy consumption.
+for household improvements that increase efficiency and reduce energy consumption.
 start: 2016
 end: 2023
 client: European Bank for Reconstruction and Development
@@ -15,8 +16,6 @@ regions:
 country:
 - Poland
 layout: project
----
-
 Poland is one of the most energy-intensive economies in Europe and the Polish government identified increased energy efficiency as one of its top priorities when developing the country's long-term energy policy. The European Bank for Reconstruction and Development (ERBD) [Polish Residential Energy Efficiency Financing Facility](http://www.polreff.org/?sLanguage=en) (Poland REFF) addressed this goal through a program of targeted loans to incentivize borrowing for household improvements that increase efficiency and reduce energy consumption.
 
 Poland REFF built on the success of the DAI-led [Polish Sustainable Energy Financing Facility](https://www.dai.com/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff) (PolSEFF), which provided similar energy efficiency financing to small and medium enterprises.

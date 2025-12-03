@@ -1,5 +1,6 @@
 ---
 title: Tunisia—Green Economy Financing Facility (Tunisia GEFF)
+---
 date: 2019-07-10 14:49:00 Z
 summary: ince the 1980s, Tunisia has implemented public policies to promote energy
   efficiency, develop its renewable energy capacity, and protect the environment.
@@ -13,8 +14,6 @@ solutions:
 - Finance and Investment
 regions: Middle East and North Africa
 country: Tunisia
----
-
 Since the 1980s, Tunisia has implemented public policies to promote energy efficiency, develop its renewable energy capacity, and protect the environment. Energy demand initiatives have lowered energy intensity. Yet Tunisia remains a net energy importer, energy demand continues to increase, and solar, wind, and other forms of renewable energy remain under-exploited. 
 
 One key constraint is a lack of readily available finance. Small and medium-sized enterprises typically face high interest rates, stringent administrative requirements, and lengthy approval processes for green investments. While targeted credit lines and subsidies for solar systems have begun to fill this gap for photovoltaic installations, government incentives often take too long to materialize. 
@@ -34,4 +33,3 @@ By the end of 2030, GEFF-supported sub-projects will achieve CO2 emission reduct
 * Implement strategic marketing to promote Tunisia GEFF to banks, businesses, and business associations.
 * Work with suppliers of energy-efficient equipment and maintain a mechanism to promote uptake of energy-efficient technology in Tunisia.
 * Ensure transfer of skills to financial institutions, local engineers, and businesses to sustain Tunisia’s efficient energy market.
-

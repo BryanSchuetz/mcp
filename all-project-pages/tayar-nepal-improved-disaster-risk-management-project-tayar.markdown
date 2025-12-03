@@ -1,9 +1,10 @@
 ---
 title: Nepal—Improved Disaster Risk Management Project (Tayar)
+---
 date: 2019-09-25 13:47:00 Z
 summary: Tayar benefitted more than 716,000 people across the country through its
-  disaster preparedness and response activities, aimed at improving national systems
-  and institutions’ response to all types of natural disasters.
+disaster preparedness and response activities, aimed at improving national systems
+and institutions’ response to all types of natural disasters.
 start: 2019
 end: 2024
 client: U.S. Agency for International Development
@@ -15,8 +16,6 @@ country: Nepal
 promos:
 - title: 'Tayar Progress Summary '
   link: "/uploads/ebook_design-3-web-7576db.pdf"
----
-
 Nepal is prone to a range of natural disasters, including floods, landslides, fires, earthquakes, and disease outbreaks. In the wake of recent tragedies in the country, including the massive 2015 Gorkha earthquake, the U.S. Agency for International Development (USAID) has established a flagship disaster preparedness and response program for Nepal.  
 
 Tayar—which means “prepare”—strengthens the capacity of Nepal’s disaster risk management and preparedness institutions. At the national level, the project supported national agencies, including the newly created National Disaster and Risk Reduction Management Agency (NDRRMA), to conduct national disaster simulations, improve disaster response technologies, and establish a National Disaster Training Academy. Locally, Tayar worked with urban municipalities to develop risk-sensitive land use plans that increase disaster resilience. This local support included activities such as slope stabilization, [humanitarian open spaces](https://www.iom.int/news/iom-urges-kathmandu-residents-preserve-humanitarian-open-spaces), and building retrofitting to reduce disaster risk.

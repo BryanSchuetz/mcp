@@ -1,5 +1,6 @@
 ---
 title: Liberia—Food and Enterprise Development Program (FED)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Food and Enterprise Development Program helped Liberia achieve increased
   food security—in terms of food availability, utilization, and affordability—by building
@@ -16,8 +17,6 @@ regions:
 country:
 - Liberia
 layout: project
----
-
 Half of all Liberians generate their income through agriculture, yet agriculture previously was not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, the Food and Enterprise Development Program (FED) helped Liberia achieve increased food security—in terms of food availability, utilization, and affordability—by building incentive structures that assisted local stakeholders to adopt a commercial approach.
 
 Our market-led and value chain-driven methodology built indigenous capacity, and focused on benefiting Liberia’s women and [youth](http://afkinsider.com/45636/agriculture-meets-education-usaid-back-to-school-farming-program/). New market linkages catalyzed income and job growth and increased the production, processing, marketing, and nutritional utilization of rice, cassava, and vegetables in Bong, Lofa, Nimba, Grand Bassa, Montserrado, and Margibi counties, a region targeted as a development corridor that fosters commerce, simultaneously [improving food availability](http://www.goodfoodworld.com/2013/09/development-aid-programs-target-small-scale-farmers-to-ramp-up-production-in-food-insecure-liberia/) and access and dietary diversity.

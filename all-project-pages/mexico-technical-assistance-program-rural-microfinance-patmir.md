@@ -1,5 +1,6 @@
 ---
 title: Mexico—Technical Assistance Program for Rural Microfinance (PATMIR)
+---
 date: 2016-01-21 22:40:00 Z
 summary: We worked with an alliance of regulated financial institutions to expand
   access to basic financial services to the poor. This included applying new approaches
@@ -16,8 +17,6 @@ regions:
 country:
 - Mexico
 layout: project
----
-
 Many people in Mexico are too poor or geographically isolated to use traditional banks for services such as saving and borrowing. We worked with an alliance of regulated financial institutions to expand access to basic financial services to the poor. This included applying new approaches to branchless banking. Together with our alliance partners, our goal was to add 175,000 savings clients to the formal financial sector in Mexico while responding to conditions of local markets and the changing context of personal and small business finance. The Technical Assistance Program for Rural Microfinance (PATMIR) project, a results-based project, continues our record of building the capacity of financial institutions and developing new products and services and delivery channels in Mexico and the region.
 
 ![][1]

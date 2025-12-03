@@ -1,5 +1,6 @@
 ---
 title: Worldwide—SERVIR Program Demand Activity
+---
 date: 2016-01-21 22:40:00 Z
 summary: Satellites photograph the world, providing a world of information. DAI helped
   use this information to help countries prepare for and mitigate the effects of climate
@@ -15,8 +16,6 @@ regions:
 country:
 - Worldwide
 layout: project
----
-
 Satellites photograph the world, providing a world of information. DAI helped use this information to help countries prepare for and mitigate the effects of changes to climate and natural and manmade disasters.
 
 Established in 2004 by NASA, the U.S. Agency for International Development (USAID), and others, SERVIR provides a web-based geospatial platform for sharing, integrating, and mapping climate data from satellite imagery.

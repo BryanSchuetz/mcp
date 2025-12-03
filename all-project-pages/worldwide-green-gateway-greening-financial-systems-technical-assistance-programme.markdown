@@ -1,5 +1,6 @@
 ---
 title: 'Worldwide—Green Gateway: Greening Financial Systems Technical Assistance Programme'
+---
 date: 2023-02-07 12:58:00 Z
 tags:
 - Europe
@@ -16,8 +17,6 @@ solutions:
 - Governance
 regions: Worldwide
 country: Worldwide
----
-
 The window of opportunity to meet the [1.5°C Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) goal is rapidly closing. Recent trends indicate that the gap between where we are and where we should be is widening. Through their [Nationally Determined Contributions](https://www.un.org/en/climatechange/all-about-ndcs#:~:text=Simply%20put%2C%20an%20NDC%2C%20or,update%20it%20every%20five%20years.) (NDCs), countries communicate actions they will take to reduce their greenhouse gas emissions. However, commitments themselves are not enough. Due to the limited availability of funds for climate finance in developing countries, it is necessary to expand climate finance for zero-carbon investments domestically and through international cooperation. 
 
 The Green Gateway promotes net zero and climate-resilient financial systems that ultimately will enable the private sector in deploying climate-related and environmentally sustainable investments. 

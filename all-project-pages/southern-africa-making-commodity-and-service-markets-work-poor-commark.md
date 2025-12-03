@@ -1,5 +1,6 @@
 ---
 title: Southern Africa—Making Commodity and Service Markets Work for the Poor (ComMark)
+---
 date: 2016-01-21 22:40:52 Z
 client:
 - Foreign, Commonwealth & Development Office
@@ -18,8 +19,6 @@ summary: 'ComMark was designed specifically to facilitate the development and im
   Africa.
 
 '
----
-
 ComMark was designed specifically to facilitate the development and improved operation of commodity and service markets for the benefit of poor people in Southern Africa. This project focused on growing sub-sectors within and across countries with high growth potential, including South Africa, Namibia, Botswana, Lesotho, and Swaziland, as well as fostering broader regional linkages.
 
 ###  Sample Activities

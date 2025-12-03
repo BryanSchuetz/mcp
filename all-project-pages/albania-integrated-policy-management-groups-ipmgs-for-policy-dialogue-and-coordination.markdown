@@ -1,6 +1,7 @@
 ---
 title: Albania—Integrated Policy Management Groups (IPMGs) for Policy Dialogue and
   Coordination
+---
 date: 2019-11-18 13:30:00 Z
 summary: DAI provided technical assistance to the Integrated Policy Management Groups
   (IPMGs) for policy dialogue and coordination in Albania to improve institutional
@@ -13,8 +14,6 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Albania
----
-
 Albania has been on the path to European Union (EU) accession since 2014, when the country was granted candidate status. The EU is supporting reforms in Albania through the Instrument for Pre-Accession, IPA II, which is based on a sector approach that aims to increase coherence between sector policy, government spending, and the achievement of results.  
 
 Integrated Policy Management Groups (IPMGs) and Sector Steering Committees (SSC) were established by the Government of Albania within priority areas and sectors to move the country closer to accession. IPMGs focus on cooperation at the steering level in good governance and public administration; competitiveness and investment; employment and skills; and integrated land management. SSCs focus on cooperation at the steering level within sectors of special importance for reforms and inter-institutional coordination, including justice reform; home affairs; public financial management; interconnectivity; and environment, and waste management.

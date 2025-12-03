@@ -1,9 +1,10 @@
 ---
 title: Zambia—Moblising Access to Maternal Health Services (MAMaZ)
+---
 date: 2018-01-16 18:08:00 Z
 summary: The Mobilising Access to Maternal Health Services in Zambia (MAMaZ) programme
-  addressed the factors that affect access to maternal, newborn, and child health
-  services.
+addressed the factors that affect access to maternal, newborn, and child health
+services.
 start: 2010
 end: 2013
 client: Foreign, Commonwealth & Development Office
@@ -11,8 +12,6 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: Zambia
----
-
 In Zambia, health indicators remain poor, with an estimated 2,600 maternal deaths annually, and a neonatal mortality rate of 30 deaths per 1,000 live births. The average rate of delivery by skilled birth attendants has remained stagnant at below 50 percent for more than 20 years.
 
 The Mobilising Access to Maternal Health Services in Zambia (MAMaZ) programme was implemented in six districts in Central, Western, Southern and Muchinga provinces in rural Zambia and reached a population of more than 250,000 people.

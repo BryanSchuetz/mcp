@@ -1,6 +1,7 @@
 ---
 title: Türkiye—Technical Assistance for Capacity Building for Effective Nationality
   Determination
+---
 date: 2021-01-18 13:18:00 Z
 summary: 'This project improved Türkiye’s legal and administrative framework in migration
   management by establishing a well-functioning migration management system in line
@@ -12,8 +13,6 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
-
 Türkiye is a country with two sea borders, sitting between eastern Europe, Central Asia, and the Middle East. It lies at a crossroads for inter-regional and intercontinental migration. Within the last decade, the civil unrest in the Middle East particularly destabilized the region, with the domino effect of uprisings leading to conflict and civil war, in turn leading to significant migration flows out of the region. Managing migration both into and through its borders is a pressing issue for Türkiye.
 
 Our project improved Türkiye’s legal and administrative framework in migration management by establishing a well-functioning migration management system in line with the European Union (EU) acquis and standards. The objective was to improve the institutional capacity of the Turkish Directorate General of Migration Management (DGMM) for nationality identification through piloting a Language Analysis System (LAS).
@@ -37,4 +36,4 @@ This intervention was a critical element towards strengthening the migration man
 * Analyzed 565 voice samples by both human experts and via an accent recognition system, submitted to DGMM.
 * Developed the LAS procedures manual approved by DGMM. 
 * Developed a training manual reviewed by DGMM.
-* Developed an e-learning system in Turkish for integration onto the DGMM platform. 
+* Developed an e-learning system in Turkish for integration onto the DGMM platform.

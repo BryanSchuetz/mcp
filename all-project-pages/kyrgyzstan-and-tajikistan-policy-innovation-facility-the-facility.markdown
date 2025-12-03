@@ -1,8 +1,9 @@
 ---
 title: Kyrgyzstan and Tajikistan—Policy Innovation Facility (The Facility)
+---
 date: 2019-06-13 17:21:00 Z
 summary: The Facility provides flexible, short-term, demand-driven support for policy
-  development and capacity building to the governments of Tajikistan and Kyrgyzstan.
+development and capacity building to the governments of Tajikistan and Kyrgyzstan.
 start: 2019
 end: 2023
 client: Foreign, Commonwealth & Development Office
@@ -10,8 +11,6 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Tajikistan, Kyrgyzstan
----
-
 Kyrgyzstan and Tajikistan face similar economic challenges in a fragile region. Both countries are seeking to develop policies to diversify their economies into higher value products, improve microeconomic stability and reduce their vulnerability to external shocks. The governments of both countries have set out high-level economic strategies that will require realistic policies, strategies, and plans to improve their economies, governance, resilience, and delivery capabilities.
  
 The technical assistance facility provides flexible, short-term, demand-driven support for policy development and capacity building to the governments of Tajikistan and Kyrgyzstan. The Facility works with executive offices, ministries, state agencies, and local government (MDAs) to help formulate policies that contribute to the economic development and prosperity of both countries. The facility will provide opportunities for synergies with another DAI-implemented project, the [Kyrgyzstan and Tajikistan Enterprise Innovation Programme (EIP)](https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme). 

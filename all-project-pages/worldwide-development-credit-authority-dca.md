@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Development Credit Authority (DCA)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The DCA—catalyzing finance and facilitating new financial institution relationships—promoted
   a sustainable private-sector approach to economic development and growth.
@@ -13,8 +14,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 The U.S. Agency for International Development (USAID)'s Development Credit Authority provided flexible credit enhancement tools to encourage sustainable private sector investment in creditworthy growth sectors currently underserved by formal financial institutions. The DCA allowed USAID missions to partially guarantee loans or debt instruments issued by private-sector lenders to sub-sovereign borrowers (private companies and municipalities). Successful DCA deals ensured sustainable credit relationships between local, underserved businesses and commercial financial institutions. The DCA—catalyzing finance and facilitating new financial institution relationships—promoted a sustainable private-sector approach to economic development and growth.
 
 ### Sample Activities

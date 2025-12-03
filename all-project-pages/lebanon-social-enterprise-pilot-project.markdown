@@ -1,5 +1,6 @@
 ---
 title: Lebanon—Social Enterprise Pilot Project (SEPP)
+---
 date: 2017-09-12 13:02:00 Z
 summary: The Lebanon Social Enterprise Pilot Project used an evidence-based approach
   to demonstrate the potential of the private sector-led social enterprise model to
@@ -12,8 +13,6 @@ solutions:
 - Economic Growth
 regions: Middle East and North Africa
 country: Lebanon
----
-
 Regional conflicts have adversely affected Lebanon’s economy and led to increased social and political tensions in communities hosting Syrian refugees. One result has been strained government resources and poor public service delivery. Yet amidst these challenges, Lebanese young people are keen to contribute to their country’s development through social enterprise business models that create social value and serve marginalized populations. However, there are very few avenues of support in Lebanon to help promising social entrepreneurs launch and grow new mission-oriented businesses. 
 
 The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. Foreign, Commonwealth & Development Office (branded as [SoUK.LB](http://www.souklb.co/) – Social Enterprise Hub), used an evidence-based approach to demonstrate the potential of the social enterprise model to deliver social and economic impact in Lebanon. DAI, along with its local consortium partners, [worked with social enterprises](http://dai-global-developments.com/articles/with-uk-aid-lebanon-social-enterprise-pilot-new-model-of-development/) from high-impact sectors to accelerate and strengthen their organisational capacity through training, mentoring, and financing.

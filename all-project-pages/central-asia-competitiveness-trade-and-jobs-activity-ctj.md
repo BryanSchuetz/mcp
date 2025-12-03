@@ -1,6 +1,7 @@
 ---
 title: Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ); Trade Central
   Asia (TCA)
+---
 date: 2016-01-21 22:40:00 Z
 published: false
 summary: 'DAI is working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and
@@ -40,8 +41,6 @@ promos:
 - title: 'WOMEN ARTISANS OF CENTRAL ASIA: A LOOKBOOK JOURNEY'
   link: https://folklife-media.si.edu/docs/folklife/cultural-sustainability/Central_Asian_Lookbook_EN.pdf
 layout: project
----
-
 A quarter of a century after the disintegration of the Soviet Union, the Central Asian Republics have yet to realize full regional integration or sustained economic growth outside of the oil and gas industries. In addition, state control over business freedoms and rivalries among national governments have led to restrictive trade policies and stifled private sector investment, resulting in a stagnant economy and limited job opportunities. Large segments of the population remain mired in poverty, resulting in migration to find work and vulnerability to recruitment by violent extremist groups.
 
 The U.S. Government's New Silk Road Initiative is supporting Central Asia to regain its place at the center of renewed trade between the East and West. An integral part of the initiative is the Trade Central Asia (TCA) activity, funded by the U.S. Agency for International Development (USAID), and working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to improve the region's trade environment, resulting in growth for exports and increased employment.

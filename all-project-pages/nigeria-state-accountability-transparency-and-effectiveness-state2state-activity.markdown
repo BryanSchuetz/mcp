@@ -1,6 +1,7 @@
 ---
 title: Nigeria—State Accountability, Transparency, and Effectiveness (State2State)
   Activity
+---
 date: 2020-08-11 10:43:00 Z
 published: false
 summary: The Nigeria State Accountability, Transparency, and Effectiveness (State2State)
@@ -20,8 +21,6 @@ promos:
 - title: USAID Governance Project in Nigeria Shepherds First State Water Resource
     Bill into Law
   link: https://www.dai.com/news/usaid-governance-project-in-nigeria-shepherds-first-state-water-resource-bill-into-law
----
-
 The Nigeria State Accountability, Transparency, and Effectiveness (State2State) Activity supports strengthened governance structures in six states in Nigeria to improve their ability to plan and budget, raise revenues, increase civil society participation, and oversee service delivery in the health; education; and water, sanitation, and hygiene (WASH) sectors. State2State works primarily at the state level, but also supports federal institutions and local government areas. 
 
 State2State specifically recognizes the role of the state governors and commissioners in driving forward reforms in Nigeria, but, importantly, gives equal weight to the essential role that national fiscal and development policy, citizen demand, and local innovation, collaboration, and learning across and among states play in solving governance, financing, and service delivery challenges. 
@@ -45,4 +44,4 @@ We partner with key Nigerian organizations to capture, document, and share best 
 * Supported grantee Centre for Information Technology and Development (CITAD) in developing a free app and web platform called Office of the Citizens that enable citizens to monitor and report public budget implementation and track project completion across all 20 local government areas in Bauchi State, promoting citizen participation and state budget transparency. 
 * Helped Adamawa State develop the Adamawa State Fiscal Responsibility Manual to serve as a roadmap, clarify roles and responsibilities of the Adamawa State Fiscal Responsibility Commission, and simplifies provisions of the 2021 Adamawa State Fiscal Responsibility Law. 
 * [Supported](https://www.dai.com/news/usaid-governance-project-in-nigeria-shepherds-first-state-water-resource-bill-into-law) Akwa Ibom State in passing the Water Resource Bill into law; Akwa Ibom is now the first state in the country to adopt the national version of the bill at the state level. 
-* Supported Gombe state whose internally generated revenue increased from Naira 10.02 billion in 2021 to Naira 15.63 billion in 2023. Collaborative efforts and training by State2State played a crucial role in achieving this growth. 
+* Supported Gombe state whose internally generated revenue increased from Naira 10.02 billion in 2021 to Naira 15.63 billion in 2023. Collaborative efforts and training by State2State played a crucial role in achieving this growth.

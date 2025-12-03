@@ -1,5 +1,6 @@
 ---
 title: El Salvador—Investment Promotion Project (IPP)
+---
 date: 2024-10-16 13:06:00 Z
 published: false
 summary: The Investment Promotion Project is a five-year USAID initiative to increase
@@ -12,8 +13,6 @@ solutions:
 - Finance and Investment
 regions: Latin America and the Caribbean
 country: El Salvador
----
-
 El Salvador has the opportunity to become a preferred destination for global investors. Attracting such investment will drive sustainable economic growth and foster innovation while addressing the root causes of irregular migration by enhancing economic security, reducing inequality, and creating opportunities for Salvadorans to thrive.
  
 The Investment Promotion Project (IPP), funded by the U.S. Agency for International Development, works to increase investment and access to finance in El Salvador.

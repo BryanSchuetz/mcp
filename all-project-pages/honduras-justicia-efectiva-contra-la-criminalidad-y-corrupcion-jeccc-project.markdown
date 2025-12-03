@@ -1,5 +1,6 @@
 ---
 title: Honduras—Justicia Efectiva Activity
+---
 date: 2022-05-23 19:36:00 Z
 published: false
 summary: "*Justicia Efectiva* combats impunity and corruption by targeting crime and
@@ -20,8 +21,6 @@ promos:
 - title: USAID Launches Next-Generation Project to Reduce Impunity and Corruption
     in Honduras
   link: https://www.dai.com/news/usaid-launches-next-generation-project-to-reduce-corruption-in-honduras
----
-
 Impunity in Honduras remains persistently high, which is exacerbated by corruption and crime that reduce public trust and weaken the independence of judicial institutions. This results in an erosion of security that drives many vulnerable Hondurans to migrate irregularly each year. Within this challenging context, *Justicia Efectiva* has identified ‘bright spots’ such as a vibrant civil society, opportunities for building solid partnerships with multi-sectoral actors, and political will among justice operators, all of which present strategic entry points.
 
 *Justicia Efectiva* employs a comprehensive, people-centered approach to improve access to justice, enhance the effectiveness of the criminal justice system, and build trust in public institutions. This is achieved through innovative solutions across the Activity’s four strategic themes that enhance interinstitutional and multi-sectoral coordination and promote judicial independence: strategic criminal prosecution, local justice systems, people-centered justice, and open justice. 

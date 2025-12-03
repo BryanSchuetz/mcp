@@ -1,5 +1,6 @@
 ---
 title: Lebanon—Industry Value Chain Development (LIVCD)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Lebanon Industry Value Chain Development (LIVCD) project improved Lebanon's
   economic stability and provided income-generating opportunities for small business
@@ -20,8 +21,6 @@ regions:
 country:
 - Lebanon
 layout: project
----
-
 Lebanese agricultural products have the potential to compete well in regional and international markets; however many products require improvements in terms of quality and specifications to meet customer demand, leveraging the country's significant assets and abundant talented human resources. In addition, the country is affected by the regional crisis, particularly in rural areas. 
 
 The Lebanon Industry Value Chain Development (LIVCD) was a six-year project under the U.S. Government’s Feed the Future initiative. By facilitating 211 public-private partnerships and generating $140 million in sales by Lebanese farmers and companies, LIVCD strengthened the agriculture and agro-processing sectors and supported Lebanese products to become more competitive in both domestic and international markets. The project started with comprehensive and consultative evaluations of potential value chains for project interventions, to identify constraints and pinpoint windows for development opportunities.

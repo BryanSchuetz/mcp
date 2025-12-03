@@ -1,5 +1,6 @@
 ---
 title: Egypt—Transforming Financial Systems for Climate (TFSC)
+---
 date: 2022-12-13 11:48:00 Z
 summary: The Transforming Financial Systems for Climate (TFSC) program is part of
   a global €653 million effort of the Agence Française de Développement Group and
@@ -15,8 +16,6 @@ solutions:
 - Evironmental and Social Risk Management
 regions: Middle East and North Africa
 country: Egypt
----
-
 The Arab Republic of Egypt is highly vulnerable to severe weather-related impacts and faces numerous threats to its economic, social, and environmental sustainability. The population increased from 36 million in 1973 to approximately 102 million by mid-2021. The demographic growth coupled with ambitious development and industrialization policies has put significant pressure on natural resources in the form of heavy air, water, and soil pollution. The magnitude of these environmental and social costs is likely to offset some of the economic growth gains. However, existing national strategies in Egypt reveal a remarkable awareness of the value of a "Green Transformation" to Egypt's competitiveness and future development prospects. 
 
 The Transforming Financial Systems for Climate (TFSC) program is part of a global €653 million effort of the Agence Française de Développement Group and the Green Climate Fund to develop a market for climate finance in 17 countries across Africa and Latin America. The TFSC is supporting the National Bank of Egypt in developing its Climate Strategy and Environmental and Social Risk Management System. 

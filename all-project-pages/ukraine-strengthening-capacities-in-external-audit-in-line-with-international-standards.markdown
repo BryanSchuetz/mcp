@@ -1,6 +1,7 @@
 ---
 title: Ukraine—Strengthening Capacities in External Audit in Line with International
   Standards
+---
 date: 2021-03-09 11:13:00 Z
 summary: 'This  project supports the Accounting Chamber of Ukraine to reform its external
   audit of budgetary funds in line with the government''s public financial management
@@ -14,8 +15,6 @@ solutions:
 - Public Administration, Civil Service Reform, and Human Resources Management
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
-
 *[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 
 Strong and efficient public financial management (PFM) is key for sustained economic growth and efficient provision of public services in Ukraine. The government adopted its 2017 PFM strategy to develop a modern system to efficiently provide public services and allocate resources to align with development priorities. 

@@ -1,6 +1,7 @@
 ---
 title: Worldwide—Digital Transformation Technical Assistance Facility Framework (DTX
   TAF)
+---
 date: 2024-06-06 09:38:00 Z
 summary: 'The Digital Transformation Technical Assistance Facility Framework (DTX
   TAF) supports financial institutions and agribusiness companies in their digital
@@ -13,8 +14,6 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
----
-
 Many smaller financial institutions, particularly in low-income or post-conflict contexts, still rely heavily on paper-based systems (e.g., for loan application processes). Digitalization of these processes will introduce controls for risk and likely help foster inclusion in the financial institutions’ portfolios. Moreover, the COVID-19 pandemic and its economic impact crystalized the importance of digitalization for the resilience of financial institutions and their clients’ livelihoods.
 
 The U.S. International Development Finance Corporation (DFC) and FMO, the Dutch entrepreneurial development bank, have joined forces in the [DFC-MASSIF COVID-19 Response Co-Financing Facility](https://www.fmo.nl/news-detail/973ab3bf-c499-4d53-8c8b-b40a96640e62/dfc-and-fmo-launch-75-million-co-financing-facility-to-boost-covid-19-response-in-developing-countries). This collaborative effort is designed to support micro-, small-, and medium-sized enterprises (MSMEs) impacted by the COVID-19 crisis.

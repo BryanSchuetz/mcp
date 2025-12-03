@@ -1,5 +1,6 @@
 ---
 title: Mongolia—Value Chain Finance Project
+---
 date: 2016-01-21 22:40:00 Z
 summary: We devised a strategy to expand and improve financial services in Mongolia
   that would facilitate the strengthening of select value chains, including in mining,
@@ -16,8 +17,6 @@ regions:
 country:
 - Mongolia
 layout: project
----
-
 We devised a strategy to expand and improve financial services in Mongolia that would facilitate the strengthening of select value chains, including in mining, agriculture, construction, and manufacturing. The objective was to identify the key value chains and their main inefficiencies and vulnerabilities and propose forms of value chain financing that mitigate such weaknesses. A key aim of the feasibility study was to enable investors and stakeholders to ascertain investment opportunities in value chain finance.
 
 ### Select Results

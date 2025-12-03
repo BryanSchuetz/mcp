@@ -1,6 +1,7 @@
 ---
 title: Democratic Republic of the Congo—Integrated Governance Activity (IGA); Good
   Governance Activity (GGA)
+---
 date: 2017-02-23 21:19:00 Z
 published: false
 summary: 'The Good Governance Activity seeks to improve the transparency and accountability
@@ -23,8 +24,6 @@ promos:
 - title: 'BLOG: Participatory Public Financial Management Reinforces Democratic Norms
     and Values'
   link: https://dai-global-developments.com/articles/participatory-public-financial-management-reinforces-democratic-norms-and-values/
----
-
 More than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and began holding free elections, yet the democratic system remains fragile, with few or no basic public services in much of the country. A lack of government accountability and transparency, along with widespread corruption, has led to general public mistrust of politicians and government officials.
 
 Operating within the DRC’s complex local governance, political, and socioeconomic system—which includes multiple layers of interconnected institutions and stakeholders—the Good Governance Activity (GGA)—seeks to improve the transparency and accountability of provincial and local government authorities in managing public financial resources, thus increasing the availability of those resources for local development. This activity builds on USAID’s Integrated Governance Activity (IGA), which worked primarily at the local level, and the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supported new leaders to reform government services at the provincial and local levels. The IGA team also trained civil society and private-sector groups to better advocate their needs to elected officials.

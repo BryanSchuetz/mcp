@@ -1,6 +1,7 @@
 ---
 title: Türkiye—Technical Assistance for Establishment of Boosting Effective and Sustainable
   Transformation for Energy (BEST for Energy)
+---
 date: 2020-08-14 13:01:00 Z
 summary: 'BEST for Energy increased Türkiye''s use of alternative energy sources,
   including renewable sources. The project also supported the country''s renewable
@@ -17,8 +18,6 @@ country: Türkiye
 promos:
 - title: Transforming Izmir into a Clean Energy Hub
   link: https://dai-global-developments.com/articles/transforming-izmir-into-a-clean-energy-hub/
----
-
 In recent years, energy consumption in Türkiye has grown rapidly, due to urbanization, positive demographic trends, economic growth, and increasing per capita income. But the country remains dependent on imported sources of energy, which can experience price fluctuations. Improving energy security is, therefore, one of Türkiye's top priorities. 
 
 The [Technical Assistance Project for Establishment of Boosting Effective and Sustainable Transformation for Energy](https://www.bestforenergy.org/homepage) (BEST for Energy) increased the use of alternative energy sources, including renewable sources. The project also supported Türkiye's renewable energy industry and services to become more internationally competitive. 

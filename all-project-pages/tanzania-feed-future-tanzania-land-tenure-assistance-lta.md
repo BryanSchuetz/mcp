@@ -1,5 +1,6 @@
 ---
 title: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Land Tenure Assistance activity pioneered a low-cost, participatory land
   registration system that works at the local level, enabling smallholder landowners
@@ -41,8 +42,6 @@ promos:
 - title: Feed the Future Tanzania Land Tenure Assistance Activity Evaluation
   link: https://land-links.org/evaluation/feed-the-future-tanzania-land-tenure-assistance-activity/
 layout: project
----
-
 In Tanzania, smallholder land registrations are critical to protecting [local land rights](https://usaidpubs.exposure.co/her-land-rights). However, since passing the Village Act in 1999 to provide for the management of village lands, the process of registration has moved slowly due to limited operational capacity. To bring the law into full effect, procedures for registration and administration need to be low-cost, simple, and equitable. In addition, the land registration system must support future transactions and allow registers to be maintained at village and district levels. 
 
 Under the Land Tenure Assistance (LTA) activity, funded by the U.S. Agency for International Development (USAID), DAI modified an existing tool for mapping smallholdings and detailing ownership claims—the Mobile Application to Secure Tenure (MAST) and linked it to a low-cost land registry tool, the Technical Register Under Social Tenure (TRUST). The outcome is a low-cost, participatory land registration process that is [transforming the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future) land rights are managed in Tanzania, with the potential for adaptation elsewhere.

@@ -1,6 +1,7 @@
 ---
 title: Cambodia—Technical Assistance to the Sustainable Assets for Agriculture Markets,
   Business, and Trade (SAAMBAT) Programme
+---
 date: 2022-10-25 09:11:00 Z
 tags:
 - Europe
@@ -18,8 +19,6 @@ solutions:
 - Environment
 regions: Asia and the Pacific
 country: Cambodia
----
-
 Low-quality road infrastructure has limited the growth of the agriculture, tourism, manufacturing, and construction sectors, and significantly contributed to high poverty levels in rural Cambodia. Lack of access to roads has trapped many rural communities in poverty, as residents do not have access to education, healthcare, or markets. These regions are also highly vulnerable to natural disasters due to changes in climate, heightening the vulnerability of these communities. 
 
 The Technical Assistance to the Sustainable Assets for Agriculture Markets, Business and Trade (SAAMBAT) program in Cambodia aims to reduce multidimensional poverty by developing a better connected, more climate resilient, and more equitable rural economy in Cambodia. It looks to improve connectivity, reduce production and marketing costs, increase private sector investment, and boost the productivity of farmers, focusing on value chain infrastructure and in particular rural road infrastructure (component 1) and skills, technology, and enterprise (component 2).

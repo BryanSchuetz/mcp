@@ -1,6 +1,7 @@
 ---
 title: Worldwide—Support the Secretariat of the Global Covenant of Mayors for Climate
   and Energy
+---
 date: 2020-10-09 09:26:00 Z
 summary: 'The Support the Secretariat of the GCoM for Climate and Energy project develops,
   monitors, and leads climate and sustainable energy action and diplomacy globally
@@ -14,8 +15,6 @@ solutions:
 - Environment
 regions: Worldwide
 country: Worldwide
----
-
 More than half of the world’s population lives in cities, which is likely to increase to more than two-thirds by 2030. Cities use a large proportion of the world’s energy supply and are responsible for around 70 percent of global energy-related greenhouse gas emissions, with transport and buildings being among the largest contributors. 
 
 The roles of cities and local authorities as hubs of innovation and creativity have gained increasing importance in preparing for, and adapting to, the increased risk posed by changes in climate. Climate action in cities can catalyse national economic prosperity and enhance the quality of life for urban dwellers while reducing global emissions. Energy, building, mobility, and planning solutions and innovations in cities have the potential to deliver major emission cuts. 

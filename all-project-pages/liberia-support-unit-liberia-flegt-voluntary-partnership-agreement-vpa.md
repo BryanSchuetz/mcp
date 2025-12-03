@@ -1,5 +1,6 @@
 ---
 title: Liberia—Support Unit for Liberia FLEGT Voluntary Partnership Agreement (VPA)
+---
 date: 2016-01-21 22:40:00 Z
 summary: In 2011, the European Union and the Government of Liberia concluded a Voluntary
   Partnership Agreement under the European Union’s Forest Law Enforcement, Governance,
@@ -23,8 +24,6 @@ promos:
     Stability
   link: https://dai-global-developments.com/articles/eu-forest-project-in-liberia-tackles-deforestation-and-paves-the-way-for-stability
 layout: project
----
-
 In 2011, the European Union and the Government of Liberia concluded a Voluntary Partnership Agreement (VPA) under the European Union’s Forest Law Enforcement, Governance, and Trade (FLEGT) Action Plan. The agreement commits the Liberian Government to developing and implementing systems to ensure that its timber exports to the European Union come from legal sources.
 
 The VPA also commits Liberia to reform its governance to secure the long-term sustainability of Liberia’s forest sector while contributing to national economic development. The former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office) and the European Union established the VPA Support Unit to provide Liberia with technical assistance and guidance to meet its VPA obligations. DAI manages the Support Unit, building the capacity of key government counterparts such as the Liberian Forestry Development Authority and Ministry of Justice, as well as private sector and civil society partners to effectively implement VPA regulations and sustainably manage Liberia’s forestry resources.

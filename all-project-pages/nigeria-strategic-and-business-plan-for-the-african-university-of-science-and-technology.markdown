@@ -1,6 +1,7 @@
 ---
 title: Nigeria—Strategic and Business Plan for the African University of Science and
   Technology
+---
 date: 2023-02-15 11:06:00 Z
 summary: This project developed a strategic and business plan for the African University
   of Science and Technology.
@@ -12,8 +13,6 @@ solutions:
 - Education
 regions: Sub-Saharan Africa
 country: Nigeria
----
-
 DAI supported the African University of Science and Technology to develop a strategic and business plan to underpin the performance improvement of the university. In Abuja, the university—a Science and Engineering Innovation and Research Centre—conceived by Africans across the continent and from the diaspora, with major support from the World Bank Institute, was established in 2007 as a regional initiative led by the Nelson Mandela Institution.
 
 The university will expand its scope and evaluate its achievements against the original goal and objectives. We worked with the university to clarify its vision, set new goals, prioritize service offerings, and outline the capacity and management systems it needs to deploy for success. We assessed the institution’s current situation, including its mission, vision, and objectives, and delineated the competitive advantages it can leverage to achieve its current aspirations. 

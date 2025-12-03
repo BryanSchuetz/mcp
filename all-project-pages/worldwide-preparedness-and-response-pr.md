@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Preparedness and Response (P&R)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'The P&R project addressed the practical issues confronting national governments
   as they coped with the human, financial, and logistical constraints associated with
@@ -21,8 +22,6 @@ promos:
 - title: Preparedness & Response Planning Toolkit
   link: https://s3.amazonaws.com/one-health-app/static/docs/toolkits/Preparedness_and_Response_Toolkit/Preparedness_and_Response_Toolkit_complete.pdf
 layout: project
----
-
 The Preparedness and Response (P&R) project was one component of the U.S. Agency for International Development’s [Emerging Pandemic Threats (EPT 2)](http://www.usaid.gov/sites/default/files/documents/1864/preparedness-response-factsheet %281%29.pdf) program. The EPT initiative prepared for, detected, and responded to outbreaks such as Ebola, avian influenza, and MERS that move between animal and human populations. EPT is, in turn, part of the U.S. Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to address natural and manmade disease threats worldwide.
 
 [P&R](http://preparednessandresponse.org/) had a dual mandate to help countries design and implement national preparedness and response plans for public health events of unknown etiology and to establish and strengthen national One Health platforms. Our goal was to help address the practical issues confronting national governments as they strive to cope with the human, financial, and logistical constraints associated with pandemic threats. The objectives were:

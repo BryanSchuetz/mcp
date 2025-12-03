@@ -1,5 +1,6 @@
 ---
 title: Peru—Prevent activity
+---
 date: 2019-10-03 13:57:00 Z
 summary: Peru Prevent helped Peruvian institutions and actors more effectively manage
   the country’s natural resources for future generations.
@@ -27,8 +28,6 @@ promos:
 - title: 'Success Story: Building Capacity to Empower Forest Users in The Peruvian
     Amazon Environmental Crime Monitoring Network 2022'
   link: "/uploads/MONITORING_NETWORK_2022.pdf"
----
-
 Illegal activity, biodiversity loss, weak governance, and social conflict around natural resource management are threatening one of the world’s most ecologically and culturally significant ecosystems in Peru. Additionally, the lack of maintenance of these extraordinary areas has led to the country forgoing millions of dollars in tourism and thousands of job opportunities. On the other hand, Peru is home to a network of diverse, talented, committed local problem-solvers who are ready to apply creative new approaches—rooted in deep local knowledge—to address environmental crime. 
 
 The Prevent activity was designed to help Peruvian institutions and actors [more effectively manage](https://www.youtube.com/watch?v=oWbWM8myo2A&list=PLZ5c9jRvpqhzpo-gQcRK4ODD1mgjHiNz9&index=21) the country’s natural resources for future generations. Prevent aimed to sustainably transform the culture of rule of law and citizen stewardship when it comes to protecting Peru’s environmental assets.  
@@ -53,4 +52,4 @@ Prevent strengthened the capacities 5,500 justice operators, helped formulate mo
 * Helped publish a [groundbreaking study](https://preveniramazonia.pe/wp-content/uploads/El-tra%CC%81fico-de-vida-silvestre-en-la-Amazoni%CC%81a.pdf) on wildlife trafficking in the Amazon with the Peruvian government.
 * Engaged millions of people to fight environmental crime in the Peruvian Amazon through a campaign called “Consecuencias.” With more than 140 media mentions, dozens of opinion leaders, celebrities, and media figures publicly endorsing it, and with the support of the private sector, the public sector, and civil society, the campaign reached an estimated 70 million views nationwide. The Orquesta Explosión band spearheaded the campaign with an [original song and video](https://www.facebook.com/consecuencias.pe/videos/2025124540997751), which has garnered approximately 800,000 views.
 * Supported the development of the first Ministry of the Environment methodology to evaluate the impacts of illegal logging, illegal mining, and wildlife trafficking. The guide establishes a framework for the Ministry's Specialized Environmental Crimes Attorney to determine the civil compensation to be paid by violators. 
-* With the Agency for the Supervision of Forest Resources and Wildlife (OSINFOR), launched the *MiBosque* app, a digital tool that allows users to report illegal actions in forest management areas, in real time. 
+* With the Agency for the Supervision of Forest Resources and Wildlife (OSINFOR), launched the *MiBosque* app, a digital tool that allows users to report illegal actions in forest management areas, in real time.

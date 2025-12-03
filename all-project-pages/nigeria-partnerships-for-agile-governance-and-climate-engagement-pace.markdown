@@ -1,11 +1,12 @@
 ---
 title: Nigeria—Partnership for Agile Governance & Climate Engagement (PACE)
+---
 date: 2024-06-28 09:48:00 Z
 summary: 'The Nigeria Governance and Climate Change program supports coalitions to
-  influence governments in resolving climate and governance problems affecting the
-  poorest and vulnerable communities.  It facilitates new coalitions to address governance
-  barriers, providing targeted, politically informed assistance to strengthen government
-  systems and support citizen empowerment and accountability. '
+influence governments in resolving climate and governance problems affecting the
+poorest and vulnerable communities.  It facilitates new coalitions to address governance
+barriers, providing targeted, politically informed assistance to strengthen government
+systems and support citizen empowerment and accountability. '
 start: 2024
 end: 2028
 client: Foreign, Commonwealth & Development Office
@@ -14,8 +15,6 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Sub-Saharan Africa
 country: Nigeria
----
-
 The Nigerian government recognizes the devastating effects of changes in climate on socio-economic development. However, poor governance and stakeholder engagement hinder resilience efforts despite growing awareness about impacts of extreme weather-related events. Effective collective action for managing these impacts and developing resilience remains elusive.
 
 The Partnership for Agile Governance & Climate Engagement (PACE) project supports coalitions that influence governments to resolve climate and governance problems affecting the poorest and most vulnerable communities. It aims to increase state government income from internally generated revenue, mainstream climate action in state government policy, planning, and budgets, and strengthen election delivery and credibility. The program is implemented in Kaduna, Kano, and Jigawa in north-western Nigeria, with targeted strategic engagement at the federal and regional levels.
@@ -35,4 +34,4 @@ PACE supports the development and implementation of effective governance and cli
 * Increase state government capability and accountability to citizens to mainstream climate and deliver social protection in core governance processes. 
 * Form communities of practice for Commissioners of Planning and Budget from all 36 states and create networks for senior women serving as civil or public servants in strategic sectors.
 * Increase state government capability and accountability to manage internal revenue and plan for and access climate finance. 
-* Manage a strategic opportunities fund to enable the program to respond flexibly to political opportunities as they arise. 
+* Manage a strategic opportunities fund to enable the program to respond flexibly to political opportunities as they arise.

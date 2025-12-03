@@ -1,5 +1,6 @@
 ---
 title: Liberia—Accountability and Voice Initiative (LAVI)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Liberia Accountability and Voice Initiative improved the citizen-state
   relationship in Liberia by supporting coalitions and advocacy campaigns that promote
@@ -22,8 +23,6 @@ promos:
 - title: Gender-Based Violence on the Rise in the COVID-19 Era
   link: https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era
 layout: project
----
-
 The Liberia Accountability and Voice Initiative (LAVI) improved the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability. LAVI brought together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. 
 
 The project also worked with partners from civil society, the private sector, and government to conduct advocacy activities to reform laws, policies, and government programs. To support sustainability in the work of its partners, LAVI built the capacity of coalitions in research, fundraising, outcome monitoring, and communication. 

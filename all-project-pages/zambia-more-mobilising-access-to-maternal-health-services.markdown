@@ -1,5 +1,6 @@
 ---
 title: Zambia—More Mobilising Access to Maternal Health Services
+---
 date: 2018-01-16 18:25:00 Z
 summary: The award-winning More Mobilising Access to Maternal Health Services in Zambia
   (MORE MAMaZ) programme empowered rural communities to address the household and
@@ -12,8 +13,6 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: Zambia
----
-
 The award-winning More Mobilising Access to Maternal Health Services in Zambia (MORE MAMaZ) program empowered rural communities to address the household and community-level barriers preventing women and girls from accessing maternal and newborn health services.
 
 The program achieved transformational change for women and girls, particularly those who are under-supported at household and community level, through a community engagement approach.

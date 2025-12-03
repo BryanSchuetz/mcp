@@ -1,5 +1,6 @@
 ---
 title: Lebanon—Water and Wastewater Sector Support (LWWSS)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Lebanon Water and Wastewater Sector Support project partnered with Lebanon's
   four water establishments and the Ministry of Energy and Water. The project provided
@@ -17,8 +18,6 @@ regions:
 country:
 - Lebanon
 layout: project
----
-
 Lebanon is saddled with a multitude of water and wastewater infrastructure investments that are failing to adequately deliver benefits to its people. The companies that provide water face crippling staff shortages and an aging workforce, poor customer relations, low tariffs that fail to recover operating costs, lack of metering, excessive nonrevenue water, and years of underinvestment in the water and wastewater infrastructure. The Lebanon Water and Wastewater Sector Support (LWWSS) project addressed these challenges by partnering with Lebanon's four water establishments and the Ministry of Energy and Water. LWWSS provided training and technical assistance related to improving operational and management efficiency, customer service and outreach, financial viability and cost recovery, and capital investment planning. Additionally, LWWSS addressed critical capital infrastructure needs, selecting projects with the promise to improve water or wastewater service delivery to 1 million people.
 
 ![][1]

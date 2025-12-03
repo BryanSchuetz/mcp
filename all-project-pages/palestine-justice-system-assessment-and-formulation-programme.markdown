@@ -1,5 +1,6 @@
 ---
 title: Palestine—Justice System Assessment and Formulation Programme
+---
 date: 2022-08-29 13:30:00 Z
 tags:
 - European Union
@@ -15,8 +16,6 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Middle East and North Africa
 country: Palestine
----
-
 Over the last 30 years, Palestinian citizens and businesses have increasingly struggled to find fair and reliable legal and justice services. The Palestinian government faces deep and growing governance challenges, as the frozen peace process has hindered the renewal of democratic legitimacy and hampered crucial legislative reforms. 
 
 Our technical assistance team worked with the Office of the European Union Representative to the West Bank and Gaza Strip, European development partners, and the Justice Sector Working Group, in the identification and formulation of an evidence-based, cross-cutting programme that promoted the rule of law and protects human rights for all Palestinians.

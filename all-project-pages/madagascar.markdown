@@ -1,5 +1,6 @@
 ---
 title: Madagascar—HARENA Activity
+---
 date: 2024-04-09 13:29:00 Z
 published: false
 summary: The USAID HARENA Activity works to reduce threats to biodiversity and forests,
@@ -16,8 +17,6 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions: Sub-Saharan Africa
 country: Madagascar
----
-
 Madagascar has endured significant loss of biodiversity and forest cover as well as high levels of land degradation over the past 50 years. Unfortunately, traditional conservation and land use approaches have had little impact on these trends. Corruption, insecurity, and lack of transparency and accountability have further exacerbated the threats, root causes, and drivers of these issues. 
 
 Impoverished people with few options practice unsustainable forest clearing for subsistence agriculture and cash-crop production to support their livelihoods, leading to dramatic land use change. This is one of the most pervasive direct threats to Madagascar’s biodiversity and forests. Other widespread threats include unsustainable natural resource extraction, mining, and the illegal wildlife trade. 
@@ -45,4 +44,4 @@ Focused in three geographic zones with high biodiversity value and high potentia
 * Advance business and marketing skills (with climate-smart approaches); promote contracts or other mechanisms with market-ready farming associations and cooperatives.
 * Improve smallholder producer access to a wide range of financial products and services along the value chains that allow them to engage fully in mutually advantageous market transactions.
 * Leverage social enterprises for reforestation, forest restoration, and agroforestry. 
-* Provide technical assistance to large corporations to help them improve the intended impact of corporate social programs on their communities’ economic well-being while conserving the surrounding environment. 
+* Provide technical assistance to large corporations to help them improve the intended impact of corporate social programs on their communities’ economic well-being while conserving the surrounding environment.

@@ -1,5 +1,6 @@
 ---
 title: Georgia—Trade Ready
+---
 date: 2017-11-30 21:50:00 Z
 published: false
 summary: 'Trade Ready Georgia is strengthening the capacity of small businesses to
@@ -12,8 +13,6 @@ solutions:
 - Trade
 regions: Eastern Europe and Central Asia
 country: Georgia
----
-
 Small and medium-sized enterprises (SMEs) are major drivers of trade, employment, and economic development in Georgia. However, these small businesses face barriers when expanding into international importing and exporting. In particular, they struggle with limited access to trade finance. Local financial institutions are reluctant to offer trade financing to smaller businesses, while SMEs often lack knowledge about trade finance instruments and how to conduct international commerce.
 
 To help address these gaps, the European Bank for Reconstruction and Development launched the Trade Ready initiative. The programme is strengthening the capacity of small businesses to access trade finance that supports growth and creates jobs, and stimulating the local banking sector to offer tailored trade finance products and services to SMEs. Through Trade Ready technical assistance, SMEs are taking a more active role in expanding international and intra-regional trade and fostering local economic development.

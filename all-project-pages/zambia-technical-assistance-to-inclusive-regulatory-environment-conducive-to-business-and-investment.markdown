@@ -1,6 +1,7 @@
 ---
 title: Zambia—Technical Assistance to Inclusive Regulatory Environment Conducive to
   Business and Investment
+---
 date: 2024-04-11 09:21:00 Z
 tags:
 - European Union
@@ -14,8 +15,6 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Zambia
----
-
 Despite economic growth over the last two decades, Zambia’s private sector has remained relatively weak, characterized by a large informal sector, low levels of domestic market competition, and specific sector dependency. Since 2021, the new government has made considerable commitments to improve the policy and regulatory environment for business through the creation of dedicated ministries and a focus on green investment.
 
 We work primarily with Zambia’s Ministry of Commerce Trade and Industry and its Ministry of Green Economy and Environment to deliver seven key outcomes, including strengthening select government bodies and regulatory agencies, streamlining the policy and regulatory framework for business, and implementing the National Green Growth Strategy.

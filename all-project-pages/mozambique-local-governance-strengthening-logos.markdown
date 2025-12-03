@@ -1,5 +1,6 @@
 ---
 title: Mozambique—Local Governance Strengthening (LOGOS)
+---
 date: 2021-03-12 16:32:00 Z
 published: false
 summary: The Mozambique Local Governance Strengthening (LOGOS) project supports the
@@ -15,8 +16,6 @@ solutions:
 - Environment
 regions: Sub-Saharan Africa
 country: Mozambique
----
-
 Despite being one of the poorest countries in the world, Mozambique enjoys abundant natural resources, including significant gas reserves, coastal tourism, minerals, and arable land. However, the outbreak of COVID-19 has added to the impact of cyclones, drought, floods, and increasing conflict. Collectively, these shocks have wide-ranging impacts on health, education, and water, sanitation, and hygiene (WASH) services. The need to strengthen underlying systems of local public administration for resilience in service delivery, combined with the need to position subnational government to manage the challenges and opportunities that come with resource wealth is now urgent.
 
 The Mozambique Local Governance Strengthening (LOGOS) project supports the Government of the Republic of Mozambique’s efforts to decentralize governance and thereby improve delivery of public services at central, provincial, district, and/or municipal levels.

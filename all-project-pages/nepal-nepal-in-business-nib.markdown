@@ -1,5 +1,6 @@
 ---
 title: Nepal—Nepal in Business (NIB)
+---
 date: 2024-07-23 09:18:00 Z
 summary: 'The Nepal in Business (NIB) Program works with Nepali entrepreneurs and
   policymakers to democratize access to capital in the underdeveloped small and micro-enterprises
@@ -12,8 +13,6 @@ solutions:
 - Economic Growth
 regions: Asia and the Pacific
 country: Nepal
----
-
 Nepal aspires to upper middle-income status by 2030. Such an ascent will require Nepal to transform the economy and diversify from low-productivity agriculture to higher value-added activity while creating jobs for its growing workforce. The Government of Nepal needs to improve the business environment, starting with promising export sectors and investing in infrastructure, especially renewable energy, tourism, and social services. For its part, the private sector will need to invest to grow in new markets and to hire and build the skills of the Nepali workforce, all of which require improved access to financial and business support services. Women and disadvantaged groups also need better inclusion.
 
 The Nepal in Business (NiB) Program works with entrepreneurs and policymakers to support small- to medium-sized enterprises (SMEs) tightly aligned with program goals while enhancing the broader business landscape.
@@ -30,4 +29,4 @@ DAI’s partner is Tandem.
 
 * Award and manage £4.5 million in grants to 40 SMEs in NiB’s key sectors and geographical focus to build their companies and become export ready.
 * Work with SMEs to understand the policy barriers to their continued growth and development, through the BERF component, and work with varying levels of government to alleviate these constraints.
-* Prioritize the creation of jobs for SMEs, shifting the onus onto businesses to act as agents of change.   
+* Prioritize the creation of jobs for SMEs, shifting the onus onto businesses to act as agents of change.

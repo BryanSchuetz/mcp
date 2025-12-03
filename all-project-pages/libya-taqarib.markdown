@@ -1,5 +1,6 @@
 ---
 title: Libya—Taqarib
+---
 date: 2020-04-27 14:58:00 Z
 published: false
 summary: 'The project strengthens the foundation of a more unified Libyan state by
@@ -18,8 +19,6 @@ country: Libya
 promos:
 - title: 2022 USAID CLA Case Competition Winner
   link: https://usaidlearninglab.org/sites/default/files/2022-09/124_taqarib_cla_entry_ce.pdf
----
-
 Among the first acts of Libya’s revolutionary government in November 2011 was to create a Ministry of Local Government, a first step in fulfilling the people’s commitment to *la markaziyya,* or decentralization, a core value of the revolution, seen as insurance against the emergence of another brutal and totalizing dictatorship. In June 2012, Libya’s National Transitional Council approved Law 59, which outlined an audacious plan for fiscal and administrative governance at the municipal level.
 
 The Libya Local Governance and Civil Society (LGCS) Program, locally known as “*Taqarib*” (the Arabic term for coming together or growing closer), supports Libya’s political transition by strengthening the pillars of a stable, democratic, and responsive Libyan state.  
@@ -49,4 +48,4 @@ The Libya Local Governance and Civil Society (LGCS) Program, locally known as �
 * Provided grants to 32 local organizations to support service delivery and further decentralization. 
 * Developed 19 decentralization policies and manuals to support municipal work. 
 * Conducted and published 12 case studies on innovative local solutions to municipal service delivery challenges.
-* Provided training to 82 members of the municipal guard and 31 municipal media offices. 
+* Provided training to 82 members of the municipal guard and 31 municipal media offices.

@@ -1,6 +1,7 @@
 ---
 title: Kenya—Technical Assistance to the Public Accountability and Service Delivery
   Programme (PASEDE)
+---
 date: 2021-10-06 09:49:00 Z
 summary: Our technical assistance supports the Public Finance Management Reform Secretariat
   in Kenya.
@@ -13,8 +14,6 @@ solutions:
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: Kenya
----
-
 Kenya’s debt profile changed rapidly in recent years. Large-scale public investments initiated since 2015 led to annual fiscal deficit levels above inflation and GDP growth rates. As part of a policy dialogue with Kenya and an overall European Union (EU) budget support programme of €26 million, our technical assistance supports the Public Finance Management (PFM) Reform Secretariat to successfully implement the PFM Reform Strategy (2018–2023). Better PFM will improve financial transfers to counties, enhance revenue mobilization, improve the business environment, and create better public investment management practices in Kenya. 
 
 Ultimately, the project contributes to the promotion of macro-fiscal stability, service delivery, and poverty alleviation in Kenya.

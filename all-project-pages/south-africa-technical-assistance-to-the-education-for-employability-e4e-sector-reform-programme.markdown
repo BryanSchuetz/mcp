@@ -1,6 +1,7 @@
 ---
 title: South Africa—Technical Assistance to the Education for Employability (E4E)
   Sector Reform Programme
+---
 date: 2021-01-07 10:17:00 Z
 tags:
 - Europe
@@ -17,8 +18,6 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: South Africa
----
-
 Although South Africa devotes a relatively high proportion of its gross domestic product (GDP) to education and training, the country faces challenges such as high dropout rates, low pass rates, and high youth unemployment rates. 
 
 The Education for Employability (E4E) Sector Reform Programme seeks to improve education and employment prospects for young South Africans. E4E supports the government’s efforts to improve the quality of basic education, vocational training, and job placement services from early childhood through teenage years.

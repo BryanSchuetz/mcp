@@ -1,5 +1,6 @@
 ---
 title: Zambia—Market Access, Trade, and Enabling Policies Program (MATEP)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development (USAID)-funded Market Access,
   Trade, and Enabling Policies (MATEP) project was designed to increase Zambia's exports
@@ -14,8 +15,6 @@ regions:
 country:
 - Zambia
 layout: project
----
-
 Moving away from its dependence on copper, Zambia has been focusing on nontraditional exports for some years. Government policies and reforms to open the agricultural sector to direct foreign investment, eliminate foreign exchange controls, and simplify tax and tariff policies were significant in stimulating export growth, but exports can expand still more rapidly and, thereby, boost incomes in rural Zambia. The U.S. Agency for International Development (USAID)-funded Market Access, Trade, and Enabling Policies (MATEP) project was designed to increase Zambia's exports of agricultural and natural resource products into regional and international markets. Collaborators on this project included DAI's South Africa office, and the Zambia Agricultural Technical Assistance Center (ZATAC), the Zambian center of excellence in agribusiness services and financial intermediation. DAI assisted in establishing ZATAC through a previous USAID-funded project.
 
 ![][1]

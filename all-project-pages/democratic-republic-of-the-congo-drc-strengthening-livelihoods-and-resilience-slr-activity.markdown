@@ -1,6 +1,7 @@
 ---
 title: Democratic Republic of the Congo—Feed the Future Strengthening Livelihoods
   and Resilience (SLR) Activity
+---
 date: 2020-10-02 13:42:00 Z
 published: false
 summary: The DRC Strengthening Livelihoods and Resilience Activity assists the government
@@ -29,8 +30,6 @@ promos:
 - title: 'Going with the Grain: Stimulating Private Sector Seed Supply in the Democratic
     Republic of the Congo’s Ituri Province'
   link: https://agrilinks.org/post/going-grain-stimulating-private-sector-seed-supply-democratic-republic-congos-drc-ituri
----
-
 The Democratic Republic of the Congo (DRC) Feed the Future Strengthening Livelihoods and Resilience (SLR) Activity assists the Government of the DRC to improve the resilience of vulnerable households and communities and support the Congolese people, households, and communities in their efforts to sustainably escape poverty and chronic vulnerability. [SLR](https://beamexchange.org/practice/programme-index/316/) strengthens systems and institutional capacity; fosters inclusive economic growth and improved livelihoods; improves the availability, access, utilization, and stability of nutritious foods; and promotes the empowerment of women and youth.
  
 SLR focuses on Ituri Province, a challenging operating environment that routinely suffers significant shocks and stresses—including resource-based conflict (especially over land issues), disease outbreaks, and severe weather and climate events—that have led to significant food insecurity and chronic vulnerability. These shocks and stresses add to the challenges faced by women, youth, and other marginalized groups. These groups have limited access to land, inputs, technical assistance, and credit, which constrains their ability to engage in the market and use inputs and technology to increase yields, boost their labor productivity, and, ultimately, increase their incomes.

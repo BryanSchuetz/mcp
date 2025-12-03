@@ -1,5 +1,6 @@
 ---
 title: Serbia—Technical Assistance for Energy Efficiency and Renewable Energy Sources
+---
 date: 2021-01-18 09:09:00 Z
 summary: 'This project contributed to the security of supply, a more competitive energy
   market, and sustainable energy development in Serbia. '
@@ -15,8 +16,6 @@ promos:
   link: https://www.euzatebe.rs/en/projects/technical-assistance-to-the-ministry-in-charge-for-energy-and-relevant-public-entities-for-implementation-of-new-energy-law--neeap-and-res-directive/1
 - title: New Laws in Serbia Promise to Advance the Energy Transition
   link: https://www.dai.com/news/new-laws-in-serbia-promise-to-advance-the-energy-transition
----
-
 Serbia is among the European countries with the highest energy intensity, with a large dependence on fossil fuels, especially coal. Its development targets, however, require bringing the energy sector into a sustainable footing by improving the energy efficiency situation across all sectors and increasing the use of renewable energy sources. 
 
 [This project](https://neap-res-directive.euzatebe.rs/en) contributed to the security of supply, a more competitive energy market, and sustainable energy development in Serbia. Our objective was to improve policy enforcement, monitoring, and harmonization of national legislation in line with the European Union (EU) Energy Acquis and commitments for the energy community.

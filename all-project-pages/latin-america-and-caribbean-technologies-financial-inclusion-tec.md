@@ -1,5 +1,6 @@
 ---
 title: Latin America and the Caribbean—Technologies for Financial Inclusion (Tec-In)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Tec-In project worked to identify and develop innovations in the use
   of information and communications technology to expand access to financial services
@@ -20,8 +21,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 The [Tec-In][1] project worked to identify and develop innovations in the use of information and communications technology (ICT) to expand access to financial services throughout Latin America and the Caribbean.
 
 In 2010, DAI was hired to work with a selection committee to choose the top 19 of 420 submissions from around Latin America and the Caribbean for further analysis. DAI worked with the program's donors to filter for the top ideas, which DAI then supported in developing project strategies and business planning for financing. Projects were chosen from Colombia, Ecuador, Mexico, Paraguay, Peru, and Venezuela.

@@ -1,5 +1,6 @@
 ---
 title: Haiti—Strategic Health Information System Program (HIS)
+---
 date: 2017-06-27 16:40:00 Z
 summary: The Haiti Strategic Health Information System Program team consolidated and
   integrated Haiti’s disconnected health information assets to create a comprehensive
@@ -20,8 +21,6 @@ promos:
 - title: Health System in Haiti Takes Key Step by Launching National Tuberculosis
     Tracker
   link: http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker
----
-
 The Haiti Strategic Health Information System (HIS) Program team consolidated and integrated Haiti’s disconnected health information assets—[empowering](https://www.dai.com/news/dai-to-launch-usaid-health-information-system-program-in-haiti) the national *System d’Information Sanitaire Nationale Unique* (SISNU).
 
 At present, Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village. This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious diseases, including the 2010 cholera outbreak. By creating a single, comprehensive health information system, Haiti will now be better prepared to address its inevitable health crises as well as the [daily needs](http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker) of its 11 million people. This benefits not just Haiti but its donor partners and the entire Caribbean region.

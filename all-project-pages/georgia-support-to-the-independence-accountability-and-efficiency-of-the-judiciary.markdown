@@ -1,6 +1,7 @@
 ---
 title: Georgia—Support to the Independence, Accountability, and Efficiency of the
   Judiciary
+---
 date: 2020-06-08 11:23:00 Z
 summary: The project Support to the Independence, Accountability, and Efficiency of
   the Judiciary assisted with ensuring the impartiality and professionalism of the
@@ -13,8 +14,6 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Eastern Europe and Central Asia
 country: Georgia
----
-
 Georgia has undergone extensive reform to increase judicial independence, accountability, efficiency, and transparency. Key reforms concerning the selection, promotion, and transfer of judges and judicial integrity are addressed, alongside structural changes in the High School of Justice and Supreme Court to strengthen judicial independence. These efforts are detailed in the Draft Organic Law of Georgia on Entering Amendments to the Organic Law of Georgia on Common Courts.
 
 Our project assisted with ensuring the impartiality and professionalism of the judiciary towards being free from political or any other undue interference in Georgia. Our team consolidated planning and strategies, strengthened the capacity of judges and other judicial personnel, rationalized the selection and promotion procedures for judges, streamlined the judicial case flow, enhanced the empowerment and integrity of judges, improved courts’ communication practices, and consolidated the position and efficiency of the Constitutional Court. Since 2016, the project has supported a comprehensive judicial reform strategy, launched a web portal for Tbilisi City Court, developed an electronic case-management system for the Constitutional Court, and introduced modern HR instruments for court managers.

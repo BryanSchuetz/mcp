@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Nutrition Action for Systemic Change (NASC)
+---
 date: 2024-04-10 14:14:00 Z
 summary: Nutrition Action for Systemic Change (NASC) provides technical expertise
   on nutrition and food systems, building on previous achievements funded by the U.K.
@@ -9,6 +10,7 @@ start: 2023
 end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
+```
 - Global Health
 regions: Worldwide
 country: Global
@@ -32,8 +34,6 @@ promos:
   link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_English.pdf"
 - title: FAQ for the CWIP Feedback Mechanism 2025_French
   link: "/uploads/FAQ%20for%20the%20CWIP%20Feedback%20Mechanism%202025_French.pdf"
----
-
 Nutrition Action for Systemic Change (NASC) Technical Assistance Facility is managed by DAI and contracted through the [Expert Advisory Call Down Service 2 (EACDS2) Lot 4: Climate, Nature and Global Health](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-2-eacds2-lot-4-climate-change-nature-and-global-health) funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). EACDS2 technical advisory services provide rapid, quality-assured, short-term technical expertise to support the development of U.K. aid programs.
 
 NASC provides technical expertise on nutrition and food systems, building on previous achievements and new initiatives funded by the FCDO. NASC supports the FCDO to uphold its commitments made at the 2021 [Tokyo Nutrition for Growth (N4G) Summit](https://nutritionforgrowth.org/) to integrate nutrition across its aid portfolio in different sectors, spend at least £1.5 billion up to 2030 on programs that help improve nutrition, and adopt and embed the Nutrition Policy Marker (NPM) within FCDO systems. We will also work with the FCDO to integrate new commitments made at the 2025 Paris N4G Summit. The facility follows on from the [Technical Assistance to Strengthen Capabilities (TASC) Project](https://www.dai.com/our-work/projects/worldwide-technical-assistance-to-strengthen-capabilities?ref=pubs.ghost.io), which contributed to improved nutrition planning and programing and accelerated action on nutrition as part of the Technical Assistance for Nutrition (TAN) Programme. NASC had an initial one-year contract from December 2023 to December 2024 and is currently implementing a second contract from February 2025 to February 2026.

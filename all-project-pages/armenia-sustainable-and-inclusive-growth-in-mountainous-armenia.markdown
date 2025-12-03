@@ -1,5 +1,6 @@
 ---
 title: Armenia—Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA)
+---
 date: 2023-01-06 12:38:00 Z
 summary: The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project
   takes a market systems development (MSD) approach to bolster growth—primarily in
@@ -11,8 +12,6 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Armenia
----
-
 The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project aims to reduce poverty and inequality in the mountainous regions of Armenia by improving sustainable employment. Sigma has two primary outcomes:
 
 * Help farmers, agribusiness, and tourism businesses increase revenues and employ more people.
@@ -37,4 +36,4 @@ The project takes a research-based, strategic approach to identify how market co
 
 * Held the Sevan Agritech Summit, which served as a vital platform for building new synergies and strengthening the existing partnerships with key stakeholders in Armenia’s agritech and agriculture sectors, including the Ministry of Economy, Ministry of High-Tech Industry, sector-specific projects and organizations, and seasoned agritech experts. The successes of this event mean it is now poised to become a significant annual gathering, shaping the future of agriculture in Armenia.  
 * Identified successful agritech companies with effective solutions to key challenges in Armenia's agriculture sector and offered them opportunities to develop their innovations further.
-* Deepened partnership with a leading Armenian agritech company specializing in smart spraying technologies. This collaboration can lead to successful projects in SIGMA-targeted regions, improving smallholder farmers’ access to agritech solutions and increasing cost-effectiveness and time efficiency. 
+* Deepened partnership with a leading Armenian agritech company specializing in smart spraying technologies. This collaboration can lead to successful projects in SIGMA-targeted regions, improving smallholder farmers’ access to agritech solutions and increasing cost-effectiveness and time efficiency.

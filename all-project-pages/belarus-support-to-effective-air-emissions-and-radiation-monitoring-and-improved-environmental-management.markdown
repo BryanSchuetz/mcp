@@ -1,6 +1,7 @@
 ---
 title: Belarus—Support to Effective Air Emissions, Radiation Monitoring, and Improved
   Environmental Management
+---
 date: 2021-01-18 09:58:00 Z
 published: false
 summary: This project supports investments in natural capital and cleaner technologies
@@ -13,8 +14,6 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Belarus
----
-
 Belarus has made significant progress toward reducing air pollution in recent decades. However, the air quality in the country is not in compliance with its standards and is often the cause of serious health effects.
 
 One main goal of this project is to harmonize relevant legislation in the fields of air quality monitoring and management and data collection systems. It addresses the country’s needs to improve air quality management and monitoring while aligning its environmental permitting regulations with international and European Union (EU) standards.

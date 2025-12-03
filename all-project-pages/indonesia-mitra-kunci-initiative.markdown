@@ -1,5 +1,6 @@
 ---
 title: Indonesia—Mitra Kunci Initiative
+---
 date: 2017-10-13 16:09:00 Z
 summary: 'The Mitra Kunci Initiative provided Indonesia’s poorest and most vulnerable
   with skills needed to be productive members of the workforce through training, information,
@@ -17,8 +18,6 @@ promos:
 - title: 'Beyond Good Grades: Students Bring Innovation and Fresh Ideas to Energize
     Small Businesses'
   link: https://usaidindonesia.exposure.co/beyond-good-grades
----
-
 Indonesia is a growing regional and global player, having experienced a remarkable democratic and economic transformation over the last two decades. However, the country remains at a development crossroads, with 40 percent of the population earning less than $2 a day.
 
 The U.S. Agency for International Development (USAID)’s Mitra Kunci Initiative provided Indonesia’s poorest and most vulnerable with the skills needed to be productive members of Indonesia’s workforce. [Young people](https://www.youtube.com/watch?v=AoItcAx_xnY&feature=youtu.be), women, and people with disabilities received training, information, and resources to prepare them to meet the needs of the private sector.

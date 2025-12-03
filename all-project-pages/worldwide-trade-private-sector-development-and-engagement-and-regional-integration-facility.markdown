@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Trade and Private Sector Development (TPSD) Facility I, II, and III
+---
 date: 2017-02-21 01:44:00 Z
 summary: The Trade and Private Sector Development Facility helps shape and implement
   new policies related to Aid for Trade and regional integration programmes.
@@ -14,8 +15,6 @@ solutions:
 regions: Worldwide
 country: Worldwide
 Key: 
----
-
 Trade and private sector engagement are recognized as key drivers for poverty reduction given their ability to spur growth and investment, create good-quality jobs, and generate tax revenues to fund public services. However, improved market access alone is not always sufficient for sustained economic development. Access often needs to be complemented by policy measures that support lasting and equitable prosperity.
 
 The Trade and Private Sector Development (TPSD) Facility I (2017-2021) was established to support the implementation of the EU’s 2014 Private Sector Communication and to shape and implement new policy orientations, in particular those geared toward the EU’s External Investment Plan. Through TPSD I, DAI provided technical expertise to EU staff working on private sector and trade in Brussels and worldwide, created and shared knowledge inside the institution, and supported the visibility of the Directorate-General for International Partnerships (DG INTPA).
@@ -50,4 +49,3 @@ TPSD III (2025-2030) will build on its eight years of experience and a growing c
 * Provided the EU Delegation to Jamaica with analysis identifying business opportunities and high-priority investment areas linked to the Global Gateway project for the expansion of the Port of Kingston. 
 * Produced a summary note based on 20 assignments for EU Delegations across Africa and Latin Ameria on private sector adaptation to Green Deal regulations—in particular the EU Deforestation Regulation and the Corporate Sustainability Due Diligence Directive. 
 * Provided technical support to DG INTPA on enhancing coordination between EU development finance institutions and export credit agencies, in order to scale up the Global Gateway.
-

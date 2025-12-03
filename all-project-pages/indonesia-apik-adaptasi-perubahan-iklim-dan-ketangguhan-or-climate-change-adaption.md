@@ -1,5 +1,6 @@
 ---
 title: Indonesia—Adaptasi Perubahan Iklim dan Ketangguhan (APIK)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development’s first project focused exclusively
   on climate change adaptation in Indonesia helped 8,000 community members and 334
@@ -22,8 +23,6 @@ promos:
 - title: Education for Disaster Preparedness
   link: https://www.climatelinks.org/blog/education-disaster-preparedness
 layout: project
----
-
 From the burgeoning population centers of Java to the small island communities of Maluku, the Indonesian people face increasing risk from droughts, floods, and landslides. To support the government of Indonesia in improving local resilience to these disaster threats, the U.S. Agency for International Development (USAID) launched Adaptasi Perubahan Iklim dan Ketangguhan (APIK), or [Climate Adaption and Resilience](http://apikindonesia.or.id/en), USAID’s first project focusing exclusively on climate adaptation in Indonesia.
 
 APIK integrated climate adaptation and disaster risk reduction (DDR) into national and subnational governance frameworks, built the capacity of local communities and the private sector to address weather-related hazards, and supported information for disaster risk management. By its end, APIK helped 42,197 people, including 16,246 women, be more resilient to the effects of weather disasters.  

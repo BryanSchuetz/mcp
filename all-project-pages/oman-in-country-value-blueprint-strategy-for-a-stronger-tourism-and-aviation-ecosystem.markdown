@@ -1,6 +1,7 @@
 ---
 title: Oman—In-Country Value Blueprint Strategy for a Stronger Tourism and Aviation
   Ecosystem
+---
 date: 2025-03-19 15:43:00 Z
 summary: OMRAN Group, Oman Air, and Oman Airports—three key players in Oman’s tourism
   and aviation sectors—partnered with SBG to develop a comprehensive In-Country Value
@@ -12,8 +13,6 @@ solutions:
 - Sustainable Business
 regions: Middle East and North Africa
 country: Oman
----
-
 Oman’s Vision 2040 outlines an ambitious roadmap for economic diversification, with tourism and aviation playing a pivotal role in reducing reliance on oil revenues and creating sustainable growth. To align with these national goals, OMRAN Group, Oman Air, and Oman Airports—three key players in Oman’s tourism and aviation sectors—partnered with SBG to develop a comprehensive In-Country Value (ICV) blueprint strategy. In Oman, in-country value is defined as the total spend retained in-country that benefits business development, contributes to human capability, and stimulates productivity in Oman’s economy.
 
 ## A Collaborative Effort for Sustainable Growth

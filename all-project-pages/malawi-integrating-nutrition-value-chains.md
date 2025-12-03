@@ -1,5 +1,6 @@
 ---
 title: Malawi—Feed the Future Integrating Nutrition into Value Chains
+---
 date: 2016-01-21 22:40:00 Z
 summary: DAI and our partners, Michigan State University and Save the Children, focused
   on value chain building in Malawi and smallholders’ decision-making about what to
@@ -18,8 +19,6 @@ regions:
 country:
 - Malawi
 layout: project
----
-
 DAI and our partners, Michigan State University and Save the Children, focused on inclusive value chain building in Malawi and smallholders’ decision-making on which crops to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income.
 
 The project promoted agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improved productivity through soil and water management practices; reduced chronic under-nutrition; fostered innovation in agricultural value chains; and developed the capacity of local organizations and systems to promote climate resilience and adaptation.

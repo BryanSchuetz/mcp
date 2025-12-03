@@ -1,5 +1,6 @@
 ---
 title: Kyrgyzstan—Community and Municipal Governance Initiative (CAMI)
+---
 date: 2016-12-21 15:55:00 Z
 summary: 'CAMI improved service delivery and strengthened government legitimacy across
   50 local municipalities in Kyrgyzstan, which resulted in 15,636 residents with improved
@@ -15,8 +16,6 @@ country: Kyrgyzstan
 promos:
 - title: 'Local Governance: Chipping Away at Corruption'
   link: https://dai-global-developments.com/articles/local-governance-chipping-away-at-corruption
----
-
 After emerging from ethnic conflict and political upheaval in 2010, the Kyrgyz Republic has experienced a period of renewed political stability and stronger public institutions. At the national level, the separation of powers between the executive and legislative branches is now firmly established in a new constitution, and a competitive democratic system is taking root. However, weak accountability and pervasive corruption continue to detract from citizen confidence in government institutions and inhibit the successful movement toward decentralization of government services. Ultimately, the country’s democratic reforms will not be sustainable until its citizens begin to experience them in their daily lives through an increased voice, improved services, and a stronger feeling of connectedness with their government.
 
 The Community and Municipal Governance Initiative (CAMI) project supported the Government of the Kyrgyz Republic to strengthen this vital relationship between local governing bodies and the public they serve. CAMI worked with municipal governments to help them more effectively respond to citizens’ needs and deliver services, thereby strengthening trust in government institutions and fortifying the Kyrgyz Republic’s recent democratic gains.

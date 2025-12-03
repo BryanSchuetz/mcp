@@ -1,5 +1,6 @@
 ---
 title: Croatia—Raiffeisen Croatia
+---
 date: 2016-01-21 22:40:00 Z
 summary: The overall objective of the European Union/European Bank for Reconstruction
   and Development SME Finance Facility for EU Accession countries was to deepen the
@@ -17,8 +18,6 @@ regions:
 country:
 - Croatia
 layout: project
----
-
 The overall objective of the European Union/European Bank for Reconstruction and Development (EBRD) SME Finance Facility for EU Accession countries was to deepen the credit markets for small and medium enterprises (SME) by building the confidence and capacity of participating banks in SME lending, and by providing credit to SMEs through participating banks. Raiffeisenbank Croatia participated in the Facility with a €10 million credit line for on-lending to qualifying SMEs.
 
 ### Select Results

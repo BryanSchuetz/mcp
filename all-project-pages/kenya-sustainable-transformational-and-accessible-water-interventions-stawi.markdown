@@ -1,5 +1,6 @@
 ---
 title: Kenya—Sustainable Transformational and Accessible Water Interventions (STAWI)
+---
 date: 2023-01-30 13:38:00 Z
 published: false
 summary: The Kenya Sustainable Transformational and Accessible Water Interventions
@@ -16,8 +17,6 @@ solutions:
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: Kenya
----
-
 More than two million people in the arid and semi-arid lands of Kenya are suffering acute impacts of drought after three consecutive poor rainy seasons. Beyond the immediate impact on the people, the economic and destabilizing effects of crop failures and livestock deaths led the government to declare a national emergency in 2021. 
 
 Investments in policy, planning, infrastructure, and coordination by the government, counties, and development partners—including the U.S. Agency for International Development (USAID)—have laid the foundation for greater resilience, yet the regions still lack the capacity, tools, and information necessary to adopt and adapt effective approaches to managing recurrent drought, resource competition, and watershed degradation. The Kenya Sustainable Transformational and Accessible Water Interventions (STAWI) project has been designed to play a critical role in building resilience and expanding economic opportunities through investments in water security in Kenya’s arid and semi-arid lands.

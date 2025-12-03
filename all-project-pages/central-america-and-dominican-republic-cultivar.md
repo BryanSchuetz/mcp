@@ -1,5 +1,6 @@
 ---
 title: Central America and the Dominican Republic—CULTIVAR
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'Supported by the U.S. Department of Labor, CULTIVAR raised labor standard
   compliance and increased the competitiveness of targeted agricultural sectors in
@@ -16,8 +17,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 Consumers increasingly look for a commitment to social and labor standards from both producers and retailers. Thus, exporters from Central America and the Dominican Republic can improve their competitive position by demonstrating a commitment to such standards. Supported by the U.S. Department of Labor, CULTIVAR raised labor standard compliance and increased the competitiveness of targeted agricultural sectors in the Dominican Republic, Honduras, and Nicaragua. 
 
 ![][1]

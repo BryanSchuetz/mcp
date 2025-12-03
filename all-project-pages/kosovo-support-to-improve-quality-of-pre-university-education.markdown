@@ -1,5 +1,6 @@
 ---
 title: Kosovo—Support to Improve Quality of Pre-University Education
+---
 date: 2021-07-08 11:52:00 Z
 tags:
 - Europe
@@ -15,8 +16,6 @@ solutions:
 - Education
 regions: Eastern Europe and Central Asia
 country: Kosovo
----
-
 Kosovo’s education system has undergone substantial reforms in the past few decades and improving the quality of education is central to the country’s efforts to foster European integration. While the frameworks have been established, implementation needs to be reinforced.
 
 Our [team is therefore working](https://www.facebook.com/profile.php?id=100076027996709) to foster a quality-based, accountable education and training system in Kosovo, in line with the best international practices in pre-university education.

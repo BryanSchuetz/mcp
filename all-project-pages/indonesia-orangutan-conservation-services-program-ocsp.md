@@ -1,5 +1,6 @@
 ---
 title: Indonesia—Orangutan Conservation Services Program (OCSP)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'OCSP addressed the major threats driving orangutan extinction: forest conversion,
   unsustainable logging, and wildlife trafficking. To do so, the project formed and
@@ -23,8 +24,6 @@ promos:
 - title: DAI-led Orangutan Project has Long-Term Legacy on Conservation
   link: https://www.dai.com/publications/dai-led-orangutan-project-has-long-term-legacy-conservation
 layout: project
----
-
 The Orangutan Conservation Services Program (OCSP) addressed the major threats driving orangutan extinction: forest conversion, unsustainable logging, and wildlife trafficking. To do so, the project formed and strengthened partnerships with 40 international and local organizations, private sector partners, government institutions, and communities, which together supported the design and establishment of best management practices for key habitat conservation of wild orangutan populations.
 
 ![][1]

@@ -1,5 +1,6 @@
 ---
 title: Pakistan—Land Registration in Merged Areas (LRMA) Activity
+---
 date: 2021-05-19 14:06:00 Z
 published: false
 summary: 'The Land Registration in Merged Areas Activity is establishing a land record
@@ -15,8 +16,6 @@ solutions:
 - Environment
 regions: Asia and the Pacific
 country: Pakistan
----
-
 The Government of Khyber Pakhtunkhwa’s Tribal Decade Strategy commits to providing the economic, social, and equity benefits of secure land tenure and property rights to the people of the Merged Areas of northwestern Pakistan.
  
 The Land Registration in Merged Areas (LRMA) Activity contributes to this strategy by establishing a land record and registration system in seven districts of the Merged Areas (formerly the Federally Administered Tribal Areas) so that citizens, families, landowners, investors, banks, and government actors have access to accurate, understandable, and current records of their land rights. 

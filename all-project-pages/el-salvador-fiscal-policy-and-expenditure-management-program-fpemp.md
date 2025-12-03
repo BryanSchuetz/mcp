@@ -1,5 +1,6 @@
 ---
 title: El Salvador—Fiscal Policy and Expenditure Management Program (FPEMP)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The FPEMP project helped the Government of El Salvador increase tax revenue,
   without raising rates, and achieve greater transparency and accountability, and
@@ -18,8 +19,6 @@ promos:
 - title: When Tax Reform Leads to Increased Funding for Health Services
   link: https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services
 layout: project
----
-
 The FPEMP project helped the Government of El Salvador (GOES) increase tax revenue, without raising rates, and achieve [greater transparency](http://www.transparenciaactiva.gob.sv/portal-de-transparencia-fiscal-se-renueva-y-profundiza-el-acceso-a-la-informacion-publica/) and accountability, and more efficiently [use public resources](http://www.usaid.gov/sites/default/files/documents/1865/120314_E3%20Brochure_Trifold_L_singles.pdf). We modernized the General Directorate for Internal Revenue to improve taxpayer services, reduced tax fraud and tax evasion, and enhanced legitimacy. The project built on the [foundations](http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services?utm_source=daidotcom) for reform laid by a preceding project called Tax Policy and Administration Reform that DAI led from 2005 to 2010.
 
 ![](https://assetify-dai.com/projects/salvadorinner.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Kenya—Microfinance Capacity Building Project (KEMCAP)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Microfinance Capacity Building Project's principal objective was to build
   and strengthen the Association of Microfinance Institutions so that it could become
@@ -16,8 +17,6 @@ regions:
 country:
 - Kenya
 layout: project
----
-
 As the trade and financial hub for East Africa, Kenya has been a leader in developing a network of microfinance institutions that extend loans to small farms, businesses, and entrepreneurs. The Association of Microfinance Institutions (AMFI) was formed to serve the interests of these institutions by creating an enabling environment for microfinance, sharing best practices, and creating business connections between various regional firms. The Microfinance Capacity Building Project (KEMCAP)'s principal objective was to build and strengthen AMFI so that it could become a permanent fixture in the Kenyan financial services marketplace, improving much-needed industry infrastructure for microfinance institutions while helping to increase client outreach and business performance.
 
 ![][1]

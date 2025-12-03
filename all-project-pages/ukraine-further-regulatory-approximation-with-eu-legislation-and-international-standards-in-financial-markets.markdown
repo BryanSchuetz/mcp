@@ -1,6 +1,7 @@
 ---
 title: Ukraine—Further Regulatory Approximation with EU Legislation and International
   Standards in Financial Markets
+---
 date: 2025-08-25 17:47:00 Z
 summary: 'Since Russia’s invasion, Ukraine has faced immense challenges to its economic
   stability, institutional resilience, and social fabric. The EU has moved to address
@@ -13,8 +14,6 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Ukraine
----
-
 Since Russia’s invasion, Ukraine has faced immense challenges to its economic stability, institutional resilience, and social fabric. The EU has moved to address Ukraine’s immediate needs but is also investing in its long-term recovery and reconstruction, focusing on strengthening sectors critical to economic and social resilience. 
 
 ![Screenshot 2025-08-25 at 2.18.33 PM.png](/uploads/Screenshot%202025-08-25%20at%202.18.33%E2%80%AFPM.png)
@@ -32,4 +31,4 @@ Restoring the sustainability assessment and asset quality review of the largest 
 * Building capacity in the financial supervisory authority. 
 
  
-This technical assistance is in part a continuation of the [Strengthening the Regulation and Supervision of the Non-bank Financial Market project](https://www.dai.com/our-work/projects/ukraine-strengthening-the-regulation-and-supervision-of-the-nonbank-financial-market-eu-finreg), also implemented by DAI and successfully concluded in 2023.  
+This technical assistance is in part a continuation of the [Strengthening the Regulation and Supervision of the Non-bank Financial Market project](https://www.dai.com/our-work/projects/ukraine-strengthening-the-regulation-and-supervision-of-the-nonbank-financial-market-eu-finreg), also implemented by DAI and successfully concluded in 2023.

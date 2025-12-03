@@ -1,5 +1,6 @@
 ---
 title: Kosovo—Municipal Integrity activity
+---
 date: 2023-03-02 16:37:00 Z
 published: false
 summary: The Municipal Integrity activity works with Kosovo's central government oversight
@@ -25,8 +26,6 @@ promos:
   link: https://www.usaid.gov/kosovo/news/oct-10-2023-local-knowledge-exchange-helps-bolster-municipal-accountability
 - title: Tackling Systemic Corruption Through Public Financial Management
   link: https://dai-global-developments.com/articles/tackling-systemic-corruption-through-public-financial-management/
----
-
 Public procurement is a government tool used to deliver goods and services such as fixing roads, building schools, or buying medical equipment for citizens. Fair competition, a level playing field, and transparency are essential to ensuring public money is spent responsibly and leads to the best value for citizens in terms of high-quality goods and services.
 
 However, in Kosovo, citizens, civil society organizations, and private sector economic operators report that public procurement had been compromised by political patronage, nepotism, fraud, and other forms of corruption. This problem reduces public resources available for service delivery to citizens, undermines public confidence in government, and deters foreign investment. It is critically important for the Government of Kosovo to address these weaknesses or gaps in the procurement system, especially at the municipal level, to safeguard public money spent through public procurement.

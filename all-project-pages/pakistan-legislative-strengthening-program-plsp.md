@@ -1,5 +1,6 @@
 ---
 title: Pakistan—Legislative Strengthening Program (PLSP)
+---
 date: 2016-01-21 22:40:00 Z
 summary: Through PLSP, DAI worked with national and provincial legislatures to strengthen
   parliamentary institutions and processes. The program's focus was on improving the
@@ -15,8 +16,6 @@ regions:
 country:
 - Pakistan
 layout: project
----
-
 Through PLSP, DAI worked with national and provincial legislatures to strengthen parliamentary institutions and processes. The program's focus was on improving the capacity of the legislatures in their representation, lawmaking, oversight/accountability, and infrastructure/management activities.
 
 ![][1]

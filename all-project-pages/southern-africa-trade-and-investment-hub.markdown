@@ -1,5 +1,6 @@
 ---
 title: Southern Africa—Trade and Investment Hub (USAID TradeHub)
+---
 date: 2016-11-17 15:08:00 Z
 summary: The USAID Southern Africa Trade and Investment Hub engaged with partners
   across Southern Africa to deepen regional economic integration, promote two-way
@@ -25,8 +26,6 @@ promos:
   link: "/uploads/163%20Learning%20Piece%20on%20the%20USAID%20TradeHub%20Investment%20Model_September%2027%202022%5B47%5D.pdf"
 - title: Lifecycle of an Export Deal
   link: "/uploads/Learning%20Piece%20-%20Lifecycle%20of%20an%20export%20deal_Sept%20%2015%202022.pdf"
----
-
 The U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engaged with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supported these objectives by increasing exports from southern African countries to South Africa and the United States (under the [AGOA](https://ustr.gov/issue-areas/trade-development/preference-programs/african-growth-and-opportunity-act-agoa)), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub worked with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
 
 The USAID TradeHub was based in Pretoria, South Africa, with resident representatives in Eswatini, Lesotho, Malawi, Mozambique, and Zambia. The program worked with Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Eswatini, and Zambia.

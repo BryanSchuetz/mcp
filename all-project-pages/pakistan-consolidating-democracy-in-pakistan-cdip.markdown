@@ -1,5 +1,6 @@
 ---
 title: Pakistan—Consolidating Democracy in Pakistan (CDIP)
+---
 date: 2017-06-30 21:08:00 Z
 summary: The Consolidating Democracy in Pakistan programme increased the capacity,
   accountability, and responsiveness of Pakistan’s political institutions—particularly
@@ -18,8 +19,6 @@ promos:
   link: https://dai-global-developments.com/articles/reaching-the-needs-of-all-citizens-in-a-more-democratic-pakistan
 - title: 'Donor Action in Pakistan: A Comparative Case Study of CDIP and AAWAZ'
   link: https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/16456
----
-
 The Consolidating Democracy in Pakistan (CDIP) Programme, locally called *Tabeer*, was funded by the Foreign, Commonwealth & Development Office's Conflict, Security and Stability Fund (CSSF) and jointly implemented by DAI and the United Nations Development Programme (UNDP)-Strengthening Electoral and Legislative Processes (SELP). DAI managed the programme in a consortium with the British Council and the Pakistan Institute of Legislative Development and Transparency (PILDAT). It worked closely with the Election Commission of Pakistan, national and provincial assemblies, political parties, the media and civil society organisations.
  
 The intended outcome of the programme was to contribute to the democratic system in which government institutions are more capable, parliament is more accountable, and the state is more responsive to citizens’ needs and aspirations. 

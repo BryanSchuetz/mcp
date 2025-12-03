@@ -1,6 +1,7 @@
 ---
 title: Nigeria—EU Support to Democratic Governance in Nigeria (EUSDGN) Programme,
   Phase II
+---
 date: 2022-04-21 13:43:00 Z
 tags:
 - European Union
@@ -21,8 +22,6 @@ promos:
   link: https://www.dai.com/news/dais-joe-abah-speaks-on-the-nigeria-2023-elections-at-eu-sdgn-project-event
 - title: 
   link: 
----
-
 Nigeria has significant security challenges and is confronted with instability and conflict on several fronts. The upcoming general elections in 2023 and in 2027 present a chance to improve the democratic process. 
 
 The European Union-funded Support to Democratic Governance in Nigeria (EUSDGN) Programme, Phase II, works to facilitate a peaceful and fair electoral process that advances the country’s political and economic development. 

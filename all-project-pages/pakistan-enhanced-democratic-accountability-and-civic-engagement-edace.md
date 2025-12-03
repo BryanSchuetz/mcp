@@ -1,5 +1,6 @@
 ---
 title: Pakistan—Enhanced Democratic Accountability and Civic Engagement (EDACE)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Enhanced Democratic Accountability and Civic Engagement (EDACE) programme
   made short-term, high-impact grants to improve rights awareness, citizen engagement,
@@ -21,8 +22,6 @@ regions:
 country:
 - Pakistan
 layout: project
----
-
 The Enhanced Democratic Accountability and Civic Engagement (EDACE) programme made short-term, high-impact grants to improve rights awareness, citizen engagement, access to justice, and provision of security services to ensure that Pakistani citizen rights and democratic processes are strengthened at provincial and local levels.
 
 EDACE worked with the [AAWAZ project][1] in Pakistan, which also worked to raise citizens' awareness and participation. EDACE strengthened constructive citizen-state relations by empowering citizens to know and exercise their rights through democratic processes and fostering state capacity to use democratic processes to respond to citizens' priorities in a timely, transparent, and accountable manner.

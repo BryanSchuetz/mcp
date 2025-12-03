@@ -1,5 +1,6 @@
 ---
 title: Jordan—Workforce Development (WFD) Project
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Jordan Workforce Development Project worked to create a competitive,
   demand-driven workforce development system that leads to increased private sector
@@ -21,8 +22,6 @@ regions:
 country:
 - Jordan
 layout: project
----
-
 In 2014, the Government of Jordan responded to the King's call for a 10-year economic blueprint for meeting a set of challenging objectives. Key among the objectives was "to enhance policies related to human resources, link education policies to labor market demands, focus on building a labor force through vocational training, especially youth, so that they gradually replace guest labor, and encourage women to join the labor market."
 
 The Jordan Workforce Development Project directly addressed this objective. WFD worked to create a competitive, demand-driven [workforce development system](http://dai-global-developments.com/articles/addressing-jordans-youth-unemployment-bubble-usaid-program-aligns-workforce-with-emerging-opportunities/) that leads to increased private sector employment, especially for women, youth, and those living at or below the poverty line.

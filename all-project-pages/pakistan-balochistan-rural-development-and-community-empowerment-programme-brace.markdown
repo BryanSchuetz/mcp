@@ -1,6 +1,7 @@
 ---
 title: Pakistan—Technical Assistance for the Balochistan Community-led Rural Development
   and Community Empowerment (BRACE) Programme
+---
 date: 2020-05-19 13:45:00 Z
 summary: The Rural Development and Community Empowerment Programme in Balochistan,
   Pakistan, supported the federal government in reducing the negative impact of poverty
@@ -16,8 +17,6 @@ promos:
 - title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the COVID-19
     Era
   link: https://dai-global-developments.com/articles/how-europeaids-pakistan-brace-programme-is-engaging-communities-in-the-covid-19-era
----
-
 DAI supported the Government of Balochistan with the implementation of the Rural Development and Community Empowerment (BRACE) Programme. Within BRACE, the European Union (EU)-funded BRACE TA Project supported the Government in reducing the negative impact of poverty and social inequality, empowering resilient communities to actively participate in implementing socio-economic development activities in partnership with local authorities. 
 
 The technical assistance for BRACE was complementary to the grant components provided to the other implementing partners, the Rural Support Programme Networks (the Balochistan RSP, the National RSP, and the RSP Network), and in collaboration with the Government of Balochistan, we reached 1.9 million citizens in nine districts in the province—Dukki, Jhal Magsi, Kech, Killa Abdullah, Khuzdar, Loralai, Pishin, Washuk, and Zhob. 
@@ -37,4 +36,4 @@ The approach of the [programme](https://www.facebook.com/BRACEProgramme) built o
 * Deployed district coordinators and assistant district coordinators in the nine districts, to facilitate engagement between local officials and the new mobilized community institutions.
 * RSPs organized a [community management skills training](https://www.facebook.com/BRACEProgramme/posts/2595615900682563) in Pishin, Killa Abdullah, Khuzdar, and Jhal Magsi with women from community organizations.
 * RSPs conducted a three-day enterprise development training for women to facilitate them in applying for income-generating grants. These micro-credit instruments disbursed by BRACE help rural women become economically independent by setting up small enterprises, enabling women’s access to markets, and boosting their competitiveness. 
-* The Technical Assistance District Coordinators and Assistant Deputy Coordinators supported their respective Deputy Commissioners’ offices to conduct a series of with COVID-19 [awareness sessions](https://www.facebook.com/BRACEProgramme/posts/2551282891782531) for community members in all target districts. 
+* The Technical Assistance District Coordinators and Assistant Deputy Coordinators supported their respective Deputy Commissioners’ offices to conduct a series of with COVID-19 [awareness sessions](https://www.facebook.com/BRACEProgramme/posts/2551282891782531) for community members in all target districts.

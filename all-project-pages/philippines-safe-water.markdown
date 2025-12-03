@@ -1,5 +1,6 @@
 ---
 title: Philippines—Safe Water
+---
 date: 2019-11-25 09:15:00 Z
 summary: 'The Philippines Safe Water activity provides local government units, water
   service providers, and watershed councils with the information, incentives, and
@@ -19,8 +20,6 @@ promos:
   link: https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation
 - title: How USAID Helps Filipino Families Access Affordable Toilets and Septic Tanks
   link: https://medium.com/usaid-2030/virgies-hope-for-better-sanitation-b09203ad509f
----
-
 Current water security challenges facing the Philippine archipelago include burgeoning populations, unsustainable land uses, and deficient wastewater services. At the center of the challenges is water—a steady, dependable supply is increasingly elusive in many parts of the country as flows oscillate between too much or too little. Unfortunately, such adversities will only increase in the face of extreme weather related events, which is expected to further exacerbate ecological imbalances as climate variability becomes the new normal.
 
 The [Safe Water activity](https://www.globalwaters.org/HowWeWork/Activities/philippines-safe-water) provides Philippine local government units, water service providers, and watershed councils in target provinces with the information, incentives, and partnerships they require to identify and address barriers to a water-secure future—yielding life-saving gains in access to water supply and sanitation services for unserved and underserved households in the Philippines’ most water-stressed communities. 

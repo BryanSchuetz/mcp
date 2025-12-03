@@ -1,5 +1,6 @@
 ---
 title: Peru—Addressing Biodiversity-Social Conflict in Latin America (ABC-LA)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Addressing Biodiversity-Social Conflict in Latin America project worked
   to create conditions that enable local people to drive conflict resolution in Peru
@@ -22,8 +23,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 The increase of mining, logging, and oil and gas development in Latin America has led to chronic low-grade conflict and periodic violence in communities in or near extraction zones. The Addressing Biodiversity-Social Conflict in Latin America (ABC-LA) project worked to create conditions that enable local people to drive conflict resolution in Peru and Colombia. ABC-LA laid a foundation for key actors to address the causes of this conflict and lead transformative changes that reduce negative impacts to both vulnerable communities and the environment.
 
 ABC-LA improved the capacities of indigenous and minority communities and local and regional governments, leading to greater inclusion of marginalized groups. It focused on biologically significant areas in Colombia and Peru where there is ongoing or potential conflict associated with extractive activities.

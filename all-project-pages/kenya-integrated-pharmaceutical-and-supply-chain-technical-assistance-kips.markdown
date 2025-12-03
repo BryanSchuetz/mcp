@@ -1,5 +1,6 @@
 ---
 title: Kenya—Integrated Pharmaceutical and Supply Chain Technical Assistance (KIPS)
+---
 date: 2024-10-15 13:35:00 Z
 published: false
 summary: 'The Integrated Pharmaceutical and Supply Chain Technical Assistance Activity
@@ -13,8 +14,6 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: Kenya
----
-
 The Government of Kenya and its institutions have taken critical steps to improve the country’s supply chain and pharmaceutical systems, such as improving logistics, financing, and institutional capacities with the support of past and ongoing donor programs. Nevertheless, the current systems remain hindered by underlying technical challenges—such as a lack of skilled personnel, opaque accountability and governance mechanisms, inadequate technology, poor commodity storage conditions, low forecasting capacity and accuracy, and outdated processes at sub-county and facility levels—as well as broader system-level limitations in communications and coordination among the various actors in the system. These systemic issues lead to negative outcomes for Kenyan citizens and healthcare providers in need of commodities, supplies, and care.
 
 The Integrated Pharmaceutical and Supply Chain Technical Assistance (KIPS) Activity, a task order under the NextGen Comprehensive TA (CompTA) IDIQ, works to ensure more sustainable access to—and appropriate use of—quality-assured and affordable health commodities and supplies in Kenya by supporting the development of an increasingly resilient and mature supply chain system and pharmaceutical regulatory systems and services.

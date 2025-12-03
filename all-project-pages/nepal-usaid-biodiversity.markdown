@@ -1,5 +1,6 @@
 ---
 title: Nepal—USAID Biodiversity (Jal Jangal)
+---
 date: 2022-11-29 08:46:00 Z
 published: false
 summary: 'Working in the Gandaki and Karnali river basins, this activity focuses on
@@ -19,8 +20,6 @@ promos:
   link: "/uploads/USAID%20Biodiversity%20(Jal%20Jangal)%20Y1%20Newsletter.pdf"
 - title: Emerging Leaders Boost Natural Resource Management
   link: https://www.usaid.gov/nepal/news/aug-14-2024-success-story-emerging-leaders-boost-natural-resource-management
----
-
 From the high altitude, snow-capped Himalayan mountains in the north, through the Churia midhill regions, to the Terai plains in the south, Nepal’s diverse landscapes provide habitat for iconic species, such as the snow leopard and river dolphin, and vital natural resources for the country’s inhabitants. Nepal’s [freshwater](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI) and terrestrial ecosystems sustain the health, well-being, and economic prosperity of diverse ethnic groups, whose cultures are also inextricably linked to nature. The confluence of [two rivers](https://www.dai.com/our-work/projects/nepal-usaid-karnali-water-activity),  for example, is frequently the site of Hindu temples with spiritual significance.
 
 Despite the critical importance of Nepal’s ecosystems, exploitation and environmental degradation continues at an unrelenting rate. Sand mining in rivers degrades freshwater habitats and increases flood risk. Climate change exacerbates these threats, intensifying risks from floods and droughts while affecting food security, agricultural productivity, migration patterns, and [disaster risk](https://www.dai.com/our-work/projects/tayar-nepal-improved-disaster-risk-management-project-tayar).

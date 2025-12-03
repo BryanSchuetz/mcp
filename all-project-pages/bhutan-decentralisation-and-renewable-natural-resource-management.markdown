@@ -1,5 +1,6 @@
 ---
 title: Bhutan—EU Technical Assistance Complementary Support Project (EU-TACS)
+---
 date: 2019-02-04 17:39:00 Z
 summary: 'This project supported the implementation of the European Union (EU)-bilateral
   development cooperation strategy in Bhutan, with particular focus on the two ongoing
@@ -19,8 +20,6 @@ promos:
   link: https://us6.campaign-archive.com/?u=abade74e7a12d1bf82a103073&id=1c6a7ea9e4
 - title: "**Past Issues:** EU-TACS Newsletter"
   link: https://us6.campaign-archive.com/home/?u=abade74e7a12d1bf82a103073&id=c3c2ca6d56
----
-
 Bhutan is a small country wedged between India and China with 60 percent of its population relying on agriculture-based livelihoods such as subsistence farming and animal husbandry. Twelve percent of the country’s people are poor. Most industrial sectors are cottage industries. Rugged mountainous terrain makes it difficult and expensive to build and maintain roads, transport, energy, and other infrastructure, so Bhutan’s long-term self-reliance will rely upon effectively managed local natural resources.
 
 This project supported the implementation of the European Union (EU)-bilateral development cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget support programs: 1) Rural Development and Climate, and 2) Local Governance and Fiscal Decentralization. The team produced studies on agroforestry systems and practices, strategy and programme formulation, circular economies and waste recycling models, farm mechanisation potentials, and identification and management of fallow land.

@@ -1,5 +1,6 @@
 ---
 title: Jordan—Public Financial Management and Administration (PFMA)
+---
 date: 2021-03-01 07:40:00 Z
 published: false
 summary: 'The Public Financial Management and Administration (PFMA) project is a five-year
@@ -19,8 +20,6 @@ promos:
   link: https://dai-global-developments.com/articles/tackling-systemic-corruption-through-public-financial-management/
 - title: Moody’s Upgrades Jordan’s Credit Rating
   link: https://www.dai.com/news/moodys-upgrades-jordans-credit-rating
----
-
 Jordan’s economy has faced numerous challenges, from waves of refugees to regional instability. The Government of Jordan has been proactive, introducing new tax legislation, improving tax administration, upgrading the budgeting process, and streamlining public expenditures management. However, more work is needed to ensure macro-fiscal resilience while maintaining the fiscal space necessary to deliver social goods to citizens. To support the government in this critical endeavor, the U.S. Agency for International Development (USAID) designed the Public Financial Management and Administration (PFMA) activity. PFMA works to enhance Jordan’s revenue system and improve budget management processes.
 
 PFMA strengthens the capacity of the Jordanian Ministry of Finance (MOF) and other government institutions to modernize revenue collection, encourage compliance, upgrade public procurement management, and improve budget planning, preparation, and execution.
@@ -47,4 +46,4 @@ Our work is integrated into local systems and informed by political economy anal
 * Supported the Jordanian Income and Sales Tax Department to implement a national media campaign to promote invoice requesting by taxpayers. The campaign explains how to use the [Fawateery app](https://play.google.com/store/apps/details?id=jo.istd.fawateery&hl=en_US&gl=US&pli=1) to submit invoices and reached 9.7 million people via press coverage, generating 90,000 downloads.
 * Supported the General Budget Department to launch a system that supports results-oriented budgeting and monitors public expenditures against performance, enhancing government activity efficiency and accountability.
 * Moved Jordan’s digital debt analysis system from a manual to a digital interface, improving reporting timeliness and accuracy, which enhances Jordan’s credit ratings and helps decrease the country’s cost of borrowing.
-*  With the German Jordanian University and the Income and Sales Tax Department, launched a top-tier higher diploma to train future tax professionals. This one-year program involves national and international experts in taxation, accounting, public finance, and law. 
+*  With the German Jordanian University and the Income and Sales Tax Department, launched a top-tier higher diploma to train future tax professionals. This one-year program involves national and international experts in taxation, accounting, public finance, and law.

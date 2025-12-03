@@ -1,5 +1,6 @@
 ---
 title: Mozambique—Local Content Strategy and Industrial Baseline Study
+---
 date: 2020-09-18 13:57:00 Z
 summary: DAI’s Sustainable Business Group (SBG) was contracted by an international
   oil and gas company to transform its local content approach in Mozambique to improve
@@ -13,8 +14,6 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Mozambique
----
-
 DAI’s Sustainable Business Group (SBG) was contracted by an international oil and gas company to transform its local content approach in Mozambique to improve community and government relations, expand the positive impact of its oil and gas operations on the local workforce and  small enterprises, and ultimately continue to drive sustainable socio-economic growth in Mozambique , specifically in the Inhambane Province. SBG helped the client achieve these goals by completing a four-part study consisting of historical analysis, local content forecasting, government engagement, and creation of a five-year local content plan. 
  
 SBG completed the historical analysis workstream using its Local Content Plan and Reporting Platform (LCPR). SBG used the client’s internal workforce and procurement data as inputs to LCPR, and subsequently modeled the client’s spend with local supply chains, direct job creation, and direct, indirect, and induced economic impact on the Mozambican economy from 2007 to 2018.   

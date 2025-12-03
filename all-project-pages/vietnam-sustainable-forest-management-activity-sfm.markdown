@@ -1,5 +1,6 @@
 ---
 title: Vietnam—Sustainable Forest Management (SFM)
+---
 date: 2020-06-16 15:15:00 Z
 published: false
 summary: 'The Vietnam Sustainable Forest Management project helps the Government of
@@ -24,8 +25,6 @@ promos:
 - title: 'BLOG: Investing in Ethnically Diverse Communities to Restore and Preserve
     Forests in Vietnam'
   link: https://dai-global-developments.com/articles/investing-in-ethnically-diverse-communities-to-restore-and-preserve-forests-in-vietnam/
----
-
 In Vietnam and worldwide, widespread forest degradation from illicit timber harvesting, forest land conversion, and poor forest management practices is leading to increased carbon emissions, which threaten the environment, communities, and livelihoods. Despite national increases in overall tree coverage, Vietnam’s natural forests are reducing in area and worsening in quality.    
 
 Vietnam has 14.79 million hectares of forests that store carbon and provide ecosystems and economic services at local, national, and global scales. The country has a rapidly developing economy with a robust and growing wood processing industry. This growth has also come at a price of increased greenhouse gas emissions and environmental degradation. Despite national increases in overall tree cover, there is a reduction in total area of natural forests and forest quality in the country.  

@@ -1,5 +1,6 @@
 ---
 title: Regional—Youth Resilience, Inclusion & Empowerment
+---
 date: 2022-08-15 14:48:00 Z
 published: false
 summary: The Youth Resilience, Inclusion & Empowerment in the Caribbean Activity—in
@@ -19,8 +20,6 @@ promos:
   link: "/uploads/Fact%20Sheet_YRIE_March%202023.pdf"
 - title: Hundreds of Youth to Benefit from USAID-Funded Resilience Projects
   link: https://nowgrenada.com/2023/03/hundreds-of-youth-to-benefit-from-usaid-funded-resilient-projects/
----
-
 The Eastern and Southern Caribbean (ESC) region struggles with high rates of interpersonal crime and violence, with violent crime rates among the highest in the world. Of the top 20 countries in the world with the highest murder rates, 17 are in Latin America and the Caribbean. These incidents of crime and violence disproportionately affect young people, between 15 and 29, and remain a major social problem. Young males are most at risk of becoming both victims and perpetrators of crime in the region. 
 
 The U.S. Agency for International Development (USAID) launched the Youth Resilience, Inclusion & Empowerment in the Caribbean Activity—in Grenada, Guyana, Saint Lucia, and one additional Caribbean country—to address this demand and support youth to build more safe, prosperous, and resilient societies.

@@ -1,5 +1,6 @@
 ---
 title: Eastern Europe and Central Asia—BIZPRO
+---
 date: 2016-01-21 22:40:00 Z
 summary: BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine,
   and Moldova. In Belarus, we organized professional accounting programs and engaged
@@ -15,8 +16,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine, and Moldova. In Belarus, we organized professional accounting programs and engaged a local think tank to provide economic analysis. In Ukraine we helped enterprises compete in foreign and domestic markets by working at the enterprise, sector, and policy/legal levels. We contributed to the economic development of Moldova by providing assistance that improved the ability of small businesses to operate and compete.
 
 ![][1]

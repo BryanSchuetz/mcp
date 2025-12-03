@@ -1,5 +1,6 @@
 ---
 title: Africa—Leadership Training and Capacity Building Program (Africa Lead)
+---
 date: 2016-01-21 22:40:00 Z
 summary: Africa Lead built capacity among Africa's emerging food security leaders
   to devise and manage their country investment plans.
@@ -13,8 +14,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 The U.S. government's Feed the Future (FTF) initiative calls not simply for host-country partnership but country leadership. Working across public and private institutions, Africa Lead built capacity among Africa's emerging food security leaders to devise and manage their country investment plans. We operated across sub-Sahara Africa with hubs in Kenya and Ghana.
 
 This work was done within the framework of the New Economic Partnership for African Development's Comprehensive Africa Agriculture Development Program (CAADP), which requires countries to allocate 10 percent of their budgets to agriculture to raise productivity.

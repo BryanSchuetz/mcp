@@ -1,5 +1,6 @@
 ---
 title: Canada—Industrial Baseline Study
+---
 date: 2020-01-16 17:20:00 Z
 summary: 'The Newfoundland and Labrador Oil and Gas Industries Association commissioned
   DAI’s Sustainable Business Group (SBG) to conduct a local content forecasting study
@@ -11,8 +12,6 @@ solutions:
 - Sustainable Business
 regions: Worldwide
 country: Canada
----
-
 The Newfoundland and Labrador Oil and Gas Industries Association commissioned DAI’s Sustainable Business Group (SBG) to conduct a local content forecasting study in Newfoundland and Labrador. The province has an official vision—Advance 2030—for the oil and gas development, including production markers and additional discoveries. The study’s objective was to assess the local supply chains’ ability to compete for and execute contracts for offshore oil and gas projects anticipated under Advance 2030. In addition to assessing the capabilities of the local supply chains, the study was designed to:  
 
 * Quantitatively forecast baseline and maximum amounts of economic value add, and fulltime-equivalent employment captured over time by each local supply chain; 

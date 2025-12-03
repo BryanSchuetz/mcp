@@ -1,5 +1,6 @@
 ---
 title: Rwanda—Support for Land Tenure Regularisation
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the
   issuance of registered title to every landholder in the country. Prior to the project,
@@ -28,8 +29,6 @@ promos:
 - title: HTSPE Honored for Outstanding International Development Project 2014
   link: https://www.dai.com/news/htspe-honored-outstanding-international-development-project-2014
 layout: project
----
-
 The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the issuance of registered title to every landholder in the country. Prior to the project, we had laid the groundwork for an innovative approach to registration. Between 2005 and 2009, we developed and tested a feasible approach to [LTR][1], which lead to the Strategic Road Map for Land Tenure Reform.
 
 Titles were then issued to every landholder through a one-off, low-cost community-based process of LTR, securing land assets and facilitating investment to 90 percent of predominantly poor households that own some farming land. The process, which [won an award][2], was fundamental to unlocking future fair and sustainable economic growth in Rwanda.

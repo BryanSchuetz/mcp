@@ -1,5 +1,6 @@
 ---
 title: Africa—Tackling Deadly Diseases in Africa (TDDA) programme
+---
 date: 2019-01-23 15:27:00 Z
 summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme worked to save lives
   and improved global health security by reducing the impact of disease outbreaks,
@@ -33,8 +34,6 @@ promos:
 - title: "**Video (long version)**: Building the Role of Civil Society Organisations
     in Health Security in Chad"
   link: https://vimeo.com/daiglobal/tddachad
----
-
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
 The Tackling Deadly Diseases in Africa (TDDA) programme worked with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We delivered practical changes that strengthened health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
@@ -77,4 +76,4 @@ TDDA tackled the systemic causes of health insecurity, not just the symptoms. In
 * Provided emergency COVID-19 training for more than 600 community-based medical staff in Côte D’Ivoire through the Ministry of Health and Public Hygiene, with technical and financial support from TDDA. Training was centred on the city of Abidjan, where the COVID-19 pandemic has hit the hardest. 
 * Supported scale-up of COVID-19 diagnostic activities in Cameroon and widened access to free testing services beyond the capital Yaoundé to six high-risk regions. 
 * Helped prevent the spread of diseases in Uganda by improving the skills of border officials. We are supporting the Ministry of Health to provide targeted supervision, on-the-job training and mentoring of 60 health workers at more than 40 official points of entry.  
-* Facilitated Uganda’s Agriculture Ministry to conduct disease investigations for Rift Valley fever, anthrax, and brucellosis among animals, with the aim of predicting and preventing these diseases which threaten human health and food production. Also, workshops on the WHO’s Integrated Disease Surveillance and Response framework were provided for national trainers working across Uganda’s public, animal, and environmental health organisations and ministries, supporting efforts to reduce deaths from communicable and non-communicable diseases. 
+* Facilitated Uganda’s Agriculture Ministry to conduct disease investigations for Rift Valley fever, anthrax, and brucellosis among animals, with the aim of predicting and preventing these diseases which threaten human health and food production. Also, workshops on the WHO’s Integrated Disease Surveillance and Response framework were provided for national trainers working across Uganda’s public, animal, and environmental health organisations and ministries, supporting efforts to reduce deaths from communicable and non-communicable diseases.

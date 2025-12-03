@@ -1,6 +1,7 @@
 ---
 title: Lebanon—Support for the Creation of a Unified Registry for Social Protection
   (URSPL)
+---
 date: 2024-01-12 13:55:00 Z
 tags:
 - European Union
@@ -16,8 +17,6 @@ solutions:
 - Social Strategy
 regions: Middle East and North Africa
 country: Lebanon
----
-
 The current social protection system in Lebanon is fragmented and insufficient, leaving out large segments of the population, particularly those engaged in informal labor. 
 
 Our project is improving the effectiveness and efficiency of social protection programs and services to Lebanese households through the establishment of a Unified Registry for Social Protection (URSP), enabling the flow and management of information from all types of social protection programs and schemes.

@@ -1,5 +1,6 @@
 ---
 title: Indonesia—Jalin
+---
 date: 2017-09-14 21:31:00 Z
 summary: The U.S. Agency for International Development’s Jalin program assisted the
   Indonesian government as it promoted solutions for preventing maternal and newborn
@@ -24,8 +25,6 @@ promos:
   link: https://www.dai.com/news/two-health-innovations-supported-by-usaid-jalin-project-win-awards
 - title: DELIVERY! Saving Moms & Babies in Rural Indonesia
   link: https://usaidindonesia.exposure.co/delivery
----
-
 While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. 
 
 The U.S. Agency for International Development (USAID) Jalin project partnered with the Indonesian Ministry of Health to reduce maternal and newborn deaths. USAID Jalin used a whole-of-market approach to improve: 1) maternal and newborn health quality of care in public and private, primary and secondary facilities, and 2) the efficiency and effectiveness of the emergency referral system at community and facility levels. The project worked to: sustain improvements in clinical hospital teams’ treatment of obstetric and newborn complications; focus stakeholder strategies on the main causes of maternal and newborn death; sustain improvements to quality of care provided by private midwives; and scale improved referral networks and integrated ICT platforms to support those referrals.  
@@ -50,4 +49,4 @@ The project supported activities in 120 of the Government of Indonesia’s prior
 * Conducted a study on Mapping of Insurance Payments against Quality of Care for maternal and newborn health to analyze claim data and recommend improvements to strengthen service delivery. 
 * Collaborated with private sector partners to secure co-financing, facilitate implementation and replication of activities, and promote sustainability and local ownership.
 * Implemented more than 20 local solutions focused on: clinical competency, antenatal care provision, policy and funding advocacy, referral systems, and transportation. 
-* Strengthened sustainability and scalability of local solutions through: mobilization of local funding, issuance of government regulations, replication of successful activities, improvements to existing referral systems and health service delivery. 
+* Strengthened sustainability and scalability of local solutions through: mobilization of local funding, issuance of government regulations, replication of successful activities, improvements to existing referral systems and health service delivery.

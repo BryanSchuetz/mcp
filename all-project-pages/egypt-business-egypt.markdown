@@ -1,5 +1,6 @@
 ---
 title: Egypt—Business Egypt
+---
 date: 2021-11-17 15:27:00 Z
 published: false
 summary: 'Business Egypt is building a robust ecosystem of market-led institutions—incubators,
@@ -24,8 +25,6 @@ promos:
 - title: Sustainable Banking Alliance - Lessons Learned for Climate Finance in Colombia
     and Egypt
   link: "/uploads/Sustainable%20Banking%20Alliance%20-%20Lessons%20Learned%20for%20Climate%20Finance%20in%20Colombia%20and%20Egypt.pdf"
----
-
 The sustainable, inclusive economic growth foreseen by [Egypt Vision 2030](https://en.wikipedia.org/wiki/Egypt_Vision_2030) will depend on the ability of Egypt’s private enterprises to grow, create jobs, and adapt to market changes without donor support. Egypt’s private sector can recover successfully from pandemic-inflicted economic damage and make major strides toward sustainable growth with support from the U.S. Agency for International Development’s Business Egypt activity. 
 
 Business Egypt is building a robust ecosystem of market-led institutions—incubators, accelerators, business service providers, financial institutions, youth and women’s networks, business associations, public-private forums, one-stop shops—working in harmony to create long-term jobs, and a more resilient private sector. Business Egypt aims to substantially increase sales revenues and investments among Egyptian micro, small, and medium-sized enterprises (MSMEs), thereby creating new job opportunities, especially for women and youth. The result will be the creation of thousands of new jobs, particularly in our proposed value chains: solar power, processed fruits and vegetables, information technology services, ready-made garments, and automotive supply.

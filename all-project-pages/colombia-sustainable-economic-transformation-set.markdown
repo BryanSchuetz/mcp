@@ -1,5 +1,6 @@
 ---
 title: Colombia—Sustainable Economic Transformation (SET)
+---
 date: 2024-02-02 12:57:00 Z
 published: false
 summary: The Sustainable Economic Transformation (SET) project supports sustainable
@@ -12,8 +13,6 @@ solutions:
 - Economic Growth
 regions: Latin America and the Caribbean
 country: Colombia
----
-
 While extreme weather-related events continue to threaten the livelihoods of the most vulnerable people in Colombia, it also presents opportunities for innovation in both agricultural and non-agricultural sectors, including crop diversification. If economic interventions are carried out considering adaptation and mitigation, they can enhance rural incomes and reduce environmental impact.
 
 The Sustainable Economic Transformation (SET) activity supports sustainable economic opportunities and investment in various vulnerable areas of Colombia, fostering growth, development, and peace implementation in an equitable and environmentally sustainable manner. SET works to make rural economies increasingly competitive, economically diverse, and resilient to economic and climate-related disruptions, which is essential for lasting peace.

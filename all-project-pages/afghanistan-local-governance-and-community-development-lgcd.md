@@ -1,5 +1,6 @@
 ---
 title: Afghanistan—Local Governance and Community Development (LGCD)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'When this project launched in 2006, the insurgency was intensifying in Afghanistan
   and would soon escalate into violence. Our mission on behalf of the U.S. Agency
@@ -21,8 +22,6 @@ regions:
 country:
 - Afghanistan
 layout: project
----
-
 LGCD facilitated 2,635 community projects that addressed local grievances, facilitated dialogue, and engendered trust in district and provincial leaders. LGCD’s projects, undertaken in a variety of sectors, included assessments, rehabilitation of community infrastructure, basic vocational training, training of local government officials, cash-for-work activities, and provision of agricultural inputs and equipment. 
 
 LGCD facilitated engagement between communities and government officials so that Afghans saw government as responsive to their needs and not as an external organization. By the end of LGCD, 100 percent of requests for project assistance were being routed to and through the Afghan government instead of through LGCD staff. LGCD evolved into a countrywide program, working in 23 of Afghanistan’s 34 provinces, but most of its work targeted the country’s vulnerable eastern and southern provinces. In communities where LGCD projects were implemented, many Afghans expressed that they felt a greater sense of security, hopefulness, and trust in their government officials than in communities where LGCD was not active. 

@@ -1,5 +1,6 @@
 ---
 title: Jordan—Municipal Support Program (MSP)
+---
 date: 2022-08-25 13:48:00 Z
 published: false
 summary: The USAID Jordan Municipal Support Program improves local government service
@@ -14,8 +15,6 @@ solutions:
 - Local Governance and Decentralization
 regions: Middle East and North Africa
 country: Jordan
----
-
 The COVID-19 pandemic exacerbated already precarious economic and governance conditions in Jordan. In 2021, unemployment spiked to 25 percent. The confluence of the pandemic and recurrent economic crisis has caused municipal revenues to decline sharply. 
 
 Mayors and municipal councilors, as the face of government accountability and public spending, assume outsized responsibility for government performance. However, with limited authority, these officials are not empowered to make decisions and set funding priorities. Many municipalities have the basic building blocks needed to strengthen services and pursue local economic development but lack the organizational culture required to apply them effectively. Recognizing that municipalities should serve as convenors, enablers, and facilitators of local economic development, mayors and municipal councilors must partner with the private sector and remove bureaucratic obstacles to investment, job creation, and local economic growth. Municipalities must capitalize on their existing assets in partnership with the private sector, while also delivering more efficient services that are responsive to community needs.  
@@ -49,4 +48,4 @@ Municipalities in each cluster collaborate with one another, with other Jordania
 * Established a new weekly market in collaboration between Karak municipality, the Ministry of Tourism and Antiquities, the Ministry of Culture, and a local nongovernmental group. Attracting thousands of visitors, the market showcases Karak’s cultural heritage while providing a dynamic new platform for small businesses and artisans in Karak to reach new customers.  
 * Upgraded the substation of Ma'an Vocational City, enabling Greater Ma’an Municipality to lease previously unpowered plots, generate rental income, and mitigate environmental impacts. 
 * In cooperation with the Ministry of Local Administration, introduced Municipal Investment Guidelines that provide a clear legal framework and comprehensive procedures for local-level PPPs and other investment instruments, helping municipalities more effectively pursue investment.  
-* Conducted energy audits for 11 partner municipalities and, based on the findings, provided technical assistance and material support including solar water heaters and more energy-efficient air conditioning units to reduce the municipalities’ carbon footprint and energy expenditures.  
+* Conducted energy audits for 11 partner municipalities and, based on the findings, provided technical assistance and material support including solar water heaters and more energy-efficient air conditioning units to reduce the municipalities’ carbon footprint and energy expenditures.

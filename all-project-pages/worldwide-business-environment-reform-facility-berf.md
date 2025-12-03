@@ -1,5 +1,6 @@
 ---
 title: Worldwide—Business Environment Reform Facility (BERF)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The FCDO created the [Business Environment Reform Facility](https://www.r4d.org/)
   (BERF) to provide its country offices with access to expert advice on program design,
@@ -16,8 +17,6 @@ regions:
 country:
 - Regional
 layout: project
----
-
 The former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office)  leads a growing number of business environment reform programmes around the world to help small firms start, grow, and create jobs in their communities. As FCDO expands this work as part of its Business Environment for Economic Development program, it created the [Business Environment Reform Facility](https://www.r4d.org/) (BERF) to provide its country offices with access to expert advice on program design, implementation, and monitoring and evaluation.
 
 BERF helped the client collect and disseminate lessons learned from programmes more systematically, carry out policy research, and develop innovative approaches for involving stakeholders in reform programmes.

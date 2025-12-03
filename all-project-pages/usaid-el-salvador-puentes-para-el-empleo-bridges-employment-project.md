@@ -1,5 +1,6 @@
 ---
 title: El Salvador—Puentes para el Empleo (Bridges to Employment Project)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'Through Puentes para el Empleo, DAI supported the U.S. Agency for International
   Development in El Salvador to link young people—including women and vulnerable populations—to
@@ -31,8 +32,6 @@ promos:
 - title: Six Ways to Mitigate Instability in Central America
   link: https://dai-global-developments.com/articles/mitigating-instability-in-central-america
 layout: project
----
-
 Many young people in El Salvador's high-crime communities face impossible choices for livelihoods among gang coercion, underemployment, and expensive, dangerous migration. At the same time, networks of committed people are engaging youth in positive development activities and working to grow the country's economy and strengthen the educational systems and institutions that [could offer viable alternatives to gangs and crime](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom).
 
 These champions face epidemic violence, challenges in institutional capacity, a complex political and policy environment, and disjointed coordination at local and national levels. The result is a system that struggles to [offer all Salvadoran youth](https://dai-global-developments.com/articles/building-bridges-to-a-better-future-for-vulnerable-young-salvadorans) positive pathways to meaningful social inclusion offered by economic stability and rewarding work.

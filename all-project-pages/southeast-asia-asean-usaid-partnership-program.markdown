@@ -1,5 +1,6 @@
 ---
 title: Southeast Asia—ASEAN-US Partnership Program
+---
 date: 2024-10-14 11:18:00 Z
 summary: 'Through the ASEAN-US Partnership Program, the U.S. supports ASEAN efforts
   to enhance regional policies, cooperation, and capacity across its member states
@@ -12,8 +13,6 @@ solutions:
 - Governance
 regions: Asia and the Pacific
 country: Regional
----
-
 The partnership between the Association of Southeast Asian Nations (ASEAN) and the U.S. Government is key to enhancing human security, resilience, and inclusivity in the Indo-Pacific. Collectively, the highly diverse and dynamic ASEAN member states boast the world’s third-largest population and fifth-largest economy. Guided by aspirations detailed in the ASEAN Community Vision 2025  and drawing upon the Sustainable Development Goals, ASEAN member states work together to build a stable, prosperous, and resilient ASEAN community. Through the U.S. Agency for International Development (USAID), the U.S. Government works with ASEAN to strengthen collective capacity to meet complex challenges and take advantage of emerging opportunities in one of the most dynamic regions in the world. 
 
 Through the ASEAN-USAID Partnership Program, the U.S. supports ASEAN efforts to enhance regional policies, cooperation, and capacity across its member states and partners to further sustainable and inclusive growth, tackle shared challenges, and strengthen common values. Working out of its office in the ASEAN Secretariat in Jakarta, the Partnership Program contributes to U.S.-ASEAN collaboration to enable inclusive economic growth, address transnational crime and nontraditional security threats, promote good governance and inclusive development, and strengthen ASEAN entities.

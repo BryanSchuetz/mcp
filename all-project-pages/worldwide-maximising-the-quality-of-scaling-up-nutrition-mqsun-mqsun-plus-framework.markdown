@@ -1,10 +1,11 @@
 ---
 title: Worldwide—Maximising the Quality of Scaling Up Nutrition (MQSUN, MQSUN+) Framework
+---
 date: 2018-01-16 19:15:00 Z
 summary: MQSUN+ provided multi-disciplinary, highly qualified expert teams, including
-  nutritionists, economists, statisticians, social economists, and other specialists
-  in key areas such as public health, agriculture and food security, law, social protection,
-  water, sanitation, and hygiene (WASH), education, governance, and gender.
+nutritionists, economists, statisticians, social economists, and other specialists
+in key areas such as public health, agriculture and food security, law, social protection,
+water, sanitation, and hygiene (WASH), education, governance, and gender.
 start: 2012
 end: 2020
 client: Foreign, Commonwealth & Development Office
@@ -13,8 +14,6 @@ solutions:
 - Health Governance
 regions: Worldwide
 country: Worldwide
----
-
 DAI Global Health was part of a consortium led by PATH that worked to increase coverage of effective multi-sectoral programs to reduce undernutrition in countries that have signed on to the [Scaling Up Nutrition](http://scalingupnutrition.org), or SUN, movement.
 
 [MQSUN+](https://mqsunplus.path.org/) provided multi-disciplinary, highly qualified expert teams, including nutritionists, economists, statisticians, social economists, and other specialists in key areas such as public health; agriculture and food security; law; social protection, water, sanitation, and hygiene; education; governance; and women.

@@ -1,5 +1,6 @@
 ---
 title: Mozambique—MozUp Enterprise Development Center
+---
 date: 2020-02-05 16:09:00 Z
 summary: 'DAI established and operates an Enterprise Development Center in Mozambique.
   The center collaborates with the government of Mozambique and the private sector
@@ -17,8 +18,6 @@ promos:
 - title: MozUp Named Finalist for Basel Institute on Governance's Anti-Corruption
     Award
   link: https://www.dai.com/news/mozup-named-finalist-for-basel-institute-on-governances-anti-corruption-award
----
-
 MozUp is the Enterprise Development Center (EDC) in Mozambique supporting Mozambican small and medium-sized enterprises (SMEs) to become competitive and capable suppliers of the nascent natural gas sector and other growing sectors of the local economy. The Center is operated by Mozambique Enterprise for Sustainability, a joint venture between DAI and Mozambican implementing partner Taciana Peão Lopes Consulting.
 
 Sponsored by Area 4 Partners of the Rovuma Basin in Mozambique, MozUp was launched in 2020 to strengthen Mozambican businesses and create a more competitive and capable marketplace across the various growing sectors of the Mozambican economy, including the liquefied natural gas sector. Working with local SMEs, MozUp provides training, mentoring, advisory, and networking opportunities to improve business processes, management, and overall operations, including the promotion of ethical business practices.

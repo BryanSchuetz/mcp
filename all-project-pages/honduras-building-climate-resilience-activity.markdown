@@ -1,5 +1,6 @@
 ---
 title: Honduras—Building Climate Resilience Activity
+---
 date: 2022-09-23 15:30:00 Z
 published: false
 summary: 'The Building Climate Resilience Activity strengthens the capacity of Honduran
@@ -14,8 +15,6 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions: Latin America and the Caribbean
 country: Honduras
----
-
 In Honduras, extreme weather events and shocks such as cyclones, forest fires, and drought threaten Honduran ecosystems, worsen food insecurity, and contribute to water scarcity. Most recently, the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the Honduran economy, hampering poverty reduction efforts, provoking social unrest, and driving irregular migration.
 
 In the face of these unprecedented challenges, Hondurans need new approaches to build resilience that will enable them to thrive—where they are.

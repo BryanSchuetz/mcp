@@ -1,5 +1,6 @@
 ---
 title: Liberia—Civil Society Activity (CSA)
+---
 date: 2021-11-15 09:21:00 Z
 published: false
 summary: The Liberia Civil Society Activity (CSA) is a five-year initiative to strengthen
@@ -20,8 +21,6 @@ promos:
   link: https://frontpageafricaonline.com/news/liberia-usaid-donates-nearly-us1-5-million-to-advocate-for-policy-reforms-in-health-education-and-governance-sectors/
 - title: 'Liberian Conflict: Civil Society May Lead the Way to Change'
   link: https://dai-global-developments.com/articles/liberian-conflict-civil-society-may-lead-the-way-to-change/
----
-
 As the Government of Liberia rolls out new measures to prevent a surge in COVID-19 infections and looks ahead to the national elections in 2023, there is increasing demand and opportunity for citizen-responsive reforms to tackle persistent development challenges. Although cooperation between civil society organizations and the government has historically been uneven, new modalities for collaboration are emerging. The Liberia Civil Society Activity (CSA) comes at this opportune time, representing the next phase of civil society-led advocacy programming in Liberia by empowering diverse actors to strengthen feedback loops to sustain reforms.  
 
 CSA works to strengthen Liberians’ ability to advocate for policy reforms, policy implementation, and service delivery improvements through multistakeholder coalitions that build feedback loops among the government, civil society organizations, and citizens.

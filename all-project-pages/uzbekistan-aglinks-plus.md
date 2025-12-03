@@ -1,5 +1,6 @@
 ---
 title: Uzbekistan—AgLinks Plus
+---
 date: 2016-01-21 22:40:00 Z
 summary: We supported farmers, agrifirms, processors, and other value chain participants.
   AgLinks Plus deepened and extended activities from the previous successful project
@@ -14,8 +15,6 @@ regions:
 country:
 - Uzbekistan
 layout: project
----
-
 For many people in developing countries, farming is the foundation on which their lives depend. AgLinks Plus worked to increase agricultural incomes by improving the competitiveness of Uzbekistan's fruit and vegetable sector, a major driver of the Uzbek economy. We supported farmers, agrifirms, processors, and other value chain participants. AgLinks Plus deepened and extended activities from the previous successful project that ran from 2007 to 2011.
 
 ![][1]

@@ -1,5 +1,6 @@
 ---
 title: Palestine—Palestinian Enterprise Development (PED)
+---
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start: 2005
@@ -16,8 +17,6 @@ summary: 'The Palestine Enterprise Development project represented a critical ph
   a viable market economy in Palestine.
 
 '
----
-
 The Palestine Enterprise Development project represented a critical phase of the U.S. Agency for International Development (USAID)'s investment to support a viable market economy in Palestine. The project came at a sensitive time in the peace process, when USAID's continuing leadership within the donor and Palestinian communities was required to catalyze positive change in a difficult environment. PED focused on strengthening democratic and market economy institutions, thereby maintaining positive momentum in the private sector and in key economic ministries, so that the Palestinian economy can compete in the global market. After the installation of a Hamas-led government in March 2006, the scope of the project was modified to provide a flexible humanitarian mechanism capable of fulfilling critical consumption needs and sustaining employment in the private sector.
 
 ![][1]

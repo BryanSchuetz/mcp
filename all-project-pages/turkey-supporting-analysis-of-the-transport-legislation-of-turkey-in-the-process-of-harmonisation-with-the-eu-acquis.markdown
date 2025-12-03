@@ -1,6 +1,7 @@
 ---
 title: Türkiye—Supporting Analysis of the Transport Legislation of Türkiye in the
   Process of Harmonisation with the EU Acquis
+---
 date: 2021-07-26 16:20:00 Z
 summary: 'DAI worked to improve the legislative and institutional capacities of Türkiye
   to facilitate the Acquis alignment process in transportation. '
@@ -12,8 +13,6 @@ solutions:
 - 
 regions: Eastern Europe and Central Asia
 country: Türkiye
----
-
 Given its unique geographical position, improving transport is a priority for Türkiye’s economic and social development. In recent years, Türkiye has made significant investments and legal arrangements to improve and diversify its domestic and international transportation. These efforts have contributed to the development of its foreign trade and tourism.
 
 In this respect, the prioritisation of legislative and policy changes in line with European Union (EU) standards is one of the key strengths of the sector, which can ensure the development of sustainable transport systems in the country. The relationship with, and the integration into, the EU, including the connection with the Trans-European Transport Network, remain a national priority. 

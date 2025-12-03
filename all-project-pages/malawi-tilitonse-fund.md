@@ -1,5 +1,6 @@
 ---
 title: Malawi—Tilitonse Fund
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Tilitonse Fund was a multi-donor grants facility that supported Malawian-based
   civil society organisations in promoting accountable, inclusive, and responsive
@@ -16,8 +17,6 @@ regions:
 country:
 - Malawi
 layout: project
----
-
 Almost two decades since multi-party democracy replaced single party rule in Malawi, many people were still unused to holding government to account for providing public services or protecting their basic rights. The general public, and poor communities in particular, lacked the ability to effectively advocate to elected officials and fight back against the negative impacts of corruption.
 
 To help address this situation, the [Tilitonse Foundation](https://tilitonsefoundation.org/) was established as grants facility to help Malawian-based civil society organisations promote accountable, inclusive, and responsive governance. The Fund partnered with the private sector, faith-based organizations, the media, and others to form coalitions that advocated for increased government transparency and accountability and improved public services. The Tilitonse Fund was a multi-donor programme supported by the former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office), Irish Aid, and the Royal Norwegian Embassy in Malawi.

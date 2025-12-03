@@ -1,5 +1,6 @@
 ---
 title: Colombia—Destination Nature Activity (DNA)
+---
 date: 2022-11-17 13:46:00 Z
 published: false
 summary: 'The Destination Nature Activity conserves biodiversity and reduces greenhouse
@@ -14,8 +15,6 @@ solutions:
 - Climate
 regions: Latin America and the Caribbean
 country: Colombia
----
-
 Coinciding with the Peace Accords, Colombia's international tourist arrivals surged by 85 percent in the mid-2010s as a new generation of travelers discovered the vibrant flora, remarkable fauna, and unique ecosystems of the world’s second most biodiverse country. 
 
 The Destination Nature Activity (DNA) is an innovative new program that embraces the emerging nature tourism industry as a central pillar for the Government of Colombia to achieve its environmental ambitions, while also meeting its social and economic commitments in the [2016 Peace Accord](https://en.wikipedia.org/wiki/2016_Colombian_peace_agreement_referendum).

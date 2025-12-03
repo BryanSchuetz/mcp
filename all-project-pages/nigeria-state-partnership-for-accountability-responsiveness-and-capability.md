@@ -1,6 +1,7 @@
 ---
 title: Nigeria—State Partnership for Accountability, Responsiveness, and Capability
   (SPARC)
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'The former U.K. Department for International Development (now called Foreign,
   Commonwealth & Development Office) launched the State Partnership for Accountability,
@@ -24,8 +25,6 @@ regions:
 country:
 - Nigeria
 layout: project
----
-
 Nigeria is Africa’s largest economy. However, despite its economic dynamism, Nigeria’s inefficient resource management, widespread corruption, and a lack of accountability have undermined the government’s ability to translate this economic progress into inclusive growth and improved public services. Advancements in public administration, public financial management, and enhanced policy are crucial in helping government provide better services and reduce poverty.
 
 The former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office) launched the State Partnership for Accountability, Responsiveness, and Capability (SPARC) to support the Nigerian government in better managing resources and providing more responsive and accountable services. SPARC worked in a partnership of FCDO programmes that included demand-side accountability and direct service delivery in health, education, and economic growth. The programme built on the success of its predecessor program, the State and Local Government Programme. 

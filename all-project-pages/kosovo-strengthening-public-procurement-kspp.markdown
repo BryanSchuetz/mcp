@@ -1,5 +1,6 @@
 ---
 title: Kosovo—Strengthening Public Procurement (KSPP)
+---
 date: 2020-12-15 11:16:00 Z
 summary: The Kosovo Strengthening Public Procurement (KSPP) project strengthened the
   public procurement system and reduced incidents of malfeasance and corruption.
@@ -12,8 +13,6 @@ solutions:
 - Anti-corruption, Transparency, and Accountability
 regions: Eastern Europe and Central Asia
 country: Kosovo
----
-
 While Kosovo has been making positive progress towards reform and the requirements set out in the European Union-Kosovo Stabilisation and Association Agreement, corruption and ineffective public procurement remain a critical challenge.
 
 The Kosovo Strengthening Public Procurement (KSPP) project, funded by the British Embassy, worked to strengthen the public procurement system to reduce incidents of malfeasance and corruption. It improved practices implemented by contracting authorities, as well as worked with the Procurement Review Body (PRB)—a decision-making panel—to ensure professional and fair adjudication of procurement disputes.

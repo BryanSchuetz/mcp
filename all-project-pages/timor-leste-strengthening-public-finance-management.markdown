@@ -1,5 +1,6 @@
 ---
 title: Timor-Leste—Strengthening Public Finance Management
+---
 date: 2025-09-24 20:06:00 Z
 summary: Since restoring its independence in 2002, Timor-Leste has made significant
   progress in key development areas, including infrastructure, institutional frameworks,
@@ -14,8 +15,6 @@ solutions:
 - Economic Growth
 regions: Asia and the Pacific
 country: Timor-Leste
----
-
 Since restoring its independence in 2002, Timor-Leste has made significant progress in key development areas, including infrastructure, institutional frameworks, and human capital development. However, public services do not reach all citizens adequately, with groups such as women, children, people living in poverty, and persons living with disabilities at particular risk of being underserved.
  
 Deficient public services, particularly in rural areas, affect people’s access to food, clean water, and health services, such that nearly 40 percent of Timorese still live below the national poverty line, stunting due to malnutrition still affects nearly half of all children below age five—the  highest rate in Southeast Asia—and anemia affects more than one-fifth of women of reproductive age.

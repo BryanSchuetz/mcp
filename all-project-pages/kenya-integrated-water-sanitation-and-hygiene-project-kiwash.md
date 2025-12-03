@@ -1,5 +1,6 @@
 ---
 title: Kenya—Integrated Water, Sanitation, and Hygiene Project (KIWASH)
+---
 date: 2016-01-21 22:40:00 Z
 summary: The Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH) project
   combined nutrition programming with improved access to water security, sanitation,
@@ -31,8 +32,6 @@ promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
----
-
 By [combining nutrition programming ](https://medium.com/usaid-global-waters/tackling-malnutrition-at-every-turn-ff0961ade674#.ff6g4pdvj)with improved access to water, sanitation, and hygiene (WASH), the U.S. Agency for International Development designed the Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH). [KIWASH](http://www.kiwash.org/) enabled [nearly 900,000 Kenyans](https://www.usglc.org/blog/clean-water-education-access-opportunity/) across nine counties to gain access to improved water security, sanitation, and hygiene services (WSSH) and assist households in gaining access to irrigation and nutrition services.
 
 As county governments take on responsibility for investment in and oversight of service delivery to keep their constituents healthy—and their economies thriving—there is great opportunity to expand service delivery through public-private partnerships that bring new actors into the WSSH sector. [KIWASH](https://www.kiwash.org/) partnered with water and sanitation service providers to develop bankable business plans, improve operations, and facilitate access to financing. In parallel, behavior change communication activities linked to community-led total sanitation and hygiene stimulated demand for improved household sanitation, hygiene, and nutrition. Our target counties were Busia, Kakamega, Kisumu, Kitui, Makueni, Migori, Nairobi, Nyamira, and Siaya.
@@ -62,4 +61,4 @@ As county governments take on responsibility for investment in and oversight of 
 * Collaborated with Busia Water Company to decrease non-revenue water by 66 percent and establish more than 200 new water connections, benefitting more than 1,000 people. 
 * Launched [mobile payment options](https://www.globalwaters.org/resources/blogs/responding-covid-19-while-reinforcing-development-gains-kenya) in light of COVID-19 crisis. 
 * Equipped 583 schools and health facilities with handwashing stations. 
-* Reached 528,666 people with WSSH COVID-19 messaging. 
+* Reached 528,666 people with WSSH COVID-19 messaging.

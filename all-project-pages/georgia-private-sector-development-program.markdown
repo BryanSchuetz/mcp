@@ -1,5 +1,6 @@
 ---
 title: Georgia—Private Sector Development Program
+---
 date: 2024-10-23 13:46:00 Z
 published: false
 summary: The program improves the productivity and economic competitiveness of Georgian
@@ -14,8 +15,6 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Georgia
----
-
 Georgia faces a number of geopolitical challenges. To help counter malign influence, Georgia’s private sector needs to create inclusive, high-value jobs across the country, demonstrating the benefits of the Western economic model to citizens. As Georgia aspires to join the European Union (EU) and its firms seek to increase exports to the EU and other new markets, it will need to comply with increasingly stringent environmental and decarbonization regulations, such as the EU Green Deal framework. 
 
 Sustainability is also important for Georgian companies seeking to access capital, as investors globally are incorporating environmental, social, and governance elements into their decision-making process. Regulations such as the EU Taxonomy require investors to report on how their activities relate to climate change mitigation and adaptation, sustainable use of natural resources, and transition to a circular economy. 

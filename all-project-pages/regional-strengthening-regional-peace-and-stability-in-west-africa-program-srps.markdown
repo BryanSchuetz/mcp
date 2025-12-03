@@ -1,6 +1,7 @@
 ---
 title: Regional—Strengthening Regional Peace and Stability in West Africa Program
   (SRPS)
+---
 date: 2023-08-03 13:48:00 Z
 published: false
 summary: The Strengthening Regional Peace and Stability in West Africa program builds
@@ -14,8 +15,6 @@ solutions:
 - Peace-building and State-building
 regions: Sub-Saharan Africa
 country: West Africa
----
-
 For decades, West Africa has experienced the destabilization of state governments, extreme poverty, and the rise of violent extremist organizations. 
 
 In Benin, Burkina Faso, Mali, and Togo, in particular, violent extremist groups threaten the democratic process, leading to instability and crises within state governments. Water scarcity, reduced food and economic security, and violent competition over natural resources has only worsened widespread violence. 
@@ -39,5 +38,4 @@ DAI facilitates capacity development, institutional strengthening, networking, a
 ## Select Results
 
 * Helped establish and equip 48 village savings and loan associations in Benin.
-* Reached—through grantee Réseau Action, Justice, et Paix (RAJP) in northern Côte d’Ivoire—1,871 young people in Korhogo and Bouaké with restitution sessions and peer-to-peer feedback on conflict prevention, civic responsibility, and citizenship. 
- 
+* Reached—through grantee Réseau Action, Justice, et Paix (RAJP) in northern Côte d’Ivoire—1,871 young people in Korhogo and Bouaké with restitution sessions and peer-to-peer feedback on conflict prevention, civic responsibility, and citizenship.

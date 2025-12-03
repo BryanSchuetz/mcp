@@ -1,5 +1,6 @@
 ---
 title: Moldova—ICS Total Leasing SA, Moldova, Improvement of Risk Management
+---
 date: 2016-01-21 22:40:00 Z
 summary: 'To support the development of the small and medium enterprises sector in
   Moldova, the European Bank for Reconstruction and Development Bank, through the
@@ -19,8 +20,6 @@ regions:
 country:
 - Moldova
 layout: project
----
-
 To support the development of the small and medium enterprises sector in Moldova, the European Bank for Reconstruction and Development Bank, through the Moldovan Financial Sector Framework, approved a loan facility of €1.5 million to ICS Total Leasing SA in December 2010. The technical assistance attached to this loan facility will support ICS Total Leasing (TL) in developing effective portfolio quality management and successfully overcome the current challenging business environment precipitated by the global financial crisis.
 
 ###  Sample Activities
