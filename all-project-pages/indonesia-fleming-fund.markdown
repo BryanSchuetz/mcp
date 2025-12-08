@@ -2,7 +2,6 @@
 ---
 title: Indonesia—Fleming Fund Phases I and II
 ---
-
 date: 2020-10-19 09:50:00 Z
 summary: DAI’s Fleming Fund programme in Indonesia is a collaboration with the Indonesian
   government to strengthen systems using a “One Health” approach—a multisectoral approach
@@ -19,6 +18,8 @@ country: Indonesia
 promos:
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
+
+
 The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program to help low- and middle-income countries fight antimicrobial resistance (AMR). 
 
 DAI’s Fleming Fund program in Indonesia is a collaboration with the Indonesian government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in the approach, the DAI team is helping incorporate One Health across program interventions, supporting Indonesia in becoming a leader in combating AMR and a model for better management of antimicrobials in human and animal populations.

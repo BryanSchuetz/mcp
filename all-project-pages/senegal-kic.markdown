@@ -2,7 +2,6 @@
 ---
 title: Senegal—Kosmos Innovation Center (KIC)
 ---
-
 date: 2025-02-07 14:40:00 Z
 summary: DAI has designed and launched a new KIC program to support local innovation
   and entrepreneurship while meeting the unique needs of communities in Senegal.
@@ -13,6 +12,8 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Senegal
+
+
 Since 2016, DAI has been a trusted partner for Kosmos Energy, adapting and implementing the Kosmos Innovation Center (KIC) model in various countries of operation. Drawing from the successes and lessons of previous initiatives in Ghana and Mauritania, DAI has designed and launched a new KIC program tailored to meet the unique needs of communities in Senegal.
 
 This program, rooted in a comprehensive community needs assessment, reflects Kosmos Energy’s commitment to fostering economic diversification, advancing climate solutions, and empowering women and youth. By supporting local innovation and entrepreneurship, KIC Senegal aims to create lasting positive impacts while reinforcing Kosmos’ social license to operate.

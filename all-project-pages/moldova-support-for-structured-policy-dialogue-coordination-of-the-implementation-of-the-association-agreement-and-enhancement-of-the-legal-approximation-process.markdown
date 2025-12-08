@@ -3,7 +3,6 @@
 title: Moldova—Support for Structured Policy Dialogue, Coordination of the Implementation
 ---
   of the Association Agreement, and Enhancement of the Legal Approximation Process
-
 date: 2020-08-17 14:30:00 Z
 summary: This project is increasing the capacity of the Government of the Republic
   of Moldova and other key national institutions in implementing the European Union-Republic
@@ -18,6 +17,8 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Eastern Europe and Central Asia
 country: Moldova
+
+
 With the signing of the European Union (EU)-Moldova Association Agreement (AA) in 2016 that included a Deep and Comprehensive Free Trade Area (DCFTA), Moldova opted for political association and economic integration with the EU. This AA/DCFTA was unprecedented and is expected to stimulate domestic reforms and to complete Moldova’s transition to a well-functioning market economy. Further implementation of the AA/DCFTA should bring Moldova the benefits of increased trade, integration into the EU single market, and institutional and socio-economic modernization.
 
 The DAI-led technical assistance project works to increase the capacity of the Government of the Republic of Moldova and other key national institutions in implementing the EU-Republic of Moldova Association Agenda in line with the AA throughout all sectors. We are contributing to the acceleration of the AA/DCFTA implementation and making the process more participatory and transparent.

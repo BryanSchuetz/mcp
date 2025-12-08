@@ -3,7 +3,6 @@
 title: 'Russia—Administrative Reform: Improving Public Sector Finance, Expenditure,
 ---
   and Delivery of Services'
-
 date: 2016-01-21 22:40:00 Z
 summary: 'Working for the Technical Assistance to the Commonwealth of Independent
   States program, three DAI projects helped Russia improve public sector operations. '
@@ -17,6 +16,8 @@ regions:
 country:
 - Russia
 layout: project
+
+
 Administrative reform, civil service reform, and reform of the budget system is imperative for Russia to maintain its economic growth momentum. Working for the Technical Assistance to the Commonwealth of Independent States program, three DAI projects helped Russia improve public sector operations. The projects introduced European experience and best practice in these areas, in line with common standards as established for a European Administrative Space, and adapted European Union experience and best practice to specific Russian circumstances. Following are the projects and some of their accomplishments.
 
 ![][1]

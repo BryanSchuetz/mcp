@@ -2,7 +2,6 @@
 ---
 title: Armenia—Multi Bank Framework
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the European Bank for Reconstruction and Development
   to support Armenian partner banks in establishing adequate lending practices and
@@ -18,6 +17,8 @@ regions:
 country:
 - Armenia
 layout: project
+
+
 DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support Armenian partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes. DAI established and implemented EBRD-funded small and medium enterprise sub-projects in all-new partner banks. 
 
 ### Sample Activities

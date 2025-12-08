@@ -1,4 +1,3 @@
-
 ---
 title: Georgia—Private Sector Development Program
 ---
@@ -10,13 +9,16 @@ summary: The program improves the productivity and economic competitiveness of G
   sectors, while strengthening Georgia’s economic ecosystem to support further growth
   in these areas.
 start: 2024
-end: 2029
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Environment
 regions: Eastern Europe and Central Asia
 country: Georgia
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Georgia faces a number of geopolitical challenges. To help counter malign influence, Georgia’s private sector needs to create inclusive, high-value jobs across the country, demonstrating the benefits of the Western economic model to citizens. As Georgia aspires to join the European Union (EU) and its firms seek to increase exports to the EU and other new markets, it will need to comply with increasingly stringent environmental and decarbonization regulations, such as the EU Green Deal framework. 
 
 Sustainability is also important for Georgian companies seeking to access capital, as investors globally are incorporating environmental, social, and governance elements into their decision-making process. Regulations such as the EU Taxonomy require investors to report on how their activities relate to climate change mitigation and adaptation, sustainable use of natural resources, and transition to a circular economy. 

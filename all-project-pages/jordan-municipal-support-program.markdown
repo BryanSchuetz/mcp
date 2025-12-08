@@ -1,22 +1,25 @@
 
+
 ---
 title: Jordan—Municipal Support Program (MSP)
 ---
-
 date: 2022-08-25 13:48:00 Z
 published: false
 summary: The USAID Jordan Municipal Support Program improves local government service
   delivery, stimulates local economic development, and thereby strengthens the social
   contract in the Kingdom.
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
 - Local Governance and Decentralization
 regions: Middle East and North Africa
 country: Jordan
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The COVID-19 pandemic exacerbated already precarious economic and governance conditions in Jordan. In 2021, unemployment spiked to 25 percent. The confluence of the pandemic and recurrent economic crisis has caused municipal revenues to decline sharply. 
 
 Mayors and municipal councilors, as the face of government accountability and public spending, assume outsized responsibility for government performance. However, with limited authority, these officials are not empowered to make decisions and set funding priorities. Many municipalities have the basic building blocks needed to strengthen services and pursue local economic development but lack the organizational culture required to apply them effectively. Recognizing that municipalities should serve as convenors, enablers, and facilitators of local economic development, mayors and municipal councilors must partner with the private sector and remove bureaucratic obstacles to investment, job creation, and local economic growth. Municipalities must capitalize on their existing assets in partnership with the private sector, while also delivering more efficient services that are responsive to community needs.  

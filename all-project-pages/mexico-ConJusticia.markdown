@@ -1,9 +1,9 @@
 
+
 ---
 title: Mexico—Programa para el Fortalecimiento de Instituciones de Justicia Penal
 ---
   Estatal (ConJusticia)
-
 date: 2020-07-27 09:54:00 Z
 published: false
 summary: ConJusticia in Mexico consolidates and sustains recent justice system reforms
@@ -11,8 +11,8 @@ summary: ConJusticia in Mexico consolidates and sustains recent justice system r
   emphasis on promoting collaboration and durable partnerships between these entities
   and other justice sector and local actors.
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Include Primary and/or Secondary Solutions
 - Justice, Citizen Security, and Rule of Law
@@ -24,6 +24,9 @@ country: Mexico
 promos:
 - title: Ramping up Violence against Women Prevention, Risk Mitigation, and Response
   link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Over the last 10 years, the Government of Mexico introduced major reforms to improve the effectiveness, transparency, accessibility, and fairness of its criminal justice. However, its implementation has proceeded slowly and unevenly at the national and state levels. The lack of results of the reform and continued levels of impunity throughout Mexico have reduced citizen confidence in the government and called into question the legitimacy of the justice system. With high levels of violence and organized crime, and more than 30,000 homicides in 2019 alone, it is imperative that Mexican justice sector actors and citizens work together to make their communities safer and to ensure the rule of law is enforced. While the challenges are immense, there are opportunities as some states have shown a commitment to advancing the justice reform process and are eager to make progress toward reducing impunity and improving trust in their state-level institutions.
 
 The *Programa para el Fortalecimiento de Instituciones de Justicia Penal Estatal* (ConJusticia) consolidates and sustains recent justice system reforms by supporting state-level attorneys general offices and justice courts, with an emphasis on promoting collaboration and durable partnerships between these entities and other justice sector and local actors. These mutually supportive partnerships will enhance Mexico’s capacity to prosecute high-priority crimes—including high-impact and serious crimes—and reduce impunity.

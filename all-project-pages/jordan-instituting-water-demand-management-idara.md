@@ -2,14 +2,13 @@
 ---
 title: Jordan—Instituting Water Demand Management (IDARA)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: The Instituting Water Demand Management (IDARA) project helped Jordan manage
   its water demand to more effectively use the current water supply, and embrace water-use
   efficiency throughout the country.
 start: 2007
 end: 2012
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
@@ -18,6 +17,8 @@ regions:
 country:
 - Jordan
 layout: project
+
+
 One of the 10 most water-deprived countries in the world, Jordan is making every effort to cooperate with neighboring countries that control or share much of the available water resources. But, as Jordan aspires to raise the quality and standard of living of its citizens, it must expand the commercial, industrial, and tourism sectors, thereby putting additional stress on the country's already stretched water resources. The most viable short-term options are to manage its water demand to more effectively use the current water supply, and embrace water-use efficiency throughout the country.
 
 <iframe allowfullscreen="" frameborder="0" height="510" mozallowfullscreen="" src="https://player.vimeo.com/video/39851961?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>

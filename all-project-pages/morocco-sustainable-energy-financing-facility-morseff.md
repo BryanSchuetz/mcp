@@ -2,7 +2,6 @@
 ---
 title: Morocco—Sustainable Energy Financing Facility (MorSEFF)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: Like with its successful [PolSEFF](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)
   and [WebSEFF](/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii)
@@ -27,6 +26,8 @@ promos:
 - title: Paving the Way for Green Energy Financing in the Mediterranean
   link: https://dai-global-developments.com/articles/paving-the-way-for-green-energy-financing-in-the-mediterranean?utm_source=daidotcom
 layout: project
+
+
 Like with its successful [PolSEFF](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff) and [WebSEFF](/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii) projects in Poland and the Western Balkans, the European Bank for Reconstruction and Development (EBRD), in cooperation with the French Agency for Development, European Investment Bank, and KfW Development Bank, extended credit lines to local partner financial institutions in Morocco that then on-lent to their clients. These clients—small business and corporate borrowers—used this financing to invest in efficient and renewable energy equipment and services that decreased their carbon footprints and improved their bottom lines.
 
 The €110 million allocated to [MorSEFF](http://www.morseff.com/fr/) included financial contributions from EBRD, Agence Française de Développement (AFD), Kreditanstalt für Wiederaufbau (KfW), the European Investment Bank (EIB), and the European Union (EU). Those funds were on-lent to industrial companies willing to invest in green-energy equipment and complemented by EU-funded technical assistance or grants to participating companies.  

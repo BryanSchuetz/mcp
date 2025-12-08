@@ -2,7 +2,6 @@
 ---
 title: Slovakia—CAC Leasing
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
 start: 2005
@@ -19,6 +18,8 @@ summary: 'DAI was contracted by the European Bank for Reconstruction and Develop
   at CAC Leasing and help develop a new credit scoring model.
 
 '
+
+
 DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to improve small and medium-sized enterprise (SME) financing methodologies at CAC Leasing and help develop a new credit scoring model.
 
 ###  Sample Activities

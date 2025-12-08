@@ -2,11 +2,10 @@
 ---
 title: Nigeria—Young Africa Innovates (YAI)
 ---
-
 date: 2025-10-03 13:48:00 Z
 summary: The Young Africa Innovates (YAI) Programme is designed to empower young Nigerians
-as solution providers and changemakers, driving socio-economic development through
-innovation.
+  as solution providers and changemakers, driving socio-economic development through
+  innovation.
 start: 2025
 end: 2026
 client: Mastercard Foundation, United Nations Development Programme (UNDP)
@@ -14,6 +13,8 @@ solutions:
 - Workforce Development and Youth
 regions: Sub-Saharan Africa
 country: Nigeria
+
+
 The Young Africa Innovates (YAI) Programme is designed to empower young Nigerians as solution providers and changemakers, driving socio-economic development through innovation. Implemented across 13 states, YAI identifies, incubates, and scales youth-led solutions tackling Nigeria’s most pressing challenges in sectors such as agriculture, energy, health, commerce, financial inclusion, tourism, and the creative economy.
 
 ![nigeria-innovate.jpg](/uploads/nigeria-innovate.jpg)

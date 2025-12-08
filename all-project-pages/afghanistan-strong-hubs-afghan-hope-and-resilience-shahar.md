@@ -2,13 +2,12 @@
 ---
 title: Afghanistan—Strong Hubs for Afghan Hope and Resilience (SHAHAR)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: SHAHAR helped create well-governed, fiscally sustainable Afghan municipalities
   capable of meeting the needs of growing urban populations.
 start: 2014
 end: 2021
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Decentralization and Local Government Management
 - Governance
@@ -21,6 +20,8 @@ regions:
 country:
 - Afghanistan
 layout: project
+
+
 Our Strong Hubs for Afghan Hope and Resilience (SHAHAR) project worked to create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, SHAHAR provided support and monitored the performance of municipalities. SHAHAR helped to develop and implement key supporting laws and regulations. To broaden and sustain its impact and to improve knowledge-sharing, SHAHAR developed support and learning networks among organizations and individuals that play key roles in governance and municipal service delivery.
 
 ## Sample Activities

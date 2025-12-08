@@ -2,7 +2,6 @@
 ---
 title: Malawi—Justice and Accountability Programme (Chilungamo)
 ---
-
 date: 2020-04-21 14:52:00 Z
 summary: Chilungamo contributed to increased levels of governance, accountability,
   compliance with the rule of law, and respect, promotion, and protection of human
@@ -16,6 +15,8 @@ solutions:
 - Justice, Citizen Security, and Rule of Law
 regions: Sub-Saharan Africa
 country: Malawi
+
+
 The Government of Malawi has stated its commitment to contributing to dignified lives for its citizens through an accountable government, informed democratic choice, and the humane and effective delivery of justice.
 
 The Chilungamo (“justice”) project contributed to increased levels of governance, accountability, compliance with the rule of law, and respect, promotion, and protection of human rights in Malawi. The project worked to reduce the burden on the criminal justice system, coordinate the criminal justice system, reduce prison overcrowding, and increase access to justice for both victims and offenders. This effort to improve the justice system has assisted more than 100,000 Malawians by creating victim support units, ensuring people receive legal aid, handling 6,100 cases of violence against women, resolving 3,700 cases of maladministration, and facilitating the release of close to 5,000 prisoners—including people found to be innocent or detained beyond their sentence terms. 

@@ -2,14 +2,13 @@
 ---
 title: Afghanistan—Agricultural Credit Enhancement Program I & II (ACE)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: DAI managed a $100 million U.S. Agency for International Development (USAID)
   grant to the Ministry of Agriculture, Irrigation, and Livestock to provide credit
   to farmers, who repay their loans after their harvests.
 start: 2015
 end: 2019
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -18,6 +17,7 @@ regions:
 country:
 - Afghanistan
 layout: project
+
 
 For more than 25 years, Afghan farmers did not have access to agricultural credit, seriously constraining the growth of farming. DAI managed a $100 million U.S. Agency for International Development (USAID) grant to the Ministry of Agriculture, Irrigation, and Livestock to provide credit to farmers, who repay their loans after their harvests. The project also provided technical assistance so that farmers and others who borrow from the Agricultural Development Fund (ADF) are well prepared to sustain and succeed.
 

@@ -2,14 +2,13 @@
 ---
 title: Pakistan—Khyber Pakhtunkhwa Governance Program (KPG)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'The Khyber Pakhtunkhwa Governance Program assisted the provincial government
   and civil society organizations to improve local government service and better serve
   citizens. '
 start: 2015
 end: 2018
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Fragile States
@@ -21,6 +20,8 @@ regions:
 country:
 - Pakistan
 layout: project
+
+
 Khyber Pakhtunkhwa (KP) is Pakistan's smallest province, but it ranks third in population and economic activity. KP's relative vitality and diversity are offset by unstable public services and its vulnerability to militancy. The province, though, has seen incremental gains in stability in the past few years.
 
 The Khyber Pakhtunkhwa Governance Program (KPG) assisted the provincial government and civil society organizations to improve local government service and better serve citizens. It managed a mechanism for supporting activities that reinforced stability, counter extremism, and promoted democratic inclusiveness, including for women and other marginalized groups.

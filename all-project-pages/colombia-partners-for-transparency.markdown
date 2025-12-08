@@ -1,4 +1,3 @@
-
 ---
 title: Colombia—Partners for Transparency (PfT)
 ---
@@ -8,8 +7,8 @@ published: false
 summary: The Partners for Transparency program supports locally driven solutions that
   increase transparency and accountability and reduce corruption in Colombia.
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 regions: Latin America and the Caribbean
@@ -17,6 +16,9 @@ country: Colombia
 promos:
 - title: Mobilizing All Colombians in the Fight Against Corruption
   link: https://dai-global-developments.com/articles/mobilizing-all-colombians-in-the-fight-against-corruption/
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Partners for Transparency (PfT) program supports locally driven solutions that increase transparency and accountability and reduce corruption in Colombia. This activity—implemented with partners Foro por Colombia, Transparencia por Colombia, the School of Government of the University of the Andes and La Silla Vacía—strengthens citizen-responsive governance and increases citizen trust by leveraging targeted stakeholders’ expertise, engagement, and unique positions of influence.
 
 ![PFT pic.jpg](/uploads/PFT%20pic.jpg)

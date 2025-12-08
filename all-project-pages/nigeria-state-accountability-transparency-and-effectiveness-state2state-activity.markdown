@@ -1,16 +1,16 @@
 
+
 ---
 title: Nigeria—State Accountability, Transparency, and Effectiveness (State2State)
 ---
   Activity
-
 date: 2020-08-11 10:43:00 Z
 published: false
 summary: The Nigeria State Accountability, Transparency, and Effectiveness (State2State)
   Activity supports strengthened governance structures in six states.
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
@@ -23,6 +23,9 @@ promos:
 - title: USAID Governance Project in Nigeria Shepherds First State Water Resource
     Bill into Law
   link: https://www.dai.com/news/usaid-governance-project-in-nigeria-shepherds-first-state-water-resource-bill-into-law
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Nigeria State Accountability, Transparency, and Effectiveness (State2State) Activity supports strengthened governance structures in six states in Nigeria to improve their ability to plan and budget, raise revenues, increase civil society participation, and oversee service delivery in the health; education; and water, sanitation, and hygiene (WASH) sectors. State2State works primarily at the state level, but also supports federal institutions and local government areas. 
 
 State2State specifically recognizes the role of the state governors and commissioners in driving forward reforms in Nigeria, but, importantly, gives equal weight to the essential role that national fiscal and development policy, citizen demand, and local innovation, collaboration, and learning across and among states play in solving governance, financing, and service delivery challenges. 

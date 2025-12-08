@@ -2,18 +2,20 @@
 ---
 title: Jordan—Himaya Activity
 ---
-
 date: 2024-04-03 13:10:00 Z
 summary: The Himaya Activity works to improve—and expand access to—essential services
   and protections for women who are survivors of violence in Jordan.
 start: 2024
 end: 2029
 client: U.S. Government
+terminated: false
 solutions:
 - Governance
 - Gender and Social Inclusion
 regions: Middle East and North Africa
 country: Jordan
+
+
 Female Jordanian survivors of violence face a multitude of challenges when going through the protection system. Survivors are often too intimidated to report their cases to the Family and Juvenile Protection Department due to fear of familial disapproval and social repercussions. Those who have gone through the system have faced questioning and little protection, leading to revictimization and uncertainty about seeking resolutions. 
 
 Service providers and stakeholders from across the Jordanian protection system require improved survivor-centered service delivery methods, better infrastructure, and innovation in violence-against-women response systems. 

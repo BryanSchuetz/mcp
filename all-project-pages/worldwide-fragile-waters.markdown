@@ -1,8 +1,8 @@
 
+
 ---
 title: Worldwide—Fragile Waters
 ---
-
 date: 2023-10-03 13:24:00 Z
 published: false
 summary: The Fragile Waters mechanism provides U.S. Agency for International Development
@@ -10,13 +10,16 @@ summary: The Fragile Waters mechanism provides U.S. Agency for International Dev
   local officials, and communities with the information and interventions needed to
   pivot water security approaches and programs as shocks and stressors unfold.
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
 regions: Worldwide
 country: Worldwide
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Water security programming in areas affected by fragility and stressors requires complex solutions, collaboration across the humanitarian-development-peace nexus, and a strong evidence base for what works. 
 
 The Fragile Waters mechanism provides U.S. Agency for International Development Operating Units, government ministries, service providers, regulators, basin authorities, local officials, and communities with the information and interventions needed to pivot water security approaches and programs as shocks and stressors unfold.

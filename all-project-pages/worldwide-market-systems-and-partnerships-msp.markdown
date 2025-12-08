@@ -1,8 +1,8 @@
 
+
 ---
 title: Worldwide—Feed the Future Market Systems and Partnerships (MSP)
 ---
-
 date: 2020-06-30 10:48:00 Z
 published: false
 summary: The Feed the Future Market Systems and Partnerships activity (MSP) helps
@@ -11,8 +11,8 @@ summary: The Feed the Future Market Systems and Partnerships activity (MSP) help
   the same time deepening market systems development across the Feed the Future program
   cycle.
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -34,6 +34,9 @@ promos:
   link: https://agrilinks.org/post/partnership-lookbook-market-systems-and-partnerships-activity-msp
 - title: Primer on Private Sector Engagement for Fragile and Conflict-Affected Situations
   link: https://www.marketlinks.org/resources/primer-private-sector-engagement-fragile-and-conflict-affected-situations
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S. Agency for International Development (USAID) advance learning and good practice in integrating private sector engagement across all activities, while at the same time deepening market systems development across the Feed the Future program cycle.
 
 MSP supports USAID and its implementers to deliver durable, systemic, and inclusive agriculture-led growth that results in more dynamic agriculture and food market systems, improved food security and nutrition, and sustained poverty reduction. MSP strengthens practical guidance for market systems development including how to translate theory into practice, builds the evidence base on market systems development impact, and strengthens the tools for measuring systemic change. MSP uses an agile operational approach that captures and communicates innovation, builds broad internal and external stakeholder capacity, and nurtures transformational—and not—transactional partnerships between USAID and the private sector.

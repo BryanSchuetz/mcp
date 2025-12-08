@@ -3,7 +3,6 @@
 title: Regional—Technical Assistance for the Implementation of the Support Programme
 ---
   to the Maritime Security Strategy in Central Africa (PASSMAR)
-
 date: 2021-07-27 15:20:00 Z
 summary: 'DAI''s work aims to reinforce the safety and security in the maritime domain
   in the Gulf of Guinea in the Economic Community of Central African States (ECCAS)
@@ -15,6 +14,8 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Regional
+
+
 The Gulf of Guinea is an important shipping zone transporting oil and gas, as well as goods to and from central and southern Africa. Piracy, armed robbery at sea, kidnapping of seafarers, illegal fishing, smuggling and trafficking, and transnational organized crime pose a major threat to maritime security in the Gulf of Guinea and ultimately to the economic development of the entire region. The European Union (EU) Maritime Security Strategy Action Plan as well as the EU Gulf of Guinea Strategy and Action Plan frame the EU’s response to these challenges.
 
 DAI's work aims to reinforce the safety and security in the maritime domain in the Gulf of Guinea in the Economic Community of Central African States (ECCAS) Region. 

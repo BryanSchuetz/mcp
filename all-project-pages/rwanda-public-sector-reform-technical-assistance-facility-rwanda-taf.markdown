@@ -2,7 +2,6 @@
 ---
 title: Rwanda—Public Sector Reform Technical Assistance Facility (TAF)
 ---
-
 date: 2021-09-03 12:36:00 Z
 summary: 'The Rwanda Technical Assistance Facility (TAF) is a component of the Strengthening
   Public Financial Management and Revenue Collection (SPARC) program, which aims to
@@ -21,6 +20,8 @@ country: Rwanda
 promos:
 - title: 'Case Study: Strengthening Accountability at the Decentralised Level'
   link: "/uploads/Rwanda_TAF_GMO_02-e5dc6d.pdf"
+
+
 The Rwanda Technical Assistance Facility (TAF) is a component of the Strengthening Public Financial Management and Revenue Collection (SPARC) program, which aims to support the Government of Rwanda on a range of priorities across the public sector policy-making agenda.
 
 The TAF is supporting the government of Rwanda in delivering the National Strategy for Transformation (NST1) through the provision of short and long-term technical expertise to strengthen the quality and inclusivity of the policy-making process as critical to achieving a more effective policy response to complex development problems. This flexible and responsive facility provides technical expertise and capacity building to government ministries, departments, and agencies (MDAs) in policy development and implementation, feedback mechanisms, performance contracts, and cross-government coordination, among others.

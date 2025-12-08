@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Trade and Private Sector Development (TPSD) Facility I, II, and III
 ---
-
 date: 2017-02-21 01:44:00 Z
 summary: The Trade and Private Sector Development Facility helps shape and implement
   new policies related to Aid for Trade and regional integration programmes.
@@ -17,6 +16,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 Key: 
+
+
 Trade and private sector engagement are recognized as key drivers for poverty reduction given their ability to spur growth and investment, create good-quality jobs, and generate tax revenues to fund public services. However, improved market access alone is not always sufficient for sustained economic development. Access often needs to be complemented by policy measures that support lasting and equitable prosperity.
 
 The Trade and Private Sector Development (TPSD) Facility I (2017-2021) was established to support the implementation of the EU’s 2014 Private Sector Communication and to shape and implement new policy orientations, in particular those geared toward the EU’s External Investment Plan. Through TPSD I, DAI provided technical expertise to EU staff working on private sector and trade in Brussels and worldwide, created and shared knowledge inside the institution, and supported the visibility of the Directorate-General for International Partnerships (DG INTPA).

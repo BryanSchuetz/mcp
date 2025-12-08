@@ -2,14 +2,13 @@
 ---
 title: Indonesia—Jalin
 ---
-
 date: 2017-09-14 21:31:00 Z
 summary: The U.S. Agency for International Development’s Jalin program assisted the
   Indonesian government as it promoted solutions for preventing maternal and newborn
   deaths and extending health services.
 start: 2017
 end: 2021
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Global Health
 - Innovation and Entrepreneurship
@@ -27,6 +26,8 @@ promos:
   link: https://www.dai.com/news/two-health-innovations-supported-by-usaid-jalin-project-win-awards
 - title: DELIVERY! Saving Moms & Babies in Rural Indonesia
   link: https://usaidindonesia.exposure.co/delivery
+
+
 While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. 
 
 The U.S. Agency for International Development (USAID) Jalin project partnered with the Indonesian Ministry of Health to reduce maternal and newborn deaths. USAID Jalin used a whole-of-market approach to improve: 1) maternal and newborn health quality of care in public and private, primary and secondary facilities, and 2) the efficiency and effectiveness of the emergency referral system at community and facility levels. The project worked to: sustain improvements in clinical hospital teams’ treatment of obstetric and newborn complications; focus stakeholder strategies on the main causes of maternal and newborn death; sustain improvements to quality of care provided by private midwives; and scale improved referral networks and integrated ICT platforms to support those referrals.  

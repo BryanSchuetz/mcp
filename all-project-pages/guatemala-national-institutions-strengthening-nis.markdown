@@ -2,7 +2,6 @@
 ---
 title: Guatemala—National Institutions Strengthening
 ---
-
 date: 2022-04-11 11:41:00 Z
 summary: The Guatemala National Institutions Strengthening Project supported the Government's
   reform efforts, focused on creating a more effective and transparent public financial
@@ -10,7 +9,7 @@ summary: The Guatemala National Institutions Strengthening Project supported the
   for corruption, enhance public service delivery, and deter illegal migration.
 start: 2022
 end: 2023
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
@@ -22,6 +21,8 @@ promos:
 - title: Want Better Domestic Revenue Mobilization? Build a Digital Taxpayer Registration
     Tool
   link: https://dai-global-developments.com/articles/want-better-domestic-revenue-mobilization-build-a-digital-taxpayer-registration-tool/
+
+
 Irregular migration from Guatemala has surged, and the U.S. Government has renewed its commitment to partner with the Government of Guatemala to address the main drivers of migration. These include a general lack of attractive employment opportunities, insufficient public services, food insecurity, and violence. These challenges are compounded by natural disasters, drought, and the COVID-19 pandemic, motivating more Guatemalans to make the perilous journey north. 
 
 Modest increases in social spending in recent years have not translated into improved access to basic public services for all Guatemalans, regardless of their place of residence, ethnic group, or ability to pay. Thus, social development indicators have not improved. 

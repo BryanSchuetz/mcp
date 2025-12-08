@@ -2,14 +2,13 @@
 ---
 title: Afghanistan—Stability in Key Areas-North (SIKA-North)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'SIKA-North worked to create more resilient communities in Afghanistan that
   see their government officials as delivering public services and responsive to local
   problems. '
 start: 2012
 end: 2015
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Fragile States
@@ -21,6 +20,8 @@ regions:
 country:
 - Afghanistan
 layout: project
+
+
 SIKA-North worked to create more resilient communities in Afghanistan that see their government officials as delivering public services and responsive to local problems. This is critical to stability, as Afghans generally assert that government effectiveness improves their personal sense of predictability, community resilience, and physical security.
 
 The project worked with district officials to plan, design, implement, and monitor projects targeted at improving service provision and stability.

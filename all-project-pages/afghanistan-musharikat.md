@@ -2,13 +2,12 @@
 ---
 title: 'Afghanistan—Promote: Musharikat'
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: Musharikat supported the U.S. Agency for International Development (USAID)
   Afghanistan’s investments in women.
 start: 2015
 end: 2021
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Economic Growth
@@ -23,6 +22,8 @@ regions:
 country:
 - Afghanistan
 layout: project
+
+
 Musharikat supported the U.S. Agency for International Development (USAID) Afghanistan’s investments in women.
 
 ## Select Results

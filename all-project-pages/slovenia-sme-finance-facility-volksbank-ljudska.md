@@ -2,7 +2,6 @@
 ---
 title: Slovenia—SME Finance Facility—Volksbank Ljudska
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
 start: 2006
@@ -25,6 +24,8 @@ summary: 'Having identified a need to deepen small and medium-sized enterprise (
   increase its SME lending activities.
 
 '
+
+
 Having identified a need to deepen small and medium-sized enterprise (SME) credit markets in Slovenia, the European Bank for Reconstruction and Development undertook this project with the aim of building financial intermediaries' confidence and capacity to assess risks and extend financing to Slovenian SMEs. DAI was contracted to design an appropriate lending methodology to allow Volksbank to substantially increase its SME lending activities.
 
 ###  Sample Activities

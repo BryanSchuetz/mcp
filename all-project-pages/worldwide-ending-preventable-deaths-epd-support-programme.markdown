@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Ending Preventable Deaths (EPD) Support Programme
 ---
-
 date: 2025-10-21 16:22:00 Z
 summary: The Ending Preventable Deaths (EPD) Support Programme supports the U.K. Foreign,
   Commonwealth & Development Office’s strategy for Contributing to Ending the Preventable
@@ -15,6 +14,8 @@ solutions:
 - Global Health
 regions: Worldwide
 country: Global
+
+
 The Ending Preventable Deaths (EPD) Support Programme supports the U.K. Foreign, Commonwealth & Development Office’s strategy for Contributing to Ending the Preventable Deaths of Mothers, Babies, and Children by 2030—and is a core component of FCDO’s global health strategy.
 
 The EPD Support Programme aims to reduce maternal, newborn, and child mortality by holistic action across key health pillars. These include strengthening health systems and financing, supporting equity and rights initiatives (including sexual and reproductive health), and promoting healthier lives and environments, including work on water, sanitation, and health (WASH), nutrition, and climate-health linkages.

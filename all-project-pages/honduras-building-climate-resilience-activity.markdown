@@ -1,4 +1,3 @@
-
 ---
 title: Honduras—Building Climate Resilience Activity
 ---
@@ -9,14 +8,17 @@ summary: 'The Building Climate Resilience Activity strengthens the capacity of H
   systems to respond to climate variability and change, thereby helping address underlying
   factors that contribute to irregular migration.  '
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Climate
 - Climate Change Adaptation and Mitigation
 regions: Latin America and the Caribbean
 country: Honduras
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 In Honduras, extreme weather events and shocks such as cyclones, forest fires, and drought threaten Honduran ecosystems, worsen food insecurity, and contribute to water scarcity. Most recently, the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the Honduran economy, hampering poverty reduction efforts, provoking social unrest, and driving irregular migration.
 
 In the face of these unprecedented challenges, Hondurans need new approaches to build resilience that will enable them to thrive—where they are.

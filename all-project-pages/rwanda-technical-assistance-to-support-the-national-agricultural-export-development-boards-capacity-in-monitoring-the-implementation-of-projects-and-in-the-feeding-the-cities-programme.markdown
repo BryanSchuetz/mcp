@@ -4,7 +4,6 @@ title: Rwanda—Technical Assistance to Support the National Agricultural Export
 ---
   Board’s Capacity in Monitoring the Implementation of Projects and in the ‘Feeding
   the Cities’ Programme
-
 date: 2021-02-05 10:43:00 Z
 summary: 'The European Union is supporting the Government of Rwanda to modernize agriculture
   through a number of projects and funding models. DAI provides project monitoring
@@ -16,6 +15,8 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Rwanda
+
+
 Rwanda’s agricultural sector is predominantly composed of smallholder farmers, the country’s main food suppliers. With more than 70 percent of the farming community counted as smallholders, the country and its development partners have embarked on a plan to professionalize the industry, supporting farmers to maximize their productivity. The modernization plan also supports market linkages—locally and internationally. 
 
 The European Union (EU) supports the Government of Rwanda's efforts to modernize agriculture through a number of projects and funding models. DAI provides project monitoring and management support to the National Agricultural Export Development Board. 

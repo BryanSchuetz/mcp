@@ -3,7 +3,6 @@
 title: Burundi—Assistance Technique et Appui à la Communication et Visibilité du Programme
 ---
   d'Appui à la Société Civile au Burundi (ASCB)
-
 date: 2019-12-20 18:38:00 Z
 summary: The Assistance Technique et Appui à la Communication et Visibilité du Programme
   d'Appui à la Société Civile au Burundi (ASCB) project supports civil society in
@@ -15,6 +14,8 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Burundi
+
+
 Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans.
 
 Implemented through grants and procurement of services, the ASCB project supports civil organizations’ participation in development and local governance issues. 

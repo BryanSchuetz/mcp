@@ -1,4 +1,3 @@
-
 ---
 title: Honduras—Justicia Efectiva Activity
 ---
@@ -9,8 +8,8 @@ summary: "*Justicia Efectiva* combats impunity and corruption by targeting crime
   promoting collaboration among justice institutions and counterparts from civil society,
   the private sector, academia, and other nonstate actors in Honduras."
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Justice, Citizen Security, and Rule of Law
@@ -23,6 +22,9 @@ promos:
 - title: USAID Launches Next-Generation Project to Reduce Impunity and Corruption
     in Honduras
   link: https://www.dai.com/news/usaid-launches-next-generation-project-to-reduce-corruption-in-honduras
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Impunity in Honduras remains persistently high, which is exacerbated by corruption and crime that reduce public trust and weaken the independence of judicial institutions. This results in an erosion of security that drives many vulnerable Hondurans to migrate irregularly each year. Within this challenging context, *Justicia Efectiva* has identified ‘bright spots’ such as a vibrant civil society, opportunities for building solid partnerships with multi-sectoral actors, and political will among justice operators, all of which present strategic entry points.
 
 *Justicia Efectiva* employs a comprehensive, people-centered approach to improve access to justice, enhance the effectiveness of the criminal justice system, and build trust in public institutions. This is achieved through innovative solutions across the Activity’s four strategic themes that enhance interinstitutional and multi-sectoral coordination and promote judicial independence: strategic criminal prosecution, local justice systems, people-centered justice, and open justice. 

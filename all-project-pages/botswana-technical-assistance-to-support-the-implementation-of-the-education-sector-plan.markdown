@@ -3,7 +3,6 @@
 title: Botswana—Technical Assistance to Support the Implementation of the Education
 ---
   Sector Plan
-
 date: 2021-07-27 13:08:00 Z
 summary: DAI supported the Government of Botswana, and especially the Ministry of
   Education and Skills Development, to implement the Education and Training Strategic
@@ -17,6 +16,8 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Botswana
+
+
 As part of a national development strengthening initiative, Botswana has begun transforming its education system to align it with the national development vision—culminating in the Education and Training Strategic Sector Plan (ETSSP). 
 
 DAI supported the Government of Botswana, and especially the Ministry of Education and Skills Development, to implement the ETSSP and to undertake key system reforms, including improvements in public finance management. The ETSSP supported Botswana’s Vision 2016 development goals through the 10th National Development in terms of a prosperous, productive, and innovative society achieved through poverty reduction, promotion of life-long learning and helping to promote the National Human resources Development Strategy (NHRDS).

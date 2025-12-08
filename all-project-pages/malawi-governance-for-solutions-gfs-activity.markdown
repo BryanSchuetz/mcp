@@ -1,8 +1,8 @@
 
+
 ---
 title: Malawi—Governance for Solutions (GfS) Activity
 ---
-
 date: 2022-08-01 13:03:00 Z
 published: false
 summary: 'The Malawi Governance for Solutions (GfS) Activity works to foster stable,
@@ -10,12 +10,15 @@ summary: 'The Malawi Governance for Solutions (GfS) Activity works to foster sta
   to address their own challenges and contribute to the trajectory of [Malawi Vision
   2063](https://malawi.un.org/en/108390-malawi-vision-2063-inclusively-wealthy-and-self-reliant-nation). '
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Malawi
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Nearly 30 years since its peaceful democratic transition, Malawi remains one of the poorest countries in the world, with citizens suffering from low life expectancy, poor access to basic health facilities, low education quality, and critical levels of deforestation and over-fishing impacting livelihoods, energy access, and food security. Decentralization—which aims to consolidate Malawi’s democratic system and improve service delivery—has advanced, but has not fully lived up to its promise.
 
 The Malawi Governance for Solutions (GfS) Activity [builds on the incremental gains](https://www.dai.com/our-work/projects/malawi-local-government-accountability-and-performance-lgap) Malawi has made over the past few years in decentralization and associated service delivery improvements. To make the significant leaps now required for Malawi to meet its own development goals—in the context of a fast-growing, young population—a bold, adaptive, and sustainable approach is required. 

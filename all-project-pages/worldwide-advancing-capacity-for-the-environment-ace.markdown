@@ -1,8 +1,8 @@
 
+
 ---
 title: Worldwide—Advancing Capacity for the Environment (ACE)
 ---
-
 date: 2022-07-20 10:30:00 Z
 published: false
 summary: The Advancing Capacity for the Environment (ACE) program facilitates the
@@ -10,8 +10,8 @@ summary: The Advancing Capacity for the Environment (ACE) program facilitates th
   conserve biodiversity and manage natural resources, improve land governance, and
   expand access to secure, modern energy and resilient infrastructure.
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Climate
@@ -20,7 +20,10 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: ACE Fact Sheet
-  link: "/uploads/USAID-ACE-Program-Fact-Sheet%20(1).pdf"
+  link: "/uploads/USAID-ACE-Program-Fact-Sheet (1).pdf"
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Advancing Capacity for the Environment (ACE) program facilitates the U.S. Agency for International Development (USAID)’s work to address weather-related changes, conserve biodiversity and manage natural resources, improve land governance, and expand access to secure, modern energy and resilient infrastructure. [ACE](https://www.climatelinks.org/resources/advancing-capacity-environment-ace-program-fact-sheet) strengthens capacities for technical leadership and effective programming through integrated support in four areas: communications, knowledge management, training, and organizational development.
 
 The intensity and complexity of today’s environmental challenges—from ocean plastic pollution to natural resource degradation and biodiversity loss—threaten to reverse decades of progress in global development. To sustain improvements in human welfare, USAID is taking bold action to address these challenges through investments that cut across all technical sectors.

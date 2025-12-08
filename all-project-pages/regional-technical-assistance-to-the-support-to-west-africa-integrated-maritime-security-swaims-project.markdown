@@ -3,7 +3,6 @@
 title: Regional—Technical Assistance to the  Support to West  Africa Integrated Maritime  Security
 ---
   (SWAIMS) Project
-
 date: 2021-01-18 13:41:00 Z
 summary: 'Our project supported the SWAIMS programme to improve maritime security
   and safety in the Gulf of Guinea. We strengthened governance and law enforcement
@@ -16,6 +15,8 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: West Africa, Mauritania
+
+
 The Gulf of Guinea, Nigeria, and Niger Delta suffer from major and regular maritime insecurity that range from piracy, armed robbery, and kidnapping to illegal oil bunkering, trafficking, and smuggling. 
 
 The Support to  West  Africa  Integrated  Maritime  Security (SWAIMS) programme was a multi-country intervention, covering member states of the Economic Community of West African States (ECOWAS) under the European Union-West Africa regional Indicative Programme—Benin, Burkina Faso, Cabo Verde, Côte d’Ivoire, The Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo, as well as Mauritania with a specific focus on coastal countries. 

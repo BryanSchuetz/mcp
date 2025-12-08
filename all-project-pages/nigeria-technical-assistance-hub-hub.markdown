@@ -2,7 +2,6 @@
 ---
 title: Nigeria—Technical Assistance Hub (TA Hub)
 ---
-
 date: 2020-06-05 08:33:00 Z
 summary: 'The Technical Assistance Hub (TA Hub) is an independent nonprofit organization
   that coordinates the delivery of comprehensive technical assistance and institutional
@@ -14,6 +13,8 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: Nigeria
+
+
 In November 2019, the Bill and Melinda Gates Foundation invested in the establishment of a Technical Assistance Hub to serve as a platform for delivering cohesive technical assistance in primary healthcare to state governments in Nigeria. DAI was contracted to establish and transition the formative entity to a steady-state organization, with the capacity to function as an independent platform providing technical assistance for primary health care system strengthening to state governments. The Hub is now registered as TAConnect and since June 2021 has started to operate as a fully-fledged entity. 
 
 TAConnect’s activities addressed fragmentation in the design and delivery of technical assistance to states in Nigeria, enabling increased collaboration, coordination, learning, and impact. We provided support to TAConnect to mature specific strategic and operational functions of the organization such as: business plan and business development support, financial management and fiduciary responsibility strengthening, subaward management strengthening, and statutory compliance support.

@@ -2,7 +2,6 @@
 ---
 title: 'Tanzania—ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity'
 ---
-
 date: 2022-10-03 11:46:00 Z
 summary: 'The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity
   project supported the U.S. Embassy in building Tanzania’s capacity to embrace international
@@ -11,12 +10,14 @@ summary: 'The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capa
   related to information and communications technologies.'
 start: 2022
 end: 2024
-client: U.S. Department of State, Embassy Dar es Salaam
+client: U.S. Government, Embassy Dar es Salaam
 solutions:
 - Digital Strategy
 - Digital Acceleration
 regions: Sub-Saharan Africa
 country: Tanzania
+
+
 While Tanzania has a robust information and communications technologies (ICT) and digital sector (including private-sector developers, tech startups, local talent, and a burgeoning e-government ecosystem), the policy and regulatory environment has not kept pace with technological advancements. 
 
 The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity project supported the U.S. Department of State, U.S. Embassy Dar es Salaam, in building Tanzania’s capacity to embrace international best practices and standards that advance an open, interoperable, and secure internet; defend against authoritarian practices; and catalyze investments in goods and services related to information and ICT.

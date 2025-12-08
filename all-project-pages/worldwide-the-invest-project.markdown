@@ -2,13 +2,12 @@
 ---
 title: Worldwide—INVEST
 ---
-
 date: 2017-10-06 19:20:00 Z
 summary: 'INVEST was a flexible, efficient buy-in mechanism that helped the U.S. Agency
   for International Development (USAID) mobilize private capital for development results. '
 start: 2017
 end: 2024
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 - Market Solutions
@@ -51,6 +50,8 @@ promos:
   link: "/uploads/Sustainable%20Banking%20Alliance%20-%20Lessons%20Learned%20for%20Climate%20Finance%20in%20Colombia%20and%20Egypt.pdf"
 - title: 'BLOG: Making Blended Finance Work for Climate'
   link: https://dai-global-developments.com/articles/making-blended-finance-work-for-climate/
+
+
 INVEST was a flexible, efficient buy-in mechanism implemented over seven years that helped the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an [opportunity](https://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) for USAID, but it requires new forms of collaboration with the private sector.
 
 [INVEST](https://www.usaid.gov/INVEST) was designed to address challenges and make it easier for USAID to work alongside the investment community. It ensured rapid [procurement](https://www.invest-procurement.com/about-procurements)—under 12 weeks—so USAID could act within investors’ timelines. It [enabled](https://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/) flexible, specialized project design and implementation. And, it focused on learning and adaptation to drive innovation in mobilizing private capital.

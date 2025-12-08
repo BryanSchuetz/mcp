@@ -2,7 +2,6 @@
 ---
 title: Uganda—Improving Access to Health Care for the Poor
 ---
-
 date: 2018-01-18 18:40:00 Z
 summary: 'DAI Global Health and Montrose International implemented multiple studies
   to assess the costs and benefits of Results-Based Financing relative to Input-Based
@@ -15,6 +14,8 @@ solutions:
 - Nutrition and Food Security
 regions: Sub-Saharan Africa
 country: Uganda
+
+
 DAI Global Health and Montrose International implemented multiple studies to assess the costs and benefits of Results-Based Financing relative to Input-Based Financing in Northern Uganda. The studies aimed to isolate the main effect of the financing modality in terms of quality and quantity of health service provision. 
 
 This project provided evidence—including how cost-effective programme approaches can be adapted to circumstances of fragility, poor governance, and weak systems—where unmet need in reproductive, maternal, newborn, and child health is often greatest.

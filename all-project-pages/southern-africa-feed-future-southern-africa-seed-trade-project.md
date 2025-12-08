@@ -2,7 +2,6 @@
 ---
 title: Feed the Future Southern Africa Seed Trade Project (Seed Trade Project)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: This project provided technical assistance to help harmonize seed regulations
   in the Southern African Development Community (SADC), which allowed seed trade across
@@ -10,7 +9,7 @@ summary: This project provided technical assistance to help harmonize seed regul
   SADC market for seeds.
 start: 2015
 end: 2022
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -31,6 +30,8 @@ promos:
 - title: 'VIDEO: Feedback from SADC Farmers'
   link: https://www.sadcseedcentre.com/youtube_video/farmers/
 layout: project
+
+
 The Seed Trade Project improved the availability of and access to high-quality seed in the Southern African Development Community (SADC) countries. The project supported the SADC Secretariat to harmonize policies and regulations governing seed trade in the SADC Member States. The work facilitated seed trade across the region, integrating small and isolated national markets into one larger SADC-wide market for seeds. This, in turn, [increased agricultural productivity](https://www.usglc.org/global-impact-project/stories/seeding-food-security) and profitability and subsequent food and nutrition security.
 
 The [Feed the Future Enabling Environment for Food Security (2016) Report](https://agrilinks.org/activities/feed-future-enabling-environment-food-security-project) found that small national variations among regulations related to variety release, seed certification, quality control, and quarantine and phytosanitary regulations lead to increased transaction costs and duplicative procedures, which together not only raise the cost, but also increase the time required to get seeds to farmers.

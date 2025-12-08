@@ -2,7 +2,6 @@
 ---
 title: Pakistan—Climate Finance Accelerator (CFA)
 ---
-
 date: 2022-06-09 12:03:00 Z
 tags:
 - climate
@@ -18,6 +17,8 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Pakistan
+
+
 The global Climate Finance Accelerator (CFA) program is a four-year technical assistance program funded by the U.K. Department for Energy Security and Net Zero and contracted by PricewaterhouseCoopers. DAI, as a subcontractor, is delivering the first two phases of the CFA activities in Pakistan by convening a wide variety of stakeholders, including project proponents and developers, banks and other finance providers, and government representatives.
 
 ## Sample Activities

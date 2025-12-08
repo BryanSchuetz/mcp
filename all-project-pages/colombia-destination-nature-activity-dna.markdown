@@ -1,4 +1,3 @@
-
 ---
 title: Colombia—Destination Nature Activity (DNA)
 ---
@@ -9,14 +8,17 @@ summary: 'The Destination Nature Activity conserves biodiversity and reduces gre
   gas emissions by supporting rural communities to make a living from sustainable
   nature tourism. '
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Natural Resource Management
 - Climate
 regions: Latin America and the Caribbean
 country: Colombia
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Coinciding with the Peace Accords, Colombia's international tourist arrivals surged by 85 percent in the mid-2010s as a new generation of travelers discovered the vibrant flora, remarkable fauna, and unique ecosystems of the world’s second most biodiverse country. 
 
 The Destination Nature Activity (DNA) is an innovative new program that embraces the emerging nature tourism industry as a central pillar for the Government of Colombia to achieve its environmental ambitions, while also meeting its social and economic commitments in the [2016 Peace Accord](https://en.wikipedia.org/wiki/2016_Colombian_peace_agreement_referendum).

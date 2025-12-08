@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Global Centre on Biodiversity for Climate
 ---
-
 date: 2023-04-27 09:39:00 Z
 summary: GCBC exists to generate robust new evidence and knowledge on the conservation
   and sustainable use of biodiversity that demonstrates the interconnectedness of
@@ -15,6 +14,8 @@ solutions:
 - Environment
 - 
 regions: Worldwide
+
+
 The Global Centre on Biodiversity for Climate ([GCBC](https://www.gcbc.org.uk/about-the-global-centre-on-biodiversity-for-climate/)) funds research into natural solutions to changes in climate and poverty. By working in partnership with a global network of scientists, academics, and research institutions, the GCBC seeks to develop scalable approaches to the conservation and sustainable use of biodiversity that deliver climate resilience and improve livelihoods. 
 
 The program is focused on a systems approach to understanding nature, climate, and people as one system; and a theory of transformative change using evidence (at an individual project level and synthesized at a program level) from funded projects. The ultimate ambition for the project is to uncover locally driven solutions to protecting and utilizing biodiversity that can be publicized throughout the scientific community and by wider adoption by national governments to play a significant part in the world’s efforts to avert catastrophic weather-related impacts. 

@@ -2,10 +2,9 @@
 ---
 title: Morocco—Green Value Chains (Morocco GVC)
 ---
-
 date: 2021-09-15 11:29:00 Z
 summary: The Morocco Green Value Chains project combines small firm competitiveness
-concepts with the green economy.
+  concepts with the green economy.
 start: 2018
 end: 2024
 client: European Bank for Reconstruction and Development
@@ -15,6 +14,8 @@ solutions:
 - Energy
 regions: Middle East and North Africa
 country: Morocco
+
+
 As the green value chain line of the Green Economy Financing Facilities (GEFF), the Morocco Green Value Chains (Morocco GVC) project builds upon the market achievements of the European Bank for Reconstruction and Development (EBRD) [Sustainable Energy Financing Facility (MorSEFF)](https://www.dai.com/our-work/projects/morocco-sustainable-energy-financing-facility-morseff) programme, managed by DAI. The Facility represents simultaneously the first extension of the GEFF framework to a French business language country among the EBRD countries and the first to combine small firm competitiveness concepts with the green economy.
 
 Morocco GVC is a €90 million facility, co-financed by the European Union, the Green Climate Fund, and the Korean Technical Assistance & Cooperation Account. The Facility provides dedicated credit lines, supported by financial investment incentives and technical assistance, to local participating financial institutions in Morocco for on-lending to help finance high-performance technologies and services supporting a green economy and boosting the competitiveness of small and medium enterprises.

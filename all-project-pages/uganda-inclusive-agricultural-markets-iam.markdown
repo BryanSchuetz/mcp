@@ -1,16 +1,16 @@
 
+
 ---
 title: Uganda—Feed the Future Inclusive Agricultural Markets (IAM)
 ---
-
 date: 2019-10-15 07:27:00 Z
 published: false
 summary: The Feed the Future Inclusive Agricultural Marketsactivity works to increase
-incomes and improve livelihoods in Uganda by promoting agriculture-led economic
-growth.
+  incomes and improve livelihoods in Uganda by promoting agriculture-led economic
+  growth.
 start: 2019
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Agriculture and Food Security
@@ -24,6 +24,9 @@ promos:
   link: https://daiglobal.exposure.co/improving-farmers-access-to-quality-inputs
 - title: 'BLOG: A Market Systems Approach to Climate-Smart Agriculture in Uganda'
   link: https://dai-global-developments.com/articles/a-market-systems-approach-to-climate-smart-agriculture-in-uganda/?utm_source=daidotcom
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Feed the Future Inclusive Agricultural Markets (IAM) activity works to increase incomes and improve livelihoods in Uganda by promoting agriculture-led economic growth.
  
 IAM takes a [market systems development](https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming?utm_source=daidotcom) approach. It builds the capacity of Government of Uganda institutions and of private sector and civil society organizations, and seeks to create incentives for agro-industry and agribusiness firms to invest and respond to changes in the market system. 

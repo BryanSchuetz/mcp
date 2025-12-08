@@ -2,7 +2,6 @@
 ---
 title: Palestine—Facility for New Market Development (FNMD)
 ---
-
 date: 2016-01-21 22:40:52 Z
 client:
 - Foreign, Commonwealth & Development Office
@@ -28,6 +27,8 @@ promos:
   link: "/uploads/fnmd_analysis_1.pdf"
 - title: "**Report:** _Business Services Sector Market Analysis, Volume 2_"
   link: "/uploads/fnmd_analysis_2.pdf"
+
+
 In the West Bank and Gaza, periods of relative political stability have witnessed significant economic growth and employment generation, while times of violence have resulted in recession and hardship for many households. The Palestinian private sector is now poised to assume its role as a driver for economic development, employment, and growth. Through our work on [FNMD][1], we encouraged enterprises to expand into new markets—locally, regionally, and internationally—and developed new products and improved products for the local and export markets. We also worked to promote first-time exporters, built the local market for business development services, and gathered data on obstacles to growth.
 
 ![][2]

@@ -2,7 +2,6 @@
 ---
 title: Ukraine—Establishment and Management of the Secretariat to the Audit Board
 ---
-
 date: 2024-12-20 10:32:00 Z
 summary: 'DAI provides technical assistance to the European Union to ensure the effective,
   efficient, and transparent management of funds for Ukraine''s reconstruction. '
@@ -13,6 +12,8 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine
+
+
 Since Russia's full-scale invasion, the European Union (EU) and its partners have mobilized nearly €124 billion to support Ukraine's urgent needs and bolster its defense efforts. To sustain long-term recovery and guide Ukraine toward EU accession, the EU established the [Ukraine Facility](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/countries-region/ukraine/ukraine-facility_en)—a €50 billion framework for 2024-2027, comprising €17 billion in grants and €33 billion in loans. 
 
 DAI provides technical assistance to the EU to ensure the effective, efficient, and transparent management of funds for Ukraine's reconstruction. 

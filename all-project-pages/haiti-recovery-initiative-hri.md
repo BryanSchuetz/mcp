@@ -2,9 +2,8 @@
 ---
 title: Haiti—Recovery Initiative (HRI)
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+client: U.S. Government
 start: 2010
 end: 2011
 regions:
@@ -22,6 +21,8 @@ summary: 'The January 2010 earthquake shattered Haiti''s teeming capital of Port
   collapsed and infrastructure broken.
 
 '
+
+
 The January 2010 earthquake shattered Haiti's teeming capital of Port-au-Prince, killing and maiming hundreds of thousands of people, rendering homeless hundreds of thousands more, and leaving the city in ruins with miles of buildings and homes collapsed and infrastructure broken. [HRI worked][1] in Port-au-Prince and Cap Haitien to stabilize communities through short-term, local interventions; supported the Government of Haiti by providing equipment and technical assistance; and increased citizen engagement through swift and accurate information dissemination.
 
 ![][2]

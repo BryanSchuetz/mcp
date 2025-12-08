@@ -2,7 +2,6 @@
 ---
 title: Southern Africa—Cost Benefit Analysis in Southern Africa
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: The Swiss Agency for Development and Cooperation (SDC) commissioned DAI to
   advise on how to integrate cost-benefit analysis into the SDC's programming in Southern
@@ -17,6 +16,8 @@ regions:
 country:
 - Regional
 layout: project
+
+
 With increasing scrutiny on how government tax revenue is spent, bilateral donors must be able to devise high-impact, cost-effective approaches to development that demonstrate value for money. The Swiss Agency for Development and Cooperation (SDC) commissioned DAI to advise on how to integrate cost-benefit analysis (CBA) into the SDC's programming in Southern Africa. Based on the cost-benefit analysis of a food security project in Malawi and an education project in South Africa, DAI is developing case studies to train SDC staff and partners on how to integrate CBA into current and future projects. The Malawian post-harvest project is being implemented by CIMMYT, while the South African education project is being implemented by an institution set up by the SDC and Swiss companies operating in South Africa.
 
 ### Select Results

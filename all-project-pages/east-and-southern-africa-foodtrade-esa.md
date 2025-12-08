@@ -2,7 +2,6 @@
 ---
 title: East and Southern Africa—FoodTrade ESA
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: From 2013 to 2018, FoodTrade worked at improving the functioning of national
   and regional staple food market systems for beans, maize, rice, and soybeans—crops
@@ -20,6 +19,8 @@ regions:
 country:
 - Regional
 layout: project
+
+
 From 2013 to 2018, FoodTrade worked at improving the functioning of national and regional staple food market systems for beans, maize, rice, and soybeans—crops that are critical for low-income consumers and smallholder farmers—across nine countries in East Africa.
 
 FoodTrade ESA improved the national and regional staple food market systems, reaching 554,363 farmers with access to new or improved storage and aggregation systems; 186,076 farmers accessing improved market information systems; and 452,380 accessing improved value chain coordination. The program worked to enable private sector to invest and develop regional staple markets, benefiting farmers and consumers.

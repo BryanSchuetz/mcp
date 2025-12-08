@@ -2,7 +2,6 @@
 ---
 title: South Africa—Maruleng and Bushbuckridge Economic Development Initiative (MABEDI)
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
 client:
 - Business Trust
@@ -23,6 +22,8 @@ summary: 'This project in South Africa worked to reduce poverty through increase
   where it wants to stimulate economic growth and employment opportunity.
 
 '
+
+
 This project in South Africa worked to reduce poverty through increased local investment and strong business partnerships between commercial investors and communities that historically had been excluded from the mainstream local economy. In 2001, the South African government identified 13 rural poverty "nodes," areas where it wants to stimulate economic growth and employment opportunity. The district municipalities of Maruleng (Limpopo province) and Bushbuckridge (Mpumalanga province) are relatively densely populated areas where poverty coexists with great economic and tourism potential. They are both included in the government's nodes.
 
 ![][1]

@@ -3,7 +3,6 @@
 title: Türkiye—Developing an Analytical Basis for Formulating Strategies and Actions
 ---
   Towards Low Carbon Development
-
 date: 2020-04-21 13:56:00 Z
 summary: The Developing an Analytical Basis for Formulating Strategies and Actions
   Towards Low Carbon Development programme worked to reduce manmade greenhouse gas
@@ -18,6 +17,8 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
+
+
 Türkiye’s economy is characterised by a relatively low, albeit rapidly increasing, environmental footprint. Compared to industrialised countries or other emerging market economies, it has relatively low carbon emissions per unit of gross domestic product. At the same time, emissions have increased much faster than in other countries in recent decades. If policies can be enacted that promote greater resource efficiency and pollution abatement without jeopardising economic growth, Türkiye could progress towards high income without a dramatic increase in its environmental footprint. 
 
 The European Union (EU)-funded Developing an Analytical Basis for Formulating Strategies and Actions Towards Low Carbon Development programme worked to reduce manmade greenhouse gas emissions by increasing national and local capacity to prepare for medium and long-term action toward climate-resilient low-carbon development. This action will gradually align with EU climate policy and legislation by providing an analytical basis to support the realization of low carbon in the long term, specifically focusing on cost-effective mitigation actions related to building, waste, transport, and agriculture sectors of the National Climate Adaptation and Action Plan (NCAAP).

@@ -3,7 +3,6 @@
 title: Oman—Corporate Social Investment Science, Technology, Engineering, Arts, and
 ---
   Mathematics (CSR STEAM) Program
-
 date: 2020-01-10 19:25:00 Z
 summary: 'DAI’s Sustainable Business Group designed and implemented a flagship social
   investment initiative for a large Omani conglomerate. '
@@ -18,6 +17,8 @@ promos:
 - title: DAI-Designed and Implemented CSR Education Program Wins Three Innovation
     Awards in Oman
   link: https://www.dai.com/news/dai-designed-and-implemented-csr-education-program-wins-three-innovation-awards-in-oman
+
+
 DAI’s Sustainable Business Group partnered with Eshraqa—the social development of arm of Khimji Ramdas, one of the Sultanate’s leading business conglomerates—to deliver stemazone as its flagship corporate social responsibility program.
 
 The stemazone initiative provides services to children across the country and inspires young Omanis to enter STEAM (science, technology, engineering, art, and mathematics) fields and set them on the STEAM pathway from an early age, which studies show is critical to building a skilled workforce. 

@@ -3,7 +3,6 @@
 title: Zimbabwe—Technical Assistance to the Zimbabwe Agricultural Growth Programme
 ---
   (TA ZAGP)
-
 date: 2018-01-24 23:58:00 Z
 summary: The Zimbabwe Agriculture Growth Programme addresses critical weaknesses in
   the country’s livestock value chains with innovative approaches to strengthening
@@ -21,6 +20,8 @@ promos:
 - title: Zimbabwe Agriculture Project Finds Ways to Engage Smallholder Farmers, Despite
     COVID-19
   link: https://dai-global-developments.com/articles/zimbabwe-agriculture-project-finds-ways-to-engage-smallholder-farmers-despite-covid-19
+
+
 Agriculture is crucial to the economic and social development of Zimbabwe, providing livelihoods for 70 percent of the population and making up 40 percent of exports. Unfortunately, productivity has declined sharply in recent years due in part to prolonged drought, poor cultivation practices, and a land reform process that brought hundreds of thousands of new and inexperienced entrants into farming. In particular, livestock value chains remain underdeveloped, despite the sector’s potential to contribute to food security and incomes, especially in dry regions. Due to limited access to financing, quality inputs, and markets, smallholder farmers often resort to selling livestock for below-market prices and overstocking rangelands, depleting soil and increasing pollution.
 
 The [Zimbabwe Agriculture Growth Programme (ZAGP)](http://zagp.org.zw/) addresses these weaknesses and gaps in livestock value chains. The programme takes innovative approaches to strengthening local institutions and building capacity across the livestock sector, specifically in the beef, dairy, and poultry value chains. 

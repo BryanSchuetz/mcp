@@ -2,7 +2,6 @@
 ---
 title: Honduras—Asegurando la Educación (Securing Education)
 ---
-
 date: 2017-04-20 18:11:00 Z
 summary: 'Asegurando la Educación worked to improve schools’ ability to prevent violence,
   strengthened local networks that increase school safety, and built the capacity
@@ -10,7 +9,7 @@ summary: 'Asegurando la Educación worked to improve schools’ ability to preve
   violence. '
 start: 2017
 end: 2023
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Fragile States
 - Governance
@@ -33,6 +32,8 @@ promos:
   link: "/uploads/honduras-abreviated.pdf"
 - title: 'Development During Quarantine: Lessons from Four USAID Projects'
   link: https://dai-global-developments.com/articles/development-during-quarantine-lessons-from-four-usaid-projects
+
+
 A major impediment to Honduran students’ success is violence in and around schools, which can lead to life-long negative behavior that impacts Honduran society and beyond. Preventing that violence is critical to enabling at-risk youth to [stay in school](https://dai-global-developments.com/articles/safe-learning-spaces-in-honduras-curb-undocumented-migration), contributing to better academic outcomes, improved lives, reduced crime, and stronger communities.
 
 The *Asegurando la Educación* (Securing Education) program, funded by the U.S. Agency for International Development (USAID), helped schools establish cultures of nonviolence, inclusion, and respect. The project [partnered]((https://eccnetwork.net/peer-violence-bullying/)) with education systems and communities in target municipalities to make schools safer for students and teachers while also empowering schools to play a larger role in [decreasing community violence](https://www.baselgovernance.org/blog/el-salvadors-rule-law-election-deserves-our-support-heres-how).

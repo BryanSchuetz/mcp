@@ -2,7 +2,6 @@
 ---
 title: South Pacific Islands—Coastal Community Adaptation Project (C-CAP)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: C-CAP built the resilience of vulnerable coastal communities to withstand
   more intense and frequent weather events and ecosystem degradation in the short
@@ -10,7 +9,7 @@ summary: C-CAP built the resilience of vulnerable coastal communities to withsta
   water resource management capacity and strengthened disaster management.
 start: 2012
 end: 2017
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 - Climate
@@ -18,6 +17,8 @@ regions:
 - Asia and the Pacific
 country: Regional
 layout: project
+
+
 The Pacific Island countries comprise the most vulnerable region in the world to changes in climate. The nature-based livelihoods and diverse cultures that have risen from these island nations—some of which stand only meters above sea level—are being challenged, and in some cases overwhelmed, by sea level rise, changing ocean temperatures and acidity, increasing air temperatures, shifting rainfall and storm patterns, and other impacts of weather-related events that are projected to increase over the next 100 years.
 
 <iframe src="https://player.vimeo.com/video/104419933" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

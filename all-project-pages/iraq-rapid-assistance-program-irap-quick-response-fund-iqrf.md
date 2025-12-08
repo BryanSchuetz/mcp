@@ -2,7 +2,6 @@
 ---
 title: Iraq—Rapid Assistance Program (IRAP); Quick Response Fund (IQRF)
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Agency for International Development
@@ -25,6 +24,8 @@ summary: 'Provincial Reconstruction Teams were the civilian-military teams estab
   Most teams did not have the capacity to rapidly develop and deliver this assistance.
 
 '
+
+
 Provincial Reconstruction Teams were the civilian-military teams established in 2005 to provide direct assistance to local Iraqi governments and communities. Most teams did not have the capacity to rapidly develop and deliver this assistance. Our management teams enabled grants to be generated with the speed, ease, and flexibility required by reconstruction teams to quickly satisfy Iraqi expectations. Beneficiaries included media, medical and legal organizations, farmers, and others. In April 2010, the follow-up project, IQRF, was launched with funding and oversight by the U.S. Department of State.
 
 ![][1]

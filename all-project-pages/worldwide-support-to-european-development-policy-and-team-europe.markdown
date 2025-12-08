@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Support to European Development Policy and Team Europe
 ---
-
 date: 2023-02-07 14:21:00 Z
 tags:
 - Europe
@@ -18,6 +17,8 @@ solutions:
 - Governance
 regions: Worldwide
 country: Worldwide
+
+
 Development cooperation is a key tool for supporting European Union (EU) partner countries to improve the lives of their citizens and achieve their development goals. For this purpose, the EU commits significant resources to contribute to the achievement of the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda) and other key international commitments by overcoming challenges such as aid fragmentation and decrease in development effectiveness. 
 
 The EU's new [Global Gateway](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/stronger-europe-world/global-gateway_en) aims to create smart, sustainable, and secure links with countries around the world in different thematic areas. The initiative is delivered through a [Team Europe](https://international-partnerships.ec.europa.eu/policies/team-europe-initiatives_en) approach, which brings together the EU and its member states with their financial and development institutions, including the European Investment Bank and the European Bank for Reconstruction and Development.

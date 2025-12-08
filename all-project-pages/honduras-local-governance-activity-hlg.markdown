@@ -1,4 +1,3 @@
-
 ---
 title: Honduras—Local Governance Activity (HLG)
 ---
@@ -9,8 +8,8 @@ summary: 'HLG works to strengthen the essential capacity of civil society groups
   local governments, and service providers to provide Honduran citizens with improved
   services. '
 start: 2016
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Decentralization and Local Government Management
 - Governance
@@ -26,6 +25,9 @@ promos:
   link: https://urban-links.org/insight/helping-vulnerable-young-hondurans-to-gain-job-skills-self-confidence-and-hope-for-the-future/
 - title: HLG YouTube Channel
   link: https://www.youtube.com/channel/UCJSGGEcjwj8Oi1kmG0I5cYQ
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Despite great economic stability since 2000, and historic high rates of irregular migration, Honduras has yet to significantly improve living conditions or reduce poverty for much of its citizenry. In 2019, more than 250,000 Honduran migrants were [apprehended](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters/usbp-sw-border-apprehensions) by U.S. Customs and Border Control, the highest rate yet. In 2021, the White House addressed this crisis in its [Root Causes Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf), which identifies corruption, democratic governance, combating violence against women, amongst other areas, as root causes of irregular migration. 
 
 The inability of local governments to provide effective public services to their citizens remains a key barrier to tackling the inter-related challenges of economic insecurity, lack of trust in the government, social inclusion, and high rates of violence and migration. In this climate, the U.S. Agency for International Development (USAID) designed the [Honduras Local Governance (HLG) Activity](https://www.glhonduras.org/) to enhance basic service delivery provision through increased citizen influence and improved governance in western Honduras and urban areas. The Activity ensures that health, education, and other critical services are expanded, deepened, and made sustainable as part of a holistic effort to promote local governance.

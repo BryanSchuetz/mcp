@@ -2,7 +2,6 @@
 ---
 title: Ukraine—Illicit Finance Capacity Development Project
 ---
-
 date: 2025-10-08 14:16:00 Z
 summary: Tackling illicit financial flows and the organised criminal groups that exploit
   them is crucial to fighting corruption, fostering citizen trust in democratic government,
@@ -15,6 +14,8 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine
+
+
 Tackling illicit financial flows and the organised criminal groups that exploit them is crucial to fighting corruption, fostering citizen trust in democratic government, and building confidence in the business and financial communities that their investments are made in an environment governed by the rule of law. In war-torn Ukraine, addressing illicit finance and corruption is particularly important as the Government of Ukraine seeks to counter Russian military aggression and Russian crime syndicates while moving toward European Union accession and ensuring the effective use of international aid.
 
 ![eugene-GNzD5HIJtQk-unsplash.jpg](/uploads/eugene-GNzD5HIJtQk-unsplash.jpg)

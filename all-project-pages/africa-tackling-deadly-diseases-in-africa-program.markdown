@@ -2,7 +2,6 @@
 ---
 title: Africa—Tackling Deadly Diseases in Africa (TDDA) programme
 ---
-
 date: 2019-01-23 15:27:00 Z
 summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme worked to save lives
   and improved global health security by reducing the impact of disease outbreaks,
@@ -36,6 +35,8 @@ promos:
 - title: "**Video (long version)**: Building the Role of Civil Society Organisations
     in Health Security in Chad"
   link: https://vimeo.com/daiglobal/tddachad
+
+
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
 The Tackling Deadly Diseases in Africa (TDDA) programme worked with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We delivered practical changes that strengthened health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 

@@ -1,4 +1,3 @@
-
 ---
 title: Burma—Responsible Investment and Trade Activity
 ---
@@ -11,14 +10,17 @@ summary: 'The Burma Responsible Investment and Trade Activity, funded by the U.S
   of the Myanmar economy by increasing the share held by responsible, accountable,
   and transparent firms. '
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Trade
 - Finance and Investment
 regions: Asia and the Pacific
 country: Burma
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 From 2011 through early 2021, Myanmar’s economic reform and foreign investment gradually aligned the country’s political economy with international institutions, investors, and trading partners—these stronger linkages to international markets made it more difficult for the government to ignore calls for reform. Despite these gains, Myanmar’s private sector had been invariably underdeveloped, while the benefits from Myanmar’s annual growth rate of 6 to 8 percent over the past decade had accrued mainly to the majority Burman community, to businesses in and around Yangon and Mandalay, to people connected to the armed forces, and to those with access to land and concessions. The COVID-19 pandemic and the military coup d'état in February 2021 have worsened Myanmar's struggling private sector and economy, resulting in significant livelihood decline, widespread business disruptions, and increased investment and security risks. These challenges have disproportionately affected economically marginalized and conflict-affected communities that already have limited access to resources and have been experiencing unabated conflicts in non-urban ethnic areas. Gaps in infrastructure, business services, and energy access have left marginalized states at a particular disadvantage.
 
 The Burma Responsible Investment and Trade Activity, funded by the U.S. Agency for International Development (USAID), works with a broad range of international and domestic private sector firms and civil society actors to promote civilian ownership of the Myanmar economy by increasing the share held by responsible, accountable, and transparent firms. The Activity supports micro and small enterprises, business service organizations, and community support organizations operating in or entering the market in Myanmar to improve corporate governance, business transparency, and competitiveness. It also promotes inclusive economic growth and economic integration, responsible investment, and trade for the benefit of economically marginalized and conflict-affected people in Myanmar and empowers women to participate in the economy more fully.

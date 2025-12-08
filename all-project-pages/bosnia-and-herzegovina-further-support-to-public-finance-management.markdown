@@ -2,7 +2,6 @@
 ---
 title: Bosnia and Herzegovina—Further Support to Public Finance Management
 ---
-
 date: 2020-08-07 09:27:00 Z
 summary: The Further Support to Public Finance Management project enabled authorities
   in BiH to improve public finance management by increasing expenditure effectiveness
@@ -15,6 +14,8 @@ solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 regions: Eastern Europe and Central Asia
 country: Bosnia and Herzegovina
+
+
 Bosnia and Herzegovina (BiH) has a unique and complex system of public finance. Its general government sector includes institutions of BiH, entity governments (Federation of Bosnia and Herzegovina and Republika Srpska), Brčko District, cantonal and city/municipal authorities, and extrabudgetary funds.
 
 The Further Support to Public Finance Management project enabled authorities in BiH to improve public finance management by increasing expenditure effectiveness and the budget planning process.

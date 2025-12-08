@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Climate Ambition Support Alliance, Phase 2 (CASA2)
 ---
-
 date: 2022-11-07 16:42:00 Z
 summary: DAI is delivering the Climate Ambition Support Alliance Phase 2, CASA2 will
   provide legal, technical, strategic, diplomatic, and media support to negotiators
@@ -15,6 +14,8 @@ solutions:
 - Governance
 regions: Worldwide
 country: Worldwide
+
+
 Often, those countries most vulnerable to changes in climate have fewer resources to mitigate against the devasting impact that these changes have on their communities. These same countries also often have less influencing power in international negotiations and related multilateral fora, where decisions are made on what global commitments and measures will be taken to address the impact.  
 
 Funded by the U.K. Government’s Department for Energy Security and Net Zero, the [Climate Ambition Support Alliance 2](https://casaclimate.org/) (CASA2) program seeks to enables the meaningful participation of climate-vulnerable country negotiators. This supports the ambition to reduce the prospect of rapidly escalating climate extremes and severe risks for vulnerable people and systems. 

@@ -2,7 +2,6 @@
 ---
 title: Türkiye—Technical Assistance for Improving Job and Vocational Counselling Services
 ---
-
 date: 2020-07-17 09:16:00 Z
 summary: 'The Technical Assistance for Improving Job and Vocational Counselling Services
   project supported the Turkish Employment Agency (İŞKUR) to fulfil its mandate as
@@ -14,6 +13,8 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Türkiye
+
+
 Türkiye's labor market suffers from low employment rates, particularly among women and young people, and a mismatch between the demand for, and supply of, labor. The number of individuals with university or vocational qualifications has outpaced the market’s ability to absorb such workers. The private sector currently plays a limited role in fostering the demand for more and better skills—and 30 percent of the country's gross domestic product is linked to the informal sector, contributing to Türkiye’s low productivity relative to the European Union. 
 
 The Technical Assistance for Improving Job and Vocational Counselling Services project supported the Turkish Employment Agency (İŞKUR) to fulfil its mandate as the country's lead provider of public employment services. İŞKUR maintains a presence in all of Türkiye's provincial directorates, and with 3.5 million people registered as unemployed in 2018, there is significant demand for its services. 

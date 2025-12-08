@@ -2,7 +2,6 @@
 ---
 title: Tajikistan—Credit Scoring in Tajik Partner Institutions
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
 start: 2010
@@ -21,6 +20,8 @@ summary: 'This project''s main objective was to implement credit scoring in sele
   quality, which can help to lower operating costs and reduce loan losses.
 
 '
+
+
 This project's main objective was to implement credit scoring in selected banks and non-bank microfinance institutions in Tajikistan. Credit scoring is a tool that helps participating institutions improve loan decision efficiency and quality, which can help to lower operating costs and reduce loan losses. Scoring can also help the partner institutions tailor their product offerings and pricing for borrowers with different risk characteristics. Our approach was participatory so that we could transfer to the local scoring working groups the skills needed to develop, monitor and manage credit risk models without outside assistance in the future.
 
 ###  Sample Activities

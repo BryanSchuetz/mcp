@@ -1,8 +1,6 @@
-
 ---
-title: Honduras—Justice, Human Rights, and Security Strengthening Activity (Unidos
+title: Honduras—Justice, Human Rights, and Security Strengthening Activity (Unidos por la Justicia)
 ---
-  por la Justicia)
 
 date: 2016-01-21 22:40:00 Z
 published: false
@@ -11,8 +9,8 @@ summary: The Justice, Human Rights, and Security Strengthening Activity (Unidos 
   and justice sectors; enhance the efficiency of the judicial system; and increase
   the effectiveness of community police.
 start: 2016
-end: 2026
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Institutional and Policy Reform
@@ -33,6 +31,9 @@ promos:
 - title: Ramping up Violence Against Women Prevention, Risk Mitigation, and Response
   link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 layout: project
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 In Honduras, a weak state response to gang-related crime has led to unprecedented levels of violence. The average Honduran living in an urban area faces risks such as bus robberies, indiscriminate homicides, extortion phone calls, and other [criminal activities](https://dai-global-developments.com/articles/mitigating-instability-in-central-america) perpetrated by gangs. Along with corrupt law enforcement officials and political interests that oppose reforms, the rising violence has significantly undermined the public’s trust in the judicial system.
  
 The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Justicia) project, funded by the U.S. Agency for International Development, works with local partners to improve citizen engagement with the security and justice sectors, [enhance the efficiency](https://dai-global-developments.com/articles/modernized-honduran-judicial-system-promises-lower-costs-increased-efficiency-safer-communities-and-greater-transparency) of the judicial system, and increase the effectiveness of community police. Unidos engages civil society groups at the community level in efforts to encourage citizens in the most violence-plagued neighborhoods to get involved in their own security. Only effective, collaborative relationships between local police and the communities they serve can bring the sustainable security improvements needed to foster development. The combination of safer neighborhoods and better economic opportunities will allow Hondurans to pursue their dreams at home rather than looking for them abroad.

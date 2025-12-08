@@ -2,15 +2,14 @@
 ---
 title: South Sudan—Resilience through Agriculture in South Sudan (RASS) Activity
 ---
-
 date: 2021-10-07 15:43:00 Z
 published: false
 summary: The Resilience through Agriculture in South Sudan (RASS) Activity improves
   food security and community household recovery and resilience in 13 target counties
   in South Sudan, reducing their long-term reliance on humanitarian assistance.
 start: 2021
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
@@ -28,6 +27,9 @@ promos:
   link: "/uploads/RASS%20Look%20Book%20-%20USAID%20Cleared.pdf"
 - title: 'Community Seed Production: A Pathway for Building Resilience in South Sudan'
   link: https://dai-global-developments.com/articles/community-seed-production-a-pathway-for-building-resilience-in-south-sudan/
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 South Sudan’s rural areas have poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover from reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and violence against women.
 
 The Resilience through Agriculture in South Sudan (RASS) Activity has been designed to improve food security and community household recovery and resilience in 13 target counties in South Sudan, reducing their long-term reliance on humanitarian assistance.

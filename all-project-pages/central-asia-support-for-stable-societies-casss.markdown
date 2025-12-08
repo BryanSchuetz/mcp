@@ -1,4 +1,3 @@
-
 ---
 title: Central Asia—Support for Stable Societies (CASSS); Resilient Communities Activity
 ---
@@ -9,8 +8,8 @@ summary: 'The Central Asia Resilient Communities Activity assists hotspot commun
   in building resilient ecosystems that reduce risk and enhance protection against
   violent extremism. '
 start: 2018
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Stabilization
 - Fragile States
@@ -25,6 +24,9 @@ promos:
   link: https://pdf.usaid.gov/pdf_docs/PA00Z9VV.pdf
 - title: CASSS Research Findings
   link: https://pdf.usaid.gov/pdf_docs/PA00Z9VP.pdf
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Central Asia Support for Stable Societies (CASSS) activity identified and tested new methods for the prevention of violent extremism in Central Asia. The activity conducted field and digital research to identify risk and prevention factors for violent extremism. Based on the research results, the activity worked closely with civil society organizations (CSOs) in Kazakhstan, the Kyrgyz Republic, Tajikistan, and Uzbekistan to design and test developing evidence-based, practical approaches that broadened understandings of how to address violent extremism risk reduction pilot programming. 
 
 CASSS applied a public health model to research, design, pilot, and evaluate CVE programming across digital and real-world environments, in collaboration with the U.S. Agency for International Development.

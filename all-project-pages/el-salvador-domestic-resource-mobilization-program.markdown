@@ -2,7 +2,6 @@
 ---
 title: El Salvador—Domestic Resource Mobilization Program
 ---
-
 date: 2017-08-14 14:35:00 Z
 summary: By working with national and local governments to improve their systems for
   collecting and spending revenue, the El Salvador Domestic Resource Mobilization
@@ -10,7 +9,7 @@ summary: By working with national and local governments to improve their systems
   and reduce inequality.
 start: 2017
 end: 2023
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 - Governance
@@ -21,6 +20,8 @@ promos:
   link: https://dai-global-developments.com/articles/how-increasing-tax-revenue-shapes-the-lives-of-salvadorans/
 - title: When Tax Reform Leads to Increased Funding for Health Services
   link: https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services
+
+
 Over the past 10 years, El Salvador’s government, with support from the U.S. Agency for International Development (USAID), implemented a series of important tax system reforms that helped raise an additional $2.4 billion in state revenue. Combined with reforms in public financial management (PFM), this [increase in public funds](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp) led to improved citizen welfare, such as [higher public health spending](https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services) that has reduced child mortality and raised life expectancy. Despite these advances, the current tax effort has fallen short of its full potential, while government overspending has created a persistent fiscal deficit. In addition, municipal governments still need to improve their revenue mobilization to fund basic public services.
 
 USAID’s Domestic Resource Mobilization Program supported local and national government partners to address these challenges through a combination of increased revenue mobilization, improved expenditure management, and enhanced public-private dialogue. The program built upon the achievements of USAID’s Tax Policy and Administration Reform project and [Fiscal Policy and Expenditure Management Program](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp), both managed by DAI, which assisted El Salvador’s government to significantly improve revenue mobilization and public financial management. By assisting government partners to further enhance their systems for collecting and spending revenue, DAI’s Domestic Resource Mobilization team helped increase public funding to support social programs, generate employment, and reduce inequality. This support helped El Salvador to reap an additional $1.03 billion (or 2.5 percent of GDP) between 2017 and 2021. 

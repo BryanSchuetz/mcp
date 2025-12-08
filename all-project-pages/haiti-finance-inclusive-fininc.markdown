@@ -2,7 +2,6 @@
 ---
 title: Haiti—Finance Inclusive
 ---
-
 date: 2017-06-26 16:18:00 Z
 summary: The Haiti Finance Inclusive project supported the development of the enabling
   environment to increase the usage of basic financial services by undeserved and
@@ -10,12 +9,14 @@ summary: The Haiti Finance Inclusive project supported the development of the en
   areas in Haiti.
 start: 2017
 end: 2019
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 - Finance and Investment
 regions: Latin America and the Caribbean
 country: Haiti
+
+
 Initiatives to increase financial inclusion have yet to translate into significant expansion of relevant services in Haiti. Only 19 percent of Haitian adults have an account with a financial institution, while only 9 percent of adults save and 5 percent borrow from a financial institution. These figures are among the lowest not only in the Latin American and Caribbean region, but globally.
 
 The Haiti Finance Inclusive project worked to improve the enabling environment to increase financial inclusion to create lasting benefits for low-income people across Haiti. By accessing basic, more formal financial services, low-income people are able to accumulate assets, withstand financial shocks, invest in businesses, and more conveniently receive and send money and make payments.

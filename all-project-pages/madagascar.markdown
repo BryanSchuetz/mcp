@@ -1,16 +1,16 @@
 
+
 ---
 title: Madagascar—HARENA Activity
 ---
-
 date: 2024-04-09 13:29:00 Z
 published: false
 summary: The USAID HARENA Activity works to reduce threats to biodiversity and forests,
   improve conservation, and build resilience to climate change; develop sustainable,
   economic opportunities for the poor; and improve environmental governance in Madagascar.
 start: 2024
-end: 2029
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Climate
@@ -19,6 +19,9 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions: Sub-Saharan Africa
 country: Madagascar
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Madagascar has endured significant loss of biodiversity and forest cover as well as high levels of land degradation over the past 50 years. Unfortunately, traditional conservation and land use approaches have had little impact on these trends. Corruption, insecurity, and lack of transparency and accountability have further exacerbated the threats, root causes, and drivers of these issues. 
 
 Impoverished people with few options practice unsustainable forest clearing for subsistence agriculture and cash-crop production to support their livelihoods, leading to dramatic land use change. This is one of the most pervasive direct threats to Madagascar’s biodiversity and forests. Other widespread threats include unsustainable natural resource extraction, mining, and the illegal wildlife trade. 

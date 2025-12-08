@@ -2,7 +2,6 @@
 ---
 title: Nigeria—Policy Development Facility Bridge (PDF Bridge)
 ---
-
 date: 2020-03-04 10:26:00 Z
 summary: The Policy Development Facility Bridge programme provided near-term technical
   assistance to champions of reform in Nigeria’s government—supporting accelerated
@@ -16,6 +15,8 @@ solutions:
 - Governance
 regions: Sub-Saharan Africa
 country: Nigeria
+
+
 The Policy Development Facility Bridge programme in Nigeria provided near-term technical assistance to champions of reform in Nigeria’s government—supporting accelerated economic reforms, a more modern and efficient public sector, and better delivery of policy, public goods, and services, and ultimately contributing to inclusive growth and poverty reduction.
 
 The programme identified and worked with champions of change in the Nigerian public sector—supporting them in conceptualising, designing, and driving important policy and regulatory reforms necessary for strengthened public planning, budgeting, and policies for better delivery of public goods and services to citizens. The Bridge programme followed the DAI-led [PDF programme](https://www.dai.com/our-work/projects/nigeria-dfid-policy-development-facility-pdf2-0), phases [I](https://www.dai.com/our-work/projects/nigeria-policy-development-facility-1) and II.

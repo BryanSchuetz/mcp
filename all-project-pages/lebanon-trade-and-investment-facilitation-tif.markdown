@@ -1,16 +1,16 @@
 
+
 ---
 title: Lebanon—Trade and Investment Facilitation (TIF) Activity
 ---
-
 date: 2020-07-01 09:15:00 Z
 published: false
 summary: The Trade and Investment Facilitation Activity works to boost the exports
   of Lebanese goods and services, facilitate investment in Lebanese enterprises, and
   improve the business and investment enabling environment in Lebanon.
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Energy
@@ -30,6 +30,9 @@ promos:
   link: https://www.instagram.com/tifleb/
 - title: Call for Partnerships
   link: https://fs24.formsite.com/llSOui/mfuzthif1z/index.html
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 With a free-market economy and a strong laissez-faire commercial tradition, Lebanon was, until recent years, a regional epicenter for commerce, banking, and innovation. Now deeply mired in a political and financial crisis, the country needs a new direction and assistance to revitalize the economy, restart financial and export markets, facilitate policy change, and drive new investments that will bring in foreign exchange and improve global competitiveness.
 
 The Trade and Investment Facilitation (TIF) activity, funded by the U.S. Agency for International Development (USAID) boosts the exports of Lebanese goods and services, facilitates investment in Lebanese enterprises, and improves the business-enabling environment in Lebanon.

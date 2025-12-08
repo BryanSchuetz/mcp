@@ -1,22 +1,25 @@
 
+
 ---
 title: Tunisia—Fiscal and Accounting System of Tunisia (FAST)
 ---
-
 date: 2019-10-22 11:47:00 Z
 published: false
 summary: FAST supports the systems and procedures necessary to operationalize and
   accelerate Government of Tunisia reforms that are modernizing the system for managing
   public revenues and expenditures.
 start: 2019
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Public Financial Management and Domestic Revenue Mobilization
 - Governance
 - Institutions Building and Policy Reform
 regions: Middle East and North Africa
 country: Tunisia
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 While the Tunisian economy remains fragile in the aftermath of the COVID-19 pandemic, improving economic conditions over the last two years are revitalizing the climate for business and investment. Despite these improvements, public finances remain precarious, limiting government investments, growth of the economy, and equitable economic opportunities in the private sector.
 
 FAST supports the systems and procedures necessary to operationalize and accelerate Government of Tunisia reforms to modernize the management of public revenues and expenditures. FAST complements other activities implemented by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving public financial management. 

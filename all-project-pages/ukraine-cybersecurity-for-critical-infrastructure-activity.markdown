@@ -1,8 +1,8 @@
 
+terminated: false
 ---
 title: Ukraine—US Cybersecurity Activity in Ukraine
 ---
-
 date: 2020-05-14 19:17:00 Z
 summary: 'The Cybersecurity for Critical Infrastructure in Ukraine Activity strengthens
   the resilience of Ukraine’s critical infrastructure against cyberattacks from Russian
@@ -20,6 +20,8 @@ country: Ukraine
 promos:
 - title: Linkedin Page
   link: 'https://www.linkedin.com/company/the-us-cybersecurity-for-critical-infrastructure-in-ukraine-activity/ '
+
+
 The Cybersecurity for Critical Infrastructure in Ukraine Activity strengthens the resilience of Ukraine’s critical infrastructure against cyberattacks from Russian and other sources by fostering collaboration between government, private sector, academia, and civil society. The Activity unites global and local expertise in diverse cybersecurity domains to improve Ukraine’s cyber preparedness and build resilience in the oil and gas, electricity, transport sectors, and critical infrastructure.
 
 ![ukraine-cyber.jpg](/uploads/ukraine-cyber.jpg)

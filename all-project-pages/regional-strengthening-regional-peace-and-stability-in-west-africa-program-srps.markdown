@@ -1,22 +1,24 @@
 
----
-title: Regional—Strengthening Regional Peace and Stability in West Africa Program
----
-  (SRPS)
 
+---
+title: Regional—Strengthening Regional Peace and Stability in West Africa Program (SRPS)
+---
 date: 2023-08-03 13:48:00 Z
 published: false
 summary: The Strengthening Regional Peace and Stability in West Africa program builds
   the capacity and commitment of USAID’s regional and bilateral partners to prevent
   conflict and address governance weaknesses with the aim of reducing countries’ fragility.
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Fragile States
 - Peace-building and State-building
 regions: Sub-Saharan Africa
 country: West Africa
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 For decades, West Africa has experienced the destabilization of state governments, extreme poverty, and the rise of violent extremist organizations. 
 
 In Benin, Burkina Faso, Mali, and Togo, in particular, violent extremist groups threaten the democratic process, leading to instability and crises within state governments. Water scarcity, reduced food and economic security, and violent competition over natural resources has only worsened widespread violence. 

@@ -1,4 +1,3 @@
-
 ---
 title: Egypt—Economic Governance Activity (EGA)
 ---
@@ -9,14 +8,17 @@ summary: The Egypt Economic Governance Activity (EGA) works with the Government 
   Egypt to support the country’s investment climate by strengthening inclusive governance
   and supporting the Government’s structural reform program.
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
 - Public Administration, Civil Service Reform, and Human Resources Management
 regions: Middle East and North Africa
 country: Egypt
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Government of Egypt has achieved an encouraging degree of macroeconomic stabilization in the past several years, coupled with regulatory, policy, and civil service reforms to create space for private sector growth. Yet, Egypt’s economic governance reforms must be broader and deeper if it is to achieve its development vision of improving public welfare by creating enough quality jobs to meet the massive demographic challenge it now faces. The reforms must strengthen a weak institutional framework and begin to reverse socioeconomic inequities.
 
 The Egypt Economic Governance Activity (EGA) supports the investment climate through enhancing economic governance and promoting administrative and institutional development in line with Egypt’s Sustainable Development Strategy (SDS) 2030; the National Anti-Corruption Strategy; and the Administrative Reform Vision of Egypt. In doing so, the project supports the efforts of the government to enhance the quality of public administration through adopting more inclusive and efficient tools that reflect the needs and priorities of citizens and the private sector, thus promoting a favorable investment climate in Egypt.

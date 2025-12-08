@@ -2,7 +2,6 @@
 ---
 title: Nigeria—Partnership for Learning for All (PLANE)
 ---
-
 date: 2021-09-08 11:18:00 Z
 summary: 'The Partnership for Learning for All in Nigeria (PLANE) project is delivering
   a more inclusive and effective education system and improving learning outcomes
@@ -33,6 +32,8 @@ promos:
     in Kano, Kaduna, and Jigawa'
   link: https://vimeo.com/941934977?share=copy
 Field name: 
+
+
 Partnership for Learning for All in Nigeria (PLANE) is a seven-year education Program, funded by the U.K. Foreign, Commonwealth and Development Office (FCDO). It aims to support and realize the Government of Nigeria’s commitment to delivering sustainable improvements in learning outcomes for all of Nigeria’s children. 
 
 The program engages with state and non-state actors within the basic education sub-sector to strengthen systems for improved delivery of inclusive, good-quality foundational learning, with a focus on marginalized groups, especially girls and children with disabilities. It will contribute to transformational change, enabling the delivery of effective and efficient educational services at scale to improve learning outcomes. 

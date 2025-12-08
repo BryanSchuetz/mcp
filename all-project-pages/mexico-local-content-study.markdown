@@ -2,7 +2,6 @@
 ---
 title: Mexico—Local Content Study
 ---
-
 date: 2018-06-21 21:40:00 Z
 tags:
 - Mexico
@@ -21,6 +20,8 @@ solutions:
 - Local Content and Supply Chain Management
 regions: Latin America and the Caribbean
 country: Mexico
+
+
 From 2013 to 2014, constitutional reforms and supporting regulations opened Mexico’s oil and gas sector to foreign investment for the first time in nearly 80 years. The reforms and regulations established safeguards to ensure that Mexico would capture socioeconomic benefits from its rich hydrocarbon resources. These safeguards came in the form of minimum national content requirements and were intended to promote local employment and contracting, as well as investment in local capacity development and infrastructure. 
 
 However, before these national content requirements could catalyze economic growth, Mexico needed to overcome a number of obstacles including lack of readily available national content information; limited multistakeholder dialogue; operator reputational risk and liability; and limited supply chain integration.  

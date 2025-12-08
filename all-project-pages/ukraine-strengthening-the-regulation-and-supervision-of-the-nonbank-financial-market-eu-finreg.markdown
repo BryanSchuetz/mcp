@@ -3,7 +3,6 @@
 title: Ukraine—Strengthening the Regulation and Supervision of the Nonbank Financial
 ---
   Market (EU-FINREG)
-
 date: 2020-04-29 10:50:00 Z
 summary: 'Through EU-FINREG, DAI assisted the Ukrainian authorities in strengthening
   the regulatory framework and supervision practices for securities and investment
@@ -21,6 +20,8 @@ promos:
 - title: 'From Fragmentation to Resilience: Ukraine''s Non-Banking Sector Looks to
     a Stronger Future'
   link: https://dai-global-developments.com/articles/from-fragmentation-to-resilience-ukraines-non-banking-sector-looks-to-a-stronger-future/
+
+
 Ukraine’s financial sector is bank-centric, highly fragmented, and largely nontransparent. Approximately 80 percent of financial assets are controlled by banks, where recent reforms have exposed systemic weaknesses, institutional insolvencies, and practices that are liable to abuse. The result has eroded public confidence in banks and in the regulator’s prudential supervision and left a banking sector where more than 52 percent of the system’s assets are state-owned and controlled. Financial, regulatory, and legal reforms for the nonbank sector are still lagging. 
 
 Through EU-FINREG, DAI assisted the Ukrainian authorities in strengthening the regulatory framework and supervision practices for the securities and investment business, insurance, pensions, nonbank credit institutions, nonbank payment institutions, and other nonbank financial services to help build up a sound regulatory environment for nonbank financial services. Regulation of nonbank financial services—such as mobilization of capital for small and medium enterprises, corporate finance, vehicle and home loans, insurance, or wealth management—is a prerequisite for fair and efficient markets, consumer protection, and market development, thereby contributing to sustained economic growth.

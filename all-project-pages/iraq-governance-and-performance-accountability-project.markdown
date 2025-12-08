@@ -2,14 +2,13 @@
 ---
 title: Iraq—Governance and Performance Accountability (IGPA)/Takamul
 ---
-
 date: 2017-06-29 19:58:00 Z
 summary: 'The Iraq Governance and Performance Accountability (IGPA)/Takamul project
   supports the Iraqi Government to shore up fiscal stability while rapidly and visibly
   improving service delivery. '
 start: 2017
 end: 2023
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Energy
@@ -28,6 +27,8 @@ promos:
   link: https://daiglobal.exposure.co/the-value-of-water
 - title: Building a Democracy to Last
   link: https://www.usglc.org/global-impact-project/stories/building-a-democracy-to-last/
+
+
 The Iraq Governance and Performance Accountability (IGPA) project, known locally as "Takamul" or "Integration" [supported](http://dai-global-developments.com/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq?utm_source=daidotcom) the Iraqi Government to shore up fiscal stability while rapidly and visibly improving service delivery. [The project](https://urban-links.org/project/iraq-governance-and-performance-accountability-project-igpa-takamul/) built capacity for Iraqi government service delivery, improved governorate and national government public financial management, and strengthened monitoring and oversight of service delivery and public expenditure. IGPA/Takamul involved civil society in the decentralization process to ensure accountability, transparency, and citizen buy-in. Through this integrated approach, the project brought about tangible improvements in the daily lives of Iraqis and strengthened the relationship between government and citizens.
 
 After five years, IGPA improved service delivery outcomes in utility sectors with high impact and visibility potentials, such as water, solid waste, and electricity; strengthened the strategic approach and capacity of the decentralized ministries to better align service delivery outcomes with the priorities of provincial governments and local populations; and enhanced targeting of capital investment spending in service delivery sectors that serve vulnerable and disadvantaged populations.

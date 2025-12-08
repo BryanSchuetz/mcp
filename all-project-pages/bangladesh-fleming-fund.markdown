@@ -2,7 +2,6 @@
 ---
 title: Bangladesh—Fleming Fund Phases I and II
 ---
-
 date: 2020-10-19 08:40:00 Z
 summary: DAI’s Fleming Fund programme in Bangladesh is a collaboration with the Bangladesh
   government to strengthen systems using a “One Health” approach—a multisectoral approach
@@ -22,6 +21,8 @@ promos:
 - title: Pattern of Antibiotic Dispensing at Pharmacies According to the WHO Access,
     Watch, Reserve Classification in Bangladesh
   link: https://www.mdpi.com/2079-6382/11/2/247
+
+
 The [Fleming Fund](https://www.flemingfund.org/) is a U.K. Department of Health and Social Care program administered through [Mott Macdonald](https://www.mottmac.com/) to help low- and middle-income countries fight antimicrobial resistance (AMR).
 
 AMR is a leading cause of death globally, [research shows](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00087-3/fulltext) that 1.27 million deaths annually are attributable to drug resistance, higher than HIV/AIDS or malaria. DAI’s Fleming Fund program in Bangladesh is a collaboration with the Bangladesh government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As a global leader in the approach, DAI helps incorporate One Health across program interventions, supporting Bangladesh to become a leader in combating AMR and a model for better management of antimicrobials in human and animal populations.  

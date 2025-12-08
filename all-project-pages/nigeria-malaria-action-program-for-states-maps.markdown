@@ -2,7 +2,6 @@
 ---
 title: Nigeria—Malaria Action Program for States (MAPS)
 ---
-
 date: 2017-08-21 18:13:00 Z
 summary: 'The Malaria Action Program for States (MAPS) program in Nigeria was a comprehensive
   program that increased coverage and use of life-saving malaria interventions in
@@ -10,13 +9,15 @@ summary: 'The Malaria Action Program for States (MAPS) program in Nigeria was a 
   Elimination Program. '
 start: 2010
 end: 2016
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Global Health
 - Sustainable and Accountable Health Services
 - Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: Nigeria
+
+
 The Malaria Action Program for States (MAPS) was a comprehensive program that increased coverage and use of life-saving malaria interventions in support of the Nigeria National Malaria Strategic Plan and the National Malaria Elimination Program.
 
 The MAPS consortium was led by FHI 360 in partnership with DAI Global Health and Malaria Consortium. DAI Global Health was responsible for strengthening the management capacity of the State Ministry of Health and local government area health personnel to provide oversight of malaria interventions. DAI Global Health provided on-the-job capacity building through a long-term team based at the federal and state levels supporting training, supervision, and financial management with intermittent external consultancy expertise.

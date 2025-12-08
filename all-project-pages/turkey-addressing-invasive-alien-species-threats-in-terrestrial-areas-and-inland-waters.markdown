@@ -3,7 +3,6 @@
 title: Türkiye—Addressing Invasive Alien Species Threats in Terrestrial Areas and
 ---
   Inland Waters
-
 date: 2021-01-07 10:00:00 Z
 summary: 'This project ensured the resilience of inland waters and terrestrial ecosystems
   in Türkiye with a specific focus on invasive alien species. It worked to get the
@@ -16,6 +15,8 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Türkiye
+
+
 Invasive alien species are considered one of the main causes of marine and coastal biodiversity loss in Türkiye, posing one of the principal threats to coastal development in the country. Besides impacting native species and ecosystems, invasive alien species can have negative economic and social effects, as well as affect public health. 
 
 Identification, eradication, and management of invasive alien species are cited in Türkiye’s National Strategy and Action Plan for Biodiversity. However, legislative gaps and lack of coordination among institutions in the country hinder its implementation.

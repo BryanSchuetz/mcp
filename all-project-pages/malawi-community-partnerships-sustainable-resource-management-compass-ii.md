@@ -3,14 +3,13 @@
 title: Malawi—Community Partnerships for Sustainable Resource Management (COMPASS
 ---
   II)
-
 date: 2016-01-21 22:40:00 Z
 summary: COMPASS II identified natural resource-based products in Malawi that had
   the potential to provide business opportunities for HIV-affected and other marginalized
   households, such as those headed by women or youth.
 start: 2004
 end: 2009
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 regions:
@@ -18,6 +17,8 @@ regions:
 country:
 - Malawi
 layout: project
+
+
 Malawi's soils, waters, forests, wildlife, fisheries, and other natural resources are being harvested and degraded at rates exceeding their ability to regenerate and replenish. Widespread poverty, low education levels, and epidemic diseases such as AIDS and malaria force many rural households to use a survivalist strategy in their interactions with natural capital assets. The assets are being liquidated rather than enjoying reinvestment, as harvesters must use the meager incomes to meet today's needs. The prospects for long-term wealth generation from these assets—and the biodiversity that underpins the natural capital base—rely on transforming the relationships that households, villages, and society have with their natural resources. COMPASS II identified natural resource-based products that had the potential to provide business opportunities for HIV-affected and other marginalized households, such as those headed by women or youth.
 
 ![][1]

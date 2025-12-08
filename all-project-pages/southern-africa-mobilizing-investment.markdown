@@ -1,21 +1,24 @@
 
+
 ---
 title: Southern Africa—USAID Mobilizing Investment Project
 ---
-
 date: 2022-11-28 14:02:00 Z
 published: false
 summary: The USAID Southern Africa Mobilizing Investment Project is a five-year initiative
   to promote inclusive economic growth and self-reliance in the region.
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Finance and Investment
 - Trade
 regions: Sub-Saharan Africa
 country: Regional
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 African markets present a broad range of attractive investment opportunities in emerging sectors, such as digital and technology infrastructure (especially fintech), education, and healthcare, as well as the more traditional sectors of agribusiness, logistics, financial services, and energy. South Africa, a top investment destination on the continent, is becoming an important gateway to new opportunities in other Southern African Development Community countries. 
 
 Despite bright spots, gaps persist in the ecosystem to finance small and medium-sized enterprises (SMEs), tech-enabled companies, and growth businesses, creating challenges for businesses as they maneuver through successive stages of their growth lifecycle. Chief among those gaps is the lack of growth capital to scale promising businesses that obtained early funding. Increasing investment supports the expansion of the private sector and catalyzes economic growth in the Southern Africa region.

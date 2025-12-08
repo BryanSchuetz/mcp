@@ -1,4 +1,3 @@
-
 ---
 title: El Salvador—Water Services Project (WSP)
 ---
@@ -9,8 +8,8 @@ summary: The Water Services Project aims to improve the quality of—and access 
   services in urban areas serviced by El Salvador’s National Administration of Aqueducts
   and Sewers.
 start: 2024
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Water Security, Sanitation, and Hygiene
@@ -20,6 +19,9 @@ country: El Salvador
 promos:
 - title: How Increasing Tax Revenue Shapes the Lives of Salvadorans
   link: https://dai-global-developments.com/articles/how-increasing-tax-revenue-shapes-the-lives-of-salvadorans/
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Dwindling water availability, increasing pollution, and extreme weather events have led to growing water insecurity in El Salvador. A lack of trust has developed between the National Administration of Aqueducts and Sewers (ANDA) and its customers due to a history of poor customer orientation, a lack of communication channels between customers and the service providers, inaccurate billing, and lack of reporting of and timely response to issues. 
 
 Part of the U.S. Agency for International Development's broader efforts to improve water management and governance in the region, the Water Services Project (WSP) aims to improve the quality of—and access to—water services in urban areas serviced by ANDA.

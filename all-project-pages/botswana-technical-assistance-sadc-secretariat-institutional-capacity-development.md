@@ -3,7 +3,6 @@
 title: 'Botswana—Technical Assistance to the SADC Secretariat: Institutional Capacity
 ---
   Development Programme'
-
 date: 2016-01-21 22:40:00 Z
 summary: DAI built the institutional capacity of the  SADC Secretariat, helping the
   regional governing body to modernize and enhance its internal administrative and
@@ -18,6 +17,8 @@ regions:
 country:
 - Botswana
 layout: project
+
+
 The Southern African Development Community (SADC)—comprised of 16 countries—is led by an Executive Secretariat based in Gaborone, Botswana, that fosters regional integration, boosts economic growth, and ensures stability among its member states.
 
 DAI built the institutional capacity of the SADC Secretariat, helping the regional governing body to modernize and enhance its internal administrative and management processes. As a result, the Secretariat is able to more effectively implement its own programmes for members as well as partner with international donor agencies, positioning the organisation to better fulfill its mandate of promoting sustainable development throughout the region.

@@ -3,14 +3,13 @@
 title: Haiti—Appui a la Valorisation du potentiel Agricole du Nord, pour la Securite
 ---
   Economique et Environnementale (AVANSE)
-
 date: 2016-01-21 22:40:00 Z
 summary: Feed the Future AVANSE worked with farmers and vendors to address key constraints
   within production and value chains, from improved watershed stability and irrigation
   infrastructure, to increased access to financial products and produce buyers.
 start: 2013
 end: 2020
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -25,6 +24,8 @@ promos:
     Results
   link: https://medium.com/usaid-2030/i-am-proof-e7f891454a7f
 layout: project
+
+
 Despite the steeply sloped terrain, the soil of northern Haiti has the potential to produce profitable cash crops such as rice, bananas, and cacao. However, a lack of access to markets and poor agriculture techniques has kept crop prices and yields low, while floods, droughts, and landslides are a constant threat to farmers’ harvests and livelihoods. These factors have contributed to a persistent cycle of poverty, malnutrition, and food insecurity in the region.
 
 To help Haitian farmers confront these challenges, the U.S. Agency for International Development (USAID), in collaboration with the Haitian Ministry of Agriculture, launched the AVANSE program to catalyze inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. AVANSE was the flagship Feed the Future program in the region, and partnered with smallholder farmers to build resilience to extreme weather events, increase agricultural productivity, and improve livelihood opportunities.

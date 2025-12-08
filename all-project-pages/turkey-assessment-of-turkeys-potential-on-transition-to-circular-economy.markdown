@@ -2,7 +2,6 @@
 ---
 title: Türkiye—Assessment of Türkiye’s Potential on Transition to Circular Economy
 ---
-
 date: 2022-02-14 11:45:00 Z
 tags:
 - Europe
@@ -18,6 +17,8 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
+
+
 The effects of economic growth and urbanization in Türkiye have resulted in greater demand for more efficient and renewable forms of energy and a better waste management system. To deal with these challenges, Türkiye recognizes that it must transition to a more “circular” growth model, and it is making efforts to harmonize its environmental regulatory and policy framework with European Union (EU) standards in this area as part of the EU Accession process.
 
 The EU circular economy action plan is intended to reduce pressure on natural resources and create more sustainable growth and jobs, the plan envisages initiatives along the entire lifecycle of products, influencing how products are designed, promoting circular economy processes, encouraging sustainable consumption, and seeking to prevent waste.

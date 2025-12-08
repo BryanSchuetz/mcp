@@ -1,16 +1,16 @@
 
+
 ---
 title: Vietnam—Sustainable Forest Management (SFM)
 ---
-
 date: 2020-06-16 15:15:00 Z
 published: false
 summary: 'The Vietnam Sustainable Forest Management project helps the Government of
-  Vietnam reduce carbon emissions associated with deforestation, the degradation of
-  natural forests, and poor plantation management. '
+Vietnam reduce carbon emissions associated with deforestation, the degradation of
+natural forests, and poor plantation management. '
 start: 2020
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Natural Resource Management
@@ -27,6 +27,9 @@ promos:
 - title: 'BLOG: Investing in Ethnically Diverse Communities to Restore and Preserve
     Forests in Vietnam'
   link: https://dai-global-developments.com/articles/investing-in-ethnically-diverse-communities-to-restore-and-preserve-forests-in-vietnam/
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 In Vietnam and worldwide, widespread forest degradation from illicit timber harvesting, forest land conversion, and poor forest management practices is leading to increased carbon emissions, which threaten the environment, communities, and livelihoods. Despite national increases in overall tree coverage, Vietnam’s natural forests are reducing in area and worsening in quality.    
 
 Vietnam has 14.79 million hectares of forests that store carbon and provide ecosystems and economic services at local, national, and global scales. The country has a rapidly developing economy with a robust and growing wood processing industry. This growth has also come at a price of increased greenhouse gas emissions and environmental degradation. Despite national increases in overall tree cover, there is a reduction in total area of natural forests and forest quality in the country.  

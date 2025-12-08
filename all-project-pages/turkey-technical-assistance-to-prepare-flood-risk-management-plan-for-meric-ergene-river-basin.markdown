@@ -3,7 +3,6 @@
 title: Türkiye—Technical Assistance to Prepare Flood Risk Management Plan for Meriç-Ergene
 ---
   River Basin
-
 date: 2022-03-21 15:49:00 Z
 tags:
 - European Union
@@ -18,6 +17,8 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
+
+
 In recent years, Türkiye’s 25 hydrological basins have been increasingly prone to extreme flood events that have caused serious economic, social, and environmental impacts and losses in human life. As part of its accession to the European Union (EU), Türkiye is required to adapt and prepare an individual implementation plan for the EU’s Floods Directive, the centerpiece of European flood risk management policy. 
 
 Our project works to reduce the adverse consequences of flood events for human health, environment, cultural heritage, and economic activity through the assessment and management of flood risk. This intervention focuses on the preparation of flood risk management plans for the Meriç-Ergene River Basin, which is situated in Türkiye’s northwest on the boundaries with Greece and Bulgaria. The project provides workshops to a range of stakeholders to strengthen the capacities of the national, river basin, and local authorities in planning, and implementation of the flood risk management plans. 

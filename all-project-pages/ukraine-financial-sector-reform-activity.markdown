@@ -1,15 +1,15 @@
 
+
 ---
 title: Ukraine—Investment for Business Resilience Activity
 ---
-
 date: 2022-07-15 13:09:00 Z
 published: false
 summary: The Investment for Business Resilience Activity in Ukraine focuses on getting
   needed finance in the hands of businesses to rebuild and grow.
 start: 2022
-end: 2027
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -19,6 +19,9 @@ country: Ukraine
 promos:
 - title: Transforming the Ukrainian Financial Sector
   link: https://dai-global-developments.com/articles/transforming-the-ukrainian-financial-sector
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Building on three decades of support to Ukraine’s financial sector, including the recently completed  [Financial Sector Transformation Activity (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst)—the Investment for Business Resilience Activity (formerly called Financial Sector Reform (FSR) Activity) supports Ukraine’s economic development and growth. 
 
 The Investment for Business Resilience Activity works closely with the Government of Ukraine and financial sector authorities, banks and nonbank financial companies, and business and civic organizations. The team coordinates its activities with international financial institutions including the International Monetary Fund, the World Bank, multilateral lenders and donors, and financial sector standards-setting bodies.

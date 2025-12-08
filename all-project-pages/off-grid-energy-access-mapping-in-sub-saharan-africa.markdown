@@ -2,7 +2,6 @@
 ---
 title: Africa–Off-Grid Energy Access Mapping in Sub-Saharan Africa
 ---
-
 date: 2017-03-17 18:09:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) was sub-contracted by Development
   Seed to support this project by providing guidance and expertise on energy demand
@@ -15,6 +14,8 @@ solutions:
 - Energy
 regions: Sub-Saharan Africa
 country: Regional
+
+
 With more than one billion people around the world living without reliable and affordable electricity, an increasing number of off-grid energy technologies and business models are emerging in an effort to close this global energy access gap. While companies offering off-grid solutions are interested in the world’s most under-electrified areas, they often lack the critical information on market potential, electrical infrastructure, socioeconomic contexts, and energy demand required to make prudent investment decisions.
 
 DAI’s Sustainable Business Group (SBG) was sub-contracted by Development Seed to support this project by providing guidance and expertise on energy demand and access in Sub-Saharan Africa, along with support for data needs. SBG designed a methodology to address these data needs and to ensure that investors on the ground could access relevant information and analyze potential opportunities. The data was integrated into a web-based geo-analytical tool that maps potential hot spots for investment across Sub-Saharan Africa, with more granular focus on regions in Nigeria, Tanzania, and Zambia. 

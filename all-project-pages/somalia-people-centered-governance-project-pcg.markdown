@@ -1,8 +1,8 @@
 
+
 ---
 title: Somalia—People-Centered Governance Activity (PCG)
 ---
-
 date: 2023-07-25 13:51:00 Z
 published: false
 summary: The Somalia People-Centered Governance Activity (PCG) supports local governance
@@ -10,8 +10,8 @@ summary: The Somalia People-Centered Governance Activity (PCG) supports local go
   models, more fairly manage resources, deliver results and services for citizens,
   and—in so doing—increase citizen trust in the councils.
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Fragile States
@@ -19,6 +19,9 @@ solutions:
 - Public Administration, Civil Service Reform, and Human Resources Management
 regions: Sub-Saharan Africa
 country: Somalia
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 In the summer of 2022, the new President of Somalia, Hassan Sheikh Mohamud, declared “total war” against al-Shabaab and impressive strides have been made. While there is a strong spirit of optimism among the Somali people, a security response alone is insufficient. While district councils have been formed in seven districts, they have received virtually no support. By improving council functions, the Somalia People-Centered Governance Activity (PCG) offers important complementary programming to solidify gains from ongoing security, humanitarian, stabilization, and development initiatives. 
 
 PCG supports local governance in southern Somalia, helping district councils to adopt inclusive decision-making models, more fairly manage resources, deliver results and services for citizens, and—in so doing—increase citizen trust in the councils. The Activity facilitates government dialogue and engagement with citizens to strengthen the social contract, delivers bespoke support to district councils to improve their governance capabilities, and ultimately increase the legitimacy and effectiveness of local government.

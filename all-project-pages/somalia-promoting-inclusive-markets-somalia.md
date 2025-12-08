@@ -2,7 +2,6 @@
 ---
 title: Somalia—Promoting Inclusive Markets in Somalia (PIMS)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'The Promoting Inclusive Markets in Somalia programme addressed critical
   market constraints in Somalia largely through co-investment with Somali firms, stimulated
@@ -25,6 +24,8 @@ promos:
 - title: Discovering Pathways to Economic Growth in Somalia, Discreetly
   link: https://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia
 layout: project
+
+
 The Promoting Inclusive Markets in Somalia (PIMS) [programme addressed](https://beamexchange.org/resources/1309/) critical market constraints in Somalia largely through co-investment with Somali firms, to stimulate the creation of long-term jobs, [increase smallholder incomes](http://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/), and leverage private sector investment. PIMS applied Markets for the Poor (M4P) principles to address the binding constraints in the productive sectors in Somalia, focused on fostering behaviour change among the smallholder producers, and promoted new production technologies and practices. 
 
 PIMS also built resilience by creating markets that can withstand climate shocks and maintain livelihoods during cycles of drought and flooding.   

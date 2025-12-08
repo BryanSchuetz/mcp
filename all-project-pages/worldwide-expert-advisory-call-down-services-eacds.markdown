@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Expert Advisory Call Down Services (EACDS) Lots B, C, and D
 ---
-
 date: 2017-03-04 02:41:00 Z
 summary: EACDS is a technical advisory call-down service which provides rapid-response,
   expert support to the Foreign, Commonwealth & Development Office and other U.K.
@@ -40,6 +39,8 @@ promos:
   link: "/uploads/Theme%206%20-%20Data%20monitoring%20and%20evaluation%2008.01.18.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Research Methodology_"
   link: "/uploads/EiE_Evidence_Briefs_Introduction.pdf"
+
+
 ### Lot B: Strengthening Resilience and Response to Crises
 
 Crises such as natural disasters, violent conflicts, and disease outbreaks continue to affect many people worldwide, with long-term stresses such as more frequent extreme weather events and the sapped reserves of disaster-affected communities. Such strains have resulted in increased migration, unstable states, protracted [humanitarian interventions](https://www.calpnetwork.org/blog/five-practical-insights-on-linking-humanitarian-assistance-and-social-protection/), and expensive rebuilding efforts. In addition to the toll of human suffering, the costs associated with responding to such crises can strain the entire humanitarian response system, while subsequent regional instability can develop into security threats with far-reaching consequences.

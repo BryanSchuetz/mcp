@@ -1,22 +1,25 @@
 
+
 ---
 title: Southeast Asia—USAID Partnerships for Green Investment
 ---
-
 date: 2024-07-12 13:30:00 Z
 published: false
 summary: The USAID Partnerships for Green Investment program employs nature-based
-  solutions to achieve greater emissions reduction, climate resilience, biodiversity
-  protection, inclusiveness, and benefit sharing across Southeast Asia.
+solutions to achieve greater emissions reduction, climate resilience, biodiversity
+protection, inclusiveness, and benefit sharing across Southeast Asia.
 start: 2024
-end: 2029
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Climate
 - Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Cambodia, Indonesia, Lao PDR, the Philippines, Thailand, Vietnam
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Agricultural expansion is Southeast Asia’s biggest deforestation threat and has led to significant loss of biodiversity and disruption of ecosystems. Through the Partnerships for Green Investment activity, the U.S. Agency for International Development (USAID) works to achieve greater emissions reductions, climate resilience, biodiversity protection, inclusiveness, and the equitable sharing of benefits along the land-based supply chains such as coffee, rubber, cacao, timber, and coconut. 
 
 The initiative builds on the successes of [USAID Green Invest Asia](https://www.usaid.gov/asia-regional/fact-sheets/usaid-green-invest-asia) that mobilized funds for sustainable investment to reduce a projected 156 million tons of carbon emissions from 1.7 million hectares in the land use sector across Southeast Asia. USAID Partnerships for Green Investment collaborates with private and public organizations across Southeast Asia to accelerate systemic changes in the land use sector to advance the [USAID Climate Strategy](https://www.usaid.gov/policy/climate-strategy) and the U.S. government’s [Indo-Pacific strategy](https://www.whitehouse.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf). 

@@ -3,13 +3,12 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
 ---
   Command North (RAMP UP North)
-
 date: 2016-01-21 22:40:00 Z
 summary: This project addressed helped to establish capable, legitimate governance
   at the municipal level in nine provincial capitals.
 start: 2011
 end: 2014
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Fragile States
@@ -20,6 +19,7 @@ regions:
 country:
 - Afghanistan
 layout: project
+
 
 Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Few have piped water systems or consistent city power—lack of access to electricity is common. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent.
 

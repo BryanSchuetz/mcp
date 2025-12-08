@@ -2,7 +2,6 @@
 ---
 title: Brazil—Paying for Nature Scoping Activity
 ---
-
 date: 2022-04-07 16:07:00 Z
 summary: Defra commissioned DAI to conduct research and analysis of the current state
   of play in the Legal Amazon region in Brazil to inform the next round of climate
@@ -15,6 +14,8 @@ solutions:
 - Environment
 regions: Latin America and the Caribbean
 country: Brazil
+
+
 Home to 33 percent of the world’s tropical forests, the Brazilian Amazon ecosystem plays a critical role as part of global systems, influencing the global carbon cycle, as well as hemispheric hydrological systems.
 
 The Amazon, for the first time in its history, is now estimated to emit more carbon than it absorbs. Deforestation over the past 30 years has been concentrated in the states of Mato Grosso, Pará, and Rondônia, the traditional “deforestation frontier” of the Brazilian Amazon. The main drivers of deforestation include logging, cattle raising, soya production, mining, and infrastructure development such as roads and hydroelectric dams.

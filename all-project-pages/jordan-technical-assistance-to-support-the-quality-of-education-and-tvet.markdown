@@ -2,9 +2,9 @@
 ---
 title: Jordan—Technical Assistance to Support the Quality of Education and TVET
 ---
-
 date: 2022-01-25 09:12:00 Z
-summary: 'We are supporting sustainable growth in Jordan through free and equitable access to high-quality primary and secondary education for human capital development. '
+summary: 'We are supporting sustainable growth in Jordan through free and equitable
+  access to high-quality primary and secondary education for human capital development. '
 start: 2022
 end: 2024
 client: European Union
@@ -13,6 +13,8 @@ solutions:
 - Education
 regions: Middle East and North Africa
 country: Jordan
+
+
 The European Union is financing a support programme worth €65 million to implement an ambitious reform effort of the Government of Jordan—the Education Strategic Plan to improve the country's technical and vocational education and training (TVET).
 
 Our assistance supports sustainable growth through free and equitable access to high-quality primary and secondary education to develop human capital. To this end, improving teacher capacity will generate better education for young people, in turn increasing their opportunities for decent work upon graduation and their contribution to Jordan's economic growth. 

@@ -2,14 +2,13 @@
 ---
 title: Zimbabwe—Agricultural Competitiveness Program
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked through existing institutions and with the re-emerging private
-sector to identify needed reforms in the investment environment to promote competitiveness
-in Zimbabwe's agricultural sector.
+  sector to identify needed reforms in the investment environment to promote competitiveness
+  in Zimbabwe's agricultural sector.
 start: 2010
 end: 2015
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 regions:
@@ -17,6 +16,8 @@ regions:
 country:
 - Zimbabwe
 layout: project
+
+
 Until a decade ago, Zimbabwe's agricultural sector was flourishing. Amid the country's economic decline, the government's aggressive land reform program essentially dismantled the large-scale commercial farming sector, drastically reducing national productivity and resulting in the country becoming a net importer of food. The decline in demand from large-scale commercial farming and the mass exodus of skilled management and labor led to the deterioration of rural market infrastructure and the decline of the extension and agricultural education system. DAI supported the private sector-driven revitalization of Zimbabwe's agriculture economy.
 
 To achieve these goals within a complex and changing political landscape, DAI worked through existing institutions and with the re-emerging private sector to identify needed reforms in the investment environment to promote competitiveness. The program relied heavily on supporting local experts and institutions, tapping into the Zimbabwean diaspora in South Africa, and incorporating local bodies directly into the planning, oversight, and monitoring of program interventions.

@@ -2,7 +2,6 @@
 ---
 title: Guatemala—Nexos Locales
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: Nexos Locales works with municipalities in Guatemala's Western Highlands
   to foster more responsive, inclusive, and effective socio-economic development while
@@ -10,7 +9,7 @@ summary: Nexos Locales works with municipalities in Guatemala's Western Highland
   achieve this goal, the project works at the intersection—or nexos—of good governance.
 start: 2014
 end: 2023
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Agriculture and Food Security
 - Climate
@@ -42,6 +41,8 @@ promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
+
+
 Nexos Locales works with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 
 [Nexos Locales](http://www.nexoslocales.com/) increases the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and changes in climate; and improve public financial management. The team works with municipalities to improve basic services delivery and security plans, as well as [increase civil society participation](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) in decision-making.

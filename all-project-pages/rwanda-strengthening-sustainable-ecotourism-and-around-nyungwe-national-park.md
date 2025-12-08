@@ -3,7 +3,6 @@
 title: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
 ---
   Park (SSENNP)
-
 date: 2016-01-21 22:40:00 Z
 summary: The project supported the Rwanda Development Board’s efforts to improve overall
   management of the National Park and helped local communities and the private sector
@@ -11,7 +10,7 @@ summary: The project supported the Rwanda Development Board’s efforts to impro
   biodiversity conservation efforts in the area.
 start: 2010
 end: 2015
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 regions:
@@ -19,6 +18,8 @@ regions:
 country:
 - Rwanda
 layout: project
+
+
 The project supported the Rwanda Development Board’s (RDB) efforts to improve overall management of the National Park and helped local communities and the private sector engage in ecotourism activities and thereby gain tangible financial benefits from biodiversity conservation efforts in the area.
 
 ![](https://assetify-dai.com/projects/RwandaSSENNP.jpg)

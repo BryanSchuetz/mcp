@@ -2,13 +2,12 @@
 ---
 title: Worldwide—Health Finance and Governance
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: Our principal responsibility under this subcontract was to strengthen the
-governance capacity and accountability mechanisms of partner country health systems.
+  governance capacity and accountability mechanisms of partner country health systems.
 start: 2012
 end: 2018
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Governance
 - Global Health
@@ -20,6 +19,8 @@ promos:
 - title: When Tax Reform Leads to Increased Funding for Health Services
   link: http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services?utm_source=daidotcom
 layout: project
+
+
 Our principal responsibility under this subcontract was to strengthen the governance capacity and accountability mechanisms of partner country health systems.
 
 This project under the U.S. Agency for International Development's new Office of Health Systems supported partner countries' efforts to increase domestic resources available for health care, manage those resources more effectively and accountably, and increase the responsiveness of health systems to their populations' needs, especially women, girls, and poor and rural populations.

@@ -2,19 +2,20 @@
 ---
 title: Worldwide—Integrated Natural Resource Management (INRM) Activity
 ---
-
 date: 2020-08-03 17:10:00 Z
 summary: The Integrated Natural Resource Management (INRM) program is designed to
   drive the uptake and operationalization of the U.S. Agency for International Development’s
   Environment and Natural Resource Management Framework.
 start: 2020
 end: 2024
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 - Natural Resource Management
 regions: Worldwide
 country: United States
+
+
 <aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
 
 Coordinating and integrating biodiversity conservation with other development efforts, where appropriate, can provide a powerful opportunity to address the multifaceted challenges people face to add value and produce longer-lasting development outcomes.

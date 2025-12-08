@@ -2,11 +2,10 @@
 ---
 title: Ghana—Market Development (MADE) in Northern Ghana
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'This project was part of DAI''s framework contract with the Foreign, Commonwealth
- & Development Office (FCDO) and was implemented by Nathan Associates UK. DAI consulted
- the project on aspects of climate resilience. '
+  & Development Office (FCDO) and was implemented by Nathan Associates UK. DAI consulted
+  the project on aspects of climate resilience. '
 start: 2013
 end: 2020
 client: Foreign, Commonwealth & Development Office
@@ -21,6 +20,8 @@ regions:
 country:
 - Ghana
 layout: project
+
+
 This project was part of DAI's framework contract with the Foreign, Commonwealth & Development Office (FCDO) and was implemented by Nathan Associates UK. DAI consulted with the project on aspects of climate resilience.
 
 FCDO Ghana's Operational Plan proposed a focus on the North of Ghana to help bridge the development gap between the south and north of the country. As a Making Markets Work for the Poor (M4P) program, [MADE](https://beamexchange.org/practice/programme-index/1/) was expected to improve the incomes and resilience of poor farmers and small-scale rural entrepreneurs in the Northern Savannah, with a particular focus on agricultural value chains (the full range of activities that bring a crop to the consumer).

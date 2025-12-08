@@ -2,7 +2,6 @@
 ---
 title: Mexico—Clean Energy Programme (MCEP)
 ---
-
 date: 2019-03-14 20:59:00 Z
 summary: 'DAI implemented the Mexico Clean Energy Programme, which developed the skills
   of small and medium enterprises and government institutions to support Mexico''s
@@ -17,6 +16,8 @@ solutions:
 - Climate
 regions: Latin America and the Caribbean
 country: Mexico
+
+
 The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reduce poverty, and generate new market opportunities for symbiotic U.K. partnerships and investments.
 
 DAI helped the FCDO achieve its vision by implementing the Mexico Clean Energy Programme (MCEP), which developed the skills of small and medium enterprises (SMEs) and government institutions to support Mexico's transition to a low-carbon economy. 

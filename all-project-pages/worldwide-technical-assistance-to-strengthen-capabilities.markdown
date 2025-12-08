@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Technical Assistance to Strengthen Capabilities (TASC)
 ---
-
 date: 2020-12-07 08:54:00 Z
 summary: The Technical Assistance to Strengthen Capabilities (TASC) Project contributed
   to improved nutritional outcomes as part of the UKaid-funded Technical Assistance
@@ -44,6 +43,8 @@ promos:
   link: "/uploads/FAQs%20CWIP%20feedback%20mechanism_2024_en.pdf"
 - title: FAQs Child Wasting Innovation Program 2024 (French)
   link: "/uploads/FAQs%20CWIP%20feedback%20mechanism_2024_fr.pdf"
+
+
 The Technical Assistance to Strengthen Capabilities (TASC) Project contributed to processes that support improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by the U.K. Foreign, Commonwealth & Development Office (FCDO). Our partners were [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/), and TASC was a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) program. 
 
 TASC worked to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status. It achieved this by strengthening the enabling environment for nutrition at the global and country levels, ultimately delivering policies and programs that support the reduction of malnutrition. 

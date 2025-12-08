@@ -3,7 +3,6 @@
 title: Colombia—Design and Implementation of Microsavings Products for Financial Intermediaries
 ---
   (MICROAHORRO)
-
 date: 2016-01-21 22:40:00 Z
 summary: DAI worked to expand the frontier of quality banking services to benefit
   geographically isolated poor people and micro-entrepreneurs in Colombia.
@@ -18,6 +17,8 @@ regions:
 country:
 - Colombia
 layout: project
+
+
 While certain areas in Colombia have acceptable levels of banking, many Colombians are still excluded from basic services such as a savings account. In addition to geographic isolation, there are other, more subtle barriers to financial inclusion: local informal economies, low levels of financial education, transaction costs, fees, and many realities and expectations not well understood by the country's financial institutions.
 
 Today in Colombia, rural people represent only one-third of the total savings accounts in the country. The financial sector also has a relevant problem of inactive savings accounts, particularly among the poorest socioeconomic groups.

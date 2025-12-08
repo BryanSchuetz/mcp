@@ -2,7 +2,6 @@
 ---
 title: Worldwide—Climate and Ocean Adaptation and Sustainable Transition (COAST)
 ---
-
 date: 2024-11-20 10:38:00 Z
 summary: 'The U.K. Foreign, Commonwealth and Development Office (FCDO) Climate and
   Ocean Adaptation and Sustainable Transition (COAST) program works to improve vulnerable
@@ -16,6 +15,8 @@ solutions:
 - Environment
 regions: Worldwide
 country: Worldwide
+
+
 The U.K. Foreign, Commonwealth & Development Office (FCDO) Climate and Ocean Adaptation and Sustainable Transition (COAST) program works to improve vulnerable coastal communities’ resilience to changes in climate and prosperity from a more sustainable use of their marine environment. 
 
 DAI is responsible for delivering COAST Component A, which is implemented in two phases. Phase One occurs in Indonesia, Mozambique, the Philippines, and Vietnam over 24 months. Phase 2 countries, including Nigeria and Bangladesh, will be added in year three and will be agreed upon in conjunction with the FCDO. 

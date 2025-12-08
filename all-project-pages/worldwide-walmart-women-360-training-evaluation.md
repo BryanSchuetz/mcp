@@ -2,11 +2,10 @@
 ---
 title: Worldwide—Walmart Women 360 Training Evaluation
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'DAI was part of a team working with the Walmart Foundation to evaluate the
-Women in Factories program, part of Walmart''s Global Women''s Economic Empowerment
-Initiative.
+  Women in Factories program, part of Walmart''s Global Women''s Economic Empowerment
+  Initiative.
 
 '
 start: 2012
@@ -21,6 +20,8 @@ regions:
 country:
 - Regional
 layout: project
+
+
 DAI was part of a team working with the Walmart Foundation to evaluate the Women in Factories program, part of Walmart's Global Women's Economic Empowerment Initiative.
 
 The program was implemented in factories in India, Bangladesh, China, and Central America. Trainers taught 60,000 women life skills related to communication, hygiene, reproductive health, occupational health and safety, and identifying personal strengths. Up to 8,000 women also received leadership training to develop skills for personal and career development.

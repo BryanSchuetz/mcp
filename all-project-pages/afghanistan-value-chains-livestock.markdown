@@ -1,4 +1,3 @@
-
 ---
 title: Afghanistan—Value Chains Program
 ---
@@ -9,8 +8,8 @@ summary: The Afghanistan Value Chains Program helps farmers and related agribusi
   to increase productivity and create jobs by expanding into new markets, attracting
   investors, and improving efficiency.
 start: 2018
-end: 2025
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Agriculture and Food Security
 - Market Systems and Value Chain
@@ -26,6 +25,9 @@ promos:
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Afghanistan Value Chains Program (AVCP) builds the capacity of livestock- and crops-related enterprises, or anchor firms, so they become more efficient and profitable. Working directly with agribusiness companies through co-investment agreements, AVCP utilizes anchor firms as conduits through which the program engages the broader sector—from suppliers to individual producers: Afghanistan’s farmers. The growth of the anchor firms promotes efficiency and profitability and strengthens the entire value chains with a direct and positive impact on the economy, households, and livelihoods.
 
 AVCP assists vulnerable farm communities and households severely impacted by continued regional droughts, climate change, and the lingering impacts of the COVID-19 pandemic. The program also supports activities designed to increase the domestic production of food, as imports become increasingly costly.

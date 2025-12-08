@@ -2,7 +2,6 @@
 ---
 title: Armenia—Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA)
 ---
-
 date: 2023-01-06 12:38:00 Z
 summary: The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project
   takes a market systems development (MSD) approach to bolster growth—primarily in
@@ -14,6 +13,8 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Armenia
+
+
 The Sustainable and Inclusive Growth in Mountainous Armenia (SIGMA) project aims to reduce poverty and inequality in the mountainous regions of Armenia by improving sustainable employment. Sigma has two primary outcomes:
 
 * Help farmers, agribusiness, and tourism businesses increase revenues and employ more people.

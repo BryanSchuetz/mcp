@@ -1,8 +1,6 @@
-
 ---
 title: Haiti—USAID Water and Sanitation; Water Security and Systems Strengthening
 ---
-  Activity (USAID Eau)
 
 date: 2018-01-01 20:11:00 Z
 published: false
@@ -13,8 +11,8 @@ summary: USAID Eau partners with multiple stakeholders—water utilities in larg
   target areas, gain access to finance, and better manage water resources for resilient,
   sustained service delivery.
 start: 2017
-end: 2029
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
@@ -39,6 +37,9 @@ promos:
   link: https://www.globalwaters.org/resources/assets/applying-adaptive-management-results-fragile-environment
 - title: Launch of the Water Resilience Center
   link: "/uploads/Launch%20of%20the%20water%20resilience%20center.pdf"
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Though facing ongoing economic, security, and climate crises, Haitian water utilities continue the remarkable improvements in service quality and management started under the U.S. Agency for International Development (USAID)’s Water and Sanitation project. The Direction Nationale de l’Eau Potable et de l’Assainissement (DINEPA) has also begun embracing its role as a regulatory agency, aided by better sector data. Despite this progress, most utilities still provide intermittent service, many have fewer than 1,000 customers, and none of Haiti’s piped water systems supply enough water for all urban residents. Haitian communities are suffering from a prolonged drought and there is no regulation of the drawdown of the aquifers. To respond to these challenges, Haitian utilities and DINEPA require assistance through the Water Security and Systems Strengthening (USAID Eau) Activity.
 
 USAID Eau builds on the USAID Water and Sanitation project’s strong foundation to improve water delivery in Haiti. In addition to supporting Centres Technique d’Exploitation (CTEs, water utilities in larger towns), USAID Eau will expand to work with Offices Régionaux de l’Eau Potable et de l’Assainissement (OREPAs) (regional water authorities) and DINEPA to put in place policies and regulations to improve the overall management of the water sector. We work with CTEs, as well as Comités d’Approvisionnement en Eau Potable et Assainissement (CAEPAs) (water utilities for smaller systems) and private operators, by strengthening market systems to improve access to water for marginalized populations. USAID Eau is focused on transforming the water sector by helping water utilities develop and begin implementing plans to expand coverage to all targeted areas, gain access to finance, and better manage water resources for sustained service delivery. USAID Eau’s goal and two complementary objectives will accelerate Haiti’s progress to create stronger accountability for and delivery of water services for all.

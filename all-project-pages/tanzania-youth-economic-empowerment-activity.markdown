@@ -2,14 +2,13 @@
 ---
 title: Tanzania—Feed the Future Tanzania Advancing Youth
 ---
-
 date: 2017-09-07 21:28:00 Z
 summary: 'The Feed the Future Tanzania Advancing Youth activity helped young people
   ages 15 to 29 in Tanzania to enhance their employability, business savvy, leadership
   skills, and participation in civic life. '
 start: 2017
 end: 2022
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 - Health and Livelihoods
@@ -22,6 +21,8 @@ promos:
   link: https://www.usaid.gov/tanzania/news/entrepreneurship-opens-doors-success
 - title: Youth Leader Earns Life-Changing Opportunity
   link: https://www.usaid.gov/tanzania/news/youth-leader-earns-life-changing-opportunity
+
+
 In the past decade, Tanzania experienced significant improvements—both economically and socially. The country’s gross domestic product has seen above-average growth, mortality for children under age 5 has dropped substantially, more households have electricity, and more young people have completed primary school. However, economic growth has benefited cities more than rural areas, leading to increased rural to urban migration by youth who see farming as a dead-end occupation. With approximately 800,000 young people entering the workforce each year, providing youth with vocational skills and connecting them to employment opportunities has become an increasingly important and urgent need.
 
 To help empower young people in Tanzania, the Advancing Youth Activity, funded by Feed the Future and the U.S. Agency for International Development (USAID), helped young people ages 15 to 29 to enhance their employability, business savvy, leadership skills, and participation in civic life. The program encouraged young people to use health data and services to make better personal choices. The Feed the Future Tanzania Advancing Youth activity collaborated with young people in program design and implementation and built public-private partnerships to [bolster job opportunities](https://www.usaid.gov/tanzania/press-releases/may-29-2019-united-states-disburses-grants-worth-750000-create-jobs) for them.

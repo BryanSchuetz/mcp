@@ -2,13 +2,12 @@
 ---
 title: India—Water Analysis, Innovations, and Systems Program (WAISP)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: DAI was contracted by the U.S. Agency for International Development to analyze
   its comparative advantage for delivering innovative solutions to India's water challenges.
 start: 2010
 end: 2013
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
@@ -17,6 +16,8 @@ regions:
 country:
 - India
 layout: project
+
+
 Food, health, and the environment are inextricably linked to the supply of water. In India, a country of 1.2 billion people, the water supply is being squeezed by the growing population and changes in climate. Despite overexploitation of groundwater, deteriorating water quality, and weak water governance, there is cause for optimism as the public and business sectors now acknowledge these threats to India's economic growth and public health.
 
 Given the competing water demands between agriculture, domestic use, and industry, the industrial sector could be the worst hit, with a direct impact on economic growth and jobs. Improved municipal and industrial water-use efficiency and water reuse will decrease freshwater demand, slow groundwater withdrawals, and reduce pollution. The U.S. Agency contracted us for International Development to analyze its comparative advantage for delivering innovative solutions to India's water challenges.

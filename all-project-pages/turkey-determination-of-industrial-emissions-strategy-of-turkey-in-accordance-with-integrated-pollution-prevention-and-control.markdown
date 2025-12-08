@@ -3,7 +3,6 @@
 title: Türkiye—Determination of Industrial Emissions Strategy in Accordance with Integrated
 ---
   Pollution Prevention and Control
-
 date: 2020-04-14 15:02:00 Z
 summary: The project promoted environmentally friendly industrial production and contributed
   to policy development, leading to a Draft National Action Plan for Determining Türkiye's
@@ -17,6 +16,8 @@ solutions:
 - Climate
 regions: Eastern Europe and Central Asia
 country: Türkiye
+
+
 Türkiye’s economic and social development performance since 2000 has been impressive, leading to increased employment and incomes and making it one of the largest middle-income countries. Türkiye’s economy is mainly dominated by industry and services sectors, while the agriculture sector is smaller. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Türkiye’s export mix. 
 
 On the other hand, Türkiye’s economic growth has been accompanied by a significant rise in pollutants, energy use, water consumption, and waste accumulation. The country’s economic growth has also changed consumption and production patterns, caused environmental degradation, and increased inequalities, which has been exacerbated by the increasing population and urbanisation levels. Reflecting rapid sectoral growth in energy, industry, transport, and tourism, industrial pollution problems are now one of the leading environmental issues in Türkiye. 

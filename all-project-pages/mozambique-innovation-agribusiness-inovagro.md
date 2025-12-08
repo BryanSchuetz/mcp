@@ -2,7 +2,6 @@
 ---
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II, III)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: Innovation for Agribusiness increased revenue for small farmers in northern
   Mozambique by promoting the development of inclusive and sustainable market systems.
@@ -37,6 +36,8 @@ promos:
     in Northern Mozambique
   link: "/uploads/InovAgro%E2%80%99s%20Voyage%20of%20Learning%20and%20Adaptation%20for%20Market%20Systems%20Development%20in%20Northern%20Mozambique.pdf"
 layout: project
+
+
 Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. More than 80 percent of the economically active population is engaged in subsistence agriculture, with very low levels of production, productivity, and income. 
 
 Using a market systems development (MSD) approach, the [Innovation for Agribusiness (InovAgro)](https://beamexchange.org/practice/programme-index/278/)) project—funded by the Swiss Agency for Development and Cooperation—for more than a decade worked to increase incomes and economic security among subsistence smallholders in Northern Mozambique, with an emphasis on improving agricultural productivity and enhancing connections to market systems in select, high-potential value chains: maize, soya beans, groundnuts, sesame, and pigeon peas. 

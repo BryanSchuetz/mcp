@@ -2,7 +2,6 @@
 ---
 title: Kosovo—Support to the Ombudsperson Institution
 ---
-
 date: 2020-12-09 10:20:00 Z
 summary: We supported the Ombudsperson Institution of Kosovo to effectively protect
   and promote the rights and fundamental freedoms of citizens by enforcement of institutional
@@ -14,6 +13,8 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Kosovo
+
+
 The Ombudsperson Institution of Kosovo (OIK) is an independent institution established under the Constitution of Kosovo. It is responsible for the protection and promotion of human rights, complying with the United Nations’ Paris Principles standards.
 
 Our project supported the OIK to protect and promote the rights and fundamental freedoms of citizens through the introduction of new tools and methods. It also helped the OIK raise awareness among citizens, public authorities, and civil society of the role of the OIK in the promotion and protection of human rights.

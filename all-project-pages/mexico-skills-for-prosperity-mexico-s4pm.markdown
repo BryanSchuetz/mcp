@@ -2,7 +2,6 @@
 ---
 title: Mexico—Skills for Prosperity Mexico (SFPMx)
 ---
-
 date: 2019-12-18 15:14:00 Z
 summary: The Skills for Prosperity Mexico project works to prepare learners to go
   from the classroom to the workforce with the right skills for the marketplace.
@@ -20,6 +19,8 @@ promos:
   link: https://www.youtube.com/channel/UCSJTczpbfeXMEPu_3Hbr5Ng
 - title: Skills for Prosperity Mexico Program Results and Success Stories
   link: "/uploads/SFPMx%20-%20Program%20Results%20and%20Success%20Stories-bdb786.pdf"
+
+
 The Skills for Prosperity Mexico (SFPMx) Programme worked to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
  
 Achieving inclusive economic growth and poverty reduction required changing the way government, private sector, and training providers work together. The U.K. is a leader in these kinds of Education-to-Employment (E2E) partnerships. Through SFPMx, DAI drew on best practices both from Britain’s experience and from promising Mexican models of public-private collaboration to strengthen E2E partnerships nationwide.

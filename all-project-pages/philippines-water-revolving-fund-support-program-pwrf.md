@@ -2,7 +2,6 @@
 ---
 title: Philippines—Water Revolving Fund Support Program (PWRF)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: The Philippines Water Revolving Fund, the only water revolving fund outside
   the United States and Europe, leveraged overseas development assistance with local
@@ -10,7 +9,7 @@ summary: The Philippines Water Revolving Fund, the only water revolving fund out
   and private banks.
 start: 2006
 end: 2013
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Environment
 - Finance and Investment
@@ -24,6 +23,8 @@ promos:
     Water to New Customers
   link: https://dai-global-developments.com/articles/innovative-fund-enables-philippine-water-utilities-to-invest
 layout: project
+
+
 Public resources alone cannot meet the investment required for the Philippines to achieve its goals for access to potable water. The Philippines Water Revolving Fund (PWRF), the only water revolving fund outside the United States and Europe, [leveraged overseas development assistance with local private funds](http://dai-global-developments.com/articles/innovative-fund-enables-philippine-water-utilities-to-invest?utm_source=daidotcom) using a cofinancing arrangement between the Philippine government and private banks. Utilities taking advantage of the fund have been able to expand access to safe water and wastewater treatment facilities for millions of Filipinos.
 
 <iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="https://player.vimeo.com/video/37755989?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>

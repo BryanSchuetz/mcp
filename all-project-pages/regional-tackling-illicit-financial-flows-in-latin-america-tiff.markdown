@@ -2,7 +2,6 @@
 ---
 title: Regional—Tackling Illicit Financial Flows in Latin America (TIFF)
 ---
-
 date: 2024-05-24 09:54:00 Z
 summary: 'Tackling Illicit Financial Flows in Latin America (TIFF) works with a number
   of state institutions, providing expert assistance to enhance countries'' strategies
@@ -13,6 +12,8 @@ client: U.K. Integrated Security Fund
 solutions:
 - Governance
 regions: Latin America and the Caribbean
+
+
 Tackling Illicit Financial Flows in Latin America (TIFF) is a UK Government programme, funded by the Integrated Security Fund (formerly the Conflict, Stability and Security Fund). TIFF works with a number of state institutions, providing expert assistance to enhance countries' strategies and responses to illicit financial flows (IFFs) and associated corruption. The regional program works from a central management hub in Colombia through engagement with regional counterparts in Ecuador, Colombia, Perú, and Panamá.
 
 ![alexander-schimmeck-H_KabGs8FMw-unsplash.jpg](/uploads/alexander-schimmeck-H_KabGs8FMw-unsplash.jpg)

@@ -1,21 +1,21 @@
-
 ---
 title: El Salvador—Skills for Employment Project (Proyecto Habilidades para el Empleo)
 ---
 
 date: 2023-03-15 13:41:00 Z
 published: false
-summary: Our assistance enhances local Salvadoran partners' ability to improve human
-  capital and strengthen job training and placement outcomes for vulnerable populations
-  and for likely migrants.
+summary: Our assistance enhances local Salvadoran partners' ability to improve human capital and strengthen job training and placement outcomes for vulnerable populations and for likely migrants.
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Economic Growth
 - Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: El Salvador
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Amid a deadly global pandemic that has accentuated conditions of vulnerability and economic disparities, many Salvadorans have made the painful decision to leave their homes in search of better economic opportunities.
 
 These challenges require a systemic approach that equips Salvadoran organizations to lead and sustain systemic change. On the *Proyecto Habilidades para el Empleo* project, DAI serves as a mentor to El Salvadoran partners, enabling them to lead improvements in the country’s workforce development system by strengthening connections and capacity at all levels. Our assistance enhances their ability to improve human capital and strengthen job training and placement outcomes for vulnerable populations and for likely migrants.

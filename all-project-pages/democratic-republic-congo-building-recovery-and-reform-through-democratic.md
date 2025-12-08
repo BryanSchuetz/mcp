@@ -3,7 +3,6 @@
 title: Democratic Republic of the Congo—Building Recovery and Reform through Democratic
 ---
   Governance in the DRC (BRDG-DRC)
-
 date: 2016-01-21 22:40:00 Z
 summary: 'Working at national and provincial levels, the Building Recovery and Reform
   through Democratic Governance in the DRC (BRDG-DRC) project provided long- and short-term
@@ -12,7 +11,7 @@ summary: 'Working at national and provincial levels, the Building Recovery and R
   the DRC''s political transition. '
 start: 2008
 end: 2010
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Fragile States
 - Countering Extremism
@@ -24,6 +23,8 @@ regions:
 country:
 - Democratic Republic of the Congo
 layout: project
+
+
 Following a seven-year civil war, the Democratic Republic of the Congo (DRC) is on a path toward recovery. A constitutional referendum was successfully implemented; free, fair, and transparent elections have been held; and those elections produced a president, a national assembly, and provincial assemblies. Working at national and provincial levels, the Building Recovery and Reform through Democratic Governance in the DRC (BRDG-DRC) project provided long- and short-term consulting and technical assistance, training services, applied research, workshops, conference organization and hosting, logistical support, and commodities to advance the DRC's political transition. BRDG-DRC also awarded and administered grants to nongovernmental organizations (NGOs) supporting the peace and transition process and promoting democratic governance through institutional development and civic engagement.
 
 ![][1]

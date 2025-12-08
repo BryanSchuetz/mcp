@@ -2,7 +2,6 @@
 ---
 title: Malawi—Climate Just Communities
 ---
-
 date: 2023-08-30 12:27:00 Z
 summary: DAI’s Climate Just Communities (CJC) Malawi project uses a participatory
   approach to developing and delivering climate justice interventions that build community
@@ -15,6 +14,8 @@ solutions:
 - Climate
 regions: Sub-Saharan Africa
 country: Malawi
+
+
 DAI’s Climate Just Communities (CJC) Malawi project forms part of a flagship program under the Scottish Government’s Climate Justice Fund, which supports locally led community projects in Malawi, Rwanda, and Zambia. It employs an approach that builds upon three pillars—distributive, procedural, and transformative justice —and ensures that local understanding and participatory design are central to delivering highly relevant and sustainable programs. 
 
 Currently, 92 percent of Malawians rely on rain-fed sources of water, which are heavily impacted by floods and droughts. With rising global temperatures, there is an increased risk of drought and late onset of rains affecting food production in the country. The increase in extreme weather events also leaves vulnerable populations at greater risk from cyclones such as Freddy in 2023 with more than 500,000 people displaced and 500 confirmed deaths. CJC Malawi employs a participatory approach to developing and delivering interventions that enhance community resilience to the material and social impacts of such events. 

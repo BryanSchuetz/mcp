@@ -3,7 +3,6 @@
 title: Uganda—Sustainable Market Inclusive Livelihood Pathways to Self-Reliance Program
 ---
   (SMILES)
-
 date: 2023-05-18 15:21:00 Z
 summary: The Sustainable Market Inclusive Livelihood Pathways to Self-Reliance program
   (SMILES) seeks to address rural refugee livelihood challenges in Uganda.
@@ -14,6 +13,8 @@ solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
 country: Uganda
+
+
 The IKEA Foundation is one of the world’s largest private funders committed to helping refugees achieve economic self-reliance and sustainable livelihoods.
 
 The Sustainable Market Inclusive Livelihood Pathways to Self-Reliance program (SMILES) seeks to address rural refugee livelihood challenges in Uganda. SMILES aims to help ultra-poor refugee and Ugandan (host community) households in the Kikuube and Kyegegwa Districts graduate from food insecurity and fragile livelihoods to self-reliance and resilience.

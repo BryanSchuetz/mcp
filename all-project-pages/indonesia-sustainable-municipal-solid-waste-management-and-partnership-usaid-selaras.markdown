@@ -1,8 +1,7 @@
+---
 
+title: Indonesia—Sustainable Municipal Solid Waste Management and Partnership
 ---
-title: Indonesia—Sustainable Municipal Solid Waste Management and Partnership (USAID
----
-  SELARAS)
 
 date: 2023-11-13 09:31:00 Z
 published: false
@@ -10,8 +9,8 @@ summary: The Sustainable Municipal Solid Waste Management and Partnership (SELAR
   project is a five-year initiative to enhance waste service delivery and curtail
   ocean plastic pollution in Indonesia.
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Environment
 - Water Security, Sanitation, and Hygiene
@@ -19,6 +18,9 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Indonesia
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 The Government of Indonesia is establishing a National Solid Waste Management Platform to drive innovation in solid waste management and assist cities in advancing up the waste management ladder. The platform is only the latest action by the Government of Indonesia to address ocean plastic pollution. In 2020, the government launched the Indonesia National Plastics Action Partnership, a multi-stakeholder alliance that helps advance the achievement of national waste and development goals.
 
 The Sustainable Municipal Solid Waste Management and Partnership (SELARAS) project supports all these initiatives—working to enhance waste service delivery and curtail ocean plastic pollution.

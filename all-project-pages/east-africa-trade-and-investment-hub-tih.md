@@ -2,14 +2,13 @@
 ---
 title: East Africa—Trade and Investment Hub
 ---
-
 date: 2016-01-21 22:40:00 Z
-summary: 'The East Africa Trade and Investment Hub was the U.S. Government's flagship
+summary: 'The East Africa Trade and Investment Hub was the U.S. Government''s flagship
   project under the presidential Trade Africa initiative, which works to increase
   U.S.-Africa trade and investment, regional integration, and competitiveness. '
 start: 2014
 end: 2019
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Agriculture and Food Security
 - Business Environment Reform
@@ -30,6 +29,8 @@ promos:
     Million Now Available to Countries in Need'
   link: https://www.dai.com/news/a-trade-solution-to-the-food-security-challenge-surplus-grains-worth-83-dollars-million-now-available-to-countries-in-need
 layout: project
+
+
 Growth in Burundi, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda, Tanzania, and Uganda has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.
 
 The [East Africa Trade and Investment Hub](https://eatradehub.nationbuilder.com/) was the U.S. Government's flagship project under the presidential Trade Africa initiative, which works to increase U.S.-Africa trade and investment, regional integration, and competitiveness. The Hub assisted the region's private sector to engage with the government in finding [practical solutions](https://blog.usaid.gov/2018/04/generating-trade-with-and-within-east-africa/) to constraints to [trade](https://magic.piktochart.com/output/5281453-why-trade-shows-pvh) and investment. The team also built awareness around opportunities for African and [U.S. firms to increase trade](https://www.youtube.com/watch?v=ghZzsovQblU), expand business partnerships, and invest in East Africa.

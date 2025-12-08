@@ -2,7 +2,6 @@
 ---
 title: Nigeria—Tax Administration Diagnostic Assessment in Borno State
 ---
-
 date: 2022-10-28 08:40:00 Z
 summary: 'DAI conducted a subnational tax administration diagnostic assessment in
   Borno State, Nigeria. '
@@ -14,6 +13,8 @@ solutions:
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: Nigeria
+
+
 DAI conducted a subnational Tax Administration Diagnostic Assessment in Borno State, Nigeria. The World Bank, with grant funds from the European Union, is supporting governance reforms in Borno State and contracted DAI to assess the State Board of Internal Revenue using the Tax Administration Diagnostic Assessment Tool (TADAT), which provides a standardized means of assessing the health of a tax administration system relative to international good practice. Our team identified the strengths and weaknesses of the state’s tax administration and advised the Board of Internal Revenue on reform objectives, priorities, and implementation sequencing.
  
 ![nigeria-6d2d13.jpg](/uploads/nigeria-6d2d13.jpg)

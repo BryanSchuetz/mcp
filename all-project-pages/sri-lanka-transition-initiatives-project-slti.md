@@ -2,9 +2,8 @@
 ---
 title: Sri Lanka—Transition Initiatives Project (SLTI)
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+client: U.S. Government
 start: 2004
 end: 2009
 regions:
@@ -23,6 +22,8 @@ summary: 'Funded by the U.S. Agency for International Development (USAID), the S
   needs.
 
 '
+
+
 Funded by the U.S. Agency for International Development (USAID), the Sri Lanka Transition Initiatives (SLTI) built support for the peace process among Sri Lanka's citizens and increased collaboration among diverse groups to address local needs. SLTI partners and grantees included local government entities, nongovernmental organizations (NGOs), community-based organizations, and, to a lesser extent, international NGOs, chambers of commerce, trader and farmer associations, student groups, and the media. Some of these partners would not necessarily have met the financial or institutional requirements for grantworthiness of other international donors. DAI engaged with them in activities that build constituencies for a lasting peace while ensuring compliance with USAID regulations by using an in-kind funding mechanism. SLTI was at the forefront of USAID's immediate emergency response in the aftermath of the December 2004 tsunami. In the ensuing months, the project contributed to the tsunami recovery in its targeted communities through programs in community infrastructure, livelihoods, and information dissemination totaling $15 million.
 
 ![][1]

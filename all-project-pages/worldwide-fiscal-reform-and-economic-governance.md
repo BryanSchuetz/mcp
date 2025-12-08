@@ -2,9 +2,8 @@
 ---
 title: Worldwide—Fiscal Reform and Economic Governance
 ---
-
 date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+client: U.S. Government
 start: 2003
 end: 2010
 regions:
@@ -24,6 +23,8 @@ summary: 'For nearly a decade, DAI worked with the U.S Agency for International 
   policy choices.
 
 '
+
+
 For nearly a decade, DAI worked with the U.S Agency for International Development (USAID)'s Office of Economic Growth to support public finance and broader economic governance reforms in developing, transition, and post-conflict countries, with a focus on how to tax fairly and effectively, forge credible national budgets, spend taxpayer dollars more prudently, and broaden the public-private dialogue on fiscal policy choices. Our projects—Fiscal Reform in Support of Trade Liberalization (2003–2006) and Fiscal Reform and Economic Governance (2006–2010)—have helped USAID officers embrace fiscal concepts, understand the linkages between public financial management and economic growth, and design programs that effectively exploit those linkages.
 
 ![][1]

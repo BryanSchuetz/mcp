@@ -2,7 +2,6 @@
 ---
 title: Macedonia—Municipal Management of Macedonian Schools (MMMS)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: The Republic of Macedonia has made decentralization and the promotion of
   democratic local governance a principal part of its commitment to restore, revitalize,
@@ -20,6 +19,8 @@ regions:
 country:
 - Macedonia
 layout: project
+
+
 The Republic of Macedonia has made decentralization and the promotion of democratic local governance a principal part of its commitment to restore, revitalize, and expand democratic practices. The goal of the Municipal Management of Macedonian Schools (MMMS) project was to provide technical assistance and training to local governments to improve their ability to undertake their new responsibilities in school management. 
 
 ![][1]

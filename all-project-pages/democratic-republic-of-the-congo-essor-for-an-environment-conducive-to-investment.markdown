@@ -2,7 +2,6 @@
 ---
 title: 'Democratic Republic of the Congo—Essor: For an Environment Conducive to Investment'
 ---
-
 date: 2018-07-25 22:15:00 Z
 summary: Essor acted at meso (business associations) and macro (government) levels
   to improve the incomes of the poor through the development of micro, small, and
@@ -15,6 +14,8 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
+
+
 The five-year Essor Programme was launched by a consortium headed by Pricewaterhouse. Essor acted at meso (business associations) and macro (government) levels to improve the incomes of the poor through the development of micro, small, and medium-sized enterprises (MSMEs)—including those that are women- and youth-owned and those in rural areas—through reforms to the country’s investment climate and policies.
 
 Essor’s workstreams focused on:

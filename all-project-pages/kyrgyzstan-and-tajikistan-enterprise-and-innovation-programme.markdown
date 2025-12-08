@@ -2,11 +2,10 @@
 ---
 title: Kyrgyzstan and Tajikistan—Enterprise and Innovation Programme (EIP)
 ---
-
 date: 2020-05-11 09:22:00 Z
 summary: The Enterprise and Innovation Programme increased innovation and growth in
-startups and small firms and provided support and training through the establishment
-of business innovation centres in Tajikistan and Kyrgyzstan.
+  startups and small firms and provided support and training through the establishment
+  of business innovation centres in Tajikistan and Kyrgyzstan.
 start: 2019
 end: 2023
 client: Foreign, Commonwealth & Development Office
@@ -15,6 +14,8 @@ solutions:
 - Innovation and Entrepreneurship
 regions: Eastern Europe and Central Asia
 country: Kyrgyzstan, Tajikistan
+
+
 Kyrgyzstan and Tajikistan have a relatively short history of “restrained capitalism” and budding entrepreneurial culture. Shadows of the former Communist system are still evident in many areas, and frail rule of law gives way to corruption and weak property rights, undermining private sector investment and business growth. As of 2018, 27 percent of Kyrgyzstan’s population and 30 percent of Tajikistan’s population still live below the national poverty line. Both countries’ economies have been adversely affected by internal and external shocks, including the economic downturn in Russia. Excessive reliance on remittances, lack of economic diversity, and the slow pace of reform threaten growth. It is in the United Kingdom’s interests that these fragile states and regions are supported to be successful, prosperous, and stable.
 
 The Enterprise and Innovation Programme (EIP) supported inclusive and sustainable economic growth in the countries, principally through the creation of business and innovation centers, the strengthening of company-investor linkages, the provision of market-making activities, and the improvement of the business advisory infrastructure. EIP promoted a stronger, diversified, and inclusive private sector, aimed to lead to prosperity and stability in Tajikistan and Kyrgyzstan by increasing innovation and growth in startups and micro-, small-, and medium-sized companies (MSMEs) through the establishment of business and innovation centers and the improvement of the business advisory infrastructure.

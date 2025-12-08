@@ -2,14 +2,13 @@
 ---
 title: Kenya—NiWajibu Wetu (NIWETU)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'The Kenya NiWajibu Wetu (NIWETU) program, funded by the U.S. Agency for
   International Development, worked to reduce violent extremism among at-risk individuals
   and communities in hotspots in Kenya. '
 start: 2016
 end: 2020
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Fragile States
 - Countering Extremism
@@ -23,6 +22,8 @@ promos:
 - title: A Systems-based Approach to CVE
   link: "/uploads/NIWETU%20-%20Systems-Based%20Approach_Final.pdf"
 layout: project
+
+
 Kenya is one of Africa’s longest-running democracies, a regional economic powerhouse, and a critical ally in the fight against violent extremism. After Kenyan troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”), the terrorist group al-Shabaab and its Kenyan affiliate al-Hijra reacted by carrying out attacks on public spaces in Kenya. The violent extremist groups have also attempted to create a schism between communities and manipulate underdevelopment and perceptions of marginalization to fuel their victimization narratives and recruit disenfranchised individuals to their cause.
 
 In response, the U.S. Agency for International Development (USAID) launched the Kenya NiWajibu Wetu (NIWETU) activity to improve the capabilities of Kenyan communities and government to identify and respond to violent extremism. “NiWajibu Wetu” is a Kiswahili phrase meaning “it’s our responsibility,” and is inspired by the Kenya National Anthem and the 2010 Constitution of Kenya. The activity [empowered communities](https://medium.com/usaid-2030/8-ways-usaid-is-advancing-fundamental-freedoms-promoting-democracy-and-strengthening-human-4a649fb5dfef) and government institutions to take the lead in countering violent extremism (CVE). NIWETU built CVE knowledge and skills among at-risk populations and empowers local, sustainable CVE networks to take action to address violent extremism. At the same time, NIWETU provided targeted CVE assistance to county governments, strengthened national and intergovernmental CVE platforms, and developed indigenous CVE research capabilities of Government of Kenya counterparts.

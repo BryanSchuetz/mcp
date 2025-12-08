@@ -2,7 +2,6 @@
 ---
 title: Nepal—Renewable Energy Programme (NREP)
 ---
-
 date: 2019-01-22 21:16:00 Z
 summary: Along with key partner Winrock International, DAI is building the capacity
   of the Government of Nepal to lead and manage the National Small-Scale Renewable
@@ -17,6 +16,8 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Nepal
+
+
 Nepal’s energy sector faces complex and interrelated challenges and uncertainties. These include issues such as a lack of sustainable financing mechanisms and an over-reliance on subsidies, in addition to wider contextual opportunities and challenges such as the devolution of authority to new provincial and local governments under Nepal’s federal transition. These opportunities must be tapped into, and challenges overcome if the sector is to achieve its potential in terms of improving access to clean energy and driving increased productivity in the country’s economy.
 
 The [Nepal Renewable Energy Programme](https://www.nrepnepal.com/) (NREP), in operation from February 2019 to March 2025, aims to help bring about a transformational change in distributed sustainable energy development in Nepal through increased private investment, resulting in low-carbon economic growth and sustainable energy access for all. It works to increase private sector investment to develop and utilize distributed sustainable energy (DSE), primarily in commercial, institutional, and industrial sectors. The Sustainable Energy Challenge Fund (SECF), a viability gap funding mechanism, that NREP helped the Government of Nepal establish and operationalize, is the primary mechanism through which this support is provided.

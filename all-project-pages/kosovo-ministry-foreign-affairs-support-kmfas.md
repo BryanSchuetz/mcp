@@ -2,7 +2,6 @@
 ---
 title: Kosovo—Ministry of Foreign Affairs Support (KMFAS)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: 'The U.S. Agency for International Development-funded Ministry of Foreign
   Affairs Support program in Kosovo helped conduct a situational analysis that identified
@@ -11,7 +10,7 @@ summary: 'The U.S. Agency for International Development-funded Ministry of Forei
   and operational aspects of building a new institution. '
 start: 2008
 end: 2011
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Decentralization and Local Government Management
 - Governance
@@ -20,6 +19,8 @@ regions:
 country:
 - Kosovo
 layout: project
+
+
 Until recently, the fledgling nation of Kosovo's most pressing concern was not governing as an independent state, but finalizing its territorial status. With that issue resolved, Kosovo's Ministry of Foreign Affairs (MFA) began establishing itself as an institution, creating an embassy presence in foreign countries, and negotiating international agreements and treaties related to its status as a sovereign country. The U.S. Agency for International Development-funded Kosovo Ministry of Foreign Affairs Support (KMFAS) program supported that process. DAI helped conduct a situational analysis that identified the most immediate issues facing the Ministry and collaborated with personnel to address legal and policy issues, along with the procedural and operational aspects of building a new institution. Additionally, legal experts addressed treaties and international laws requiring ministry action, as well as national policies and laws framing the work of the MFA and diplomatic missions.
 
 ![][1]

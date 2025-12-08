@@ -2,13 +2,12 @@
 ---
 title: Ukraine—Financial Sector Transformation (FST)
 ---
-
 date: 2017-02-27 05:31:00 Z
 summary: The Financial Sector Transformation Activity supported efforts to reform
-Ukraine’s nonbank financial institutions.
+  Ukraine’s nonbank financial institutions.
 start: 2016
 end: 2021
-client: U.S. Agency for International Development
+client: U.S. Government
 solutions:
 - Economic Growth
 - Finance and Investment
@@ -22,6 +21,8 @@ promos:
   link: https://dai-global-developments.com/articles/stay-the-course-a-decade-of-focus-on-economic-reforms-pays-off-in-ukraine
 - title: USAID Project Named Finalist for Global Financial Inclusion Award
   link: https://www.dai.com/news/usaid-project-named-finalist-for-global-financial-inclusion-award
+
+
 After years of oligarchic control, the closing of more than 70 banks, and a threefold currency devaluation, the Ukrainian financial sector in 2016 was extremely fragile. On the commercial side, pressures curtailed the growth of small and medium enterprises (SMEs) by making financing less accessible and driving prohibitively high interest rates. Meanwhile, consumers lost both money and trust in the banking system after the 2009 financial crisis, opting out of using banks altogether and converting their salaries directly to cash on payday. Continued strains such as these brought the country's financial sector dangerously close to the point of collapse.
 
 Despite these challenges, reformers within the Ukrainian Parliament and key regulatory bodies looked to pass new financial sector legislation that will uphold transparency and accountability, protect businesses and consumers, and confront fraud and abuse, thereby restoring public confidence in the financial system. To capitalize on this momentum, the U.S. Agency for International Development launched the Financial Sector Transformation (FST) Activity to [support efforts](https://www.dai.com/news/usaid-project-named-finalist-for-global-financial-inclusion-award) to reform Ukraine’s nonbank financial institutions. FST provided flexible and market-focused technical expertise to boost the involvement of consumers and businesses in shaping the reform process, while also working with policymakers to influence the legal changes needed to enable effective and long-lasting change.

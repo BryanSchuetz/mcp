@@ -1,4 +1,3 @@
-
 ---
 title: Bosnia and Herzegovina—Fiscal Reform Activity
 ---
@@ -10,14 +9,17 @@ summary: 'The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent 
   and aligns the country’s regulatory framework with changes in the European and international
   tax environment. '
 start: 2023
-end: 2028
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
 - 
 regions: Eastern Europe and Central Asia
 country: 'Bosnia and Herzegovina '
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Despite Bosnia and Herzegovina’s (BiH’s) advancements in fiscal sector reform, direct taxes remain burdensome due to complex legal and institutional arrangements across tax administrations. The U.S. Agency for International Development has designed the Fiscal Reform Activity to enhance tax legislation and tax administration efficiency, reducing tax compliance burdens and costs, and aligning the country’s regulatory framework with international tax standards.   
 
 The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent fiscal sector reform in a way that increases efficiency, reduces tax compliance costs, and aligns the country’s regulatory framework with changes in the European and international tax environment. 

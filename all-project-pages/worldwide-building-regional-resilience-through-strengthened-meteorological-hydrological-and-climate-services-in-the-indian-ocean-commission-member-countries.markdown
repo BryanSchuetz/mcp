@@ -3,7 +3,6 @@
 title: Africa—Building Regional Resilience through Strengthened Meteorological, Hydrological,
 ---
   and Climate Services in the Indian Ocean Commission Member Countries
-
 date: 2019-05-31 17:59:00 Z
 summary: 'DAI provided technical expertise to design the Building Regional Resilience
   through Strengthened Meteorological, Hydrological, and Climate Services in the Indian
@@ -18,6 +17,8 @@ solutions:
 - Environment
 regions: Sub-Saharan Africa
 country: Regional
+
+
 DAI provided technical expertise to design the “Building Regional Resilience through Strengthened Meteorological, Hydrological, and Climate Services in the Indian Ocean Commission Member Countries” project for consideration to the Green Climate Fund (GCF) as part of the [Adapt’Action](https://www.afd.fr/en/adaptaction) framework contract. 
  
 Our team assessed country contexts and reviewed and analyzed relevant documents and data. We conducted fact-finding missions in Comoros, Madagascar, Mauritius, and Seychelles, working closely with relevant stakeholders. The information identified and collected during the project feasibility stage led to the development of a full funding proposal and relevant annexes for submission to the Global Climate Fund.

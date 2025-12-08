@@ -3,7 +3,6 @@
 title: Worldwide—Political, Economic & Technical Analysis to Support the Biodiverse
 ---
   Landscapes Fund
-
 date: 2021-07-08 18:08:00 Z
 summary: 'DAI carried out a political economy analysis and technical assessment of
   five transboundary landscapes on behalf of the U.K. Department for Environment,
@@ -15,6 +14,8 @@ solutions:
 - Environment
 regions: Worldwide
 country: Worldwide
+
+
 DAI carried out a political economy analysis and technical assessment of five transboundary landscapes on behalf of the U.K. Department for Environment, Food & Rural Affairs (DEFRA). These landscapes—all identified as high-priority biodiversity hotspots—were located within and around the Kavango-Zambezi Conservation Area, Western Congo Basin, Lower Mekong, Andes/Amazon, and in Mesoamerica. The contract was awarded under the [EACDS Lot B mechanism](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds).
 
 Over the course of this three-month study, we assessed the biophysical characteristics and potential of each landscape, identified factors affecting the political economy of the regions, and reviewed existing initiatives in the sector. The assessments were to help the client understand the key drivers and systemic issues affecting biodiversity loss and environmental degradation, which would, in turn, inform intervention strategies delivered under the Biodiverse Landscapes Fund.  

@@ -1,16 +1,16 @@
 
+
 ---
 title: Jordan—Public Financial Management and Administration (PFMA)
 ---
-
 date: 2021-03-01 07:40:00 Z
 published: false
 summary: 'The Public Financial Management and Administration (PFMA) project is a five-year
   initiative to improve the Jordanian revenue system and enhance the budget management
   process. '
 start: 2021
-end: 2026
-client: U.S. Agency for International Development
+end: 2024
+client: U.S. Government
 solutions:
 - Governance
 - Public Financial Management and Domestic Revenue Mobilization
@@ -22,6 +22,9 @@ promos:
   link: https://dai-global-developments.com/articles/tackling-systemic-corruption-through-public-financial-management/
 - title: Moody’s Upgrades Jordan’s Credit Rating
   link: https://www.dai.com/news/moodys-upgrades-jordans-credit-rating
+
+<aside><em>This project was terminated ahead of schedule following the Secretary of State's review of U.S. foreign assistance in 2025.</em></aside>
+
 Jordan’s economy has faced numerous challenges, from waves of refugees to regional instability. The Government of Jordan has been proactive, introducing new tax legislation, improving tax administration, upgrading the budgeting process, and streamlining public expenditures management. However, more work is needed to ensure macro-fiscal resilience while maintaining the fiscal space necessary to deliver social goods to citizens. To support the government in this critical endeavor, the U.S. Agency for International Development (USAID) designed the Public Financial Management and Administration (PFMA) activity. PFMA works to enhance Jordan’s revenue system and improve budget management processes.
 
 PFMA strengthens the capacity of the Jordanian Ministry of Finance (MOF) and other government institutions to modernize revenue collection, encourage compliance, upgrade public procurement management, and improve budget planning, preparation, and execution.

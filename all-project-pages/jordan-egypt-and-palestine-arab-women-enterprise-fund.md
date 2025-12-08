@@ -2,7 +2,6 @@
 ---
 title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund (AWEF)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: The Arab Women’s Enterprise Fund (AWEF) focused on market system change and
   women’s economic empowerment in Egypt, Jordan, and until March 2018, the occupied
@@ -30,6 +29,8 @@ promos:
 - title: Making Digital Finance Work for Women in the MENA Region
   link: https://www.marketlinks.org/resources/making-digital-finance-work-women-mena-region
 layout: project
+
+
 The Arab Women’s Enterprise Fund (AWEF) focused on market system change and women’s economic empowerment (WEE) in Egypt, Jordan, and until March 2018, the occupied Palestinian Territories. AWEF developed an innovative and path-breaking approach to market systems to encourage the adoption of new practices and approaches to support WEE. AWEF operated in consortia with MarketShare Associates, Education for Employment Jordan, and Positive Planet International. 
 
 Women in the Middle East have untapped potential. They have the interest, skills, and ability to play a significantly more active role in the economy. It is only through the long-term inclusion of women that these countries will be able to witness sustainable growth, security, and stability. AWEF worked to change the way markets work by tackling critical underlying constraints that limited whether and how women participated in markets.

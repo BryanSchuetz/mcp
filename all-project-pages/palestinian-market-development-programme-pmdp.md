@@ -2,10 +2,9 @@
 ---
 title: Palestine—Palestinian Market Development Programme (PMDP)
 ---
-
 date: 2016-01-21 22:40:00 Z
 summary: PMDP improved market systems and the competitiveness of the Palestinian private
-sector.
+  sector.
 start: 2013
 end: 2019
 client:
@@ -24,6 +23,8 @@ promos:
 - title: 
   link: 
 layout: project
+
+
 The Palestinian Market Development Programme (PMDP) worked to improve market systems and improve the competitiveness of the Palestinian private sector. We did so by improving private sector skills and innovation through technical assistance and matching grants; addressing market system failures in specific sectors through market analysis and facilitation; and strengthening trade and investment linkages with international markets in collaboration with key commercial representatives. DAI mobilized the Palestinian diaspora to explore opportunities to transfer knowledge and improve linkages on trade and investment.
 
 [PMDP](https://beamexchange.org/resources/1075/) was a follow-on to the [Facility for New Market Development](/our-work/projects/palestine%E2%80%94facility-new-market-development-fnmd) project (2008–2012) implemented by DAI, which built a portfolio of 603 client-companies in the West Bank and Gaza from sectors including manufacturing, agribusiness, stone and marble, ICT, services, tourism, pharmaceuticals, media, and handicrafts. During the project, these client-companies increased their sales by $118 million and created more than 3,400 permanent jobs.
